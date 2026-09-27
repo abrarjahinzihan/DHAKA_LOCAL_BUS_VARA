@@ -245,6 +245,128 @@ const routes = [
       [46,42,39,36,33,32,29,27,22,19,16,11,10,0,10],
       [49,45,42,39,36,35,32,30,25,22,19,14,11,10,0]
     ]
+  },
+
+  // ══════════════════════════════════════════════
+  // ROUTE A-115: Mirpur-1 (Baishakhi Super Market) → Jatrabari
+  // Total: 17.6 km | 15 stops
+  // ══════════════════════════════════════════════
+  {
+    id: 'A115',
+    routeNo: 'এ-১১৫',
+    nameBn: 'মিরপুর-১ → যাত্রাবাড়ী',
+    nameEn: 'Mirpur-1 → Jatrabari',
+    totalKm: 17.6,
+    stops: [
+      { id: 0,  nameEn: 'Mirpur-1',       nameBn: 'মিরপুর-১',        aliases: ['mirpur-1','মিরপুর-১','বৈশাখী সুপার মার্কেট'] },
+      { id: 1,  nameEn: 'Ansarcamp',      nameBn: 'আনসার ক্যাম্প',    aliases: ['ansarcamp','আনসার ক্যাম্প','আনসারক্যাম্প'] },
+      { id: 2,  nameEn: 'Technical',      nameBn: 'টেকনিক্যাল',       aliases: ['technical','টেকনিক্যাল'] },
+      { id: 3,  nameEn: 'Kalyanpur',      nameBn: 'কল্যাণপুর',        aliases: ['kalyanpur','কল্যাণপুর'] },
+      { id: 4,  nameEn: 'Shyamoli',       nameBn: 'শ্যামলী',          aliases: ['shyamoli','শ্যামলী'] },
+      { id: 5,  nameEn: 'College Gate',   nameBn: 'কলেজগেট',          aliases: ['college gate','কলেজগেট'] },
+      { id: 6,  nameEn: 'Shukrabad',      nameBn: 'শুক্রাবাদ',         aliases: ['shukrabad','শুক্রাবাদ'] },
+      { id: 7,  nameEn: 'Kalabagan',      nameBn: 'কলাবাগান',         aliases: ['kalabagan','কলাবাগান'] },
+      { id: 8,  nameEn: 'Science Lab',    nameBn: 'সায়েন্সল্যাব',      aliases: ['science lab','সায়েন্সল্যাব'] },
+      { id: 9,  nameEn: 'Kataban',        nameBn: 'কাঁটাবন',          aliases: ['kataban','কাঁটাবন'] },
+      { id: 10, nameEn: 'Shahbag',        nameBn: 'শাহবাগ',           aliases: ['shahbag','শাহবাগ'] },
+      { id: 11, nameEn: 'Pressclub',      nameBn: 'প্রেসক্লাব',       aliases: ['pressclub','প্রেসক্লাব'] },
+      { id: 12, nameEn: 'Gulistan Mor',   nameBn: 'গুলিস্তান মোড়',    aliases: ['gulistan mor','gulistan','গুলিস্তান','গুলিস্তান মোড়'] },
+      { id: 13, nameEn: 'Bangladesh Bank',nameBn: 'বাংলাদেশ ব্যাংক',  aliases: ['bangladesh bank','বাংলাদেশ ব্যাংক'] },
+      { id: 14, nameEn: 'Jatrabari',      nameBn: 'যাত্রাবাড়ী',      aliases: ['jatrabari','যাত্রাবাড়ী'] }
+    ],
+    fareMatrix: [
+      [0,10,10,10,10,12,18,20,23,25,26,31,34,37,48],
+      [10,0,10,10,10,10,16,17,20,22,23,28,31,35,45],
+      [10,10,0,10,10,10,12,14,17,19,20,25,28,31,42],
+      [10,10,10,0,10,10,10,11,14,16,18,22,25,29,39],
+      [10,10,10,10,0,10,10,10,12,15,16,21,23,27,37],
+      [12,10,10,10,10,0,10,10,10,13,14,19,21,25,35],
+      [18,16,12,10,10,10,0,10,10,10,10,13,15,19,29],
+      [20,17,14,11,10,10,10,0,10,10,10,11,14,17,28],
+      [23,20,17,14,12,10,10,10,0,10,10,10,11,15,25],
+      [25,22,19,16,15,13,10,10,10,0,10,10,10,12,22],
+      [26,23,20,18,16,14,10,10,10,10,0,10,10,11,21],
+      [31,28,25,22,21,19,13,11,10,10,10,0,10,10,16],
+      [34,31,28,25,23,21,15,14,11,10,10,10,0,10,14],
+      [37,35,31,29,27,25,19,17,15,12,11,10,10,0,10],
+      [48,45,42,39,37,35,29,28,25,22,21,16,14,10,0]
+    ]
+  },
+
+  // ══════════════════════════════════════════════
+  // ROUTE A-119: Duyaripara → Victoria Park
+  // Total: 18.3 km | 12 stops
+  // ══════════════════════════════════════════════
+  {
+    id: 'A119',
+    routeNo: 'এ-১১৯',
+    nameBn: 'দুয়ারীপাড়া → ভিক্টোরিয়া পার্ক',
+    nameEn: 'Duyaripara → Victoria Park',
+    totalKm: 18.3,
+    stops: [
+      { id: 0,  nameEn: 'Duyaripara',         nameBn: 'দুয়ারীপাড়া',       aliases: ['duyaripara','দুয়ারীপাড়া'] },
+      { id: 1,  nameEn: 'Pallabi',            nameBn: 'পল্লবী (মিরপুর-১২)',  aliases: ['pallabi','পল্লবী'] },
+      { id: 2,  nameEn: 'Mirpur-11 1/2',      nameBn: 'মিরপুর-১১ ১/২',     aliases: ['mirpur-11 1/2','মিরপুর-১১ ১/২'] },
+      { id: 3,  nameEn: 'Bekali Hotel',       nameBn: 'বেকালী হোটেল',       aliases: ['bekali hotel','বেকালী হোটেল'] },
+      { id: 4,  nameEn: 'Mirpur-11',          nameBn: 'মিরপুর-১১',          aliases: ['mirpur-11','মিরপুর-১১'] },
+      { id: 5,  nameEn: 'Mirpur-10',          nameBn: 'মিরপুর-১০',          aliases: ['mirpur-10','মিরপুর-১০'] },
+      { id: 6,  nameEn: 'Kazipara',           nameBn: 'কাজীপাড়া',           aliases: ['kazipara','কাজীপাড়া'] },
+      { id: 7,  nameEn: 'Farmgate',           nameBn: 'ফার্মগেট',            aliases: ['farmgate','ফার্মগেট'] },
+      { id: 8,  nameEn: 'Pressclub',          nameBn: 'প্রেসক্লাব',          aliases: ['pressclub','প্রেসক্লাব'] },
+      { id: 9,  nameEn: 'TNT',                nameBn: 'টিএন্ডটি',             aliases: ['tnt','টিএন্ডটি'] },
+      { id: 10, nameEn: 'Raysaheb Bazar',     nameBn: 'রায়সাহেব বাজার',      aliases: ['raysaheb bazar','রায়সাহেব বাজার'] },
+      { id: 11, nameEn: 'Victoria Park',      nameBn: 'ভিক্টোরিয়া পার্ক',   aliases: ['victoria park','ভিক্টোরিয়া পার্ক'] }
+    ],
+    fareMatrix: [
+      [0,10,10,10,10,10,14,28,39,43,49,49],
+      [10,0,10,10,10,10,10,24,36,40,45,46],
+      [10,10,0,10,10,10,10,23,35,39,44,45],
+      [10,10,10,0,10,10,10,22,34,38,43,44],
+      [10,10,10,10,0,10,10,21,32,36,41,42],
+      [10,10,10,10,10,0,10,18,29,33,39,39],
+      [14,10,10,10,10,10,0,14,26,30,35,36],
+      [28,24,23,22,21,18,14,0,11,15,21,21],
+      [39,36,35,34,32,29,26,11,0,10,10,10],
+      [43,40,39,38,36,33,30,15,10,0,10,10],
+      [49,45,44,43,41,39,35,21,10,10,0,10],
+      [49,46,45,44,42,39,36,21,10,10,10,0]
+    ]
+  },
+
+  // ══════════════════════════════════════════════
+  // ROUTE A-122: Mirpur-12 (ECB Chattar) → Azimpur
+  // Total: 22.0 km | 10 stops
+  // ══════════════════════════════════════════════
+  {
+    id: 'A122',
+    routeNo: 'এ-১২২',
+    nameBn: 'মিরপুর-১২ → আজিমপুর',
+    nameEn: 'Mirpur-12 → Azimpur',
+    totalKm: 22.0,
+    stops: [
+      { id: 0, nameEn: 'Mirpur-12',          nameBn: 'মিরপুর-১২',           aliases: ['mirpur-12','মিরপুর-১২'] },
+      { id: 1, nameEn: 'ECB Mor',            nameBn: 'ইসিবি মোড়',          aliases: ['ecb mor','ইসিবি মোড়'] },
+      { id: 2, nameEn: 'Mirpur-10',          nameBn: 'মিরপুর-১০',           aliases: ['mirpur-10','মিরপুর-১০'] },
+      { id: 3, nameEn: 'Kazipara',           nameBn: 'কাজীপাড়া',            aliases: ['kazipara','কাজীপাড়া'] },
+      { id: 4, nameEn: 'Sheorapara',         nameBn: 'শেওড়াপাড়া',          aliases: ['sheorapara','শেওড়াপাড়া'] },
+      { id: 5, nameEn: 'Agargaon',           nameBn: 'আগারগাঁও',            aliases: ['agargaon','আগারগাঁও'] },
+      { id: 6, nameEn: 'Farmgate',           nameBn: 'ফার্মগেট',            aliases: ['farmgate','ফার্মগেট'] },
+      { id: 7, nameEn: 'College Gate',       nameBn: 'কলেজগেট',             aliases: ['college gate','কলেজগেট'] },
+      { id: 8, nameEn: 'Manik Mia Avenue',   nameBn: 'মানিকমিয়া এভিনিউ',   aliases: ['manik mia avenue','মানিকমিয়া এভিনিউ'] },
+      { id: 9, nameEn: 'Azimpur',            nameBn: 'আজিমপুর',             aliases: ['azimpur','আজিমপুর'] }
+    ],
+    fareMatrix: [
+      [0,12,24,28,30,34,38,39,43,59],
+      [12,0,12,16,18,22,26,27,31,48],
+      [24,12,0,10,10,10,14,15,19,35],
+      [28,16,10,0,10,10,10,11,15,32],
+      [30,18,10,10,0,10,10,10,13,30],
+      [34,22,10,10,10,0,10,10,10,25],
+      [38,26,14,10,10,10,0,10,10,22],
+      [39,27,15,11,10,10,10,0,10,20],
+      [43,31,19,15,13,10,10,10,0,16],
+      [59,48,35,32,30,25,22,20,16,0]
+    ]
   }
 
 ];

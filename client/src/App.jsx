@@ -58,6 +58,14 @@ const ALL_STOPS = [
   { nameEn: 'College Gate',         nameBn: 'কলেজগেট' },
   { nameEn: 'Kawran Bazar',         nameBn: 'কাওরানবাজার' },
   { nameEn: 'Ittefaq',              nameBn: 'ইত্তেফাক' },
+  // A-115, A-119, A-122 unique stops
+  { nameEn: 'Kalabagan',            nameBn: 'কলাবাগান' },
+  { nameEn: 'Kataban',              nameBn: 'কাঁটাবন' },
+  { nameEn: 'Gulistan Mor',         nameBn: 'গুলিস্তান মোড়' },
+  { nameEn: 'Bangladesh Bank',      nameBn: 'বাংলাদেশ ব্যাংক' },
+  { nameEn: 'ECB Mor',              nameBn: 'ইসিবি মোড়' },
+  { nameEn: 'Manik Mia Avenue',     nameBn: 'মানিকমিয়া এভিনিউ' },
+  { nameEn: 'Azimpur',              nameBn: 'আজিমপুর' }
 ];
 
 // ── StopInput ────────────────────────────────────────────────────────
@@ -358,7 +366,7 @@ export default function App() {
             <span className="info-value">৳১০</span>
             <span className="info-sep">•</span>
             <span className="info-label">মোট রুট:</span>
-            <span className="info-value">৬টি</span>
+            <span className="info-value">৯টি</span>
           </div>
         </div>
       </header>
