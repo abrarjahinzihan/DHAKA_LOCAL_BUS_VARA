@@ -711,6 +711,96 @@ const routes = [
       [33,32,29,25,23,19,17,14,11,10,10,10,0,10],
       [41,39,36,33,31,27,25,21,18,15,13,10,10,0]
     ]
+  },
+
+  // ══════════════════════════════════════════════
+  // ROUTE SAYEDABAD_BALUGHAT_2: Sayedabad → Balughat (Alternative)
+  // Total: 14.6 km | 7 stops
+  // ══════════════════════════════════════════════
+  {
+    id: 'SAYEDABAD_BALUGHAT_2',
+    routeNo: 'সায়দাবাদ-বালুঘাট (বিকল্প)',
+    nameBn: 'সায়দাবাদ → বালুঘাট (বিকল্প)',
+    nameEn: 'Sayedabad → Balughat (Alternative)',
+    totalKm: 14.6,
+    stops: [
+      { id: 0, nameEn: 'Sayedabad',          nameBn: 'সায়দাবাদ',              aliases: ['sayedabad','সায়দাবাদ'] },
+      { id: 1, nameEn: 'Bangladesh Bank',    nameBn: 'বাংলাদেশ ব্যাংক',        aliases: ['bangladesh bank','বাংলাদেশ ব্যাংক'] },
+      { id: 2, nameEn: 'UBL',                nameBn: 'ইউবিএল',               aliases: ['ubl','ইউবিএল'] },
+      { id: 3, nameEn: 'Pressclub',          nameBn: 'প্রেসক্লাব',            aliases: ['pressclub','প্রেসক্লাব'] },
+      { id: 4, nameEn: 'Shahbag',            nameBn: 'শাহবাগ',               aliases: ['shahbag','শাহবাগ'] },
+      { id: 5, nameEn: 'Farmgate',           nameBn: 'ফার্মগেট',             aliases: ['farmgate','ফার্মগেট'] },
+      { id: 6, nameEn: 'Balughat',           nameBn: 'বালুঘাট',              aliases: ['balughat','বালুঘাট'] }
+    ],
+    fareMatrix: [
+      [0,10,10,10,14,20,39],
+      [10,0,10,10,10,14,33],
+      [10,10,0,10,10,11,30],
+      [10,10,10,0,10,10,29],
+      [14,10,10,10,0,10,25],
+      [20,14,11,10,10,0,19],
+      [39,33,30,29,25,19,0]
+    ]
+  },
+
+  // ══════════════════════════════════════════════
+  // ROUTE UTTARA_VICTORIA_2: Uttara (Raniganj) → Victoria Park (Alternative)
+  // Total: 23.3 km | 7 stops
+  // ══════════════════════════════════════════════
+  {
+    id: 'UTTARA_VICTORIA_2',
+    routeNo: 'উত্তরা-ভিক্টোরিয়া (বিকল্প)',
+    nameBn: 'উত্তরা (রাণীগঞ্জ) → ভিক্টোরিয়া পার্ক (বিকল্প)',
+    nameEn: 'Uttara (Raniganj) → Victoria Park (Alternative)',
+    totalKm: 23.3,
+    stops: [
+      { id: 0, nameEn: 'Uttara (Raniganj)',  nameBn: 'উত্তরা (রাণীগঞ্জ)',      aliases: ['uttara (raniganj)','uttara','উত্তরা (রাণীগঞ্জ)','উত্তরা'] },
+      { id: 1, nameEn: 'Notun Bazar',        nameBn: 'নতুন বাজার',            aliases: ['notun bazar','নতুন বাজার'] },
+      { id: 2, nameEn: 'Rampura TV Center',  nameBn: 'রামপুরা টিভি সেন্টার',      aliases: ['rampura tv center','রামপুরা টিভি সেন্টার'] },
+      { id: 3, nameEn: 'Malibagh',           nameBn: 'মালিবাগ',              aliases: ['malibagh','মালিবাগ'] },
+      { id: 4, nameEn: 'Kakrail',            nameBn: 'কাকরাইল',              aliases: ['kakrail','কাকরাইল'] },
+      { id: 5, nameEn: 'Bangabandhu Avenue', nameBn: 'বঙ্গবন্ধু এভিনিউ',         aliases: ['bangabandhu avenue','বঙ্গবন্ধু এভিনিউ'] },
+      { id: 6, nameEn: 'Victoria Park',      nameBn: 'ভিক্টোরিয়া পার্ক',        aliases: ['victoria park','ভিক্টোরিয়া পার্ক'] }
+    ],
+    fareMatrix: [
+      [0,32,41,50,52,57,63],
+      [32,0,10,18,20,25,31],
+      [41,10,0,10,11,16,22],
+      [50,18,10,0,10,10,13],
+      [52,20,11,10,0,10,10],
+      [57,25,16,10,10,0,10],
+      [63,31,22,13,10,10,0]
+    ]
+  },
+
+  // ══════════════════════════════════════════════
+  // ROUTE BANASREE_SHIA_2: Banasree → Mohammadpur Shia Masjid (Alternative)
+  // Total: 18.2 km | 7 stops
+  // ══════════════════════════════════════════════
+  {
+    id: 'BANASREE_SHIA_2',
+    routeNo: 'বনশ্রী-শিয়া (বিকল্প)',
+    nameBn: 'বনশ্রী → মোহাম্মদপুর শিয়া মসজিদ (বিকল্প)',
+    nameEn: 'Banasree → Mohammadpur Shia Masjid (Alternative)',
+    totalKm: 18.2,
+    stops: [
+      { id: 0, nameEn: 'Banasree',                  nameBn: 'বনশ্রী',                     aliases: ['banasree','বনশ্রী'] },
+      { id: 1, nameEn: 'Rampura',                   nameBn: 'রামপুরা',                    aliases: ['rampura','রামপুরা'] },
+      { id: 2, nameEn: 'Gulshan-1',                 nameBn: 'গুলশান-১',                   aliases: ['gulshan-1','গুলশান-১','gulshan 1','গুলশান ১'] },
+      { id: 3, nameEn: 'Mohakhali',                 nameBn: 'মহাখালী',                    aliases: ['mohakhali','মহাখালী'] },
+      { id: 4, nameEn: 'Agargaon',                  nameBn: 'আগারগাঁও',                   aliases: ['agargaon','আগারগাঁও'] },
+      { id: 5, nameEn: 'Shyamoli Ring Road',        nameBn: 'শ্যামলী রিং রোড',               aliases: ['shyamoli ring road','শ্যামলী রিং রোড'] },
+      { id: 6, nameEn: 'Mohammadpur Shia Masjid',   nameBn: 'মোহাম্মদপুর শিয়া মসজিদ',         aliases: ['mohammadpur shia masjid','mohammadpur','মোহাম্মদপুর শিয়া মসজিদ','মোহাম্মদপুর'] }
+    ],
+    fareMatrix: [
+      [0,10,21,28,38,45,49],
+      [10,0,14,21,31,38,42],
+      [21,14,0,10,17,24,28],
+      [28,21,10,0,11,18,22],
+      [38,31,17,11,0,10,11],
+      [45,38,24,18,10,0,10],
+      [49,42,28,22,11,10,0]
+    ]
   }
 
 ];
