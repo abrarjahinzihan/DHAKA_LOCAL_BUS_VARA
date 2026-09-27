@@ -93,7 +93,6 @@ const ALL_STOPS = [
   { nameEn: 'Fulbaria',             nameBn: 'ফুলবাড়িয়া' },
   { nameEn: 'Babu Bazar Bridge',    nameBn: 'বাবু বাজার ব্রীজ' },
   { nameEn: 'Keraniganj',           nameBn: 'কেরানীগঞ্জ (নতুন জেলখানা)' },
-  { nameEn: 'Sayedabad',            nameBn: 'সায়দাবাদ' },
   { nameEn: 'UBL',                  nameBn: 'ইউবিএল' },
   { nameEn: 'Balughat',             nameBn: 'বালুঘাট' },
   { nameEn: 'Uttara (Raniganj)',    nameBn: 'উত্তরা (রাণীগঞ্জ)' },
@@ -110,7 +109,6 @@ const ALL_STOPS = [
   // Peerjongi Mazar to Notun Bazar unique stops
   { nameEn: 'Peerjongi Mazar',      nameBn: 'পীরজঙ্গী মাজার' },
   { nameEn: 'Kamalapur Station',    nameBn: 'কমলাপুর স্টেশন' },
-  { nameEn: 'Stadium',              nameBn: 'স্টেডিয়াম' },
   { nameEn: 'Paltan',               nameBn: 'পল্টন' },
   { nameEn: 'Moghbazar',            nameBn: 'মগবাজার' },
   { nameEn: 'Bangla Motor',         nameBn: 'বাংলামটর' },
@@ -120,7 +118,6 @@ const ALL_STOPS = [
   { nameEn: 'Titumir College',      nameBn: 'তিতুমীর কলেজ' },
   // Banasree to Asad Avenue & Mohammadpur to Postogola unique stops
   { nameEn: 'Mouchak',              nameBn: 'মৌচাক' },
-  { nameEn: 'Science Lab',          nameBn: 'সাইন্সল্যাব' },
   { nameEn: 'Jigatola',             nameBn: 'জিগাতলা' },
   { nameEn: 'Mohammadpur (Asad Avenue)', nameBn: 'মোহাম্মদপুর (আসাদ এভিনিউ)' },
   { nameEn: 'Mohammadpur (Japan Garden City)', nameBn: 'মোংপুর (জাপান গার্ডেন সিটি)' },
@@ -161,7 +158,6 @@ const ALL_STOPS = [
   { nameEn: 'Gulshan',              nameBn: 'গুলশান' },
   { nameEn: 'Badda',                nameBn: 'বাড্ডা' },
   { nameEn: 'Chittagong Road',      nameBn: 'চিটাগাং রোড' },
-  { nameEn: 'Kakoli',               nameBn: 'কাকলী' },
   { nameEn: 'Manik Mia',            nameBn: 'মানিক মিয়া' },
   { nameEn: 'City College',         nameBn: 'সিটি কলেজ' },
   { nameEn: 'Dhakeshwari',          nameBn: 'ঢাকেশ্বরী' },
