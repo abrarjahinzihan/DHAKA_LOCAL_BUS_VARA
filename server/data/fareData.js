@@ -752,6 +752,75 @@ const routes = [
     ],
     fareMatrix: [[0,10,11,25,30,53,68,99,112],[10,0,10,20,25,48,62,93,107],[11,10,0,14,19,42,56,87,101],[25,20,14,0,10,28,42,73,87],[30,25,19,10,0,23,38,69,82],[53,48,42,28,23,0,14,45,59],[68,62,56,42,38,14,0,31,45],[99,93,87,73,69,45,31,0,14],[112,107,101,87,82,59,45,14,0]]
   },
+  {
+    id: 'A225',
+    routeNo: 'এ-২২৫',
+    nameBn: 'সায়েদাবাদ → সাভার',
+    nameEn: 'Sayedabad → Savar',
+    totalKm: 42,
+    stops: [
+      { id: 0, nameEn: 'Sayedabad', nameBn: 'সায়েদাবাদ', aliases: ["sayedabad","সায়েদাবাদ"] },
+      { id: 1, nameEn: 'Gulistan', nameBn: 'গুলিস্তান', aliases: ["gulistan","গুলিস্তান"] },
+      { id: 2, nameEn: 'Shahbag', nameBn: 'শাহবাগ', aliases: ["shahbag","শাহবাগ"] },
+      { id: 3, nameEn: 'Farmgate', nameBn: 'ফার্মগেট', aliases: ["farmgate","ফার্মগেট"] },
+      { id: 4, nameEn: 'Asad Gate', nameBn: 'আসাদগেট', aliases: ["asad gate","আসাদগেট"] },
+      { id: 5, nameEn: 'Shyamoli', nameBn: 'শ্যামলী', aliases: ["shyamoli","শ্যামলী"] },
+      { id: 6, nameEn: 'Technical', nameBn: 'টেকনিক্যাল', aliases: ["technical","টেকনিক্যাল"] },
+      { id: 7, nameEn: 'Gabtoli', nameBn: 'গাবতলী', aliases: ["gabtoli","গাবতলী","গাবতলি"] },
+      { id: 8, nameEn: 'Amin Bazar', nameBn: 'আমিন বাজার', aliases: ["amin bazar","আমিন বাজার"] },
+      { id: 9, nameEn: 'Hemayetpur', nameBn: 'হেমায়েতপুর', aliases: ["hemayetpur","হেমায়েতপুর"] },
+      { id: 10, nameEn: 'Savar', nameBn: 'সাভার', aliases: ["savar","সাভার"] }
+    ],
+    fareMatrix: [[0,11,22,32,35,38,46,51,57,84,113],[11,null,11,22,24,27,35,41,46,73,103],[22,11,null,11,14,16,24,30,35,62,92],[32,22,11,null,10,10,14,19,24,51,81],[35,24,14,10,null,10,11,16,22,49,78],[38,27,16,10,10,null,10,14,19,46,76],[46,35,24,14,11,10,null,10,11,38,68],[51,41,30,19,16,14,10,null,10,32,62],[57,46,35,24,22,19,11,10,null,27,57],[84,73,62,51,49,46,38,32,27,null,30],[113,103,92,81,78,76,68,62,57,30,null]]
+  },
+  {
+    id: 'A228',
+    routeNo: 'এ-২২৮',
+    nameBn: 'সায়েদাবাদ → নারায়ণগঞ্জ',
+    nameEn: 'Sayedabad → Narayanganj',
+    totalKm: 15.8,
+    stops: [
+      { id: 0, nameEn: 'Sayedabad', nameBn: 'সায়েদাবাদ', aliases: ["sayedabad","সায়েদাবাদ"] },
+      { id: 1, nameEn: 'Jatrabari', nameBn: 'যাত্রাবাড়ী', aliases: ["jatrabari","যাত্রাবাড়ী","যাত্রাবাড়ি"] },
+      { id: 2, nameEn: 'Jurain', nameBn: 'জুরাইন', aliases: ["jurain","জুরাইন"] },
+      { id: 3, nameEn: 'Postogola', nameBn: 'পোস্তগোলা', aliases: ["postogola","পোস্তগোলা"] },
+      { id: 4, nameEn: 'Narayanganj', nameBn: 'নারায়ণগঞ্জ', aliases: ["narayanganj","নারায়ণগঞ্জ","নারায়নগঞ্জ"] }
+    ],
+    fareMatrix: [[0,10,10,10,43],[10,null,10,10,40],[10,10,null,10,35],[10,10,10,null,33],[43,40,35,33,null]]
+  },
+  {
+    id: 'A204',
+    routeNo: 'এ-২০৪',
+    nameBn: 'মদনগঞ্জ → আজিমপুর',
+    nameEn: 'Madanganj → Azimpur',
+    totalKm: 33.1,
+    stops: [
+      { id: 0, nameEn: 'Madanganj', nameBn: 'মদনগঞ্জ', aliases: ["madanganj","মদনগঞ্জ"] },
+      { id: 1, nameEn: 'Sayedabad', nameBn: 'সায়েদাবাদ', aliases: ["sayedabad","সায়েদাবাদ"] },
+      { id: 2, nameEn: 'Gulistan', nameBn: 'গুলিস্তান', aliases: ["gulistan","গুলিস্তান"] },
+      { id: 3, nameEn: 'Press Club', nameBn: 'প্রেসক্লাব', aliases: ["press club","প্রেসক্লাব"] },
+      { id: 4, nameEn: 'Shahbag', nameBn: 'শাহবাগ', aliases: ["shahbag","শাহবাগ"] },
+      { id: 5, nameEn: 'Nilkhet', nameBn: 'নীলক্ষেত', aliases: ["nilkhet","নীলক্ষেত"] },
+      { id: 6, nameEn: 'Azimpur', nameBn: 'আজিমপুর', aliases: ["azimpur","আজিমপুর"] }
+    ],
+    fareMatrix: [[0,70,75,78,83,88,89],[70,null,10,10,13,18,19],[75,10,null,10,10,12,14],[78,10,10,null,10,10,11],[83,13,10,10,null,10,10],[88,18,12,10,10,null,10],[89,19,14,11,10,10,null]]
+  },
+  {
+    id: 'A206',
+    routeNo: 'এ-২০৬',
+    nameBn: 'সায়েদাবাদ → নারায়ণগঞ্জ',
+    nameEn: 'Sayedabad → Narayanganj',
+    totalKm: 16.2,
+    stops: [
+      { id: 0, nameEn: 'Sayedabad', nameBn: 'সায়েদাবাদ', aliases: ["sayedabad","সায়েদাবাদ"] },
+      { id: 1, nameEn: 'Jatrabari', nameBn: 'যাত্রাবাড়ী', aliases: ["jatrabari","যাত্রাবাড়ী","যাত্রাবাড়ি"] },
+      { id: 2, nameEn: 'Shanir Akhra', nameBn: 'শনিরআখড়া', aliases: ["shanir akhra","শনিরআখড়া","শনির আখড়া"] },
+      { id: 3, nameEn: 'Rayerbag', nameBn: 'রায়েরবাগ', aliases: ["rayerbag","রায়েরবাগ"] },
+      { id: 4, nameEn: 'Link Road', nameBn: 'লিংক রোড', aliases: ["link road","লিংক রোড"] },
+      { id: 5, nameEn: 'Narayanganj', nameBn: 'নারায়ণগঞ্জ', aliases: ["narayanganj","নারায়ণগঞ্জ","নারায়নগঞ্জ"] }
+    ],
+    fareMatrix: [[0,10,10,10,16,44],[10,null,10,10,14,42],[10,10,null,10,10,37],[10,10,10,null,10,34],[16,14,10,10,null,28],[44,42,37,34,28,null]]
+  },
 ];
 
 module.exports = { routes };
