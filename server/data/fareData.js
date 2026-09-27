@@ -992,7 +992,129 @@ const routes = [
       { id: 11, nameEn: 'Kapasia',           nameBn: 'কাপাসিয়া',           aliases: ['kapasia', 'কাপাসিয়া'] }
     ],
     fareMatrix: [[0,11,23,25,30,53,68,99,131,146,159,178],[11,null,11,14,19,42,56,87,120,134,147,167],[23,11,null,10,10,31,45,76,109,123,136,156],[25,14,10,null,10,28,42,73,106,120,133,153],[30,19,10,10,null,23,38,69,101,116,129,149],[53,42,31,28,23,null,14,45,78,92,105,125],[68,56,45,42,38,14,null,31,64,78,91,111],[99,87,76,73,69,45,31,null,33,47,60,80],[131,120,109,106,101,78,64,33,null,15,28,47],[146,134,123,120,116,92,78,47,15,null,13,32],[159,147,136,133,129,105,91,60,28,13,null,19],[178,167,156,153,149,125,111,80,47,32,19,null]]
-  }
+  },
+
+  // ══════════════════════════════════════════════
+  // ROUTE A-161: Ghatarchar → Dhupkhola
+  // Total: 20.5 km | 12 stops
+  // ══════════════════════════════════════════════
+  {
+    id: 'A161',
+    routeNo: 'এ-১৬১',
+    nameBn: 'ঘাটারচর → ধুপখোলা',
+    nameEn: 'Ghatarchar → Dhupkhola',
+    totalKm: 20.5,
+    stops: [
+      { id: 0,  nameEn: 'Ghatarchar',       nameBn: 'ঘাটারচর',         aliases: ['ghatarchar', 'ঘাটারচর'] },
+      { id: 1,  nameEn: 'Mohammadpur',      nameBn: 'মোহাম্মদপুর',      aliases: ['mohammadpur', 'মোহাম্মদপুর', 'মোংপুর'] },
+      { id: 2,  nameEn: 'Shankar',          nameBn: 'শংকর',            aliases: ['shankar', 'শংকর'] },
+      { id: 3,  nameEn: 'Dhanmondi-15',     nameBn: 'ধানমন্ডি-১৫',      aliases: ['dhanmondi-15', 'ধানমন্ডি-১৫', 'dhanmondi 15'] },
+      { id: 4,  nameEn: 'Jigatola',         nameBn: 'জিগাতলা',         aliases: ['jigatola', 'জিগাতলা'] },
+      { id: 5,  nameEn: 'Dhaka City College', nameBn: 'ঢাকা সিটি কলেজ', aliases: ['dhaka city college', 'ঢাকা সিটি কলেজ', 'city college'] },
+      { id: 6,  nameEn: 'Science Lab',      nameBn: 'সাইন্সল্যাব',      aliases: ['science lab', 'সাইন্সল্যাব', 'সাইন্সল্যাবঃ'] },
+      { id: 7,  nameEn: 'Dhaka College',    nameBn: 'ঢাকা কলেজ',       aliases: ['dhaka college', 'ঢাকা কলেজ'] },
+      { id: 8,  nameEn: 'New Market',       nameBn: 'নিউ মার্কেট',      aliases: ['new market', 'নিউ মার্কেট', 'নিউমার্কেট'] },
+      { id: 9,  nameEn: 'Azimpur',          nameBn: 'আজিমপুর',         aliases: ['azimpur', 'আজিমপুর'] },
+      { id: 10, nameEn: 'Nilkhet',          nameBn: 'নীলক্ষেত',        aliases: ['nilkhet', 'নীলক্ষেত'] },
+      { id: 11, nameEn: 'Dhupkhola',        nameBn: 'ধুপখোলা',         aliases: ['dhupkhola', 'ধুপখোলা'] }
+    ],
+    fareMatrix: [
+      [0,16,19,21,23,25,26,26,28,29,32,55],
+      [16,0,10,10,10,10,10,10,11,13,16,39],
+      [19,10,0,10,10,10,10,10,10,11,14,37],
+      [21,10,10,0,10,10,10,10,10,10,11,35],
+      [23,10,10,10,0,10,10,10,10,10,10,33],
+      [25,10,10,10,10,0,10,10,10,10,10,31],
+      [26,10,10,10,10,10,0,10,10,10,10,29],
+      [26,10,10,10,10,10,10,0,10,10,10,29],
+      [28,11,10,10,10,10,10,10,0,10,10,28],
+      [29,13,11,10,10,10,10,10,10,0,10,26],
+      [32,16,14,11,10,10,10,10,10,10,0,23],
+      [55,39,37,35,33,31,29,29,28,26,23,0]
+    ]
+  },
+  {
+    id: 'A166',
+    routeNo: 'এ-১৬৬',
+    nameBn: 'মোহাম্মদপুর → হাউজ বিল্ডিং',
+    nameEn: 'Mohammadpur → House Building',
+    totalKm: 20.5,
+    stops: [
+      { id: 0,  nameEn: 'Mohammadpur',      nameBn: 'মোহাম্মদপুর',      aliases: ['mohammadpur', 'মোহাম্মদপুর'] },
+      { id: 1,  nameEn: 'Town Hall',        nameBn: 'টাউন হল',         aliases: ['town hall', 'টাউন হল'] },
+      { id: 2,  nameEn: 'Asad Gate',        nameBn: 'আসাদগেট',         aliases: ['asad gate', 'আসাদগেট'] },
+      { id: 3,  nameEn: 'Farmgate',         nameBn: 'ফার্মগেট',         aliases: ['farmgate', 'ফার্মগেট'] },
+      { id: 4,  nameEn: 'Mohakhali',        nameBn: 'মহাখালী',         aliases: ['mohakhali', 'মহাখালী'] },
+      { id: 5,  nameEn: 'Titumir College',  nameBn: 'তিতুমীর কলেজ',     aliases: ['titumir college', 'তিতুমীর কলেজ'] },
+      { id: 6,  nameEn: 'Gulshan-1',        nameBn: 'গুলশান-১',        aliases: ['gulshan-1', 'গুলশান-১', 'gulshan 1'] },
+      { id: 7,  nameEn: 'Madhya Badda',     nameBn: 'মধ্য বাড্ডা',      aliases: ['madhya badda', 'মধ্য বাড্ডা'] },
+      { id: 8,  nameEn: 'Uttar Badda',      nameBn: 'উত্তর বাড্ডা',      aliases: ['uttar badda', 'উত্তর বাড্ডা'] },
+      { id: 9,  nameEn: 'Notun Bazar',      nameBn: 'নতুন বাজার',      aliases: ['notun bazar', 'নতুন বাজার'] },
+      { id: 10, nameEn: 'Basundhara',       nameBn: 'বসুন্ধরা',        aliases: ['basundhara', 'বসুন্ধরা'] },
+      { id: 11, nameEn: 'Nadda',            nameBn: 'নর্দ্দা',          aliases: ['nadda', 'নর্দ্দা', 'নর্দা'] },
+      { id: 12, nameEn: 'Kuril Bishwaroad', nameBn: 'কুড়িল বিশ্বরোড',   aliases: ['kuril bishwaroad', 'কুড়িল বিশ্বরোড', 'কুড়িল'] },
+      { id: 13, nameEn: 'Khilkhet',         nameBn: 'খিলক্ষেত',        aliases: ['khilkhet', 'খিলক্ষেত'] },
+      { id: 14, nameEn: 'New Airport',      nameBn: 'নিউ এয়ারপোর্ট',    aliases: ['new airport', 'নিউ এয়ারপোর্ট', 'airport'] },
+      { id: 15, nameEn: 'Rajlakshmi',       nameBn: 'রাজলক্ষ্মী',       aliases: ['rajlakshmi', 'রাজলক্ষ্মী'] },
+      { id: 16, nameEn: 'House Building',   nameBn: 'হাউজ বিল্ডিং',     aliases: ['house building', 'হাউজ বিল্ডিং', 'uttara house building'] }
+    ],
+    fareMatrix: [
+      [0,10,10,11,19,21,24,26,29,30,35,37,38,39,46,50,55],
+      [10,0,10,10,15,17,20,22,26,26,31,33,34,36,43,47,52],
+      [10,10,0,10,12,15,17,20,23,23,29,30,32,33,40,44,49],
+      [11,10,10,0,10,11,13,16,19,19,25,26,28,29,36,40,45],
+      [19,15,12,10,0,10,10,10,11,11,16,18,19,21,28,32,36],
+      [21,17,15,11,10,0,10,10,10,10,14,16,17,18,25,29,34],
+      [24,20,17,13,10,10,0,10,10,10,10,13,14,16,23,27,32],
+      [26,22,20,16,10,10,10,0,10,10,10,11,12,13,20,24,29],
+      [29,26,23,19,11,10,10,10,0,10,10,10,10,10,17,21,26],
+      [30,26,23,19,11,10,10,10,10,0,10,10,10,10,16,21,25],
+      [35,31,29,25,16,14,10,10,10,10,0,10,10,10,10,15,20],
+      [37,33,30,26,18,16,13,11,10,10,10,0,10,10,10,14,19],
+      [38,34,32,28,19,17,14,12,10,10,10,10,0,10,10,12,17],
+      [39,36,33,29,21,18,16,13,10,10,10,10,10,0,10,11,16],
+      [46,43,40,36,28,25,23,20,17,16,10,10,10,10,0,10,10],
+      [50,47,44,40,32,29,27,24,21,21,15,14,12,11,10,0,10],
+      [55,52,49,45,36,34,32,29,26,25,20,19,17,16,10,10,0]
+    ]
+  },
+  {
+    id: 'A182',
+    routeNo: 'এ-১৮২',
+    nameBn: 'মিরপুর-১৪ → চন্দ্রা',
+    nameEn: 'Mirpur-14 → Chandra',
+    totalKm: 42.5,
+    stops: [
+      { id: 0,  nameEn: 'Mirpur-14',        nameBn: 'মিরপুর-১৪',       aliases: ['mirpur-14', 'মিরপুর-১৪'] },
+      { id: 1,  nameEn: 'Mirpur-10',        nameBn: 'মিরপুর-১০',       aliases: ['mirpur-10', 'মিরপুর-১০'] },
+      { id: 2,  nameEn: 'Mirpur-1',         nameBn: 'মিরপুর-১',        aliases: ['mirpur-1', 'মিরপুর-১'] },
+      { id: 3,  nameEn: 'Mazar Gate',       nameBn: 'মাজার গেট',       aliases: ['mazar gate', 'মাজার গেট'] },
+      { id: 4,  nameEn: 'Hemayetpur',       nameBn: 'হেমায়েতপুর',      aliases: ['hemayetpur', 'হেমায়েতপুর'] },
+      { id: 5,  nameEn: 'Savar',            nameBn: 'সাভার',           aliases: ['savar', 'সাভার'] },
+      { id: 6,  nameEn: 'Nabinagar',        nameBn: 'নবীনগর',          aliases: ['nabinagar', 'নবীনগর'] },
+      { id: 7,  nameEn: 'Baipail',          nameBn: 'বাইপাইল',         aliases: ['baipail', 'বাইপাইল'] },
+      { id: 8,  nameEn: 'EPZ',              nameBn: 'ইপিজেড',          aliases: ['epz', 'ইপিজেড'] },
+      { id: 9,  nameEn: 'Sreepur',          nameBn: 'শ্রীপুর',         aliases: ['sreepur', 'শ্রীপুর'] },
+      { id: 10, nameEn: 'Shafipur',         nameBn: 'সফিপুর',          aliases: ['shafipur', 'সফিপুর'] },
+      { id: 11, nameEn: 'Palli Bidyut',     nameBn: 'পল্লীবিদ্যুৎ',      aliases: ['palli bidyut', 'পল্লীবিদ্যুৎ', 'পল্লী বিদ্যুৎ'] },
+      { id: 12, nameEn: 'Chandra',          nameBn: 'চন্দ্রা',          aliases: ['chandra', 'চন্দ্রা'] }
+    ],
+    fareMatrix: [
+      [0,10,10,13,24,47,62,73,80,84,97,108,115],
+      [10,0,10,10,18,41,56,67,73,77,91,102,109],
+      [10,10,0,10,13,36,51,62,68,72,86,97,104],
+      [13,10,10,0,11,34,49,60,67,71,84,95,102],
+      [24,18,13,11,0,23,38,49,55,59,73,84,90],
+      [47,41,36,34,23,0,15,26,32,36,50,61,68],
+      [62,56,51,49,38,15,0,11,18,22,35,46,53],
+      [73,67,62,60,49,26,11,0,10,10,24,35,41],
+      [80,73,68,67,55,32,18,10,0,10,18,28,35],
+      [84,77,72,71,59,36,22,10,10,0,14,24,31],
+      [97,91,86,84,73,50,35,24,18,14,0,11,18],
+      [108,102,97,95,84,61,46,35,28,24,11,0,10],
+      [115,109,104,102,90,68,53,41,35,31,18,10,0]
+    ]
+  },
 
 ];
 
