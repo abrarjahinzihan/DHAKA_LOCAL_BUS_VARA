@@ -869,6 +869,133 @@ const routes = [
     ]
   }
 
+
+  // ══════════════════════════════════════════════
+  // ROUTE A-190: EPZ → Link Road
+  // Total: 46.2 km | 8 stops
+  // ══════════════════════════════════════════════
+  {
+    id: 'A190',
+    routeNo: 'এ-১৯০',
+    nameBn: 'ইপিজেড → লিংক রোড',
+    nameEn: 'EPZ → Link Road',
+    totalKm: 46.2,
+    stops: [
+      { id: 0, nameEn: 'EPZ',              nameBn: 'ইপিজেড',            aliases: ['epz', 'ইপিজেড'] },
+      { id: 1, nameEn: 'Gabtoli',          nameBn: 'গাবতলি',            aliases: ['gabtoli', 'গাবতলি'] },
+      { id: 2, nameEn: 'Kalyanpur',        nameBn: 'কল্যাণপুর',          aliases: ['kalyanpur', 'কল্যাণপুর'] },
+      { id: 3, nameEn: 'College Gate',     nameBn: 'কলেজগেট',           aliases: ['college gate', 'কলেজগেট'] },
+      { id: 4, nameEn: 'Farmgate',         nameBn: 'ফার্মগেট',           aliases: ['farmgate', 'ফার্মগেট'] },
+      { id: 5, nameEn: 'Bangladesh Bank',  nameBn: 'বাংলাদেশ ব্যাংক',     aliases: ['bangladesh bank', 'বাংলাদেশ ব্যাংক'] },
+      { id: 6, nameEn: 'Sayedabad',        nameBn: 'সায়েদাবাদ',          aliases: ['sayedabad', 'সায়েদাবাদ'] },
+      { id: 7, nameEn: 'Link Road',        nameBn: 'লিংক রোড',          aliases: ['link road', 'লিংক রোড'] }
+    ],
+    fareMatrix: [[0,70,76,80,87,103,108,125],[70,null,10,10,18,33,38,55],[76,10,null,10,11,26,32,48],[80,10,10,null,10,23,28,45],[87,18,11,10,null,15,21,37],[103,33,26,23,15,null,10,22],[108,38,32,28,21,10,null,17],[125,55,48,45,37,22,17,null]]
+  },
+
+  // ══════════════════════════════════════════════
+  // ROUTE A-192: Eidgah → Chittagong Road
+  // Total: 47.5 km | 13 stops
+  // ══════════════════════════════════════════════
+  {
+    id: 'A192',
+    routeNo: 'এ-১৯২',
+    nameBn: 'ঈদগাহ → চিটাগাং রোড',
+    nameEn: 'Eidgah → Chittagong Road',
+    totalKm: 47.5,
+    stops: [
+      { id: 0,  nameEn: 'Eidgah',          nameBn: 'ঈদগাহ',           aliases: ['eidgah', 'ঈদগাহ'] },
+      { id: 1,  nameEn: 'Savar',           nameBn: 'সাভার',           aliases: ['savar', 'সাভার'] },
+      { id: 2,  nameEn: 'Gabtoli',         nameBn: 'গাবতলি',          aliases: ['gabtoli', 'গাবতলি'] },
+      { id: 3,  nameEn: 'Kalyanpur',       nameBn: 'কল্যাণপুর',        aliases: ['kalyanpur', 'কল্যাণপুর'] },
+      { id: 4,  nameEn: 'College Gate',    nameBn: 'কলেজগেট',         aliases: ['college gate', 'কলেজগেট'] },
+      { id: 5,  nameEn: 'Farmgate',        nameBn: 'ফার্মগেট',         aliases: ['farmgate', 'ফার্মগেট'] },
+      { id: 6,  nameEn: 'Mohakhali',       nameBn: 'মহাখালী',         aliases: ['mohakhali', 'মহাখালী'] },
+      { id: 7,  nameEn: 'Gulshan',         nameBn: 'গুলশান',          aliases: ['gulshan', 'গুলশান'] },
+      { id: 8,  nameEn: 'Badda',           nameBn: 'বাড্ডা',           aliases: ['badda', 'বাড্ডা'] },
+      { id: 9,  nameEn: 'Malibagh',        nameBn: 'মালিবাগ',         aliases: ['malibagh', 'মালিবাগ'] },
+      { id: 10, nameEn: 'Tikatuli',        nameBn: 'টিকাটুলি',         aliases: ['tikatuli', 'টিকাটুলি'] },
+      { id: 11, nameEn: 'Sayedabad',       nameBn: 'সায়েদাবাদ',        aliases: ['sayedabad', 'সায়েদাবাদ'] },
+      { id: 12, nameEn: 'Chittagong Road', nameBn: 'চিটাগাং রোড',     aliases: ['chittagong road', 'চিটাগাং রোড'] }
+    ],
+    fareMatrix: [[0,35,70,76,80,87,92,95,98,104,113,114,128],[35,null,35,42,45,53,57,60,63,70,78,80,94],[70,35,null,10,10,18,22,25,28,35,43,44,58],[76,42,10,null,10,11,15,18,22,28,36,38,52],[80,45,10,10,null,10,12,15,18,25,33,34,48],[87,53,18,11,10,null,10,10,11,17,25,27,41],[92,57,22,15,12,10,null,10,10,13,21,22,36],[95,60,25,18,15,10,10,null,10,10,18,20,34],[98,63,28,22,18,11,10,10,null,10,15,16,30],[104,70,35,28,25,17,13,10,10,null,10,10,24],[113,78,43,36,33,25,21,18,15,10,null,10,16],[114,80,44,38,34,27,22,20,16,10,10,null,14],[128,94,58,52,48,41,36,34,30,24,16,14,null]]
+  },
+
+  // ══════════════════════════════════════════════
+  // ROUTE A-202: Savar → Victoria Park
+  // Total: 43.0 km | 10 stops
+  // ══════════════════════════════════════════════
+  {
+    id: 'A202',
+    routeNo: 'এ-২০২',
+    nameBn: 'সাভার → ভিক্টোরিয়া পার্ক',
+    nameEn: 'Savar → Victoria Park',
+    totalKm: 43.0,
+    stops: [
+      { id: 0, nameEn: 'Savar',           nameBn: 'সাভার',           aliases: ['savar', 'সাভার'] },
+      { id: 1, nameEn: 'Gabtoli',         nameBn: 'গাবতলি',          aliases: ['gabtoli', 'গাবতলি'] },
+      { id: 2, nameEn: 'Mirpur-1',        nameBn: 'মিরপুর-১',        aliases: ['mirpur-1', 'মিরপুর-১'] },
+      { id: 3, nameEn: 'Mirpur-10',       nameBn: 'মিরপুর-১০',       aliases: ['mirpur-10', 'মিরপুর-১০'] },
+      { id: 4, nameEn: 'Kakoli',          nameBn: 'কাকলী',           aliases: ['kakoli', 'কাকলী'] },
+      { id: 5, nameEn: 'Notun Bazar',     nameBn: 'নতুন বাজার',      aliases: ['notun bazar', 'নতুন বাজার'] },
+      { id: 6, nameEn: 'Rampura',         nameBn: 'রামপুরা',         aliases: ['rampura', 'রামপুরা'] },
+      { id: 7, nameEn: 'Malibagh',        nameBn: 'মালিবাগ',         aliases: ['malibagh', 'মালিবাগ'] },
+      { id: 8, nameEn: 'Gulistan',        nameBn: 'গুলিস্তান',        aliases: ['gulistan', 'গুলিস্তান'] },
+      { id: 9, nameEn: 'Victoria Park',   nameBn: 'ভিক্টোরিয়া পার্ক', aliases: ['victoria park', 'ভিক্টোরিয়া পার্ক'] }
+    ],
+    fareMatrix: [[0,37,46,51,71,78,92,98,106,116],[37,null,10,14,34,40,55,61,69,79],[46,10,null,10,25,32,46,53,61,70],[51,14,10,null,20,27,41,48,56,65],[71,34,25,20,null,10,21,27,35,45],[78,40,32,27,10,null,14,21,29,39],[92,55,46,41,21,14,null,10,15,24],[98,61,53,48,27,21,10,null,10,18],[106,69,61,56,35,29,15,10,null,10],[116,79,70,65,45,39,24,18,10,null]]
+  },
+
+  // ══════════════════════════════════════════════
+  // ROUTE A-207: Tongi → Dhakeshwari
+  // Total: 28.0 km | 8 stops
+  // ══════════════════════════════════════════════
+  {
+    id: 'A207',
+    routeNo: 'এ-২০৭',
+    nameBn: 'টঙ্গী → ঢাকেশ্বরী',
+    nameEn: 'Tongi → Dhakeshwari',
+    totalKm: 28.0,
+    stops: [
+      { id: 0, nameEn: 'Tongi',           nameBn: 'টঙ্গী',           aliases: ['tongi', 'টঙ্গী'] },
+      { id: 1, nameEn: 'Azampur',         nameBn: 'আজমপুর',         aliases: ['azampur', 'আজমপুর'] },
+      { id: 2, nameEn: 'Mohakhali',       nameBn: 'মহাখালী',         aliases: ['mohakhali', 'মহাখালী'] },
+      { id: 3, nameEn: 'Farmgate',        nameBn: 'ফার্মগেট',         aliases: ['farmgate', 'ফার্মগেট'] },
+      { id: 4, nameEn: 'Manik Mia',       nameBn: 'মানিক মিয়া',       aliases: ['manik mia', 'মানিক মিয়া', 'manik mia avenue'] },
+      { id: 5, nameEn: 'City College',    nameBn: 'সিটি কলেজ',        aliases: ['city college', 'সিটি কলেজ'] },
+      { id: 6, nameEn: 'Nilkhet',         nameBn: 'নীলক্ষেত',        aliases: ['nilkhet', 'নীলক্ষেত'] },
+      { id: 7, nameEn: 'Dhakeshwari',     nameBn: 'ঢাকেশ্বরী',        aliases: ['dhakeshwari', 'ঢাকেশ্বরী', 'ঢাকেশ্বরী এতিমখানা'] }
+    ],
+    fareMatrix: [[0,20,51,58,63,69,72,76],[20,null,31,38,43,49,52,56],[51,31,null,10,12,17,20,24],[58,38,10,null,10,11,14,18],[63,43,12,10,null,10,10,13],[69,49,17,11,10,null,10,10],[72,52,20,14,10,10,null,10],[76,56,24,18,13,10,10,null]]
+  },
+
+  // ══════════════════════════════════════════════
+  // ROUTE A-219: Fulbaria → Kapasia
+  // Total: 66.0 km | 12 stops
+  // ══════════════════════════════════════════════
+  {
+    id: 'A219',
+    routeNo: 'এ-২১৯',
+    nameBn: 'ফুলবাড়ীয়া → কাপাসিয়া',
+    nameEn: 'Fulbaria → Kapasia',
+    totalKm: 66.0,
+    stops: [
+      { id: 0,  nameEn: 'Fulbaria',          nameBn: 'ফুলবাড়ীয়া',         aliases: ['fulbaria', 'ফুলবাড়ীয়া'] },
+      { id: 1,  nameEn: 'Malibagh',          nameBn: 'মালিবাগ',           aliases: ['malibagh', 'মালিবাগ'] },
+      { id: 2,  nameEn: 'Nabisco',           nameBn: 'নাবিস্কো',           aliases: ['nabisco', 'নাবিস্কো'] },
+      { id: 3,  nameEn: 'Mohakhali',         nameBn: 'মহাখালী',           aliases: ['mohakhali', 'মহাখালী'] },
+      { id: 4,  nameEn: 'Banani',            nameBn: 'বনানী',             aliases: ['banani', 'বনানী'] },
+      { id: 5,  nameEn: 'Airport',           nameBn: 'এয়ারপোর্ট',          aliases: ['airport', 'এয়ারপোর্ট'] },
+      { id: 6,  nameEn: 'Tongi',             nameBn: 'টঙ্গী',             aliases: ['tongi', 'টঙ্গী'] },
+      { id: 7,  nameEn: 'Gazipur Chowrasta', nameBn: 'গাজীপুর চৌঃ',        aliases: ['gazipur chowrasta', 'গাজীপুর চৌঃ', 'গাজীপুর'] },
+      { id: 8,  nameEn: 'Rajendrapur',       nameBn: 'রাজেন্দ্রপুর',         aliases: ['rajendrapur', 'রাজেন্দ্রপুর'] },
+      { id: 9,  nameEn: 'Rajabari',          nameBn: 'রাজাবাড়ী',           aliases: ['rajabari', 'রাজাবাড়ী'] },
+      { id: 10, nameEn: 'Pabur',             nameBn: 'পাবুর',             aliases: ['pabur', 'পাবুর'] },
+      { id: 11, nameEn: 'Kapasia',           nameBn: 'কাপাসিয়া',           aliases: ['kapasia', 'কাপাসিয়া'] }
+    ],
+    fareMatrix: [[0,11,23,25,30,53,68,99,131,146,159,178],[11,null,11,14,19,42,56,87,120,134,147,167],[23,11,null,10,10,31,45,76,109,123,136,156],[25,14,10,null,10,28,42,73,106,120,133,153],[30,19,10,10,null,23,38,69,101,116,129,149],[53,42,31,28,23,null,14,45,78,92,105,125],[68,56,45,42,38,14,null,31,64,78,91,111],[99,87,76,73,69,45,31,null,33,47,60,80],[131,120,109,106,101,78,64,33,null,15,28,47],[146,134,123,120,116,92,78,47,15,null,13,32],[159,147,136,133,129,105,91,60,28,13,null,19],[178,167,156,153,149,125,111,80,47,32,19,null]]
+  }
+
 ];
 
 module.exports = { routes };

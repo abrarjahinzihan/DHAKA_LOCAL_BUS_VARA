@@ -153,7 +153,23 @@ const ALL_STOPS = [
   { nameEn: 'Sreepur',              nameBn: 'শ্রীপুর' },
   { nameEn: 'Shafipur',             nameBn: 'সফিপুর' },
   { nameEn: 'Palli Bidyut',         nameBn: 'পল্লীবিদ্যুৎ' },
-  { nameEn: 'Chandra',              nameBn: 'চন্দ্রা' }
+  { nameEn: 'Chandra',              nameBn: 'চন্দ্রা' },
+
+  // Brand new routes 5 stops
+  { nameEn: 'Link Road',            nameBn: 'লিংক রোড' },
+  { nameEn: 'Eidgah',               nameBn: 'ঈদগাহ' },
+  { nameEn: 'Gulshan',              nameBn: 'গুলশান' },
+  { nameEn: 'Badda',                nameBn: 'বাড্ডা' },
+  { nameEn: 'Chittagong Road',      nameBn: 'চিটাগাং রোড' },
+  { nameEn: 'Kakoli',               nameBn: 'কাকলী' },
+  { nameEn: 'Manik Mia',            nameBn: 'মানিক মিয়া' },
+  { nameEn: 'City College',         nameBn: 'সিটি কলেজ' },
+  { nameEn: 'Dhakeshwari',          nameBn: 'ঢাকেশ্বরী' },
+  { nameEn: 'Gazipur Chowrasta',    nameBn: 'গাজীপুর চৌঃ' },
+  { nameEn: 'Rajendrapur',          nameBn: 'রাজেন্দ্রপুর' },
+  { nameEn: 'Rajabari',             nameBn: 'রাজাবাড়ী' },
+  { nameEn: 'Pabur',                nameBn: 'পাবুর' },
+  { nameEn: 'Kapasia',              nameBn: 'কাপাসিয়া' }
 ];
 
 // ── StopInput ────────────────────────────────────────────────────────
@@ -454,7 +470,7 @@ export default function App() {
             <span className="info-value">৳১০</span>
             <span className="info-sep">•</span>
             <span className="info-label">মোট রুট:</span>
-            <span className="info-value">২৬টি</span>
+            <span className="info-value">৩১টি</span>
           </div>
         </div>
       </header>
