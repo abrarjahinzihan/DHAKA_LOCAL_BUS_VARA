@@ -290,6 +290,70 @@ function ResultCard({ data }) {
   );
 }
 
+// ── FeedbackForm ─────────────────────────────────────────────────────
+function FeedbackForm() {
+  const [name, setName] = useState('');
+  const [message, setMessage] = useState('');
+  const [status, setStatus] = useState('');
+
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+    setStatus('submitting');
+    try {
+      const res = await fetch(`${API_BASE}/feedback`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ name, message })
+      });
+      if (res.ok) {
+        setStatus('success');
+        setName('');
+        setMessage('');
+        setTimeout(() => setStatus(''), 3000);
+      } else {
+        setStatus('error');
+      }
+    } catch (err) {
+      setStatus('error');
+    }
+  };
+
+  return (
+    <div className="feedback-section">
+      <h3 className="feedback-title">মতামত জানান / Feedback</h3>
+      {status === 'success' ? (
+        <div className="feedback-success">আপনার মতামত সফলভাবে জমা হয়েছে। ধন্যবাদ!</div>
+      ) : (
+        <form onSubmit={handleSubmit} className="feedback-form">
+          <input
+            type="text"
+            className="feedback-input"
+            placeholder="আপনার নাম (ঐচ্ছিক) / Name (Optional)"
+            value={name}
+            onChange={(e) => setName(e.target.value)}
+          />
+          <textarea
+            className="feedback-textarea"
+            placeholder="আপনার মতামত বা পরামর্শ লিখুন... / Write your feedback..."
+            value={message}
+            onChange={(e) => setMessage(e.target.value)}
+            required
+            rows="3"
+          ></textarea>
+          <button 
+            type="submit" 
+            className="feedback-submit-btn" 
+            disabled={status === 'submitting' || !message.trim()}
+          >
+            {status === 'submitting' ? 'পাঠানো হচ্ছে...' : 'পাঠিয়ে দিন / Submit'}
+          </button>
+          {status === 'error' && <div className="feedback-error">মতামত পাঠাতে সমস্যা হয়েছে, আবার চেষ্টা করুন।</div>}
+        </form>
+      )}
+    </div>
+  );
+}
+
 // ── Main App ─────────────────────────────────────────────────────────
 export default function App() {
   const [fromStop, setFromStop]   = useState(null);
@@ -336,21 +400,24 @@ export default function App() {
       {/* ── Header ── */}
       <header className="header">
         <div className="header-inner">
-          <div className="header-badge">
-            <span className="dot" />
-            ঢাকা মেট্রো যাত্রী ও পণ্য পরিবহন কমিটি
+          <div className="header-logo-wrapper">
+            <div className="header-icon">🚌</div>
           </div>
           <h1 className="header-title">
-            <span className="bn">🚌 লোকাল বাস ভাড়া</span>
+            <span className="bn">লোকাল বাস ভাড়া</span>
             <span className="en">Dhaka Local Bus Fare Finder</span>
           </h1>
           <p className="header-subtitle">সরকারি ভাড়া চার্ট অনুযায়ী • ডিজেল চালিত বাস</p>
           <div className="route-info">
-            <span className="info-label">সর্বনিম্ন ভাড়া:</span>
-            <span className="info-value">৳১০</span>
+            <div className="route-info-item">
+              <span className="info-label">সর্বনিম্ন ভাড়া:</span>
+              <span className="info-value">৳১০</span>
+            </div>
             <span className="info-sep">•</span>
-            <span className="info-label">মোট রুট:</span>
-            <span className="info-value">৫৪টি</span>
+            <div className="route-info-item">
+              <span className="info-label">মোট রুট:</span>
+              <span className="info-value">৫৪টি</span>
+            </div>
           </div>
         </div>
       </header>
@@ -401,9 +468,40 @@ export default function App() {
         ))}
       </main>
 
+      <FeedbackForm />
+
       <footer className="footer">
-        <p>০৭ আশ্বিন ১৪৩৩ বঙ্গাব্দ / ২২ সেপ্টেম্বর ২০২৬ • প্রজ্ঞাপন নং-৩৫.০০.০০০০.০২০.২৬.০০৫.১৬-৫৪০</p>
-        <p style={{ marginTop: 4 }}>ডিজেল চালিত বাস ভাড়া চার্ট — সর্বনিম্ন ভাড়া ১০.০০ টাকা</p>
+        <div className="footer-content">
+          <p className="footer-gov-info">০৭ আশ্বিন ১৪৩৩ বঙ্গাব্দ / ২২ সেপ্টেম্বর ২০২৬ • প্রজ্ঞাপন নং-৩৫.০০.০০০০.০২০.২৬.০০৫.১৬-৫৪০</p>
+          <p className="footer-gov-info" style={{ marginTop: 4 }}>ডিজেল চালিত বাস ভাড়া চার্ট — সর্বনিম্ন ভাড়া ১০.০০ টাকা</p>
+          
+          <div className="footer-creator">
+            <p>Created BY <span className="creator-name">ABRAR JAHIN ZIHAN</span></p>
+            <div className="social-links">
+              <a href="https://www.facebook.com/abrarjahinzihan/" target="_blank" rel="noreferrer" title="Facebook">
+                <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg>
+              </a>
+              <a href="https://www.instagram.com/abrarjahinzihan/" target="_blank" rel="noreferrer" title="Instagram">
+                <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg>
+              </a>
+              <a href="https://www.linkedin.com/in/abrar-jahin-zihan-b8b250328?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" rel="noreferrer" title="LinkedIn">
+                <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg>
+              </a>
+              <a href="https://github.com/abrarjahinzihan" target="_blank" rel="noreferrer" title="GitHub">
+                <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
+              </a>
+              <a href="https://x.com/ZihanJahinabrar" target="_blank" rel="noreferrer" title="X (Twitter)">
+                <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round"><path d="M4 4l11.733 16h4.267l-11.733 -16z"></path><path d="M4 20l6.768 -6.768m2.46 -2.46l6.772 -6.772"></path></svg>
+              </a>
+              <a href="https://lichess.org/@/AbrarJahinZihan" target="_blank" rel="noreferrer" title="Lichess">
+                <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round"><path d="M12 3v18"></path><path d="M8 12h8"></path><path d="M6 8h12"></path><path d="M10 16h4"></path></svg>
+              </a>
+              <a href="mailto:abrarjahinkhanzihan@gmail.com" title="Email">
+                <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+              </a>
+            </div>
+          </div>
+        </div>
       </footer>
     </div>
   );
