@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Uploaded Images Viewer</title>
+<style>
+  body { font-family: sans-serif; background: #f0f0f0; padding: 20px; }
+  h1 { text-align: center; }
+  .grid { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; }
+  .card { background: white; padding: 10px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); width: 300px; text-align: center; }
+  .card img { max-width: 100%; height: auto; border: 1px solid #ddd; }
+  .filename { margin-top: 8px; font-size: 12px; color: #555; word-break: break-all; }
+</style>
+</head>
+<body>
+  <h1>All Images You Have Uploaded To Me</h1>
+  <p style="text-align:center;">This page shows every single image file I have received from you. Please review them carefully.<br>If you count 25 unique charts, please tell me the exact filename of the missing ones! <br>If you see duplicates here, it means you accidentally uploaded the same pictures multiple times.</p>
+  <div class="grid" id="grid"></div>
+  <script>
+    const files = [
+      "media_1790500418412.png", "media_1790501543024.png", "media_1790501704492.png", "media_1790501718531.png",
+      "media_1790502659787.png", "media_1790503136718.png", "media_1790503158844.png", "media_1790503179009.png",
+      "media_1790504802462.png", "media_1790504822938.png", "media_1790504841766.png", "media_1790505366149.png",
+      "media_1790505379203.png", "media_1790505709810.png", "media_1790505732158.png", "media_1790505749737.png",
+      "media_1790506354114.png", "media_1790506371731.png", "media_1790506388045.png", "media_1790506404511.png",
+      "media_1790506747342.png", "media_1790506764063.png", "media_1790506778903.png", "media_1790506792437.png",
+      "media_1790507108178.png", "media_1790507121757.png", "media_1790507137359.png", "media_1790507488095.png",
+      "media_1790507501894.png", "media_1790507515741.png", "media_1790507873221.png", "media_1790507897948.png",
+      "media_1790507914515.png", "media_1790507932727.png", "media_1790508301716.png", "media_1790508430088.png"
+    ];
+    
+    const basePath = 'file:///C:/Users/Abrar%20Zihan/.gemini/antigravity-ide/brain/dc806e47-382b-40b6-b290-07df676ea261/.user_uploaded/';
+    const grid = document.getElementById('grid');
+    
+    files.forEach(file => {
+      const card = document.createElement('div');
+      card.className = 'card';
+      const img = document.createElement('img');
+      img.src = basePath + file;
+      const title = document.createElement('div');
+      title.className = 'filename';
+      title.innerText = file;
+      card.appendChild(img);
+      card.appendChild(title);
+      grid.appendChild(card);
+    });
+  </script>
+</body>
+</html>

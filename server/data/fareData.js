@@ -809,9 +809,9 @@ const routes = [
   // ══════════════════════════════════════════════
   {
     id: 'BANASREE_MOHAMMADPUR_ASAD',
-    routeNo: 'বনশ্রী-মোহাম্মদপুর',
-    nameBn: 'বনশ্রী → মোহাম্মদপুর (আসাদ এভিনিউ)',
-    nameEn: 'Banasree → Mohammadpur (Asad Avenue)',
+    routeNo: 'বনশ্রী-মোহাম্মদপুর (বিকল্প)',
+    nameBn: 'বনশ্রী → মোহাম্মদপুর (আসাদ এভিনিউ) (বিকল্প)',
+    nameEn: 'Banasree → Mohammadpur (Asad Avenue) (Alternative)',
     totalKm: 14.0,
     stops: [
       { id: 0, nameEn: 'Banasree',                  nameBn: 'বনশ্রী',                     aliases: ['banasree','বনশ্রী'] },
@@ -839,9 +839,9 @@ const routes = [
   // ══════════════════════════════════════════════
   {
     id: 'MOHAMMADPUR_POSTOGOLA',
-    routeNo: 'মোহাম্মদপুর-পোস্তগোলা',
-    nameBn: 'মোহাম্মদপুর (জাপান গার্ডেন সিটি) → পোস্তগোলা',
-    nameEn: 'Mohammadpur (Japan Garden City) → Postogola',
+    routeNo: 'মোহাম্মদপুর-পোস্তগোলা (বিকল্প)',
+    nameBn: 'মোহাম্মদপুর (জাপান গার্ডেন সিটি) → পোস্তগোলা (বিকল্প)',
+    nameEn: 'Mohammadpur (Japan Garden City) → Postogola (Alternative)',
     totalKm: 16.2,
     stops: [
       { id: 0, nameEn: 'Mohammadpur (Japan Garden City)', nameBn: 'মোংপুর (জাপান গার্ডেন সিটি)',    aliases: ['mohammadpur japan garden city','mohammadpur','মোংপুর (জাপান গার্ডেন সিটি)','মোহাম্মদপুর'] },
