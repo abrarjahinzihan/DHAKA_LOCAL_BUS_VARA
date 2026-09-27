@@ -65,7 +65,8 @@ const ALL_STOPS = [
   { nameEn: 'Bangladesh Bank',      nameBn: 'বাংলাদেশ ব্যাংক' },
   { nameEn: 'ECB Mor',              nameBn: 'ইসিবি মোড়' },
   { nameEn: 'Manik Mia Avenue',     nameBn: 'মানিকমিয়া এভিনিউ' },
-  { nameEn: 'Azimpur',              nameBn: 'আজিমপুর' }
+  { nameEn: 'Azimpur',              nameBn: 'আজিমপুর' },
+  { nameEn: 'Shishu Mela',          nameBn: 'শিশুমেলা' }
 ];
 
 // ── StopInput ────────────────────────────────────────────────────────
