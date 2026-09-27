@@ -1,4 +1,4 @@
-// All 215 unique stops across all 54 routes with route indexing & aliases
+// All 232 unique stops across all routes with route indexing & aliases
 export const ALL_STOPS = [
   {
     "nameEn": "Kalshi",
@@ -12,6 +12,14 @@ export const ALL_STOPS = [
       "এ101",
       "১০১",
       "এ১০১",
+      "এ-২৭৩",
+      "273",
+      "A-273",
+      "A273",
+      "এ-273",
+      "এ273",
+      "২৭৩",
+      "এ২৭৩",
       "এ-২৭০",
       "270",
       "A-270",
@@ -21,7 +29,7 @@ export const ALL_STOPS = [
       "২৭০",
       "এ২৭০"
     ],
-    "displayRoute": "এ-১০১, এ-২৭০",
+    "displayRoute": "এ-১০১, A-101 +7",
     "aliases": [
       "kalshi",
       "kalsi",
@@ -58,7 +66,7 @@ export const ALL_STOPS = [
       "১২২",
       "এ১২২"
     ],
-    "displayRoute": "এ-১০১, এ-১০৫ +1",
+    "displayRoute": "এ-১০১, A-101 +7",
     "aliases": [
       "mirpur-12",
       "mirpur 12",
@@ -146,6 +154,22 @@ export const ALL_STOPS = [
       "এ182",
       "১৮২",
       "এ১৮২",
+      "এ-২৭১",
+      "271",
+      "A-271",
+      "A271",
+      "এ-271",
+      "এ271",
+      "২৭১",
+      "এ২৭১",
+      "এ-২৭৩",
+      "273",
+      "A-273",
+      "A273",
+      "এ-273",
+      "এ273",
+      "২৭৩",
+      "এ২৭৩",
       "এ-২৭০",
       "270",
       "A-270",
@@ -155,7 +179,7 @@ export const ALL_STOPS = [
       "২৭০",
       "এ২৭০"
     ],
-    "displayRoute": "এ-১০১, এ-১০২ +8",
+    "displayRoute": "এ-১০১, A-101 +35",
     "aliases": [
       "mirpur-10",
       "mirpur 10",
@@ -219,7 +243,7 @@ export const ALL_STOPS = [
       "১২২",
       "এ১২২"
     ],
-    "displayRoute": "এ-১০১, এ-১০২ +4",
+    "displayRoute": "এ-১০১, A-101 +16",
     "aliases": [
       "kazipara",
       "kazi para",
@@ -257,7 +281,7 @@ export const ALL_STOPS = [
       "১২২",
       "এ১২২"
     ],
-    "displayRoute": "এ-১০১, এ-১০৫ +1",
+    "displayRoute": "এ-১০১, A-101 +7",
     "aliases": [
       "sheorapara",
       "sheora para",
@@ -366,9 +390,25 @@ export const ALL_STOPS = [
       "এ-264",
       "এ264",
       "২৬৪",
-      "এ২৬৪"
+      "এ২৬৪",
+      "এ-২৮০",
+      "280",
+      "A-280",
+      "A280",
+      "এ-280",
+      "এ280",
+      "২৮০",
+      "এ২৮০",
+      "এ-২৮৫",
+      "285",
+      "A-285",
+      "A285",
+      "এ-285",
+      "এ285",
+      "২৮৫",
+      "এ২৮৫"
     ],
-    "displayRoute": "এ-১০১, এ-১০২ +14",
+    "displayRoute": "এ-১০১, A-101 +42",
     "aliases": [
       "farmgate",
       "farm gate",
@@ -463,9 +503,17 @@ export const ALL_STOPS = [
       "এ-259",
       "এ259",
       "২৫৯",
-      "এ২৫৯"
+      "এ২৫৯",
+      "এ-২৮০",
+      "280",
+      "A-280",
+      "A280",
+      "এ-280",
+      "এ280",
+      "২৮০",
+      "এ২৮০"
     ],
-    "displayRoute": "এ-১০১, এ-১১৪ +12",
+    "displayRoute": "এ-১০১, A-101 +34",
     "aliases": [
       "shahbag",
       "shabag",
@@ -494,7 +542,7 @@ export const ALL_STOPS = [
       "১১১",
       "এ১১১"
     ],
-    "displayRoute": "এ-১০১, এ-১১১",
+    "displayRoute": "এ-১০১, A-101 +4",
     "aliases": [
       "palton",
       "পল্টন"
@@ -569,9 +617,17 @@ export const ALL_STOPS = [
       "এ-259",
       "এ259",
       "২৫৯",
-      "এ২৫৯"
+      "এ২৫৯",
+      "এ-২৮০",
+      "280",
+      "A-280",
+      "A280",
+      "এ-280",
+      "এ280",
+      "২৮০",
+      "এ২৮০"
     ],
-    "displayRoute": "এ-১০১, এ-১১০ +7",
+    "displayRoute": "এ-১০১, A-101 +26",
     "aliases": [
       "gulistan",
       "গুলিস্তান",
@@ -599,7 +655,7 @@ export const ALL_STOPS = [
       "১৯২",
       "এ১৯২"
     ],
-    "displayRoute": "এ-১০১, এ-১৯২",
+    "displayRoute": "এ-১০১, A-101 +4",
     "aliases": [
       "tikatuli",
       "tika tuli",
@@ -696,7 +752,7 @@ export const ALL_STOPS = [
       "২৫৫",
       "এ২৫৫"
     ],
-    "displayRoute": "এ-১০১, এ-১১৪ +10",
+    "displayRoute": "এ-১০১, A-101 +30",
     "aliases": [
       "sayedabad",
       "saydabad",
@@ -784,7 +840,7 @@ export const ALL_STOPS = [
       "২৫৯",
       "এ২৫৯"
     ],
-    "displayRoute": "এ-১০১, এ-১১৫ +7",
+    "displayRoute": "এ-১০১, A-101 +25",
     "aliases": [
       "jatrabari",
       "jatra bari",
@@ -807,7 +863,7 @@ export const ALL_STOPS = [
       "১০১",
       "এ১০১"
     ],
-    "displayRoute": "এ-১০১",
+    "displayRoute": "এ-১০১, A-101 +1",
     "aliases": [
       "signboard",
       "sign board",
@@ -836,7 +892,7 @@ export const ALL_STOPS = [
       "২৫৭",
       "এ২৫৭"
     ],
-    "displayRoute": "এ-১০১, এ-২৫৭",
+    "displayRoute": "এ-১০১, A-101 +4",
     "aliases": [
       "kachpur bridge",
       "kachpur",
@@ -869,7 +925,7 @@ export const ALL_STOPS = [
       "১১৯",
       "এ১১৯"
     ],
-    "displayRoute": "এ-১০২, এ-১১৯",
+    "displayRoute": "এ-১০২, A-102 +4",
     "aliases": [
       "pallabi",
       "pallabi mirpur",
@@ -891,7 +947,7 @@ export const ALL_STOPS = [
       "১০২",
       "এ১০২"
     ],
-    "displayRoute": "এ-১০২",
+    "displayRoute": "এ-১০২, A-102 +1",
     "aliases": [
       "mirpur 11 3/2",
       "mirpur-11 3/2",
@@ -937,7 +993,7 @@ export const ALL_STOPS = [
       "১১৯",
       "এ১১৯"
     ],
-    "displayRoute": "এ-১০২, এ-১০৫ +2",
+    "displayRoute": "এ-১০২, A-102 +10",
     "aliases": [
       "bekali hotel",
       "bekali",
@@ -982,6 +1038,14 @@ export const ALL_STOPS = [
       "এ119",
       "১১৯",
       "এ১১৯",
+      "এ-২৭৩",
+      "273",
+      "A-273",
+      "A273",
+      "এ-273",
+      "এ273",
+      "২৭৩",
+      "এ২৭৩",
       "এ-২৭০",
       "270",
       "A-270",
@@ -991,7 +1055,7 @@ export const ALL_STOPS = [
       "২৭০",
       "এ২৭০"
     ],
-    "displayRoute": "এ-১০২, এ-১০৫ +3",
+    "displayRoute": "এ-১০২, A-102 +16",
     "aliases": [
       "mirpur-11",
       "mirpur 11",
@@ -1054,9 +1118,17 @@ export const ALL_STOPS = [
       "সায়দাবাদ-বালুঘাট",
       "SAYEDABAD_BALUGHAT",
       "সায়দাবাদ-বালুঘাট (বিকল্প)",
-      "SAYEDABAD_BALUGHAT_2"
+      "SAYEDABAD_BALUGHAT_2",
+      "এ-২৮৫",
+      "285",
+      "A-285",
+      "A285",
+      "এ-285",
+      "এ285",
+      "২৮৫",
+      "এ২৮৫"
     ],
-    "displayRoute": "এ-১০২, এ-১১৪ +7",
+    "displayRoute": "এ-১০২, A-102 +21",
     "aliases": [
       "pressclub",
       "press club",
@@ -1085,7 +1157,7 @@ export const ALL_STOPS = [
       "১১৯",
       "এ১১৯"
     ],
-    "displayRoute": "এ-১০২, এ-১১৯",
+    "displayRoute": "এ-১০২, A-102 +4",
     "aliases": [
       "tnt",
       "t&t",
@@ -1115,7 +1187,7 @@ export const ALL_STOPS = [
       "১১৯",
       "এ১১৯"
     ],
-    "displayRoute": "এ-১০২, এ-১১৯",
+    "displayRoute": "এ-১০২, A-102 +4",
     "aliases": [
       "raysaheb bazar",
       "ray saheb bazar",
@@ -1160,7 +1232,7 @@ export const ALL_STOPS = [
       "২০২",
       "এ২০২"
     ],
-    "displayRoute": "এ-১০২, এ-১১৯ +4",
+    "displayRoute": "এ-১০২, A-102 +10",
     "aliases": [
       "victoria park",
       "victoria",
@@ -1200,7 +1272,7 @@ export const ALL_STOPS = [
       "১১৯",
       "এ১১৯"
     ],
-    "displayRoute": "এ-১০৫, এ-১১০ +1",
+    "displayRoute": "এ-১০৫, A-105 +7",
     "aliases": [
       "duyaripara",
       "duaripara",
@@ -1222,7 +1294,7 @@ export const ALL_STOPS = [
       "১০৫",
       "এ১০৫"
     ],
-    "displayRoute": "এ-১০৫",
+    "displayRoute": "এ-১০৫, A-105 +1",
     "aliases": [
       "mirpur sade 11",
       "mirpur 11.5",
@@ -1256,7 +1328,7 @@ export const ALL_STOPS = [
       "বনশ্রী-শিয়া (বিকল্প)",
       "BANASREE_SHIA_2"
     ],
-    "displayRoute": "এ-১০৫, এ-১২২ +2",
+    "displayRoute": "এ-১০৫, A-105 +6",
     "aliases": [
       "agargaon",
       "agar gaon",
@@ -1278,7 +1350,7 @@ export const ALL_STOPS = [
       "১০৫",
       "এ১০৫"
     ],
-    "displayRoute": "এ-১০৫",
+    "displayRoute": "এ-১০৫, A-105 +1",
     "aliases": [
       "dhanmondi",
       "dhan mondi",
@@ -1317,7 +1389,7 @@ export const ALL_STOPS = [
       "এ১৪",
       "M14_KHILGAON"
     ],
-    "displayRoute": "এ-১০৫, এ-১১৫ +1",
+    "displayRoute": "এ-১০৫, A-105 +8",
     "aliases": [
       "shukrabad",
       "sukrabad",
@@ -1338,7 +1410,7 @@ export const ALL_STOPS = [
       "১০৫",
       "এ১০৫"
     ],
-    "displayRoute": "এ-১০৫",
+    "displayRoute": "এ-১০৫, A-105 +1",
     "aliases": [
       "dhakeshwari mandir",
       "dhakeshwari",
@@ -1361,7 +1433,7 @@ export const ALL_STOPS = [
       "১১০",
       "এ১১০"
     ],
-    "displayRoute": "এ-১১০",
+    "displayRoute": "এ-১১০, A-110 +1",
     "aliases": [
       "proshika",
       "প্রশিকা"
@@ -1380,7 +1452,7 @@ export const ALL_STOPS = [
       "১১০",
       "এ১১০"
     ],
-    "displayRoute": "এ-১১০",
+    "displayRoute": "এ-১১০, A-110 +1",
     "aliases": [
       "mirpur thana",
       "মিরপুর থানা"
@@ -1458,6 +1530,38 @@ export const ALL_STOPS = [
       "এ264",
       "২৬৪",
       "এ২৬৪",
+      "এ-২৭১",
+      "271",
+      "A-271",
+      "A271",
+      "এ-271",
+      "এ271",
+      "২৭১",
+      "এ২৭১",
+      "এ-২৭৩",
+      "273",
+      "A-273",
+      "A273",
+      "এ-273",
+      "এ273",
+      "২৭৩",
+      "এ২৭৩",
+      "এ-২৭৮",
+      "278",
+      "A-278",
+      "A278",
+      "এ-278",
+      "এ278",
+      "২৭৮",
+      "এ২৭৮",
+      "এ-২৮৫",
+      "285",
+      "A-285",
+      "A285",
+      "এ-285",
+      "এ285",
+      "২৮৫",
+      "এ২৮৫",
       "এ-২৭০",
       "270",
       "A-270",
@@ -1467,7 +1571,7 @@ export const ALL_STOPS = [
       "২৭০",
       "এ২৭০"
     ],
-    "displayRoute": "এ-১১০, এ-১১৪ +8",
+    "displayRoute": "এ-১১০, A-110 +39",
     "aliases": [
       "mirpur-1",
       "মিরপুর-১",
@@ -1505,7 +1609,7 @@ export const ALL_STOPS = [
       "১১৫",
       "এ১১৫"
     ],
-    "displayRoute": "এ-১১০, এ-১১৪ +1",
+    "displayRoute": "এ-১১০, A-110 +7",
     "aliases": [
       "ansarcamp",
       "আনসারক্যাম্প",
@@ -1556,6 +1660,22 @@ export const ALL_STOPS = [
       "এ260",
       "২৬০",
       "এ২৬০",
+      "এ-২৭৩",
+      "273",
+      "A-273",
+      "A273",
+      "এ-273",
+      "এ273",
+      "২৭৩",
+      "এ২৭৩",
+      "এ-২৮৫",
+      "285",
+      "A-285",
+      "A285",
+      "এ-285",
+      "এ285",
+      "২৮৫",
+      "এ২৮৫",
       "এ-২৭০",
       "270",
       "A-270",
@@ -1565,7 +1685,7 @@ export const ALL_STOPS = [
       "২৭০",
       "এ২৭০"
     ],
-    "displayRoute": "এ-১১০, এ-১১৫ +4",
+    "displayRoute": "এ-১১০, A-110 +22",
     "aliases": [
       "technical",
       "টেকনিক্যাল",
@@ -1611,9 +1731,17 @@ export const ALL_STOPS = [
       "এ১৪",
       "M14_KHILGAON",
       "চিড়িয়াখানা-ভিক্টোরিয়া",
-      "CHIRIAKHANA_VICTORIA"
+      "CHIRIAKHANA_VICTORIA",
+      "এ-২৮৫",
+      "285",
+      "A-285",
+      "A285",
+      "এ-285",
+      "এ285",
+      "২৮৫",
+      "এ২৮৫"
     ],
-    "displayRoute": "এ-১১০, এ-১১৪ +3",
+    "displayRoute": "এ-১১০, A-110 +15",
     "aliases": [
       "asadgate",
       "আসাদগেট"
@@ -1686,7 +1814,7 @@ export const ALL_STOPS = [
       "২৫২",
       "এ২৫২"
     ],
-    "displayRoute": "এ-১১০, এ-১১৫ +7",
+    "displayRoute": "এ-১১০, A-110 +22",
     "aliases": [
       "science lab",
       "সায়েন্সল্যাব",
@@ -1708,7 +1836,7 @@ export const ALL_STOPS = [
       "১১০",
       "এ১১০"
     ],
-    "displayRoute": "এ-১১০",
+    "displayRoute": "এ-১১০, A-110 +1",
     "aliases": [
       "buet",
       "বুয়েট"
@@ -1727,7 +1855,7 @@ export const ALL_STOPS = [
       "১১১",
       "এ১১১"
     ],
-    "displayRoute": "এ-১১১",
+    "displayRoute": "এ-১১১, A-111 +1",
     "aliases": [
       "pallabi ceramic",
       "পল্লবী সিরামিক",
@@ -1755,7 +1883,7 @@ export const ALL_STOPS = [
       "১১৯",
       "এ১১৯"
     ],
-    "displayRoute": "এ-১১১, এ-১১৯",
+    "displayRoute": "এ-১১১, A-111 +4",
     "aliases": [
       "mirpur-11 1/2",
       "মিরপুর-১১ ১/২"
@@ -1786,7 +1914,7 @@ export const ALL_STOPS = [
       "পীরজঙ্গী-নতুনবাজার (সাতরাস্তা) (বিকল্প)",
       "PEERJONGI_NOTUN_2"
     ],
-    "displayRoute": "এ-১১১, এ-১১৪ +2",
+    "displayRoute": "এ-১১১, A-111 +6",
     "aliases": [
       "stadium",
       "স্টেডিয়াম"
@@ -1805,7 +1933,7 @@ export const ALL_STOPS = [
       "১১১",
       "এ১১১"
     ],
-    "displayRoute": "এ-১১১",
+    "displayRoute": "এ-১১১, A-111 +1",
     "aliases": [
       "notre dame college",
       "নটরড্যাম কলেজ"
@@ -1826,7 +1954,7 @@ export const ALL_STOPS = [
       "চিড়িয়াখানা-ভিক্টোরিয়া",
       "CHIRIAKHANA_VICTORIA"
     ],
-    "displayRoute": "এ-১১৪, চিড়িয়াখানা-ভিক্টোরিয়া",
+    "displayRoute": "এ-১১৪, A-114 +2",
     "aliases": [
       "chiriakhana",
       "চিড়িয়াখানা",
@@ -1848,7 +1976,7 @@ export const ALL_STOPS = [
       "চিড়িয়াখানা-ভিক্টোরিয়া",
       "CHIRIAKHANA_VICTORIA"
     ],
-    "displayRoute": "এ-১১৪, চিড়িয়াখানা-ভিক্টোরিয়া",
+    "displayRoute": "এ-১১৪, A-114 +2",
     "aliases": [
       "darus salam",
       "দারুসসালাম"
@@ -1889,17 +2017,9 @@ export const ALL_STOPS = [
       "এ-192",
       "এ192",
       "১৯২",
-      "এ১৯২",
-      "এ-২৭০",
-      "270",
-      "A-270",
-      "A270",
-      "এ-270",
-      "এ270",
-      "২৭০",
-      "এ২৭০"
+      "এ১৯২"
     ],
-    "displayRoute": "এ-১১৪, এ-১১৫ +3",
+    "displayRoute": "এ-১১৪, A-114 +10",
     "aliases": [
       "kalyanpur",
       "কল্যাণপুর"
@@ -1955,16 +2075,16 @@ export const ALL_STOPS = [
       "এ225",
       "২২৫",
       "এ২২৫",
-      "এ-২৭০",
-      "270",
-      "A-270",
-      "A270",
-      "এ-270",
-      "এ270",
-      "২৭০",
-      "এ২৭০"
+      "এ-২৮৫",
+      "285",
+      "A-285",
+      "A285",
+      "এ-285",
+      "এ285",
+      "২৮৫",
+      "এ২৮৫"
     ],
-    "displayRoute": "এ-১১৪, এ-১১৫ +6",
+    "displayRoute": "এ-১১৪, A-114 +19",
     "aliases": [
       "shyamoli",
       "শ্যামলী"
@@ -2015,7 +2135,7 @@ export const ALL_STOPS = [
       "১৯২",
       "এ১৯২"
     ],
-    "displayRoute": "এ-১১৪, এ-১১৫ +3",
+    "displayRoute": "এ-১১৪, A-114 +13",
     "aliases": [
       "college gate",
       "কলেজগেট"
@@ -2034,7 +2154,7 @@ export const ALL_STOPS = [
       "১১৪",
       "এ১১৪"
     ],
-    "displayRoute": "এ-১১৪",
+    "displayRoute": "এ-১১৪, A-114 +1",
     "aliases": [
       "kawran bazar",
       "কাওরানবাজার"
@@ -2053,7 +2173,7 @@ export const ALL_STOPS = [
       "১১৪",
       "এ১১৪"
     ],
-    "displayRoute": "এ-১১৪",
+    "displayRoute": "এ-১১৪, A-114 +1",
     "aliases": [
       "ittefaq",
       "ইত্তেফাক"
@@ -2106,7 +2226,7 @@ export const ALL_STOPS = [
       "২৫২",
       "এ২৫২"
     ],
-    "displayRoute": "এ-১১৫, এ-১২৭ +3",
+    "displayRoute": "এ-১১৫, A-115 +14",
     "aliases": [
       "kalabagan",
       "কলাবাগান"
@@ -2125,7 +2245,7 @@ export const ALL_STOPS = [
       "১১৫",
       "এ১১৫"
     ],
-    "displayRoute": "এ-১১৫",
+    "displayRoute": "এ-১১৫, A-115 +1",
     "aliases": [
       "kataban",
       "কাঁটাবন"
@@ -2144,7 +2264,7 @@ export const ALL_STOPS = [
       "১১৫",
       "এ১১৫"
     ],
-    "displayRoute": "এ-১১৫",
+    "displayRoute": "এ-১১৫, A-115 +1",
     "aliases": [
       "gulistan mor",
       "gulistan",
@@ -2183,7 +2303,7 @@ export const ALL_STOPS = [
       "১৯০",
       "এ১৯০"
     ],
-    "displayRoute": "এ-১১৫, সায়দাবাদ-বালুঘাট +5",
+    "displayRoute": "এ-১১৫, A-115 +9",
     "aliases": [
       "bangladesh bank",
       "বাংলাদেশ ব্যাংক"
@@ -2202,7 +2322,7 @@ export const ALL_STOPS = [
       "১২২",
       "এ১২২"
     ],
-    "displayRoute": "এ-১২২",
+    "displayRoute": "এ-১২২, A-122 +1",
     "aliases": [
       "ecb mor",
       "ইসিবি মোড়"
@@ -2221,7 +2341,7 @@ export const ALL_STOPS = [
       "১২২",
       "এ১২২"
     ],
-    "displayRoute": "এ-১২২",
+    "displayRoute": "এ-১২২, A-122 +1",
     "aliases": [
       "shishu mela",
       "শিশুমেলা"
@@ -2240,7 +2360,7 @@ export const ALL_STOPS = [
       "১২২",
       "এ১২২"
     ],
-    "displayRoute": "এ-১২২",
+    "displayRoute": "এ-১২২, A-122 +1",
     "aliases": [
       "manik mia avenue",
       "মানিকমিয়া এভিনিউ"
@@ -2291,7 +2411,7 @@ export const ALL_STOPS = [
       "২৬০",
       "এ২৬০"
     ],
-    "displayRoute": "এ-১২২, এ-১২৭ +3",
+    "displayRoute": "এ-১২২, A-122 +13",
     "aliases": [
       "azimpur",
       "আজিমপুর"
@@ -2310,7 +2430,7 @@ export const ALL_STOPS = [
       "১২৭",
       "এ১২৭"
     ],
-    "displayRoute": "এ-১২৭",
+    "displayRoute": "এ-১২৭, A-127 +1",
     "aliases": [
       "mirpur mazar road",
       "মিরপুর মাজার রোড"
@@ -2329,7 +2449,7 @@ export const ALL_STOPS = [
       "১২৭",
       "এ১২৭"
     ],
-    "displayRoute": "এ-১২৭",
+    "displayRoute": "এ-১২৭, A-127 +1",
     "aliases": [
       "russel square",
       "রাসেল স্কয়ার"
@@ -2356,7 +2476,7 @@ export const ALL_STOPS = [
       "১৬১",
       "এ১৬১"
     ],
-    "displayRoute": "এ-১২৭, এ-১৬১",
+    "displayRoute": "এ-১২৭, A-127 +4",
     "aliases": [
       "new market",
       "নিউমার্কেট",
@@ -2400,7 +2520,7 @@ export const ALL_STOPS = [
       "২০৪",
       "এ২০৪"
     ],
-    "displayRoute": "এ-১২৭, এ-২০৭ +2",
+    "displayRoute": "এ-১২৭, A-127 +10",
     "aliases": [
       "nilkhet",
       "নীলক্ষেত"
@@ -2429,7 +2549,7 @@ export const ALL_STOPS = [
       "১৮২",
       "এ১৮২"
     ],
-    "displayRoute": "মিরপুর(১৪)-খিলগাঁও, এ-১৮২",
+    "displayRoute": "মিরপুর(১৪)-খিলগাঁও, A-14 +5",
     "aliases": [
       "mirpur-14",
       "মিরপুর(১৪)",
@@ -2452,7 +2572,7 @@ export const ALL_STOPS = [
       "এ১৪",
       "M14_KHILGAON"
     ],
-    "displayRoute": "মিরপুর(১৪)-খিলগাঁও",
+    "displayRoute": "মিরপুর(১৪)-খিলগাঁও, A-14 +2",
     "aliases": [
       "bangla college",
       "বাংলা কলেজ"
@@ -2473,7 +2593,7 @@ export const ALL_STOPS = [
       "এ১৪",
       "M14_KHILGAON"
     ],
-    "displayRoute": "মিরপুর(১৪)-খিলগাঁও",
+    "displayRoute": "মিরপুর(১৪)-খিলগাঁও, A-14 +2",
     "aliases": [
       "shapla chattar",
       "শাপলা চত্ত্বর"
@@ -2494,7 +2614,7 @@ export const ALL_STOPS = [
       "এ১৪",
       "M14_KHILGAON"
     ],
-    "displayRoute": "মিরপুর(১৪)-খিলগাঁও",
+    "displayRoute": "মিরপুর(১৪)-খিলগাঁও, A-14 +2",
     "aliases": [
       "kamalapur",
       "কমলাপুর"
@@ -2515,7 +2635,7 @@ export const ALL_STOPS = [
       "এ১৪",
       "M14_KHILGAON"
     ],
-    "displayRoute": "মিরপুর(১৪)-খিলগাঁও",
+    "displayRoute": "মিরপুর(১৪)-খিলগাঁও, A-14 +2",
     "aliases": [
       "basabo",
       "বাসাবো"
@@ -2536,7 +2656,7 @@ export const ALL_STOPS = [
       "এ১৪",
       "M14_KHILGAON"
     ],
-    "displayRoute": "মিরপুর(১৪)-খিলগাঁও",
+    "displayRoute": "মিরপুর(১৪)-খিলগাঁও, A-14 +2",
     "aliases": [
       "khilgaon railgate",
       "খিলগাও রেলগেট"
@@ -2557,7 +2677,7 @@ export const ALL_STOPS = [
       "এ১৪",
       "M14_KHILGAON"
     ],
-    "displayRoute": "মিরপুর(১৪)-খিলগাঁও",
+    "displayRoute": "মিরপুর(১৪)-খিলগাঁও, A-14 +2",
     "aliases": [
       "khilgaon taltola",
       "খিলগাও তালতলা"
@@ -2578,7 +2698,7 @@ export const ALL_STOPS = [
       "১৮২",
       "এ১৮২"
     ],
-    "displayRoute": "বাইপাইল-কেরানীগঞ্জ, এ-১৮২",
+    "displayRoute": "বাইপাইল-কেরানীগঞ্জ, এ-১৮২ +2",
     "aliases": [
       "baipail",
       "বাইপাইল"
@@ -2589,17 +2709,9 @@ export const ALL_STOPS = [
     "nameBn": "কামারপাড়া",
     "routes": [
       "বাইপাইল-কেরানীগঞ্জ",
-      "BAIPAIL_KERANIGANJ",
-      "এ-২৭০",
-      "270",
-      "A-270",
-      "A270",
-      "এ-270",
-      "এ270",
-      "২৭০",
-      "এ২৭০"
+      "BAIPAIL_KERANIGANJ"
     ],
-    "displayRoute": "বাইপাইল-কেরানীগঞ্জ, এ-২৭০",
+    "displayRoute": "বাইপাইল-কেরানীগঞ্জ",
     "aliases": [
       "kamarpara",
       "কামারপাড়া",
@@ -2636,16 +2748,24 @@ export const ALL_STOPS = [
       "এ257",
       "২৫৭",
       "এ২৫৭",
-      "এ-২৭০",
-      "270",
-      "A-270",
-      "A270",
-      "এ-270",
-      "এ270",
-      "২৭০",
-      "এ২৭০"
+      "এ-২৭১",
+      "271",
+      "A-271",
+      "A271",
+      "এ-271",
+      "এ271",
+      "২৭১",
+      "এ২৭১",
+      "এ-২৭৩",
+      "273",
+      "A-273",
+      "A273",
+      "এ-273",
+      "এ273",
+      "২৭৩",
+      "এ২৭৩"
     ],
-    "displayRoute": "বাইপাইল-কেরানীগঞ্জ, এ-২৪৩ +3",
+    "displayRoute": "বাইপাইল-কেরানীগঞ্জ, এ-২৪৩ +14",
     "aliases": [
       "abdullahpur",
       "আব্দুল্লাহপুর"
@@ -2666,7 +2786,7 @@ export const ALL_STOPS = [
       "২০৭",
       "এ২০৭"
     ],
-    "displayRoute": "বাইপাইল-কেরানীগঞ্জ, এ-২০৭",
+    "displayRoute": "বাইপাইল-কেরানীগঞ্জ, এ-২০৭ +2",
     "aliases": [
       "azampur",
       "আজমপুর"
@@ -2750,16 +2870,24 @@ export const ALL_STOPS = [
       "এ266",
       "২৬৬",
       "এ২৬৬",
-      "এ-২৭০",
-      "270",
-      "A-270",
-      "A270",
-      "এ-270",
-      "এ270",
-      "২৭০",
-      "এ২৭০"
+      "এ-২৭১",
+      "271",
+      "A-271",
+      "A271",
+      "এ-271",
+      "এ271",
+      "২৭১",
+      "এ২৭১",
+      "এ-২৭৩",
+      "273",
+      "A-273",
+      "A273",
+      "এ-273",
+      "এ273",
+      "২৭৩",
+      "এ২৭৩"
     ],
-    "displayRoute": "বাইপাইল-কেরানীগঞ্জ, এ-২১৯ +9",
+    "displayRoute": "বাইপাইল-কেরানীগঞ্জ, এ-২১৯ +32",
     "aliases": [
       "airport",
       "এয়ারপোর্ট",
@@ -2780,9 +2908,17 @@ export const ALL_STOPS = [
       "এ-166",
       "এ166",
       "১৬৬",
-      "এ১৬৬"
+      "এ১৬৬",
+      "এ-২৭১",
+      "271",
+      "A-271",
+      "A271",
+      "এ-271",
+      "এ271",
+      "২৭১",
+      "এ২৭১"
     ],
-    "displayRoute": "বাইপাইল-কেরানীগঞ্জ, এ-১৬৬",
+    "displayRoute": "বাইপাইল-কেরানীগঞ্জ, এ-১৬৬ +5",
     "aliases": [
       "khilkhet",
       "খিলক্ষেত"
@@ -2867,9 +3003,17 @@ export const ALL_STOPS = [
       "এ-245",
       "এ245",
       "২৪৫",
-      "এ২৪৫"
+      "এ২৪৫",
+      "এ-২৭০",
+      "270",
+      "A-270",
+      "A270",
+      "এ-270",
+      "এ270",
+      "২৭০",
+      "এ২৭০"
     ],
-    "displayRoute": "বাইপাইল-কেরানীগঞ্জ, এ-২০২ +5",
+    "displayRoute": "বাইপাইল-কেরানীগঞ্জ, এ-২০২ +20",
     "aliases": [
       "kakoli",
       "কাকলি",
@@ -2977,12 +3121,22 @@ export const ALL_STOPS = [
       "এ-266",
       "এ266",
       "২৬৬",
-      "এ২৬৬"
+      "এ২৬৬",
+      "এ-২৭৮",
+      "278",
+      "A-278",
+      "A278",
+      "এ-278",
+      "এ278",
+      "২৭৮",
+      "এ২৭৮"
     ],
-    "displayRoute": "বাইপাইল-কেরানীগঞ্জ, বনশ্রী-শিয়া মসজিদ +14",
+    "displayRoute": "বাইপাইল-কেরানীগঞ্জ, বনশ্রী-শিয়া মসজিদ +39",
     "aliases": [
       "mohakhali",
-      "মহাখালী"
+      "মহাখালী",
+      "amtoli",
+      "আমতলী"
     ]
   },
   {
@@ -3070,15 +3224,24 @@ export const ALL_STOPS = [
       "এ-266",
       "এ266",
       "২৬৬",
-      "এ২৬৬"
+      "এ২৬৬",
+      "এ-২৮৫",
+      "285",
+      "A-285",
+      "A285",
+      "এ-285",
+      "এ285",
+      "২৮৫",
+      "এ২৮৫"
     ],
-    "displayRoute": "বাইপাইল-কেরানীগঞ্জ, এ-২১৯ +9",
+    "displayRoute": "বাইপাইল-কেরানীগঞ্জ, এ-২১৯ +32",
     "aliases": [
       "fulbaria",
       "ফুলবাড়িয়া",
       "ফুলবাড়ীয়া",
       "ফুলবাড়ীয়া",
-      "fulbaria poshu hospital"
+      "fulbaria poshu hospital",
+      "golapshah mazar fulbaria"
     ]
   },
   {
@@ -3086,26 +3249,45 @@ export const ALL_STOPS = [
     "nameBn": "বাবু বাজার ব্রীজ",
     "routes": [
       "বাইপাইল-কেরানীগঞ্জ",
-      "BAIPAIL_KERANIGANJ"
+      "BAIPAIL_KERANIGANJ",
+      "এ-২৮৫",
+      "285",
+      "A-285",
+      "A285",
+      "এ-285",
+      "এ285",
+      "২৮৫",
+      "এ২৮৫"
     ],
-    "displayRoute": "বাইপাইল-কেরানীগঞ্জ",
+    "displayRoute": "বাইপাইল-কেরানীগঞ্জ, এ-২৮৫ +2",
     "aliases": [
       "babu bazar bridge",
-      "বাবু বাজার ব্রীজ"
+      "বাবু বাজার ব্রীজ",
+      "babu bazar"
     ]
   },
   {
     "nameEn": "Keraniganj",
-    "nameBn": "কেরানীগঞ্জ (নতুন জেলখানা)",
+    "nameBn": "কেরানীগঞ্জ",
     "routes": [
       "বাইপাইল-কেরানীগঞ্জ",
-      "BAIPAIL_KERANIGANJ"
+      "BAIPAIL_KERANIGANJ",
+      "এ-২৬৪",
+      "264",
+      "A-264",
+      "A264",
+      "এ-264",
+      "এ264",
+      "২৬৪",
+      "এ২৬৪"
     ],
-    "displayRoute": "বাইপাইল-কেরানীগঞ্জ",
+    "displayRoute": "বাইপাইল-কেরানীগঞ্জ, এ-২৬৪ +2",
     "aliases": [
       "keraniganj",
       "কেরানীগঞ্জ",
-      "কেরানীগঞ্জ (নতুন জেলখানা)"
+      "keranigonj",
+      "karanigonj",
+      "karaniganj"
     ]
   },
   {
@@ -3190,9 +3372,17 @@ export const ALL_STOPS = [
       "এ-240",
       "এ240",
       "২৪০",
-      "এ২৪০"
+      "এ২৪০",
+      "এ-২৭৮",
+      "278",
+      "A-278",
+      "A278",
+      "এ-278",
+      "এ278",
+      "২৭৮",
+      "এ২৭৮"
     ],
-    "displayRoute": "উত্তরা-ভিক্টোরিয়া, পীরজঙ্গী-নতুনবাজার (ফার্মগেট) +5",
+    "displayRoute": "উত্তরা-ভিক্টোরিয়া, পীরজঙ্গী-নতুনবাজার (ফার্মগেট) +14",
     "aliases": [
       "notun bazar",
       "নতুন বাজার"
@@ -3282,7 +3472,7 @@ export const ALL_STOPS = [
       "২৫৭",
       "এ২৫৭"
     ],
-    "displayRoute": "উত্তরা-ভিক্টোরিয়া, পীরজঙ্গী-নতুনবাজার (ফার্মগেট) +9",
+    "displayRoute": "উত্তরা-ভিক্টোরিয়া, পীরজঙ্গী-নতুনবাজার (ফার্মগেট) +23",
     "aliases": [
       "malibagh",
       "মালিবাগ"
@@ -3337,7 +3527,7 @@ export const ALL_STOPS = [
       "২৬৬",
       "এ২৬৬"
     ],
-    "displayRoute": "উত্তরা-ভিক্টোরিয়া, পীরজঙ্গী-নতুনবাজার (ফার্মগেট) +8",
+    "displayRoute": "উত্তরা-ভিক্টোরিয়া, পীরজঙ্গী-নতুনবাজার (ফার্মগেট) +16",
     "aliases": [
       "kakrail",
       "কাকরাইল"
@@ -3392,7 +3582,7 @@ export const ALL_STOPS = [
       "২০২",
       "এ২০২"
     ],
-    "displayRoute": "বনশ্রী-শিয়া মসজিদ, বনশ্রী-শিয়া (বিকল্প) +1",
+    "displayRoute": "বনশ্রী-শিয়া মসজিদ, বনশ্রী-শিয়া (বিকল্প) +3",
     "aliases": [
       "rampura",
       "রামপুরা"
@@ -3417,9 +3607,25 @@ export const ALL_STOPS = [
       "এ-166",
       "এ166",
       "১৬৬",
-      "এ১৬৬"
+      "এ১৬৬",
+      "এ-২৭৮",
+      "278",
+      "A-278",
+      "A278",
+      "এ-278",
+      "এ278",
+      "২৭৮",
+      "এ২৭৮",
+      "এ-২৭০",
+      "270",
+      "A-270",
+      "A270",
+      "এ-270",
+      "এ270",
+      "২৭০",
+      "এ২৭০"
     ],
-    "displayRoute": "বনশ্রী-শিয়া মসজিদ, পীরজঙ্গী-নতুনবাজার (ফার্মগেট) +3",
+    "displayRoute": "বনশ্রী-শিয়া মসজিদ, পীরজঙ্গী-নতুনবাজার (ফার্মগেট) +11",
     "aliases": [
       "gulshan-1",
       "গুলশান-১",
@@ -3514,7 +3720,7 @@ export const ALL_STOPS = [
       "২৬৬",
       "এ২৬৬"
     ],
-    "displayRoute": "পীরজঙ্গী-নতুনবাজার (ফার্মগেট), পীরজঙ্গী-নতুনবাজার (সাতরাস্তা) (বিকল্প) +2",
+    "displayRoute": "পীরজঙ্গী-নতুনবাজার (ফার্মগেট), পীরজঙ্গী-নতুনবাজার (সাতরাস্তা) (বিকল্প) +6",
     "aliases": [
       "paltan",
       "পল্টন",
@@ -3586,7 +3792,7 @@ export const ALL_STOPS = [
       "২৬৬",
       "এ২৬৬"
     ],
-    "displayRoute": "পীরজঙ্গী-নতুনবাজার (ফার্মগেট), পীরজঙ্গী-নতুনবাজার (সাতরাস্তা) (বিকল্প) +7",
+    "displayRoute": "পীরজঙ্গী-নতুনবাজার (ফার্মগেট), পীরজঙ্গী-নতুনবাজার (সাতরাস্তা) (বিকল্প) +21",
     "aliases": [
       "moghbazar",
       "মগবাজার"
@@ -3648,7 +3854,7 @@ export const ALL_STOPS = [
       "২১৯",
       "এ২১৯"
     ],
-    "displayRoute": "পীরজঙ্গী-নতুনবাজার (সাতরাস্তা) (বিকল্প), এ-২১৯",
+    "displayRoute": "পীরজঙ্গী-নতুনবাজার (সাতরাস্তা) (বিকল্প), এ-২১৯ +2",
     "aliases": [
       "nabisco",
       "নাবিস্কো"
@@ -3669,7 +3875,7 @@ export const ALL_STOPS = [
       "১৬৬",
       "এ১৬৬"
     ],
-    "displayRoute": "পীরজঙ্গী-নতুনবাজার (সাতরাস্তা) (বিকল্প), এ-১৬৬",
+    "displayRoute": "পীরজঙ্গী-নতুনবাজার (সাতরাস্তা) (বিকল্প), এ-১৬৬ +2",
     "aliases": [
       "titumir college",
       "তিতুমীর কলেজ"
@@ -3703,7 +3909,7 @@ export const ALL_STOPS = [
       "১৬১",
       "এ১৬১"
     ],
-    "displayRoute": "বনশ্রী-মোহাম্মদপুর (বিকল্প), এ-১৬১",
+    "displayRoute": "বনশ্রী-মোহাম্মদপুর (বিকল্প), এ-১৬১ +2",
     "aliases": [
       "jigatola",
       "জিগাতলা"
@@ -3778,7 +3984,7 @@ export const ALL_STOPS = [
       "২৬০",
       "এ২৬০"
     ],
-    "displayRoute": "মোহাম্মদপুর-পোস্তগোলা (বিকল্প), এ-১৬৬ +3",
+    "displayRoute": "মোহাম্মদপুর-পোস্তগোলা (বিকল্প), এ-১৬৬ +11",
     "aliases": [
       "asad gate",
       "আসাদগেট",
@@ -3825,17 +4031,9 @@ export const ALL_STOPS = [
       "এ-228",
       "এ228",
       "২২৮",
-      "এ২২৮",
-      "এ-২৬৪",
-      "264",
-      "A-264",
-      "A264",
-      "এ-264",
-      "এ264",
-      "২৬৪",
-      "এ২৬৪"
+      "এ২২৮"
     ],
-    "displayRoute": "মোহাম্মদপুর-পোস্তগোলা (বিকল্প), এ-২২৮ +1",
+    "displayRoute": "মোহাম্মদপুর-পোস্তগোলা (বিকল্প), এ-২২৮ +2",
     "aliases": [
       "postogola",
       "পোস্তগোলা"
@@ -3862,7 +4060,7 @@ export const ALL_STOPS = [
       "১৮২",
       "এ১৮২"
     ],
-    "displayRoute": "এ-১৯০, এ-১৮২",
+    "displayRoute": "এ-১৯০, A-190 +4",
     "aliases": [
       "epz",
       "ইপিজেড"
@@ -3870,7 +4068,7 @@ export const ALL_STOPS = [
   },
   {
     "nameEn": "Gabtoli",
-    "nameBn": "গাবতলি",
+    "nameBn": "গাবতলী",
     "routes": [
       "এ-১৯০",
       "190",
@@ -3921,7 +4119,7 @@ export const ALL_STOPS = [
       "২৬০",
       "এ২৬০"
     ],
-    "displayRoute": "এ-১৯০, এ-১৯২ +4",
+    "displayRoute": "এ-১৯০, A-190 +16",
     "aliases": [
       "gabtoli",
       "গাবতলি",
@@ -3949,7 +4147,7 @@ export const ALL_STOPS = [
       "২০৬",
       "এ২০৬"
     ],
-    "displayRoute": "এ-১৯০, এ-২০৬",
+    "displayRoute": "এ-১৯০, A-190 +4",
     "aliases": [
       "link road",
       "লিংক রোড"
@@ -3968,7 +4166,7 @@ export const ALL_STOPS = [
       "১৯২",
       "এ১৯২"
     ],
-    "displayRoute": "এ-১৯২",
+    "displayRoute": "এ-১৯২, A-192 +1",
     "aliases": [
       "eidgah",
       "ঈদগাহ"
@@ -4011,7 +4209,7 @@ export const ALL_STOPS = [
       "২২৫",
       "এ২২৫"
     ],
-    "displayRoute": "এ-১৯২, এ-২০২ +2",
+    "displayRoute": "এ-১৯২, A-192 +10",
     "aliases": [
       "savar",
       "সাভার"
@@ -4030,7 +4228,7 @@ export const ALL_STOPS = [
       "১৯২",
       "এ১৯২"
     ],
-    "displayRoute": "এ-১৯২",
+    "displayRoute": "এ-১৯২, A-192 +1",
     "aliases": [
       "gulshan",
       "গুলশান"
@@ -4049,7 +4247,7 @@ export const ALL_STOPS = [
       "১৯২",
       "এ১৯২"
     ],
-    "displayRoute": "এ-১৯২",
+    "displayRoute": "এ-১৯২, A-192 +1",
     "aliases": [
       "badda",
       "বাড্ডা"
@@ -4068,7 +4266,7 @@ export const ALL_STOPS = [
       "১৯২",
       "এ১৯২"
     ],
-    "displayRoute": "এ-১৯২",
+    "displayRoute": "এ-১৯২, A-192 +1",
     "aliases": [
       "chittagong road",
       "চিটাগাং রোড"
@@ -4151,7 +4349,7 @@ export const ALL_STOPS = [
       "২৬৬",
       "এ২৬৬"
     ],
-    "displayRoute": "এ-২০৭, এ-২১৯ +7",
+    "displayRoute": "এ-২০৭, A-207 +25",
     "aliases": [
       "tongi",
       "টঙ্গী"
@@ -4170,7 +4368,7 @@ export const ALL_STOPS = [
       "২০৭",
       "এ২০৭"
     ],
-    "displayRoute": "এ-২০৭",
+    "displayRoute": "এ-২০৭, A-207 +1",
     "aliases": [
       "manik mia",
       "মানিক মিয়া",
@@ -4190,7 +4388,7 @@ export const ALL_STOPS = [
       "২০৭",
       "এ২০৭"
     ],
-    "displayRoute": "এ-২০৭",
+    "displayRoute": "এ-২০৭, A-207 +1",
     "aliases": [
       "city college",
       "সিটি কলেজ"
@@ -4209,7 +4407,7 @@ export const ALL_STOPS = [
       "২০৭",
       "এ২০৭"
     ],
-    "displayRoute": "এ-২০৭",
+    "displayRoute": "এ-২০৭, A-207 +1",
     "aliases": [
       "dhakeshwari",
       "ঢাকেশ্বরী",
@@ -4227,9 +4425,17 @@ export const ALL_STOPS = [
       "এ-219",
       "এ219",
       "২১৯",
-      "এ২১৯"
+      "এ২১৯",
+      "এ-২৭৮",
+      "278",
+      "A-278",
+      "A278",
+      "এ-278",
+      "এ278",
+      "২৭৮",
+      "এ২৭৮"
     ],
-    "displayRoute": "এ-২১৯",
+    "displayRoute": "এ-২১৯, A-219 +4",
     "aliases": [
       "banani",
       "বনানী"
@@ -4264,12 +4470,16 @@ export const ALL_STOPS = [
       "২২৩",
       "এ২২৩"
     ],
-    "displayRoute": "এ-২১৯, এ-২২০ +1",
+    "displayRoute": "এ-২১৯, A-219 +7",
     "aliases": [
       "gazipur chowrasta",
       "গাজীপুর চৌঃ",
       "গাজীপুর",
-      "গাজীপুর চৌরাস্তা"
+      "গাজীপুর চৌরাস্তা",
+      "gajipur",
+      "gajipur chowrasta",
+      "chowrasta",
+      "chourasta"
     ]
   },
   {
@@ -4285,7 +4495,7 @@ export const ALL_STOPS = [
       "২১৯",
       "এ২১৯"
     ],
-    "displayRoute": "এ-২১৯",
+    "displayRoute": "এ-২১৯, A-219 +1",
     "aliases": [
       "rajendrapur",
       "রাজেন্দ্রপুর"
@@ -4304,7 +4514,7 @@ export const ALL_STOPS = [
       "২১৯",
       "এ২১৯"
     ],
-    "displayRoute": "এ-২১৯",
+    "displayRoute": "এ-২১৯, A-219 +1",
     "aliases": [
       "rajabari",
       "রাজাবাড়ী"
@@ -4323,7 +4533,7 @@ export const ALL_STOPS = [
       "২১৯",
       "এ২১৯"
     ],
-    "displayRoute": "এ-২১৯",
+    "displayRoute": "এ-২১৯, A-219 +1",
     "aliases": [
       "pabur",
       "পাবুর"
@@ -4342,7 +4552,7 @@ export const ALL_STOPS = [
       "২১৯",
       "এ২১৯"
     ],
-    "displayRoute": "এ-২১৯",
+    "displayRoute": "এ-২১৯, A-219 +1",
     "aliases": [
       "kapasia",
       "কাপাসিয়া"
@@ -4361,7 +4571,7 @@ export const ALL_STOPS = [
       "১৬১",
       "এ১৬১"
     ],
-    "displayRoute": "এ-১৬১",
+    "displayRoute": "এ-১৬১, A-161 +1",
     "aliases": [
       "ghatarchar",
       "ঘাটারচর"
@@ -4388,7 +4598,7 @@ export const ALL_STOPS = [
       "১৬৬",
       "এ১৬৬"
     ],
-    "displayRoute": "এ-১৬১, এ-১৬৬",
+    "displayRoute": "এ-১৬১, A-161 +4",
     "aliases": [
       "mohammadpur",
       "মোহাম্মদপুর",
@@ -4408,7 +4618,7 @@ export const ALL_STOPS = [
       "১৬১",
       "এ১৬১"
     ],
-    "displayRoute": "এ-১৬১",
+    "displayRoute": "এ-১৬১, A-161 +1",
     "aliases": [
       "shankar",
       "শংকর"
@@ -4427,7 +4637,7 @@ export const ALL_STOPS = [
       "১৬১",
       "এ১৬১"
     ],
-    "displayRoute": "এ-১৬১",
+    "displayRoute": "এ-১৬১, A-161 +1",
     "aliases": [
       "dhanmondi-15",
       "ধানমন্ডি-১৫",
@@ -4447,7 +4657,7 @@ export const ALL_STOPS = [
       "১৬১",
       "এ১৬১"
     ],
-    "displayRoute": "এ-১৬১",
+    "displayRoute": "এ-১৬১, A-161 +1",
     "aliases": [
       "dhaka city college",
       "ঢাকা সিটি কলেজ",
@@ -4467,7 +4677,7 @@ export const ALL_STOPS = [
       "১৬১",
       "এ১৬১"
     ],
-    "displayRoute": "এ-১৬১",
+    "displayRoute": "এ-১৬১, A-161 +1",
     "aliases": [
       "dhaka college",
       "ঢাকা কলেজ"
@@ -4486,7 +4696,7 @@ export const ALL_STOPS = [
       "১৬১",
       "এ১৬১"
     ],
-    "displayRoute": "এ-১৬১",
+    "displayRoute": "এ-১৬১, A-161 +1",
     "aliases": [
       "dhupkhola",
       "ধুপখোলা"
@@ -4505,7 +4715,7 @@ export const ALL_STOPS = [
       "১৬৬",
       "এ১৬৬"
     ],
-    "displayRoute": "এ-১৬৬",
+    "displayRoute": "এ-১৬৬, A-166 +1",
     "aliases": [
       "town hall",
       "টাউন হল"
@@ -4524,7 +4734,7 @@ export const ALL_STOPS = [
       "১৬৬",
       "এ১৬৬"
     ],
-    "displayRoute": "এ-১৬৬",
+    "displayRoute": "এ-১৬৬, A-166 +1",
     "aliases": [
       "madhya badda",
       "মধ্য বাড্ডা"
@@ -4543,7 +4753,7 @@ export const ALL_STOPS = [
       "১৬৬",
       "এ১৬৬"
     ],
-    "displayRoute": "এ-১৬৬",
+    "displayRoute": "এ-১৬৬, A-166 +1",
     "aliases": [
       "uttar badda",
       "উত্তর বাড্ডা"
@@ -4562,7 +4772,7 @@ export const ALL_STOPS = [
       "১৬৬",
       "এ১৬৬"
     ],
-    "displayRoute": "এ-১৬৬",
+    "displayRoute": "এ-১৬৬, A-166 +1",
     "aliases": [
       "basundhara",
       "বসুন্ধরা"
@@ -4581,7 +4791,7 @@ export const ALL_STOPS = [
       "১৬৬",
       "এ১৬৬"
     ],
-    "displayRoute": "এ-১৬৬",
+    "displayRoute": "এ-১৬৬, A-166 +1",
     "aliases": [
       "nadda",
       "নর্দ্দা",
@@ -4601,7 +4811,7 @@ export const ALL_STOPS = [
       "১৬৬",
       "এ১৬৬"
     ],
-    "displayRoute": "এ-১৬৬",
+    "displayRoute": "এ-১৬৬, A-166 +1",
     "aliases": [
       "kuril bishwaroad",
       "কুড়িল বিশ্বরোড",
@@ -4621,7 +4831,7 @@ export const ALL_STOPS = [
       "১৬৬",
       "এ১৬৬"
     ],
-    "displayRoute": "এ-১৬৬",
+    "displayRoute": "এ-১৬৬, A-166 +1",
     "aliases": [
       "new airport",
       "নিউ এয়ারপোর্ট",
@@ -4641,7 +4851,7 @@ export const ALL_STOPS = [
       "১৬৬",
       "এ১৬৬"
     ],
-    "displayRoute": "এ-১৬৬",
+    "displayRoute": "এ-১৬৬, A-166 +1",
     "aliases": [
       "rajlakshmi",
       "রাজলক্ষ্মী"
@@ -4660,7 +4870,7 @@ export const ALL_STOPS = [
       "১৬৬",
       "এ১৬৬"
     ],
-    "displayRoute": "এ-১৬৬",
+    "displayRoute": "এ-১৬৬, A-166 +1",
     "aliases": [
       "house building",
       "হাউজ বিল্ডিং",
@@ -4680,7 +4890,7 @@ export const ALL_STOPS = [
       "১৮২",
       "এ১৮২"
     ],
-    "displayRoute": "এ-১৮২",
+    "displayRoute": "এ-১৮২, A-182 +1",
     "aliases": [
       "mazar gate",
       "মাজার গেট"
@@ -4707,7 +4917,7 @@ export const ALL_STOPS = [
       "২২৫",
       "এ২২৫"
     ],
-    "displayRoute": "এ-১৮২, এ-২২৫",
+    "displayRoute": "এ-১৮২, A-182 +4",
     "aliases": [
       "hemayetpur",
       "হেমায়েতপুর"
@@ -4726,7 +4936,7 @@ export const ALL_STOPS = [
       "১৮২",
       "এ১৮২"
     ],
-    "displayRoute": "এ-১৮২",
+    "displayRoute": "এ-১৮২, A-182 +1",
     "aliases": [
       "nabinagar",
       "নবীনগর"
@@ -4753,7 +4963,7 @@ export const ALL_STOPS = [
       "২২০",
       "এ২২০"
     ],
-    "displayRoute": "এ-১৮২, এ-২২০",
+    "displayRoute": "এ-১৮২, A-182 +4",
     "aliases": [
       "sreepur",
       "শ্রীপুর"
@@ -4796,7 +5006,7 @@ export const ALL_STOPS = [
       "২৬৬",
       "এ২৬৬"
     ],
-    "displayRoute": "এ-১৮২, এ-২২১ +2",
+    "displayRoute": "এ-১৮২, A-182 +10",
     "aliases": [
       "shafipur",
       "সফিপুর"
@@ -4815,7 +5025,7 @@ export const ALL_STOPS = [
       "১৮২",
       "এ১৮২"
     ],
-    "displayRoute": "এ-১৮২",
+    "displayRoute": "এ-১৮২, A-182 +1",
     "aliases": [
       "palli bidyut",
       "পল্লীবিদ্যুৎ",
@@ -4859,7 +5069,7 @@ export const ALL_STOPS = [
       "২৬৬",
       "এ২৬৬"
     ],
-    "displayRoute": "এ-১৮২, এ-২২১ +2",
+    "displayRoute": "এ-১৮২, A-182 +10",
     "aliases": [
       "chandra",
       "চন্দ্রা"
@@ -4878,7 +5088,7 @@ export const ALL_STOPS = [
       "২২০",
       "এ২২০"
     ],
-    "displayRoute": "এ-২২০",
+    "displayRoute": "এ-২২০, A-220 +1",
     "aliases": [
       "rajendrapur chowrasta",
       "রাজেন্দ্রপুর চৌঃ",
@@ -4898,7 +5108,7 @@ export const ALL_STOPS = [
       "২২০",
       "এ২২০"
     ],
-    "displayRoute": "এ-২২০",
+    "displayRoute": "এ-২২০, A-220 +1",
     "aliases": [
       "hotapara",
       "হোতাপাড়া"
@@ -4917,7 +5127,7 @@ export const ALL_STOPS = [
       "২২০",
       "এ২২০"
     ],
-    "displayRoute": "এ-২২০",
+    "displayRoute": "এ-২২০, A-220 +1",
     "aliases": [
       "bagher bazar",
       "বাঘের বাজার"
@@ -4936,7 +5146,7 @@ export const ALL_STOPS = [
       "২২০",
       "এ২২০"
     ],
-    "displayRoute": "এ-২২০",
+    "displayRoute": "এ-২২০, A-220 +1",
     "aliases": [
       "mawna chowrasta",
       "মাওনা চৌরাস্তা",
@@ -4956,7 +5166,7 @@ export const ALL_STOPS = [
       "২২০",
       "এ২২০"
     ],
-    "displayRoute": "এ-২২০",
+    "displayRoute": "এ-২২০, A-220 +1",
     "aliases": [
       "barmi",
       "বরমী"
@@ -4975,7 +5185,7 @@ export const ALL_STOPS = [
       "২২১",
       "এ২২১"
     ],
-    "displayRoute": "এ-২২১",
+    "displayRoute": "এ-২২১, A-221 +1",
     "aliases": [
       "joydebpur chowrasta",
       "জয়দেবপুর চৌঃ",
@@ -5011,7 +5221,7 @@ export const ALL_STOPS = [
       "২৬৬",
       "এ২৬৬"
     ],
-    "displayRoute": "এ-২২১, এ-২৬৫ +1",
+    "displayRoute": "এ-২২১, A-221 +7",
     "aliases": [
       "konabari",
       "কোনাবাড়ী",
@@ -5031,7 +5241,7 @@ export const ALL_STOPS = [
       "২২১",
       "এ২২১"
     ],
-    "displayRoute": "এ-২২১",
+    "displayRoute": "এ-২২১, A-221 +1",
     "aliases": [
       "kaliakair",
       "কালিয়াকৈর"
@@ -5050,7 +5260,7 @@ export const ALL_STOPS = [
       "২২২",
       "এ২২২"
     ],
-    "displayRoute": "এ-২২২",
+    "displayRoute": "এ-২২২, A-222 +1",
     "aliases": [
       "mirer bazar",
       "মীরের বাজার"
@@ -5069,7 +5279,7 @@ export const ALL_STOPS = [
       "২২২",
       "এ২২২"
     ],
-    "displayRoute": "এ-২২২",
+    "displayRoute": "এ-২২২, A-222 +1",
     "aliases": [
       "gausia",
       "গাউছিয়া"
@@ -5088,7 +5298,7 @@ export const ALL_STOPS = [
       "২২৪",
       "এ২২৪"
     ],
-    "displayRoute": "এ-২২৪",
+    "displayRoute": "এ-২২৪, A-224 +1",
     "aliases": [
       "high court",
       "হাইকোর্ট"
@@ -5107,7 +5317,7 @@ export const ALL_STOPS = [
       "২২৪",
       "এ২২৪"
     ],
-    "displayRoute": "এ-২২৪",
+    "displayRoute": "এ-২২৪, A-224 +1",
     "aliases": [
       "matsya bhaban",
       "মৎসভবন"
@@ -5126,7 +5336,7 @@ export const ALL_STOPS = [
       "২২৪",
       "এ২২৪"
     ],
-    "displayRoute": "এ-২২৪",
+    "displayRoute": "এ-২২৪, A-224 +1",
     "aliases": [
       "manikganj",
       "মানিকগঞ্জ"
@@ -5145,7 +5355,7 @@ export const ALL_STOPS = [
       "২২৪",
       "এ২২৪"
     ],
-    "displayRoute": "এ-২২৪",
+    "displayRoute": "এ-২২৪, A-224 +1",
     "aliases": [
       "paturia",
       "পাটুরিয়া"
@@ -5178,12 +5388,23 @@ export const ALL_STOPS = [
       "এ-266",
       "এ266",
       "২৬৬",
-      "এ২৬৬"
+      "এ২৬৬",
+      "এ-২৭১",
+      "271",
+      "A-271",
+      "A271",
+      "এ-271",
+      "এ271",
+      "২৭১",
+      "এ২৭১"
     ],
-    "displayRoute": "এ-২২৩, এ-২৬৫ +1",
+    "displayRoute": "এ-২২৩, A-223 +10",
     "aliases": [
       "gazipur",
-      "গাজীপুর"
+      "গাজীপুর",
+      "gajipur",
+      "gazeepur",
+      "gazipur"
     ]
   },
   {
@@ -5199,7 +5420,7 @@ export const ALL_STOPS = [
       "২২৫",
       "এ২২৫"
     ],
-    "displayRoute": "এ-২২৫",
+    "displayRoute": "এ-২২৫, A-225 +1",
     "aliases": [
       "amin bazar",
       "আমিন বাজার"
@@ -5218,7 +5439,7 @@ export const ALL_STOPS = [
       "২২৮",
       "এ২২৮"
     ],
-    "displayRoute": "এ-২২৮",
+    "displayRoute": "এ-২২৮, A-228 +1",
     "aliases": [
       "jurain",
       "জুরাইন"
@@ -5245,7 +5466,7 @@ export const ALL_STOPS = [
       "২০৬",
       "এ২০৬"
     ],
-    "displayRoute": "এ-২২৮, এ-২০৬",
+    "displayRoute": "এ-২২৮, A-228 +4",
     "aliases": [
       "narayanganj",
       "নারায়ণগঞ্জ",
@@ -5265,7 +5486,7 @@ export const ALL_STOPS = [
       "২০৪",
       "এ২০৪"
     ],
-    "displayRoute": "এ-২০৪",
+    "displayRoute": "এ-২০৪, A-204 +1",
     "aliases": [
       "madanganj",
       "মদনগঞ্জ"
@@ -5284,7 +5505,7 @@ export const ALL_STOPS = [
       "২০৪",
       "এ২০৪"
     ],
-    "displayRoute": "এ-২০৪",
+    "displayRoute": "এ-২০৪, A-204 +1",
     "aliases": [
       "press club",
       "প্রেসক্লাব"
@@ -5311,7 +5532,7 @@ export const ALL_STOPS = [
       "২৫৯",
       "এ২৫৯"
     ],
-    "displayRoute": "এ-২০৬, এ-২৫৯",
+    "displayRoute": "এ-২০৬, A-206 +4",
     "aliases": [
       "shanir akhra",
       "শনিরআখড়া",
@@ -5331,7 +5552,7 @@ export const ALL_STOPS = [
       "২০৬",
       "এ২০৬"
     ],
-    "displayRoute": "এ-২০৬",
+    "displayRoute": "এ-২০৬, A-206 +1",
     "aliases": [
       "rayerbag",
       "রায়েরবাগ"
@@ -5366,7 +5587,7 @@ export const ALL_STOPS = [
       "২৫৬",
       "এ২৫৬"
     ],
-    "displayRoute": "এ-২৪০, এ-২৫৫ +1",
+    "displayRoute": "এ-২৪০, A-240 +7",
     "aliases": [
       "kachpur",
       "কাঁচপুর"
@@ -5393,7 +5614,7 @@ export const ALL_STOPS = [
       "২৪৩",
       "এ২৪৩"
     ],
-    "displayRoute": "এ-২৪০, এ-২৪৩",
+    "displayRoute": "এ-২৪০, A-240 +4",
     "aliases": [
       "tongi bastuhara",
       "টঙ্গী বাস্তহারা",
@@ -5413,7 +5634,7 @@ export const ALL_STOPS = [
       "২৪৩",
       "এ২৪৩"
     ],
-    "displayRoute": "এ-২৪৩",
+    "displayRoute": "এ-২৪৩, A-243 +1",
     "aliases": [
       "dhaleshwar",
       "ধলেশ্বর"
@@ -5440,7 +5661,7 @@ export const ALL_STOPS = [
       "২৫৭",
       "এ২৫৭"
     ],
-    "displayRoute": "এ-২৪৩, এ-২৫৭",
+    "displayRoute": "এ-২৪৩, A-243 +4",
     "aliases": [
       "pragati sarani",
       "প্রগতি সরণী"
@@ -5475,7 +5696,7 @@ export const ALL_STOPS = [
       "২৫৬",
       "এ২৫৬"
     ],
-    "displayRoute": "এ-২৪৫, এ-২৫৫ +1",
+    "displayRoute": "এ-২৪৫, A-245 +7",
     "aliases": [
       "madanpur",
       "মদনপুর"
@@ -5500,9 +5721,17 @@ export const ALL_STOPS = [
       "এ-257",
       "এ257",
       "২৫৭",
-      "এ২৫৭"
+      "এ২৫৭",
+      "এ-২৮০",
+      "280",
+      "A-280",
+      "A280",
+      "এ-280",
+      "এ280",
+      "২৮০",
+      "এ২৮০"
     ],
-    "displayRoute": "এ-২৪৫, এ-২৫৭",
+    "displayRoute": "এ-২৪৫, A-245 +7",
     "aliases": [
       "motijheel",
       "মতিঝিল"
@@ -5521,7 +5750,7 @@ export const ALL_STOPS = [
       "২৪৯",
       "এ২৪৯"
     ],
-    "displayRoute": "এ-২৪৯",
+    "displayRoute": "এ-২৪৯, A-249 +1",
     "aliases": [
       "naya bazar",
       "নয়াবাজার"
@@ -5540,7 +5769,7 @@ export const ALL_STOPS = [
       "২৪৯",
       "এ২৪৯"
     ],
-    "displayRoute": "এ-২৪৯",
+    "displayRoute": "এ-২৪৯, A-249 +1",
     "aliases": [
       "jinjira",
       "জিঞ্জিরা"
@@ -5559,7 +5788,7 @@ export const ALL_STOPS = [
       "২৪৯",
       "এ২৪৯"
     ],
-    "displayRoute": "এ-২৪৯",
+    "displayRoute": "এ-২৪৯, A-249 +1",
     "aliases": [
       "konakhola bazar",
       "কোণাখোলা বাজার"
@@ -5578,7 +5807,7 @@ export const ALL_STOPS = [
       "২৪৯",
       "এ২৪৯"
     ],
-    "displayRoute": "এ-২৪৯",
+    "displayRoute": "এ-২৪৯, A-249 +1",
     "aliases": [
       "ramer kanda",
       "রামের কান্দা"
@@ -5597,7 +5826,7 @@ export const ALL_STOPS = [
       "২৪৯",
       "এ২৪৯"
     ],
-    "displayRoute": "এ-২৪৯",
+    "displayRoute": "এ-২৪৯, A-249 +1",
     "aliases": [
       "syedpur",
       "সৈয়দপুর"
@@ -5616,7 +5845,7 @@ export const ALL_STOPS = [
       "২৪৯",
       "এ২৪৯"
     ],
-    "displayRoute": "এ-২৪৯",
+    "displayRoute": "এ-২৪৯, A-249 +1",
     "aliases": [
       "kharshur",
       "খারশুর"
@@ -5635,7 +5864,7 @@ export const ALL_STOPS = [
       "২৪৯",
       "এ২৪৯"
     ],
-    "displayRoute": "এ-২৪৯",
+    "displayRoute": "এ-২৪৯, A-249 +1",
     "aliases": [
       "tikorpur",
       "টিকরপুর"
@@ -5654,7 +5883,7 @@ export const ALL_STOPS = [
       "২৪৯",
       "এ২৪৯"
     ],
-    "displayRoute": "এ-২৪৯",
+    "displayRoute": "এ-২৪৯, A-249 +1",
     "aliases": [
       "agla bazar",
       "আগলা বাজার"
@@ -5673,7 +5902,7 @@ export const ALL_STOPS = [
       "২৪৯",
       "এ২৪৯"
     ],
-    "displayRoute": "এ-২৪৯",
+    "displayRoute": "এ-২৪৯, A-249 +1",
     "aliases": [
       "box nagar",
       "বক্সনগর"
@@ -5692,7 +5921,7 @@ export const ALL_STOPS = [
       "২৪৯",
       "এ২৪৯"
     ],
-    "displayRoute": "এ-২৪৯",
+    "displayRoute": "এ-২৪৯, A-249 +1",
     "aliases": [
       "gurganj",
       "গুরগঞ্জ",
@@ -5713,7 +5942,7 @@ export const ALL_STOPS = [
       "২৪৯",
       "এ২৪৯"
     ],
-    "displayRoute": "এ-২৪৯",
+    "displayRoute": "এ-২৪৯, A-249 +1",
     "aliases": [
       "baghmara",
       "বাঘমারা"
@@ -5732,7 +5961,7 @@ export const ALL_STOPS = [
       "২৪৯",
       "এ২৪৯"
     ],
-    "displayRoute": "এ-২৪৯",
+    "displayRoute": "এ-২৪৯, A-249 +1",
     "aliases": [
       "nawabganj",
       "নবাবগঞ্জ"
@@ -5751,7 +5980,7 @@ export const ALL_STOPS = [
       "২৪৯",
       "এ২৪৯"
     ],
-    "displayRoute": "এ-২৪৯",
+    "displayRoute": "এ-২৪৯, A-249 +1",
     "aliases": [
       "majhir kanda",
       "মাঝির কান্দা"
@@ -5770,7 +5999,7 @@ export const ALL_STOPS = [
       "২৪৯",
       "এ২৪৯"
     ],
-    "displayRoute": "এ-২৪৯",
+    "displayRoute": "এ-২৪৯, A-249 +1",
     "aliases": [
       "bandura",
       "বান্দুরা"
@@ -5789,7 +6018,7 @@ export const ALL_STOPS = [
       "২৪৯",
       "এ২৪৯"
     ],
-    "displayRoute": "এ-২৪৯",
+    "displayRoute": "এ-২৪৯, A-249 +1",
     "aliases": [
       "baruakhali",
       "বারুয়াখালী"
@@ -5808,7 +6037,7 @@ export const ALL_STOPS = [
       "২৪৯",
       "এ২৪৯"
     ],
-    "displayRoute": "এ-২৪৯",
+    "displayRoute": "এ-২৪৯, A-249 +1",
     "aliases": [
       "khasiakhali beribadh",
       "খাসিয়াখালী বেড়ীবাঁধ"
@@ -5827,7 +6056,7 @@ export const ALL_STOPS = [
       "২৫২",
       "এ২৫২"
     ],
-    "displayRoute": "এ-২৫২",
+    "displayRoute": "এ-২৫২, A-252 +1",
     "aliases": [
       "bhulta",
       "ভুলতা"
@@ -5846,7 +6075,7 @@ export const ALL_STOPS = [
       "২৫৫",
       "এ২৫৫"
     ],
-    "displayRoute": "এ-২৫৫",
+    "displayRoute": "এ-২৫৫, A-255 +1",
     "aliases": [
       "mogra para",
       "মোগড়া পাড়া"
@@ -5873,7 +6102,7 @@ export const ALL_STOPS = [
       "২৫৬",
       "এ২৫৬"
     ],
-    "displayRoute": "এ-২৫৫, এ-২৫৬",
+    "displayRoute": "এ-২৫৫, A-255 +4",
     "aliases": [
       "meghna ghat",
       "মেঘনা ঘাট",
@@ -5902,7 +6131,7 @@ export const ALL_STOPS = [
       "২৬০",
       "এ২৬০"
     ],
-    "displayRoute": "এ-২৫৬, এ-২৬০",
+    "displayRoute": "এ-২৫৬, A-256 +4",
     "aliases": [
       "chankharpul",
       "চাঁনখারপুল",
@@ -5922,7 +6151,7 @@ export const ALL_STOPS = [
       "২৫৬",
       "এ২৫৬"
     ],
-    "displayRoute": "এ-২৫৬",
+    "displayRoute": "এ-২৫৬, A-256 +1",
     "aliases": [
       "sonargaon mogra para",
       "সোনারগাঁও মোগড়া পাড়া"
@@ -5941,7 +6170,7 @@ export const ALL_STOPS = [
       "২৫৭",
       "এ২৫৭"
     ],
-    "displayRoute": "এ-২৫৭",
+    "displayRoute": "এ-২৫৭, A-257 +1",
     "aliases": [
       "board bazar",
       "বোর্ড বাজার"
@@ -5960,7 +6189,7 @@ export const ALL_STOPS = [
       "২৫৯",
       "এ২৫৯"
     ],
-    "displayRoute": "এ-২৫৯",
+    "displayRoute": "এ-২৫৯, A-259 +1",
     "aliases": [
       "palashi",
       "পলাশী"
@@ -5979,7 +6208,7 @@ export const ALL_STOPS = [
       "২৫৯",
       "এ২৫৯"
     ],
-    "displayRoute": "এ-২৫৯",
+    "displayRoute": "এ-২৫৯, A-259 +1",
     "aliases": [
       "eden college",
       "ইডেন কলেজ"
@@ -5998,7 +6227,7 @@ export const ALL_STOPS = [
       "২৫৯",
       "এ২৫৯"
     ],
-    "displayRoute": "এ-২৫৯",
+    "displayRoute": "এ-২৫৯, A-259 +1",
     "aliases": [
       "meghnaghat",
       "মেঘনাঘাট",
@@ -6019,7 +6248,7 @@ export const ALL_STOPS = [
       "২৬০",
       "এ২৬০"
     ],
-    "displayRoute": "এ-২৬০",
+    "displayRoute": "এ-২৬০, A-260 +1",
     "aliases": [
       "dhamrai",
       "ধামরাই"
@@ -6036,15 +6265,24 @@ export const ALL_STOPS = [
       "এ-264",
       "এ264",
       "২৬৪",
-      "এ২৬৪"
+      "এ২৬৪",
+      "এ-২৮৫",
+      "285",
+      "A-285",
+      "A285",
+      "এ-285",
+      "এ285",
+      "২৮৫",
+      "এ২৮৫"
     ],
-    "displayRoute": "এ-২৬৪",
+    "displayRoute": "এ-২৬৪, A-264 +4",
     "aliases": [
       "mirpur chiriakhana",
       "মিরপুর (চিড়িয়াখানা)",
       "মিরপুর চিড়িয়াখানা",
       "চিড়িয়াখানা",
-      "চিড়িয়াখানা"
+      "চিড়িয়াখানা",
+      "chiriakhana"
     ]
   },
   {
@@ -6060,7 +6298,7 @@ export const ALL_STOPS = [
       "২৬৪",
       "এ২৬৪"
     ],
-    "displayRoute": "এ-২৬৪",
+    "displayRoute": "এ-২৬৪, A-264 +1",
     "aliases": [
       "ansar camp",
       "ansarcamp",
@@ -6081,7 +6319,7 @@ export const ALL_STOPS = [
       "২৬৪",
       "এ২৬৪"
     ],
-    "displayRoute": "এ-২৬৪",
+    "displayRoute": "এ-২৬৪, A-264 +1",
     "aliases": [
       "golapshah mazar fulbaria",
       "গোলাপশাহ মাজার (ফুলবাড়ীয়া)",
@@ -6102,7 +6340,7 @@ export const ALL_STOPS = [
       "২৬৪",
       "এ২৬৪"
     ],
-    "displayRoute": "এ-২৬৪",
+    "displayRoute": "এ-২৬৪, A-264 +1",
     "aliases": [
       "naya bazar 2 no bridge",
       "নয়াবাজার (২নং ব্রীজের গোড়া)",
@@ -6132,7 +6370,7 @@ export const ALL_STOPS = [
       "২৬৬",
       "এ২৬৬"
     ],
-    "displayRoute": "এ-২৬৫, এ-২৬৬",
+    "displayRoute": "এ-২৬৫, A-265 +4",
     "aliases": [
       "jagannath university",
       "জগন্নাথ বিশ্ববিদ্যালয়",
@@ -6143,17 +6381,8 @@ export const ALL_STOPS = [
   {
     "nameEn": "Basila",
     "nameBn": "বসিলা",
-    "routes": [
-      "এ-২৭০",
-      "270",
-      "A-270",
-      "A270",
-      "এ-270",
-      "এ270",
-      "২৭০",
-      "এ২৭০"
-    ],
-    "displayRoute": "এ-২৭০",
+    "routes": [],
+    "displayRoute": "",
     "aliases": [
       "basila",
       "বসিলা"
@@ -6162,17 +6391,8 @@ export const ALL_STOPS = [
   {
     "nameEn": "Asad Avenue",
     "nameBn": "আসাদ এভিনিউ",
-    "routes": [
-      "এ-২৭০",
-      "270",
-      "A-270",
-      "A270",
-      "এ-270",
-      "এ270",
-      "২৭০",
-      "এ২৭০"
-    ],
-    "displayRoute": "এ-২৭০",
+    "routes": [],
+    "displayRoute": "",
     "aliases": [
       "asad avenue",
       "আসাদ এভিনিউ",
@@ -6183,6 +6403,30 @@ export const ALL_STOPS = [
     "nameEn": "Mirpur-2",
     "nameBn": "মিরপুর-২",
     "routes": [
+      "এ-২৭১",
+      "271",
+      "A-271",
+      "A271",
+      "এ-271",
+      "এ271",
+      "২৭১",
+      "এ২৭১",
+      "এ-২৭৩",
+      "273",
+      "A-273",
+      "A273",
+      "এ-273",
+      "এ273",
+      "২৭৩",
+      "এ২৭৩",
+      "এ-২৭৮",
+      "278",
+      "A-278",
+      "A278",
+      "এ-278",
+      "এ278",
+      "২৭৮",
+      "এ২৭৮",
       "এ-২৭০",
       "270",
       "A-270",
@@ -6192,7 +6436,7 @@ export const ALL_STOPS = [
       "২৭০",
       "এ২৭০"
     ],
-    "displayRoute": "এ-২৭০",
+    "displayRoute": "এ-২৭১, A-271 +10",
     "aliases": [
       "mirpur-2",
       "মিরপুর-২",
@@ -6203,6 +6447,14 @@ export const ALL_STOPS = [
     "nameEn": "Purobi",
     "nameBn": "পুরবী",
     "routes": [
+      "এ-২৭৩",
+      "273",
+      "A-273",
+      "A273",
+      "এ-273",
+      "এ273",
+      "২৭৩",
+      "এ২৭৩",
       "এ-২৭০",
       "270",
       "A-270",
@@ -6212,7 +6464,7 @@ export const ALL_STOPS = [
       "২৭০",
       "এ২৭০"
     ],
-    "displayRoute": "এ-২৭০",
+    "displayRoute": "এ-২৭৩, A-273 +4",
     "aliases": [
       "purobi",
       "পুরবী",
@@ -6222,17 +6474,8 @@ export const ALL_STOPS = [
   {
     "nameEn": "Shewra Bazar",
     "nameBn": "শেওড়া বাজার",
-    "routes": [
-      "এ-২৭০",
-      "270",
-      "A-270",
-      "A270",
-      "এ-270",
-      "এ270",
-      "২৭০",
-      "এ২৭০"
-    ],
-    "displayRoute": "এ-২৭০",
+    "routes": [],
+    "displayRoute": "",
     "aliases": [
       "shewra bazar",
       "shewra",
@@ -6246,6 +6489,73 @@ export const ALL_STOPS = [
     "nameEn": "Jashimuddin",
     "nameBn": "জসীমউদ্দিন",
     "routes": [
+      "এ-২৭৩",
+      "273",
+      "A-273",
+      "A273",
+      "এ-273",
+      "এ273",
+      "২৭৩",
+      "এ২৭৩"
+    ],
+    "displayRoute": "এ-২৭৩, A-273 +1",
+    "aliases": [
+      "jashimuddin",
+      "জসিমউদ্দিন",
+      "জসীমউদ্দিন",
+      "জসীমউদ্দীন"
+    ]
+  },
+  {
+    "nameEn": "Kalshi Mor",
+    "nameBn": "কালশীর মোড়",
+    "routes": [
+      "এ-২৭১",
+      "271",
+      "A-271",
+      "A271",
+      "এ-271",
+      "এ271",
+      "২৭১",
+      "এ২৭১",
+      "এ-২৮০",
+      "280",
+      "A-280",
+      "A280",
+      "এ-280",
+      "এ280",
+      "২৮০",
+      "এ২৮০"
+    ],
+    "displayRoute": "এ-২৭১, A-271 +4",
+    "aliases": [
+      "kalshi mor",
+      "কালশীর মোড়",
+      "kalshi",
+      "কালশী",
+      "কালশি মোড়"
+    ]
+  },
+  {
+    "nameEn": "ECB Chattar",
+    "nameBn": "ইসিবি চত্বর",
+    "routes": [
+      "এ-২৭৩",
+      "273",
+      "A-273",
+      "A273",
+      "এ-273",
+      "এ273",
+      "২৭৩",
+      "এ২৭৩",
+      "এ-২৮০",
+      "280",
+      "A-280",
+      "A280",
+      "এ-280",
+      "এ280",
+      "২৮০",
+      "এ২৮০",
       "এ-২৭০",
       "270",
       "A-270",
@@ -6255,11 +6565,335 @@ export const ALL_STOPS = [
       "২৭০",
       "এ২৭০"
     ],
-    "displayRoute": "এ-২৭০",
+    "displayRoute": "এ-২৭৩, A-273 +7",
     "aliases": [
-      "jashimuddin",
-      "জসিমউদ্দিন",
-      "জসীমউদ্দিন"
+      "ecb chattar",
+      "ইসিবি চত্বর",
+      "ecb"
+    ]
+  },
+  {
+    "nameEn": "Kuril",
+    "nameBn": "কুড়িল",
+    "routes": [
+      "এ-২৭৩",
+      "273",
+      "A-273",
+      "A273",
+      "এ-273",
+      "এ273",
+      "২৭৩",
+      "এ২৭৩"
+    ],
+    "displayRoute": "এ-২৭৩, A-273 +1",
+    "aliases": [
+      "kuril",
+      "কুড়িল"
+    ]
+  },
+  {
+    "nameEn": "Uttara Rajlakshmi",
+    "nameBn": "উত্তরা হাউজ বিল্ডিং/মাসকট",
+    "routes": [
+      "এ-২৭৩",
+      "273",
+      "A-273",
+      "A273",
+      "এ-273",
+      "এ273",
+      "২৭৩",
+      "এ২৭৩"
+    ],
+    "displayRoute": "এ-২৭৩, A-273 +1",
+    "aliases": [
+      "uttara rajlakshmi",
+      "উত্তরা",
+      "মাসকট",
+      "উত্তরা রাজলক্ষ্মী",
+      "house building",
+      "হাউজ বিল্ডিং"
+    ]
+  },
+  {
+    "nameEn": "Kochukhet",
+    "nameBn": "কচুক্ষেত",
+    "routes": [
+      "এ-২৭৮",
+      "278",
+      "A-278",
+      "A278",
+      "এ-278",
+      "এ278",
+      "২৭৮",
+      "এ২৭৮"
+    ],
+    "displayRoute": "এ-২৭৮, A-278 +1",
+    "aliases": [
+      "kochukhet",
+      "কচুক্ষেত"
+    ]
+  },
+  {
+    "nameEn": "Sainik Club",
+    "nameBn": "সৈনিক ক্লাব",
+    "routes": [
+      "এ-২৭৮",
+      "278",
+      "A-278",
+      "A278",
+      "এ-278",
+      "এ278",
+      "২৭৮",
+      "এ২৭৮"
+    ],
+    "displayRoute": "এ-২৭৮, A-278 +1",
+    "aliases": [
+      "sainik club",
+      "সৈনিক ক্লাব"
+    ]
+  },
+  {
+    "nameEn": "Badda Link Road",
+    "nameBn": "বাড্ডা লিংক রোড",
+    "routes": [
+      "এ-২৭৮",
+      "278",
+      "A-278",
+      "A278",
+      "এ-278",
+      "এ278",
+      "২৭৮",
+      "এ২৭৮",
+      "এ-২৭০",
+      "270",
+      "A-270",
+      "A270",
+      "এ-270",
+      "এ270",
+      "২৭০",
+      "এ২৭০"
+    ],
+    "displayRoute": "এ-২৭৮, A-278 +4",
+    "aliases": [
+      "badda link road",
+      "বাড্ডা লিংক রোড",
+      "বাড্ডা",
+      "মধ্য বাড্ডা",
+      "madhya badda"
+    ]
+  },
+  {
+    "nameEn": "Beraid",
+    "nameBn": "বেরাইদ",
+    "routes": [
+      "এ-২৭৮",
+      "278",
+      "A-278",
+      "A278",
+      "এ-278",
+      "এ278",
+      "২৭৮",
+      "এ২৭৮"
+    ],
+    "displayRoute": "এ-২৭৮, A-278 +1",
+    "aliases": [
+      "beraid",
+      "বেরাইদ"
+    ]
+  },
+  {
+    "nameEn": "Mirpur DOHS",
+    "nameBn": "মিরপুর ডিওএইচএস",
+    "routes": [
+      "এ-২৮০",
+      "280",
+      "A-280",
+      "A280",
+      "এ-280",
+      "এ280",
+      "২৮০",
+      "এ২৮০"
+    ],
+    "displayRoute": "এ-২৮০, A-280 +1",
+    "aliases": [
+      "mirpur dohs",
+      "মিরপুর ডিওএইচএস"
+    ]
+  },
+  {
+    "nameEn": "Cantonment Signal Gate",
+    "nameBn": "ক্যান্টনমেন্ট সিগন্যাল গেট",
+    "routes": [
+      "এ-২৮০",
+      "280",
+      "A-280",
+      "A280",
+      "এ-280",
+      "এ280",
+      "২৮০",
+      "এ২৮০"
+    ],
+    "displayRoute": "এ-২৮০, A-280 +1",
+    "aliases": [
+      "cantonment signal gate",
+      "ক্যান্টনমেন্ট",
+      "cantonment"
+    ]
+  },
+  {
+    "nameEn": "Workshop",
+    "nameBn": "ওয়ার্ক সপ",
+    "routes": [
+      "এ-২৮০",
+      "280",
+      "A-280",
+      "A280",
+      "এ-280",
+      "এ280",
+      "২৮০",
+      "এ২৮০"
+    ],
+    "displayRoute": "এ-২৮০, A-280 +1",
+    "aliases": [
+      "workshop",
+      "ওয়ার্ক সপ"
+    ]
+  },
+  {
+    "nameEn": "Tanti Bazar",
+    "nameBn": "তাঁতী বাজার",
+    "routes": [
+      "এ-২৮৫",
+      "285",
+      "A-285",
+      "A285",
+      "এ-285",
+      "এ285",
+      "২৮৫",
+      "এ২৮৫"
+    ],
+    "displayRoute": "এ-২৮৫, A-285 +1",
+    "aliases": [
+      "tanti bazar",
+      "তাঁতী বাজার"
+    ]
+  },
+  {
+    "nameEn": "Kadamtali",
+    "nameBn": "কদমতলী",
+    "routes": [
+      "এ-২৮৫",
+      "285",
+      "A-285",
+      "A285",
+      "এ-285",
+      "এ285",
+      "২৮৫",
+      "এ২৮৫"
+    ],
+    "displayRoute": "এ-২৮৫, A-285 +1",
+    "aliases": [
+      "kadamtali",
+      "কদমতলী"
+    ]
+  },
+  {
+    "nameEn": "Mohakhali Amtoli",
+    "nameBn": "মহাখালী আমতলী",
+    "routes": [
+      "এ-২৭০",
+      "270",
+      "A-270",
+      "A270",
+      "এ-270",
+      "এ270",
+      "২৭০",
+      "এ২৭০"
+    ],
+    "displayRoute": "এ-২৭০, A-270 +1",
+    "aliases": [
+      "mohakhali amtoli",
+      "মহাখালী",
+      "mohakhali",
+      "আমতলী"
+    ]
+  },
+  {
+    "nameEn": "Rampura Bazar",
+    "nameBn": "রামপুরা বাজার",
+    "routes": [
+      "এ-২৭০",
+      "270",
+      "A-270",
+      "A270",
+      "এ-270",
+      "এ270",
+      "২৭০",
+      "এ২৭০"
+    ],
+    "displayRoute": "এ-২৭০, A-270 +1",
+    "aliases": [
+      "rampura bazar",
+      "রামপুরা বাজার",
+      "rampura",
+      "রামপুরা"
+    ]
+  },
+  {
+    "nameEn": "Gabtoli Bridge Par",
+    "nameBn": "গাবতলী ব্রীজ পাড়",
+    "routes": [
+      "এ-২৭০",
+      "270",
+      "A-270",
+      "A270",
+      "এ-270",
+      "এ270",
+      "২৭০",
+      "এ২৭০",
+      "এ-২৭১",
+      "271",
+      "A-271",
+      "A271",
+      "এ-271",
+      "এ271",
+      "২৭১",
+      "এ২৭১",
+      "এ-২৭৩",
+      "273",
+      "A-273",
+      "A273",
+      "এ-273",
+      "এ273",
+      "২৭৩",
+      "এ২৭৩"
+    ],
+    "displayRoute": "এ-২৭০, A-270 +7",
+    "aliases": [
+      "gabtoli bridge par",
+      "গাবতলী ব্রীজ পাড়",
+      "gabtoli bridge"
+    ]
+  },
+  {
+    "nameEn": "Keraniganj (Notun Jelkhana)",
+    "nameBn": "কেরানীগঞ্জ (নতুন জেলখানা)",
+    "routes": [
+      "এ-২৮৫",
+      "285",
+      "A-285",
+      "A285",
+      "এ-285",
+      "এ285",
+      "২৮৫",
+      "এ২৮৫"
+    ],
+    "displayRoute": "এ-২৮৫, A-285 +1",
+    "aliases": [
+      "keraniganj (notun jelkhana)",
+      "কেরানীগঞ্জ (নতুন জেলখানা)",
+      "নতুন জেলখানা",
+      "notun jelkhana"
     ]
   }
 ];

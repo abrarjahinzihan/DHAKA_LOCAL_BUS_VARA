@@ -22,25 +22,34 @@ function StopInput({ value, onChange, onSelect, label, bnLabel, placeholder, bnP
     const lqNorm = lq.replace(/[-_ ]/g, '');
     const lqEnNorm = lqEn.replace(/[-_ ]/g, '');
 
-    return ALL_STOPS.filter(s => {
-      // 1. English name
+    const scored = ALL_STOPS.map(s => {
+      let score = 0;
       const en = s.nameEn.toLowerCase();
-      if (en.includes(lq) || en.replace(/[-_ ]/g, '').includes(lqNorm)) return true;
-
-      // 2. Bengali name
-      if (s.nameBn.includes(q.trim())) return true;
-
-      // 3. Aliases
-      if (s.aliases && s.aliases.some(a => {
+      
+      // 1. Exact Name match
+      if (en === lq || s.nameBn === q.trim()) score = 100;
+      else if (en.startsWith(lq) || s.nameBn.startsWith(q.trim())) score = 50;
+      else if (en.includes(lq) || en.replace(/[-_ ]/g, '').includes(lqNorm)) score = 30;
+      else if (s.nameBn.includes(q.trim())) score = 30;
+      
+      // 2. Alias match
+      if (score === 0 && s.aliases && s.aliases.some(a => {
         const al = a.toLowerCase();
-        return al.includes(lq) || a.includes(q.trim()) || al.replace(/[-_ ]/g, '').includes(lqNorm);
-      })) return true;
+        if (al === lq || a === q.trim()) { score = 90; return true; }
+        if (al.startsWith(lq) || a.startsWith(q.trim())) { score = 40; return true; }
+        if (al.includes(lq) || a.includes(q.trim()) || al.replace(/[-_ ]/g, '').includes(lqNorm)) { score = 20; return true; }
+        return false;
+      })) {}
 
-      // 4. Routes (supports searching '182', '১৮২', 'এ-১৮২', '260', '২৬০', 'এ-২৬০', 'A-260', etc.)
-      if (s.routes && s.routes.some(r => {
+      // 3. Route match (lowest priority, e.g. for searching '260' or matching route name like 'BAIPAIL_KERANIGANJ')
+      if (score === 0 && s.routes && s.routes.some(r => {
         const rLower = r.toLowerCase();
         const rNorm = rLower.replace(/[-_ ]/g, '');
         return (
+          rLower === lq ||
+          rLower === lqEn ||
+          r === q.trim() ||
+          r === lqBn ||
           rLower.includes(lq) ||
           rLower.includes(lqEn) ||
           r.includes(q.trim()) ||
@@ -48,10 +57,16 @@ function StopInput({ value, onChange, onSelect, label, bnLabel, placeholder, bnP
           rNorm.includes(lqNorm) ||
           rNorm.includes(lqEnNorm)
         );
-      })) return true;
+      })) {
+        score = 5;
+      }
+      
+      return { stop: s, score };
+    }).filter(item => item.score > 0);
 
-      return false;
-    });
+    // Sort by score descending
+    scored.sort((a, b) => b.score - a.score);
+    return scored.map(item => item.stop);
   }, []);
 
   const handleChange = (e) => {
