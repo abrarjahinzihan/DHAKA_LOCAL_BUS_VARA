@@ -2,7 +2,7 @@ import { useState, useEffect, useRef, useCallback } from 'react';
 import { ALL_STOPS } from './allStops';
 import './App.css';
 
-const API_BASE = 'http://localhost:5000/api';
+const API_BASE = import.meta.env.VITE_API_BASE || 'http://localhost:5000/api';
 
 // ── StopInput ────────────────────────────────────────────────────────
 function StopInput({ value, onChange, onSelect, label, bnLabel, placeholder, bnPlaceholder, icon, id }) {
