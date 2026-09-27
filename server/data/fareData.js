@@ -1127,7 +1127,7 @@ const routes = [
     totalKm: 77.5,
     stops: [
       { id: 0,  nameEn: 'Fulbaria',              nameBn: 'ফুলবাড়ীয়া',         aliases: ['fulbaria', 'ফুলবাড়ীয়া'] },
-      { id: 1,  nameEn: 'Malibagh',              nameBn: 'মালিবাগ',           aliases: ['malibagh', 'মালিবাগ'] },
+      { id: 1,  nameEn: 'Moghbazar',              nameBn: 'মগবাজার',           aliases: ['moghbazar', 'মগবাজার'] },
       { id: 2,  nameEn: 'Nabisco',               nameBn: 'নাবিস্কো',           aliases: ['nabisco', 'নাবিস্কো'] },
       { id: 3,  nameEn: 'Mohakhali',             nameBn: 'মহাখালী',           aliases: ['mohakhali', 'মহাখালী'] },
       { id: 4,  nameEn: 'Banani',                nameBn: 'বনানী',             aliases: ['banani', 'বনানী'] },
@@ -1155,7 +1155,7 @@ const routes = [
     totalKm: 57.8,
     stops: [
       { id: 0,  nameEn: 'Fulbaria',              nameBn: 'ফুলবাড়ীয়া',         aliases: ['fulbaria', 'ফুলবাড়ীয়া'] },
-      { id: 1,  nameEn: 'Malibagh',              nameBn: 'মালিবাগ',           aliases: ['malibagh', 'মালিবাগ'] },
+      { id: 1,  nameEn: 'Moghbazar',              nameBn: 'মগবাজার',           aliases: ['moghbazar', 'মগবাজার'] },
       { id: 2,  nameEn: 'Nabisco',               nameBn: 'নাবিস্কো',           aliases: ['nabisco', 'নাবিস্কো'] },
       { id: 3,  nameEn: 'Mohakhali',             nameBn: 'মহাখালী',           aliases: ['mohakhali', 'মহাখালী'] },
       { id: 4,  nameEn: 'Banani',                nameBn: 'বনানী',             aliases: ['banani', 'বনানী'] },
@@ -1182,7 +1182,7 @@ const routes = [
     stops: [
       { id: 0, nameEn: 'Fulbaria',              nameBn: 'ফুলবাড়ীয়া',         aliases: ['fulbaria', 'ফুলবাড়ীয়া'] },
       { id: 1, nameEn: 'Kakrail',               nameBn: 'কাকরাইল',           aliases: ['kakrail', 'কাকরাইল'] },
-      { id: 2, nameEn: 'Malibagh',              nameBn: 'মালিবাগ',           aliases: ['malibagh', 'মালিবাগ'] },
+      { id: 2, nameEn: 'Moghbazar',              nameBn: 'মগবাজার',           aliases: ['moghbazar', 'মগবাজার'] },
       { id: 3, nameEn: 'Mohakhali',             nameBn: 'মহাখালী',           aliases: ['mohakhali', 'মহাখালী'] },
       { id: 4, nameEn: 'Banani',                nameBn: 'বনানী',             aliases: ['banani', 'বনানী'] },
       { id: 5, nameEn: 'Airport',               nameBn: 'এয়ারপোর্ট',          aliases: ['airport', 'এয়ারপোর্ট'] },
