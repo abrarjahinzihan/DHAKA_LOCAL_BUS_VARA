@@ -367,6 +367,124 @@ const routes = [
       [43,31,19,15,13,10,10,10,0,16],
       [59,48,35,32,30,25,22,20,16,0]
     ]
+  },
+
+  // ══════════════════════════════════════════════
+  // ROUTE A-127: Mirpur Mazar Road → Azimpur
+  // Total: 12.0 km | 10 stops
+  // ══════════════════════════════════════════════
+  {
+    id: 'A127',
+    routeNo: 'এ-১২৭',
+    nameBn: 'মিরপুর মাজার রোড → আজিমপুর',
+    nameEn: 'Mirpur Mazar Road → Azimpur',
+    totalKm: 12.0,
+    stops: [
+      { id: 0, nameEn: 'Mirpur Mazar Road',  nameBn: 'মিরপুর মাজার রোড',   aliases: ['mirpur mazar road','মিরপুর মাজার রোড'] },
+      { id: 1, nameEn: 'Mirpur-1',           nameBn: 'মিরপুর-১',           aliases: ['mirpur-1','মিরপুর-১'] },
+      { id: 2, nameEn: 'Shyamoli',           nameBn: 'শ্যামলী',            aliases: ['shyamoli','শ্যামলী'] },
+      { id: 3, nameEn: 'Asadgate',           nameBn: 'আসাদগেট',            aliases: ['asadgate','আসাদগেট'] },
+      { id: 4, nameEn: 'Russel Square',      nameBn: 'রাসেল স্কয়ার',         aliases: ['russel square','রাসেল স্কয়ার'] },
+      { id: 5, nameEn: 'Kalabagan',          nameBn: 'কলাবাগান',           aliases: ['kalabagan','কলাবাগান'] },
+      { id: 6, nameEn: 'Science Lab',        nameBn: 'সায়েন্সল্যাব',         aliases: ['science lab','সায়েন্সল্যাব'] },
+      { id: 7, nameEn: 'New Market',         nameBn: 'নিউমার্কেট',           aliases: ['new market','নিউমার্কেট'] },
+      { id: 8, nameEn: 'Nilkhet',            nameBn: 'নীলক্ষেত',            aliases: ['nilkhet','নীলক্ষেত'] },
+      { id: 9, nameEn: 'Azimpur',            nameBn: 'আজিমপুর',             aliases: ['azimpur','আজিমপুর'] }
+    ],
+    fareMatrix: [
+      [0,10,12,18,23,24,27,29,29,32],
+      [10,0,10,15,21,22,24,26,26,30],
+      [12,10,0,10,11,12,15,16,17,20],
+      [18,15,10,0,10,10,10,11,11,15],
+      [23,21,11,10,0,10,10,10,10,10],
+      [24,22,12,10,10,0,10,10,10,10],
+      [27,24,15,10,10,10,0,10,10,10],
+      [29,26,16,11,10,10,10,0,10,10],
+      [29,26,17,11,10,10,10,10,0,10],
+      [32,30,20,15,10,10,10,10,10,0]
+    ]
+  },
+
+  // ══════════════════════════════════════════════
+  // ROUTE M14_KHILGAON: Mirpur-14 → Khilgaon Taltola
+  // Total: 25.7 km | 16 stops
+  // ══════════════════════════════════════════════
+  {
+    id: 'M14_KHILGAON',
+    routeNo: 'মিরপুর(১৪)-খিলগাঁও',
+    nameBn: 'মিরপুর(১৪) → খিলগাঁও তালতলা',
+    nameEn: 'Mirpur-14 → Khilgaon Taltola',
+    totalKm: 25.7,
+    stops: [
+      { id: 0,  nameEn: 'Mirpur-14',          nameBn: 'মিরপুর(১৪)',           aliases: ['mirpur-14','মিরপুর(১৪)','মিরপুর ১৪'] },
+      { id: 1,  nameEn: 'Mirpur-10',          nameBn: 'মিরপুর(১০)',           aliases: ['mirpur-10','মিরপুর(১০)','মিরপুর ১০'] },
+      { id: 2,  nameEn: 'Mirpur-1',           nameBn: 'মিরপুর(১)',            aliases: ['mirpur-1','মিরপুর(১)','মিরপুর ১'] },
+      { id: 3,  nameEn: 'Bangla College',     nameBn: 'বাংলা কলেজ',           aliases: ['bangla college','বাংলা কলেজ'] },
+      { id: 4,  nameEn: 'Shyamoli',           nameBn: 'শ্যামলী',              aliases: ['shyamoli','শ্যামলী'] },
+      { id: 5,  nameEn: 'Asadgate',           nameBn: 'আসাদগেট',              aliases: ['asadgate','আসাদগেট'] },
+      { id: 6,  nameEn: 'Shukrabad',          nameBn: 'শুক্রাবাদ',             aliases: ['shukrabad','শুক্রাবাদ'] },
+      { id: 7,  nameEn: 'Kalabagan',          nameBn: 'কলাবাগান',             aliases: ['kalabagan','কলাবাগান'] },
+      { id: 8,  nameEn: 'Science Lab',        nameBn: 'সাইন্সল্যাব',            aliases: ['science lab','সাইন্সল্যাব'] },
+      { id: 9,  nameEn: 'Shahbag',            nameBn: 'শাহবাগ',               aliases: ['shahbag','শাহবাগ'] },
+      { id: 10, nameEn: 'Pressclub',          nameBn: 'প্রেসক্লাব',            aliases: ['pressclub','প্রেসক্লাব'] },
+      { id: 11, nameEn: 'Shapla Chattar',     nameBn: 'শাপলা চত্ত্বর',          aliases: ['shapla chattar','শাপলা চত্ত্বর'] },
+      { id: 12, nameEn: 'Kamalapur',          nameBn: 'কমলাপুর',              aliases: ['kamalapur','কমলাপুর'] },
+      { id: 13, nameEn: 'Basabo',             nameBn: 'বাসাবো',               aliases: ['basabo','বাসাবো'] },
+      { id: 14, nameEn: 'Khilgaon Railgate',  nameBn: 'খিলগাও রেলগেট',        aliases: ['khilgaon railgate','খিলগাও রেলগেট'] },
+      { id: 15, nameEn: 'Khilgaon Taltola',   nameBn: 'খিলগাও তালতলা',        aliases: ['khilgaon taltola','খিলগাও তালতলা'] }
+    ],
+    fareMatrix: [
+      [0,10,10,14,20,24,25,27,32,35,40,46,49,56,63,69],
+      [10,0,10,10,14,18,20,22,26,30,34,41,43,51,57,64],
+      [10,10,0,10,10,14,16,18,22,26,30,36,39,47,53,60],
+      [14,10,10,0,10,10,11,13,18,21,25,32,35,42,49,55],
+      [20,14,10,10,0,10,10,10,12,15,20,26,29,36,43,49],
+      [24,18,14,10,10,0,10,10,10,11,16,22,25,32,39,45],
+      [25,20,16,11,10,10,0,10,10,10,14,21,23,31,38,44],
+      [27,22,18,13,10,10,10,0,10,10,12,19,22,29,36,42],
+      [32,26,22,18,12,10,10,10,0,10,10,14,17,24,31,37],
+      [35,30,26,21,15,11,10,10,10,0,10,10,14,21,28,34],
+      [40,34,30,25,20,16,14,12,10,10,0,10,10,17,23,30],
+      [46,41,36,32,26,22,21,19,14,10,10,0,10,10,17,23],
+      [49,43,39,35,29,25,23,22,17,14,10,10,0,10,14,21],
+      [56,51,47,42,36,32,31,29,24,21,17,10,10,0,10,13],
+      [63,57,53,49,43,39,38,36,31,28,23,17,14,10,0,10],
+      [69,64,60,55,49,45,44,42,37,34,30,23,21,13,10,0]
+    ]
+  },
+
+  // ══════════════════════════════════════════════
+  // ROUTE CHIRIAKHANA_VICTORIA: Chiriakhana → Victoria Park
+  // Total: 16.0 km | 9 stops
+  // ══════════════════════════════════════════════
+  {
+    id: 'CHIRIAKHANA_VICTORIA',
+    routeNo: 'চিড়িয়াখানা-ভিক্টোরিয়া',
+    nameBn: 'চিড়িয়াখানা → ভিক্টোরিয়াপার্ক',
+    nameEn: 'Chiriakhana → Victoria Park',
+    totalKm: 16.0,
+    stops: [
+      { id: 0, nameEn: 'Chiriakhana',        nameBn: 'চিড়িয়াখানা',           aliases: ['chiriakhana','চিড়িয়াখানা'] },
+      { id: 1, nameEn: 'Mirpur-1',           nameBn: 'মিরপুর-১',             aliases: ['mirpur-1','মিরপুর-১'] },
+      { id: 2, nameEn: 'Darus Salam',        nameBn: 'দারুসসালাম',           aliases: ['darus salam','দারুসসালাম'] },
+      { id: 3, nameEn: 'Shyamoli',           nameBn: 'শ্যামলী',              aliases: ['shyamoli','শ্যামলী'] },
+      { id: 4, nameEn: 'Asadgate',           nameBn: 'আসাদগেট',              aliases: ['asadgate','আসাদগেট'] },
+      { id: 5, nameEn: 'Farmgate',           nameBn: 'ফার্মগেট',             aliases: ['farmgate','ফার্মগেট'] },
+      { id: 6, nameEn: 'Pressclub',          nameBn: 'প্রেসক্লাব',           aliases: ['pressclub','প্রেসক্লাব'] },
+      { id: 7, nameEn: 'Gulistan',           nameBn: 'গুলিস্তান',            aliases: ['gulistan','গুলিস্তান'] },
+      { id: 8, nameEn: 'Victoria Park',      nameBn: 'ভিক্টোরিয়াপার্ক',        aliases: ['victoria park','ভিক্টোরিয়াপার্ক'] }
+    ],
+    fareMatrix: [
+      [0,10,10,15,19,24,34,37,43],
+      [10,0,10,10,15,19,29,32,38],
+      [10,10,0,10,10,14,24,27,33],
+      [15,10,10,0,10,10,19,22,29],
+      [19,15,10,10,0,10,15,18,24],
+      [24,19,14,10,10,0,10,13,19],
+      [34,29,24,19,15,10,0,10,10],
+      [37,32,27,22,18,13,10,0,10],
+      [43,38,33,29,24,19,10,10,0]
+    ]
   }
 
 ];

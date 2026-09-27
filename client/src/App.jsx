@@ -66,7 +66,19 @@ const ALL_STOPS = [
   { nameEn: 'ECB Mor',              nameBn: 'ইসিবি মোড়' },
   { nameEn: 'Manik Mia Avenue',     nameBn: 'মানিকমিয়া এভিনিউ' },
   { nameEn: 'Azimpur',              nameBn: 'আজিমপুর' },
-  { nameEn: 'Shishu Mela',          nameBn: 'শিশুমেলা' }
+  { nameEn: 'Shishu Mela',          nameBn: 'শিশুমেলা' },
+  // A-127, M14_KHILGAON unique stops
+  { nameEn: 'Mirpur Mazar Road',    nameBn: 'মিরপুর মাজার রোড' },
+  { nameEn: 'Russel Square',        nameBn: 'রাসেল স্কয়ার' },
+  { nameEn: 'New Market',           nameBn: 'নিউমার্কেট' },
+  { nameEn: 'Nilkhet',              nameBn: 'নীলক্ষেত' },
+  { nameEn: 'Mirpur-14',            nameBn: 'মিরপুর(১৪)' },
+  { nameEn: 'Bangla College',       nameBn: 'বাংলা কলেজ' },
+  { nameEn: 'Shapla Chattar',       nameBn: 'শাপলা চত্ত্বর' },
+  { nameEn: 'Kamalapur',            nameBn: 'কমলাপুর' },
+  { nameEn: 'Basabo',               nameBn: 'বাসাবো' },
+  { nameEn: 'Khilgaon Railgate',    nameBn: 'খিলগাও রেলগেট' },
+  { nameEn: 'Khilgaon Taltola',     nameBn: 'খিলগাও তালতলা' }
 ];
 
 // ── StopInput ────────────────────────────────────────────────────────
@@ -367,7 +379,7 @@ export default function App() {
             <span className="info-value">৳১০</span>
             <span className="info-sep">•</span>
             <span className="info-label">মোট রুট:</span>
-            <span className="info-value">৯টি</span>
+            <span className="info-value">১২টি</span>
           </div>
         </div>
       </header>
