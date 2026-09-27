@@ -898,6 +898,89 @@ const routes = [
     ],
     fareMatrix: [[0,10,11,23,34,43,63,76,79,89,94,95,97,106,113,129,142],[10,null,10,19,30,39,60,72,75,85,90,91,94,103,110,125,138],[11,10,null,12,23,32,53,65,68,78,83,84,87,96,103,118,131],[23,19,12,null,11,20,40,52,56,66,71,72,74,83,90,106,119],[34,30,23,11,null,10,30,42,45,55,60,61,64,73,80,95,108],[43,39,32,20,10,null,20,32,36,46,51,52,54,63,70,86,99],[63,60,53,40,30,20,null,12,15,26,31,32,34,43,50,66,78],[76,72,65,52,42,32,12,null,10,14,18,19,22,31,38,53,66],[79,75,68,56,45,36,15,10,null,10,15,16,19,28,35,50,63],[89,85,78,66,55,46,26,14,10,null,10,10,10,17,24,40,53],[94,90,83,71,60,51,31,18,15,10,null,10,10,12,19,34,47],[95,91,84,72,61,52,32,19,16,10,10,null,10,11,18,34,47],[97,94,87,74,64,54,34,22,19,10,10,10,null,10,16,32,44],[106,103,96,83,73,63,43,31,28,17,12,11,10,null,10,23,35],[113,110,103,90,80,70,50,38,35,24,19,18,16,10,null,16,28],[129,125,118,106,95,86,66,53,50,40,34,34,32,23,16,null,13],[142,138,131,119,108,99,78,66,63,53,47,47,44,35,28,13,null]]
   },
+  {
+    id: 'A252',
+    routeNo: 'এ-২৫২',
+    nameBn: 'ভুলতা → সাইন্সল্যাব',
+    nameEn: 'Bhulta → Science Lab',
+    totalKm: 31.3,
+    stops: [
+      { id: 0, nameEn: 'Bhulta', nameBn: 'ভুলতা', aliases: ["bhulta","ভুলতা"] },
+      { id: 1, nameEn: 'Jatrabari', nameBn: 'যাত্রাবাড়ী', aliases: ["jatrabari","যাত্রাবাড়ী"] },
+      { id: 2, nameEn: 'Gulistan', nameBn: 'গুলিস্তান', aliases: ["gulistan","গুলিস্তান"] },
+      { id: 3, nameEn: 'Shahbag', nameBn: 'শাহবাগ', aliases: ["shahbag","শাহবাগ"] },
+      { id: 4, nameEn: 'Kalabagan', nameBn: 'কলাবাগান', aliases: ["kalabagan","কলাবাগান"] },
+      { id: 5, nameEn: 'Science Lab', nameBn: 'সাইন্সল্যাব', aliases: ["science lab","সাইন্সল্যাব"] }
+    ],
+    fareMatrix: [[0,57,65,73,82,85],[57,null,10,16,25,28],[65,10,null,10,17,19],[73,16,10,null,10,12],[82,25,17,10,null,10],[85,28,19,12,10,null]]
+  },
+  {
+    id: 'A255',
+    routeNo: 'এ-২৫৫',
+    nameBn: 'সায়েদাবাদ → সোনারগাঁও (মেঘনাঘাট)',
+    nameEn: 'Sayedabad → Sonargaon (Meghnaghat)',
+    totalKm: 25.9,
+    stops: [
+      { id: 0, nameEn: 'Sayedabad', nameBn: 'সায়েদাবাদ', aliases: ["sayedabad","সায়েদাবাদ"] },
+      { id: 1, nameEn: 'Jatrabari', nameBn: 'যাত্রাবাড়ী', aliases: ["jatrabari","যাত্রাবাড়ী"] },
+      { id: 2, nameEn: 'Kachpur', nameBn: 'কাঁচপুর', aliases: ["kachpur","কাঁচপুর"] },
+      { id: 3, nameEn: 'Madanpur', nameBn: 'মদনপুর', aliases: ["madanpur","মদনপুর"] },
+      { id: 4, nameEn: 'Mogra Para', nameBn: 'মোগড়া পাড়া', aliases: ["mogra para","মোগড়া পাড়া"] },
+      { id: 5, nameEn: 'Meghna Ghat', nameBn: 'মেঘনা ঘাট', aliases: ["meghna ghat","মেঘনা ঘাট","মেঘনাঘাট"] }
+    ],
+    fareMatrix: [[0,10,28,38,59,70],[10,null,25,35,56,67],[28,25,null,10,31,42],[38,35,10,null,21,32],[59,56,31,21,null,11],[70,67,42,32,11,null]]
+  },
+  {
+    id: 'A256',
+    routeNo: 'এ-২৫৬',
+    nameBn: 'চাঁনখারপুল → মেঘনা ঘাট',
+    nameEn: 'Chankharpul → Meghna Ghat',
+    totalKm: 29.3,
+    stops: [
+      { id: 0, nameEn: 'Chankharpul', nameBn: 'চাঁনখারপুল', aliases: ["chankharpul","চাঁনখারপুল"] },
+      { id: 1, nameEn: 'Gulistan', nameBn: 'গুলিস্তান', aliases: ["gulistan","গুলিস্তান"] },
+      { id: 2, nameEn: 'Jatrabari', nameBn: 'যাত্রাবাড়ী', aliases: ["jatrabari","যাত্রাবাড়ী"] },
+      { id: 3, nameEn: 'Kachpur', nameBn: 'কাঁচপুর', aliases: ["kachpur","কাঁচপুর"] },
+      { id: 4, nameEn: 'Madanpur', nameBn: 'মদনপুর', aliases: ["madanpur","মদনপুর"] },
+      { id: 5, nameEn: 'Sonargaon Mogra Para', nameBn: 'সোনারগাঁও মোগড়া পাড়া', aliases: ["sonargaon mogra para","সোনারগাঁও মোগড়া পাড়া"] },
+      { id: 6, nameEn: 'Meghna Ghat', nameBn: 'মেঘনা ঘাট', aliases: ["meghna ghat","মেঘনা ঘাট","মেঘনাঘাট"] }
+    ],
+    fareMatrix: [[0,10,15,40,49,70,79],[10,null,10,35,43,64,74],[15,10,null,25,34,55,65],[40,35,25,null,10,30,39],[49,43,34,10,null,21,31],[70,64,55,30,21,null,10],[79,74,65,39,31,10,null]]
+  },
+  {
+    id: 'A257',
+    routeNo: 'এ-২৫৭',
+    nameBn: 'কাঁচপুর ব্রীজ → বোর্ড বাজার',
+    nameEn: 'Kachpur Bridge → Board Bazar',
+    totalKm: 40.9,
+    stops: [
+      { id: 0, nameEn: 'Kachpur Bridge', nameBn: 'কাঁচপুর ব্রীজ', aliases: ["kachpur bridge","কাঁচপুর ব্রীজ"] },
+      { id: 1, nameEn: 'Motijheel', nameBn: 'মতিঝিল', aliases: ["motijheel","মতিঝিল"] },
+      { id: 2, nameEn: 'Malibagh', nameBn: 'মালিবাগ', aliases: ["malibagh","মালিবাগ"] },
+      { id: 3, nameEn: 'Pragati Sarani', nameBn: 'প্রগতি সরণী', aliases: ["pragati sarani","প্রগতি সরণী"] },
+      { id: 4, nameEn: 'Airport', nameBn: 'এয়ারপোর্ট', aliases: ["airport","এয়ারপোর্ট"] },
+      { id: 5, nameEn: 'Abdullahpur', nameBn: 'আব্দুল্লাহপুর', aliases: ["abdullahpur","আব্দুল্লাহপুর"] },
+      { id: 6, nameEn: 'Board Bazar', nameBn: 'বোর্ড বাজার', aliases: ["board bazar","বোর্ড বাজার"] }
+    ],
+    fareMatrix: [[0,36,44,60,80,89,110],[36,null,10,24,43,53,74],[44,10,null,16,35,45,66],[60,24,16,null,19,29,50],[80,43,35,19,null,10,31],[89,53,45,29,10,null,21],[110,74,66,50,31,21,null]]
+  },
+  {
+    id: 'A259',
+    routeNo: 'এ-২৫৯',
+    nameBn: 'পলাশী → মেঘনাঘাট',
+    nameEn: 'Palashi → Meghnaghat',
+    totalKm: 33.4,
+    stops: [
+      { id: 0, nameEn: 'Palashi', nameBn: 'পলাশী', aliases: ["palashi","পলাশী"] },
+      { id: 1, nameEn: 'Eden College', nameBn: 'ইডেন কলেজ', aliases: ["eden college","ইডেন কলেজ"] },
+      { id: 2, nameEn: 'Shahbag', nameBn: 'শাহবাগ', aliases: ["shahbag","শাহবাগ"] },
+      { id: 3, nameEn: 'Gulistan', nameBn: 'গুলিস্তান', aliases: ["gulistan","গুলিস্তান"] },
+      { id: 4, nameEn: 'Jatrabari', nameBn: 'যাত্রাবাড়ী', aliases: ["jatrabari","যাত্রাবাড়ী"] },
+      { id: 5, nameEn: 'Shanir Akhra', nameBn: 'শনিরআখড়া', aliases: ["shanir akhra","শনিরআখড়া","শনির আখড়া"] },
+      { id: 6, nameEn: 'Meghnaghat', nameBn: 'মেঘনাঘাট', aliases: ["meghnaghat","মেঘনাঘাট","মেঘনা ঘাট"] }
+    ],
+    fareMatrix: [[0,10,10,16,25,30,90],[10,null,10,14,23,27,88],[10,10,null,10,16,21,81],[16,14,10,null,10,13,74],[25,23,16,10,null,10,65],[30,27,21,13,10,null,60],[90,88,81,74,65,60,null]]
+  },
 ];
 
 module.exports = { routes };
