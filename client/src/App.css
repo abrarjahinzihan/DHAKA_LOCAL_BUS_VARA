@@ -1059,7 +1059,7 @@ tr.highlighted-row {
   background: rgba(255, 255, 255, 0.02);
 }
 
- / *   = = = = =   F e e d b a c k   S e c t i o n   = = = = =   * / 
+/* ===== Feedback Section ===== */
 /* ===== Feedback Section ===== */
 .feedback-section {
   max-width: 600px;
