@@ -1115,7 +1115,108 @@ const routes = [
       [115,109,104,102,90,68,53,41,35,31,18,10,0]
     ]
   },
-
+  // ══════════════════════════════════════════════
+  // ROUTE A-220: Fulbaria → Barmi
+  // Total: 77.5 km | 14 stops
+  // ══════════════════════════════════════════════
+  {
+    id: 'A220',
+    routeNo: 'এ-২২০',
+    nameBn: 'ফুলবাড়ীয়া → বরমী',
+    nameEn: 'Fulbaria → Barmi',
+    totalKm: 77.5,
+    stops: [
+      { id: 0,  nameEn: 'Fulbaria',              nameBn: 'ফুলবাড়ীয়া',         aliases: ['fulbaria', 'ফুলবাড়ীয়া'] },
+      { id: 1,  nameEn: 'Malibagh',              nameBn: 'মালিবাগ',           aliases: ['malibagh', 'মালিবাগ'] },
+      { id: 2,  nameEn: 'Nabisco',               nameBn: 'নাবিস্কো',           aliases: ['nabisco', 'নাবিস্কো'] },
+      { id: 3,  nameEn: 'Mohakhali',             nameBn: 'মহাখালী',           aliases: ['mohakhali', 'মহাখালী'] },
+      { id: 4,  nameEn: 'Banani',                nameBn: 'বনানী',             aliases: ['banani', 'বনানী'] },
+      { id: 5,  nameEn: 'Airport',               nameBn: 'এয়ারপোর্ট',          aliases: ['airport', 'এয়ারপোর্ট'] },
+      { id: 6,  nameEn: 'Tongi',                 nameBn: 'টঙ্গী',             aliases: ['tongi', 'টঙ্গী'] },
+      { id: 7,  nameEn: 'Gazipur Chowrasta',     nameBn: 'গাজীপুর চৌঃ',        aliases: ['gazipur chowrasta', 'গাজীপুর চৌঃ', 'গাজীপুর চৌরাস্তা'] },
+      { id: 8,  nameEn: 'Rajendrapur Chowrasta', nameBn: 'রাজেন্দ্রপুর চৌঃ',    aliases: ['rajendrapur chowrasta', 'রাজেন্দ্রপুর চৌঃ', 'রাজেন্দ্রপুর চৌরাস্তা'] },
+      { id: 9,  nameEn: 'Hotapara',              nameBn: 'হোতাপাড়া',          aliases: ['hotapara', 'হোতাপাড়া'] },
+      { id: 10, nameEn: 'Bagher Bazar',          nameBn: 'বাঘের বাজার',       aliases: ['bagher bazar', 'বাঘের বাজার'] },
+      { id: 11, nameEn: 'Mawna Chowrasta',       nameBn: 'মাওনা চৌরাস্তা',      aliases: ['mawna chowrasta', 'মাওনা চৌরাস্তা', 'মাওনা'] },
+      { id: 12, nameEn: 'Sreepur',               nameBn: 'শ্রীপুর',           aliases: ['sreepur', 'শ্রীপুর'] },
+      { id: 13, nameEn: 'Barmi',                 nameBn: 'বরমী',             aliases: ['barmi', 'বরমী'] }
+    ],
+    fareMatrix: [[0,11,23,25,30,53,68,99,131,141,155,162,191,209],[11,0,11,14,19,42,56,87,120,130,143,151,179,198],[23,11,0,10,10,31,45,76,109,119,132,139,168,187],[25,14,10,0,10,28,42,73,106,116,129,137,165,184],[30,19,10,10,0,23,38,69,101,111,124,132,161,179],[53,42,31,28,23,0,14,45,78,88,101,109,137,156],[68,56,45,42,38,14,0,31,64,74,87,95,123,142],[99,87,76,73,69,45,31,0,33,43,56,63,92,111],[131,120,109,106,101,78,64,33,0,10,23,31,59,78],[141,130,119,116,111,88,74,43,10,0,14,21,49,68],[155,143,132,129,124,101,87,56,23,14,0,10,36,55],[162,151,139,137,132,109,95,63,31,21,10,0,29,47],[191,179,168,165,161,137,123,92,59,49,36,29,0,19],[209,198,187,184,179,156,142,111,78,68,55,47,19,0]]
+  },
+  // ══════════════════════════════════════════════
+  // ROUTE A-221: Fulbaria → Kaliakair
+  // Total: 57.8 km | 12 stops
+  // ══════════════════════════════════════════════
+  {
+    id: 'A221',
+    routeNo: 'এ-২২১',
+    nameBn: 'ফুলবাড়ীয়া → কালিয়াকৈর',
+    nameEn: 'Fulbaria → Kaliakair',
+    totalKm: 57.8,
+    stops: [
+      { id: 0,  nameEn: 'Fulbaria',              nameBn: 'ফুলবাড়ীয়া',         aliases: ['fulbaria', 'ফুলবাড়ীয়া'] },
+      { id: 1,  nameEn: 'Malibagh',              nameBn: 'মালিবাগ',           aliases: ['malibagh', 'মালিবাগ'] },
+      { id: 2,  nameEn: 'Nabisco',               nameBn: 'নাবিস্কো',           aliases: ['nabisco', 'নাবিস্কো'] },
+      { id: 3,  nameEn: 'Mohakhali',             nameBn: 'মহাখালী',           aliases: ['mohakhali', 'মহাখালী'] },
+      { id: 4,  nameEn: 'Banani',                nameBn: 'বনানী',             aliases: ['banani', 'বনানী'] },
+      { id: 5,  nameEn: 'Airport',               nameBn: 'এয়ারপোর্ট',          aliases: ['airport', 'এয়ারপোর্ট'] },
+      { id: 6,  nameEn: 'Tongi',                 nameBn: 'টঙ্গী',             aliases: ['tongi', 'টঙ্গী'] },
+      { id: 7,  nameEn: 'Joydebpur Chowrasta',   nameBn: 'জয়দেবপুর চৌঃ',      aliases: ['joydebpur chowrasta', 'জয়দেবপুর চৌঃ', 'জয়দেবপুর চৌরাস্তা'] },
+      { id: 8,  nameEn: 'Konabari',              nameBn: 'কোনাবাড়ী',          aliases: ['konabari', 'কোনাবাড়ী'] },
+      { id: 9,  nameEn: 'Shafipur',              nameBn: 'সফিপুর',           aliases: ['shafipur', 'সফিপুর'] },
+      { id: 10, nameEn: 'Chandra',               nameBn: 'চন্দ্রা',           aliases: ['chandra', 'চন্দ্রা'] },
+      { id: 11, nameEn: 'Kaliakair',             nameBn: 'কালিয়াকৈর',         aliases: ['kaliakair', 'কালিয়াকৈর'] }
+    ],
+    fareMatrix: [[0,11,23,25,30,53,68,99,118,131,143,156],[11,0,11,14,19,42,56,87,107,120,132,145],[23,11,0,10,10,31,45,76,96,109,121,133],[25,14,10,0,10,28,42,73,93,106,118,131],[30,19,10,10,0,23,38,69,88,101,113,126],[53,42,31,28,23,0,14,45,65,78,90,103],[68,56,45,42,38,14,0,31,51,64,76,89],[99,87,76,73,69,45,31,0,20,33,45,58],[118,107,96,93,88,65,51,20,0,13,25,38],[131,120,109,106,101,78,64,33,13,0,12,25],[143,132,121,118,113,90,76,45,25,12,0,13],[156,145,133,131,126,103,89,58,38,25,13,0]]
+  },
+  // ══════════════════════════════════════════════
+  // ROUTE A-222: Fulbaria → Gausia
+  // Total: 41.5 km | 9 stops
+  // ══════════════════════════════════════════════
+  {
+    id: 'A222',
+    routeNo: 'এ-২২২',
+    nameBn: 'ফুলবাড়ীয়া → গাউছিয়া',
+    nameEn: 'Fulbaria → Gausia',
+    totalKm: 41.5,
+    stops: [
+      { id: 0, nameEn: 'Fulbaria',              nameBn: 'ফুলবাড়ীয়া',         aliases: ['fulbaria', 'ফুলবাড়ীয়া'] },
+      { id: 1, nameEn: 'Kakrail',               nameBn: 'কাকরাইল',           aliases: ['kakrail', 'কাকরাইল'] },
+      { id: 2, nameEn: 'Malibagh',              nameBn: 'মালিবাগ',           aliases: ['malibagh', 'মালিবাগ'] },
+      { id: 3, nameEn: 'Mohakhali',             nameBn: 'মহাখালী',           aliases: ['mohakhali', 'মহাখালী'] },
+      { id: 4, nameEn: 'Banani',                nameBn: 'বনানী',             aliases: ['banani', 'বনানী'] },
+      { id: 5, nameEn: 'Airport',               nameBn: 'এয়ারপোর্ট',          aliases: ['airport', 'এয়ারপোর্ট'] },
+      { id: 6, nameEn: 'Tongi',                 nameBn: 'টঙ্গী',             aliases: ['tongi', 'টঙ্গী'] },
+      { id: 7, nameEn: 'Mirer Bazar',           nameBn: 'মীরের বাজার',       aliases: ['mirer bazar', 'মীরের বাজার'] },
+      { id: 8, nameEn: 'Gausia',                nameBn: 'গাউছিয়া',           aliases: ['gausia', 'গাউছিয়া'] }
+    ],
+    fareMatrix: [[0,10,11,25,30,53,68,99,112],[10,0,10,20,25,48,62,93,107],[11,10,0,14,19,42,56,87,101],[25,20,14,0,10,28,42,73,87],[30,25,19,10,0,23,38,69,82],[53,48,42,28,23,0,14,45,59],[68,62,56,42,38,14,0,31,45],[99,93,87,73,69,45,31,0,14],[112,107,101,87,82,59,45,14,0]]
+  },
+  // ══════════════════════════════════════════════
+  // ROUTE A-224: Fulbaria → Paturia
+  // Total: 92.3 km | 11 stops
+  // ══════════════════════════════════════════════
+  {
+    id: 'A224',
+    routeNo: 'এ-২২৪',
+    nameBn: 'ফুলবাড়ীয়া → পাটুরিয়া',
+    nameEn: 'Fulbaria → Paturia',
+    totalKm: 92.3,
+    stops: [
+      { id: 0,  nameEn: 'Fulbaria',              nameBn: 'ফুলবাড়ীয়া',         aliases: ['fulbaria', 'ফুলবাড়ীয়া'] },
+      { id: 1,  nameEn: 'High Court',            nameBn: 'হাইকোর্ট',          aliases: ['high court', 'হাইকোর্ট'] },
+      { id: 2,  nameEn: 'Matsya Bhaban',         nameBn: 'মৎসভবন',           aliases: ['matsya bhaban', 'মৎসভবন'] },
+      { id: 3,  nameEn: 'Shahbag',               nameBn: 'শাহবাগ',            aliases: ['shahbag', 'শাহবাগ'] },
+      { id: 4,  nameEn: 'Science Lab',           nameBn: 'সাইন্সল্যাব',       aliases: ['science lab', 'সাইন্সল্যাব'] },
+      { id: 5,  nameEn: 'Kalabagan',             nameBn: 'কলাবাগান',          aliases: ['kalabagan', 'কলাবাগান'] },
+      { id: 6,  nameEn: 'Asad Gate',             nameBn: 'আসাদগেট',           aliases: ['asad gate', 'আসাদগেট'] },
+      { id: 7,  nameEn: 'Technical',             nameBn: 'টেকনিক্যাল',        aliases: ['technical', 'টেকনিক্যাল'] },
+      { id: 8,  nameEn: 'Gabtoli',               nameBn: 'গাবতলী',            aliases: ['gabtoli', 'গাবতলী', 'গাবতলি'] },
+      { id: 9,  nameEn: 'Manikganj',             nameBn: 'মানিকগঞ্জ',         aliases: ['manikganj', 'মানিকগঞ্জ'] },
+      { id: 10, nameEn: 'Paturia',               nameBn: 'পাটুরিয়া',          aliases: ['paturia', 'পাটুরিয়া'] }
+    ],
+    fareMatrix: [[0,10,10,10,13,18,22,31,33,176,249],[10,0,10,10,11,16,20,28,31,173,247],[10,10,0,10,10,15,19,27,30,172,246],[10,10,10,0,10,10,13,21,24,166,240],[13,11,10,10,0,10,10,17,20,162,236],[18,16,15,10,10,0,10,12,15,157,231],[22,20,19,13,10,10,0,10,11,153,227],[31,28,27,21,17,12,10,0,10,145,219],[33,31,30,24,20,15,11,10,0,142,216],[176,173,172,166,162,157,153,145,142,0,74],[249,247,246,240,236,231,227,219,216,74,0]]
+  }
 ];
 
 module.exports = { routes };

@@ -170,7 +170,22 @@ const ALL_STOPS = [
   { nameEn: 'Tongi',                nameBn: 'টঙ্গী' },
   { nameEn: 'Banani',               nameBn: 'বনানী' },
   { nameEn: 'Mohammadpur',          nameBn: 'মোহাম্মদপুর' },
-  { nameEn: 'Mazar Gate',           nameBn: 'মাজার গেট' }
+  { nameEn: 'Mazar Gate',           nameBn: 'মাজার গেট' },
+  // Missing stops for A-220, A-221, A-222, A-224
+  { nameEn: 'Rajendrapur Chowrasta',nameBn: 'রাজেন্দ্রপুর চৌঃ' },
+  { nameEn: 'Hotapara',             nameBn: 'হোতাপাড়া' },
+  { nameEn: 'Bagher Bazar',         nameBn: 'বাঘের বাজার' },
+  { nameEn: 'Mawna Chowrasta',      nameBn: 'মাওনা চৌরাস্তা' },
+  { nameEn: 'Barmi',                nameBn: 'বরমী' },
+  { nameEn: 'Joydebpur Chowrasta',  nameBn: 'জয়দেবপুর চৌঃ' },
+  { nameEn: 'Konabari',             nameBn: 'কোনাবাড়ী' },
+  { nameEn: 'Kaliakair',            nameBn: 'কালিয়াকৈর' },
+  { nameEn: 'Mirer Bazar',          nameBn: 'মীরের বাজার' },
+  { nameEn: 'Gausia',               nameBn: 'গাউছিয়া' },
+  { nameEn: 'High Court',           nameBn: 'হাইকোর্ট' },
+  { nameEn: 'Matsya Bhaban',        nameBn: 'মৎসভবন' },
+  { nameEn: 'Manikganj',            nameBn: 'মানিকগঞ্জ' },
+  { nameEn: 'Paturia',              nameBn: 'পাটুরিয়া' }
 ];
 
 // ── StopInput ────────────────────────────────────────────────────────
@@ -471,7 +486,7 @@ export default function App() {
             <span className="info-value">৳১০</span>
             <span className="info-sep">•</span>
             <span className="info-label">মোট রুট:</span>
-            <span className="info-value">৩১টি</span>
+            <span className="info-value">৩৫টি</span>
           </div>
         </div>
       </header>
