@@ -926,7 +926,7 @@ const routes = [
       { id: 2, nameEn: 'Kachpur', nameBn: 'কাঁচপুর', aliases: ["kachpur","কাঁচপুর"] },
       { id: 3, nameEn: 'Madanpur', nameBn: 'মদনপুর', aliases: ["madanpur","মদনপুর"] },
       { id: 4, nameEn: 'Mogra Para', nameBn: 'মোগড়া পাড়া', aliases: ["mogra para","মোগড়া পাড়া"] },
-      { id: 5, nameEn: 'Meghna Ghat', nameBn: 'মেঘনা ঘাট', aliases: ["meghna ghat","মেঘনা ঘাট","মেঘনাঘাট"] }
+      { id: 5, nameEn: 'Meghna Ghat', nameBn: 'মেঘনা ঘাট', aliases: ["meghna ghat","মেঘনা ঘাট","মেঘনাঘাট","meghnaghat"] }
     ],
     fareMatrix: [[0,10,28,38,59,70],[10,null,25,35,56,67],[28,25,null,10,31,42],[38,35,10,null,21,32],[59,56,31,21,null,11],[70,67,42,32,11,null]]
   },
@@ -943,7 +943,7 @@ const routes = [
       { id: 3, nameEn: 'Kachpur', nameBn: 'কাঁচপুর', aliases: ["kachpur","কাঁচপুর"] },
       { id: 4, nameEn: 'Madanpur', nameBn: 'মদনপুর', aliases: ["madanpur","মদনপুর"] },
       { id: 5, nameEn: 'Sonargaon Mogra Para', nameBn: 'সোনারগাঁও মোগড়া পাড়া', aliases: ["sonargaon mogra para","সোনারগাঁও মোগড়া পাড়া"] },
-      { id: 6, nameEn: 'Meghna Ghat', nameBn: 'মেঘনা ঘাট', aliases: ["meghna ghat","মেঘনা ঘাট","মেঘনাঘাট"] }
+      { id: 6, nameEn: 'Meghna Ghat', nameBn: 'মেঘনা ঘাট', aliases: ["meghna ghat","মেঘনা ঘাট","মেঘনাঘাট","meghnaghat"] }
     ],
     fareMatrix: [[0,10,15,40,49,70,79],[10,null,10,35,43,64,74],[15,10,null,25,34,55,65],[40,35,25,null,10,30,39],[49,43,34,10,null,21,31],[70,64,55,30,21,null,10],[79,74,65,39,31,10,null]]
   },
@@ -977,7 +977,7 @@ const routes = [
       { id: 3, nameEn: 'Gulistan', nameBn: 'গুলিস্তান', aliases: ["gulistan","গুলিস্তান"] },
       { id: 4, nameEn: 'Jatrabari', nameBn: 'যাত্রাবাড়ী', aliases: ["jatrabari","যাত্রাবাড়ী"] },
       { id: 5, nameEn: 'Shanir Akhra', nameBn: 'শনিরআখড়া', aliases: ["shanir akhra","শনিরআখড়া","শনির আখড়া"] },
-      { id: 6, nameEn: 'Meghnaghat', nameBn: 'মেঘনাঘাট', aliases: ["meghnaghat","মেঘনাঘাট","মেঘনা ঘাট"] }
+      { id: 6, nameEn: 'Meghnaghat', nameBn: 'মেঘনাঘাট', aliases: ["meghnaghat","মেঘনাঘাট","মেঘনা ঘাট","meghna ghat"] }
     ],
     fareMatrix: [[0,10,10,16,25,30,90],[10,null,10,14,23,27,88],[10,10,null,10,16,21,81],[16,14,10,null,10,13,74],[25,23,16,10,null,10,65],[30,27,21,13,10,null,60],[90,88,81,74,65,60,null]]
   },
