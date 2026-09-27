@@ -416,7 +416,7 @@ export default function App() {
             <span className="info-sep">•</span>
             <div className="route-info-item">
               <span className="info-label">মোট রুট:</span>
-              <span className="info-value">৫৪টি</span>
+              <span className="info-value">১১৬টি</span>
             </div>
           </div>
         </div>
