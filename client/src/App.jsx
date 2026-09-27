@@ -185,7 +185,8 @@ const ALL_STOPS = [
   { nameEn: 'High Court',           nameBn: 'হাইকোর্ট' },
   { nameEn: 'Matsya Bhaban',        nameBn: 'মৎসভবন' },
   { nameEn: 'Manikganj',            nameBn: 'মানিকগঞ্জ' },
-  { nameEn: 'Paturia',              nameBn: 'পাটুরিয়া' }
+  { nameEn: 'Paturia',              nameBn: 'পাটুরিয়া' },
+  { nameEn: 'Gazipur',              nameBn: 'গাজীপুর' }
 ];
 
 // ── StopInput ────────────────────────────────────────────────────────
@@ -486,7 +487,7 @@ export default function App() {
             <span className="info-value">৳১০</span>
             <span className="info-sep">•</span>
             <span className="info-label">মোট রুট:</span>
-            <span className="info-value">৩৫টি</span>
+            <span className="info-value">৩৬টি</span>
           </div>
         </div>
       </header>
