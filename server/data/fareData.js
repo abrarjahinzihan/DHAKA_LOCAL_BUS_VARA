@@ -155,8 +155,8 @@ const routes = [
     },
     {
       "id": 13,
-      "nameEn": "Kachpur Bridge",
-      "nameBn": "কাঁচপুরব্রীজ",
+      "nameEn": "Kanchpur Bridge",
+      "nameBn": "কাঁচপুর ব্রীজ",
       "aliases": [
         "kachpur bridge",
         "kachpur",
@@ -164,7 +164,10 @@ const routes = [
         "কাঁচপুরব্রীজ",
         "কাচপুর ব্রিজ",
         "কাঁচপুর ব্রিজ",
-        "কাচপুর"
+        "কাচপুর",
+        "কাঁচপুর ব্রীজ",
+        "kanchpur bridge",
+        "kanchpur"
       ]
     }
   ],
@@ -7564,8 +7567,7 @@ const routes = [
       "nameBn": "কুড়িল বিশ্বরোড",
       "aliases": [
         "kuril bishwaroad",
-        "কুড়িল বিশ্বরোড",
-        "কুড়িল"
+        "কুড়িল বিশ্বরোড"
       ]
     },
     {
@@ -10087,11 +10089,20 @@ const routes = [
   "stops": [
     {
       "id": 0,
-      "nameEn": "Kachpur",
-      "nameBn": "কাঁচপুর",
+      "nameEn": "Kanchpur Bridge",
+      "nameBn": "কাঁচপুর ব্রীজ",
       "aliases": [
         "kachpur",
-        "কাঁচপুর"
+        "কাঁচপুর",
+        "kachpur bridge",
+        "kachpurbridge",
+        "কাঁচপুরব্রীজ",
+        "কাচপুর ব্রিজ",
+        "কাঁচপুর ব্রিজ",
+        "কাচপুর",
+        "কাঁচপুর ব্রীজ",
+        "kanchpur bridge",
+        "kanchpur"
       ]
     },
     {
@@ -11095,11 +11106,20 @@ const routes = [
     },
     {
       "id": 2,
-      "nameEn": "Kachpur",
-      "nameBn": "কাঁচপুর",
+      "nameEn": "Kanchpur Bridge",
+      "nameBn": "কাঁচপুর ব্রীজ",
       "aliases": [
         "kachpur",
-        "কাঁচপুর"
+        "কাঁচপুর",
+        "kachpur bridge",
+        "kachpurbridge",
+        "কাঁচপুরব্রীজ",
+        "কাচপুর ব্রিজ",
+        "কাঁচপুর ব্রিজ",
+        "কাচপুর",
+        "কাঁচপুর ব্রীজ",
+        "kanchpur bridge",
+        "kanchpur"
       ]
     },
     {
@@ -11219,11 +11239,20 @@ const routes = [
     },
     {
       "id": 3,
-      "nameEn": "Kachpur",
-      "nameBn": "কাঁচপুর",
+      "nameEn": "Kanchpur Bridge",
+      "nameBn": "কাঁচপুর ব্রীজ",
       "aliases": [
         "kachpur",
-        "কাঁচপুর"
+        "কাঁচপুর",
+        "kachpur bridge",
+        "kachpurbridge",
+        "কাঁচপুরব্রীজ",
+        "কাচপুর ব্রিজ",
+        "কাঁচপুর ব্রিজ",
+        "কাচপুর",
+        "কাঁচপুর ব্রীজ",
+        "kanchpur bridge",
+        "kanchpur"
       ]
     },
     {
@@ -11331,11 +11360,19 @@ const routes = [
   "stops": [
     {
       "id": 0,
-      "nameEn": "Kachpur Bridge",
+      "nameEn": "Kanchpur Bridge",
       "nameBn": "কাঁচপুর ব্রীজ",
       "aliases": [
         "kachpur bridge",
-        "কাঁচপুর ব্রীজ"
+        "কাঁচপুর ব্রীজ",
+        "kachpur",
+        "kachpurbridge",
+        "কাঁচপুরব্রীজ",
+        "কাচপুর ব্রিজ",
+        "কাঁচপুর ব্রিজ",
+        "কাচপুর",
+        "kanchpur bridge",
+        "kanchpur"
       ]
     },
     {
@@ -12858,12 +12895,11 @@ const routes = [
   "stops": [
     {
       "id": 0,
-      "nameEn": "Gabtoli Bridge Par",
+      "nameEn": "Gabtoli",
       "nameBn": "গাবতলী ব্রীজ পাড়",
       "aliases": [
-        "gabtoli bridge par",
-        "গাবতলী ব্রীজ পাড়",
-        "gabtoli bridge"
+        "gabtoli",
+        "গাবতলী"
       ]
     },
     {
@@ -13053,12 +13089,11 @@ const routes = [
   "stops": [
     {
       "id": 0,
-      "nameEn": "Gabtoli Bridge Par",
+      "nameEn": "Gabtoli",
       "nameBn": "গাবতলী ব্রীজ পাড়",
       "aliases": [
-        "gabtoli bridge par",
-        "গাবতলী ব্রীজ পাড়",
-        "gabtoli bridge"
+        "gabtoli",
+        "গাবতলী"
       ]
     },
     {
@@ -13941,13 +13976,12 @@ const routes = [
     },
     {
       "id": 11,
-      "nameEn": "Keraniganj (Notun Jelkhana)",
-      "nameBn": "কেরানীগঞ্জ (নতুন জেলখানা)",
+      "nameEn": "Keraniganj",
+      "nameBn": "কেরানীগঞ্জ",
       "aliases": [
-        "keraniganj (notun jelkhana)",
-        "কেরানীগঞ্জ (নতুন জেলখানা)",
-        "নতুন জেলখানা",
-        "notun jelkhana"
+        "keraniganj",
+        "কেরানীগঞ্জ",
+        "keranigonj"
       ]
     }
   ],
@@ -14117,6 +14151,20601 @@ const routes = [
       18,
       14,
       11,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A260",
+  "routeNo": "এ-২৬০",
+  "nameBn": "ফুলবাড়ীয়া পশু হাসপাতাল → ধামরাই",
+  "nameEn": "Fulbaria Poshu Hospital → Dhamrai",
+  "totalKm": 42,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Fulbaria",
+      "nameBn": "ফুলবাড়ীয়া",
+      "aliases": [
+        "fulbaria",
+        "ফুলবাড়ীয়া"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Chankharpul",
+      "nameBn": "চাঁনখারপুল",
+      "aliases": [
+        "chankharpul",
+        "চাঁনখারপুল"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Azimpur",
+      "nameBn": "আজিমপুর",
+      "aliases": [
+        "azimpur",
+        "আজিমপুর"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Asad Gate",
+      "nameBn": "আসাদগেট",
+      "aliases": [
+        "asad gate",
+        "আসাদগেট"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Technical",
+      "nameBn": "টেকনিক্যাল",
+      "aliases": [
+        "technical",
+        "টেকনিক্যাল"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Gabtoli",
+      "nameBn": "গাবতলী",
+      "aliases": [
+        "gabtoli",
+        "গাবতলী",
+        "গাবতলি"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Dhamrai",
+      "nameBn": "ধামরাই",
+      "aliases": [
+        "dhamrai",
+        "ধামরাই"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      14,
+      22,
+      30,
+      32,
+      113
+    ],
+    [
+      10,
+      null,
+      10,
+      18,
+      26,
+      28,
+      109
+    ],
+    [
+      14,
+      10,
+      null,
+      10,
+      16,
+      19,
+      100
+    ],
+    [
+      22,
+      18,
+      10,
+      null,
+      10,
+      11,
+      92
+    ],
+    [
+      30,
+      26,
+      16,
+      10,
+      null,
+      10,
+      84
+    ],
+    [
+      32,
+      28,
+      19,
+      11,
+      10,
+      null,
+      81
+    ],
+    [
+      113,
+      109,
+      100,
+      92,
+      84,
+      81,
+      null
+    ]
+  ]
+},
+{
+  "id": "A264",
+  "routeNo": "এ-২৬৪",
+  "nameBn": "মিরপুর (চিড়িয়াখানা) → পোস্তগোলা",
+  "nameEn": "Mirpur (Chiriakhana) → Postogola",
+  "totalKm": 17.2,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Mirpur Chiriakhana",
+      "nameBn": "মিরপুর (চিড়িয়াখানা)",
+      "aliases": [
+        "mirpur chiriakhana",
+        "মিরপুর (চিড়িয়াখানা)",
+        "চিড়িয়াখানা"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Mirpur-1",
+      "nameBn": "মিরপুর-১",
+      "aliases": [
+        "mirpur-1",
+        "মিরপুর-১",
+        "মিরপুর ১"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Ansar Camp",
+      "nameBn": "আনসারক্যাম্প",
+      "aliases": [
+        "ansar camp",
+        "আনসারক্যাম্প",
+        "আনসার ক্যাম্প"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Technical",
+      "nameBn": "টেকনিক্যাল",
+      "aliases": [
+        "technical",
+        "টেকনিক্যাল"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Golapshah Mazar Fulbaria",
+      "nameBn": "গোলাপশাহ মাজার (ফুলবাড়ীয়া)",
+      "aliases": [
+        "golapshah mazar fulbaria",
+        "গোলাপশাহ মাজার (ফুলবাড়ীয়া)",
+        "গোলাপশাহ মাজার"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Naya Bazar 2 No Bridge",
+      "nameBn": "নয়াবাজার (২নং ঢাল সংলগ্ন)",
+      "aliases": [
+        "naya bazar 2 no bridge",
+        "নয়াবাজার (২নং ঢাল সংলগ্ন)",
+        "নয়াবাজার"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Postogola",
+      "nameBn": "পোস্তগোলা",
+      "aliases": [
+        "postogola",
+        "পোস্তগোলা"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      10,
+      24,
+      38,
+      42,
+      46
+    ],
+    [
+      10,
+      null,
+      10,
+      19,
+      33,
+      38,
+      42
+    ],
+    [
+      10,
+      10,
+      null,
+      17,
+      31,
+      35,
+      39
+    ],
+    [
+      24,
+      19,
+      17,
+      null,
+      14,
+      18,
+      22
+    ],
+    [
+      38,
+      33,
+      31,
+      14,
+      null,
+      10,
+      10
+    ],
+    [
+      42,
+      38,
+      35,
+      18,
+      10,
+      null,
+      10
+    ],
+    [
+      46,
+      42,
+      39,
+      22,
+      10,
+      10,
+      null
+    ]
+  ]
+},
+{
+  "id": "A265",
+  "routeNo": "এ-২৬৫",
+  "nameBn": "জগন্নাথ বিশ্ববিদ্যালয় → চন্দ্রা",
+  "nameEn": "Jagannath University → Chandra",
+  "totalKm": 55.3,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Jagannath University",
+      "nameBn": "জগন্নাথ বিশ্ববিদ্যালয়",
+      "aliases": [
+        "jagannath university",
+        "জগন্নাথ বিশ্ববিদ্যালয়"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Fulbaria",
+      "nameBn": "ফুলবাড়ীয়া",
+      "aliases": [
+        "fulbaria",
+        "ফুলবাড়ীয়া"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Paltan",
+      "nameBn": "পল্টন",
+      "aliases": [
+        "paltan",
+        "পল্টন"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Kakrail",
+      "nameBn": "কাকরাইল",
+      "aliases": [
+        "kakrail",
+        "কাকরাইল"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Moghbazar",
+      "nameBn": "মগবাজার",
+      "aliases": [
+        "moghbazar",
+        "মগবাজার"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Mohakhali",
+      "nameBn": "মহাখালী",
+      "aliases": [
+        "mohakhali",
+        "মহাখালী"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Airport",
+      "nameBn": "এয়ারপোর্ট",
+      "aliases": [
+        "airport",
+        "এয়ারপোর্ট"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Tongi",
+      "nameBn": "টঙ্গী",
+      "aliases": [
+        "tongi",
+        "টঙ্গী"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Gazipur",
+      "nameBn": "গাজীপুর",
+      "aliases": [
+        "gazipur",
+        "গাজীপুর"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Konabari",
+      "nameBn": "কোনাবাড়ী",
+      "aliases": [
+        "konabari",
+        "কোনাবাড়ী"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Shafipur",
+      "nameBn": "সফিপুর",
+      "aliases": [
+        "shafipur",
+        "সফিপুর"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Chandra",
+      "nameBn": "চন্দ্রা",
+      "aliases": [
+        "chandra",
+        "চন্দ্রা"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      10,
+      12,
+      19,
+      30,
+      54,
+      73,
+      103,
+      122,
+      138,
+      149
+    ],
+    [
+      10,
+      null,
+      10,
+      10,
+      14,
+      24,
+      49,
+      68,
+      97,
+      116,
+      132,
+      144
+    ],
+    [
+      10,
+      10,
+      null,
+      10,
+      10,
+      21,
+      45,
+      64,
+      94,
+      113,
+      129,
+      141
+    ],
+    [
+      12,
+      10,
+      10,
+      null,
+      10,
+      18,
+      42,
+      61,
+      90,
+      109,
+      126,
+      137
+    ],
+    [
+      19,
+      14,
+      10,
+      10,
+      null,
+      11,
+      35,
+      54,
+      84,
+      103,
+      119,
+      130
+    ],
+    [
+      30,
+      24,
+      21,
+      18,
+      11,
+      null,
+      24,
+      43,
+      73,
+      92,
+      108,
+      120
+    ],
+    [
+      54,
+      49,
+      45,
+      42,
+      35,
+      24,
+      null,
+      19,
+      49,
+      68,
+      84,
+      95
+    ],
+    [
+      73,
+      68,
+      64,
+      61,
+      54,
+      43,
+      19,
+      null,
+      30,
+      49,
+      65,
+      76
+    ],
+    [
+      103,
+      97,
+      94,
+      90,
+      84,
+      73,
+      49,
+      30,
+      null,
+      19,
+      35,
+      47
+    ],
+    [
+      122,
+      116,
+      113,
+      109,
+      103,
+      92,
+      68,
+      49,
+      19,
+      null,
+      16,
+      28
+    ],
+    [
+      138,
+      132,
+      129,
+      126,
+      119,
+      108,
+      84,
+      65,
+      35,
+      16,
+      null,
+      12
+    ],
+    [
+      149,
+      144,
+      141,
+      137,
+      130,
+      120,
+      95,
+      76,
+      47,
+      28,
+      12,
+      null
+    ]
+  ]
+},
+{
+  "id": "A270",
+  "routeNo": "এ-২৭০",
+  "nameBn": "বসিলা → কামারপাড়া",
+  "nameEn": "Basila → Kamarpara",
+  "totalKm": 29.2,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Bosila",
+      "nameBn": "বসিলা",
+      "aliases": [
+        "basila",
+        "বসিলা",
+        "bosila",
+        "বছিলা"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Asad Avenue",
+      "nameBn": "আসাদ এভিনিউ",
+      "aliases": [
+        "asad avenue",
+        "আসাদ এভিনিউ"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Shyamoli",
+      "nameBn": "শ্যামলী",
+      "aliases": [
+        "shyamoli",
+        "শ্যামলী"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Kalyanpur",
+      "nameBn": "কল্যাণপুর",
+      "aliases": [
+        "kalyanpur",
+        "কল্যাণপুর"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Technical",
+      "nameBn": "টেকনিক্যাল",
+      "aliases": [
+        "technical",
+        "টেকনিক্যাল"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Mirpur-1",
+      "nameBn": "মিরপুর-১",
+      "aliases": [
+        "mirpur-1",
+        "মিরপুর-১",
+        "মিরপুর ১"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Mirpur-2",
+      "nameBn": "মিরপুর-২",
+      "aliases": [
+        "mirpur-2",
+        "মিরপুর-২",
+        "মিরপুর ২"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Mirpur-10",
+      "nameBn": "মিরপুর-১০",
+      "aliases": [
+        "mirpur-10",
+        "মিরপুর-১০",
+        "মিরপুর ১০"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Mirpur-11",
+      "nameBn": "মিরপুর-১১",
+      "aliases": [
+        "mirpur-11",
+        "মিরপুর-১১",
+        "মিরপুর ১১"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Purobi",
+      "nameBn": "পুরবী",
+      "aliases": [
+        "purobi",
+        "পুরবী"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Kalshi",
+      "nameBn": "কালশী",
+      "aliases": [
+        "kalshi",
+        "কালশী"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Khilkhet Bazar",
+      "nameBn": "খিলক্ষেত বাজার",
+      "aliases": [
+        "khilkhet bazar",
+        "খিলক্ষেত বাজার",
+        "খিলক্ষেত"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Airport",
+      "nameBn": "এয়ারপোর্ট",
+      "aliases": [
+        "airport",
+        "এয়ারপোর্ট"
+      ]
+    },
+    {
+      "id": 13,
+      "nameEn": "Jashimuddin",
+      "nameBn": "জসিমউদ্দিন",
+      "aliases": [
+        "jashimuddin",
+        "জসিমউদ্দিন"
+      ]
+    },
+    {
+      "id": 14,
+      "nameEn": "Abdullahpur",
+      "nameBn": "আব্দুল্লাহপুর",
+      "aliases": [
+        "abdullahpur",
+        "আব্দুল্লাহপুর"
+      ]
+    },
+    {
+      "id": 15,
+      "nameEn": "Kamarpara",
+      "nameBn": "কামারপাড়া",
+      "aliases": [
+        "kamarpara",
+        "কামারপাড়া"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      13,
+      16,
+      16,
+      23,
+      26,
+      28,
+      31,
+      32,
+      41,
+      52,
+      63,
+      66,
+      73,
+      79
+    ],
+    [
+      10,
+      null,
+      10,
+      10,
+      10,
+      15,
+      18,
+      20,
+      22,
+      24,
+      32,
+      44,
+      55,
+      58,
+      65,
+      71
+    ],
+    [
+      13,
+      10,
+      null,
+      10,
+      10,
+      10,
+      14,
+      15,
+      18,
+      19,
+      28,
+      39,
+      50,
+      53,
+      60,
+      66
+    ],
+    [
+      16,
+      10,
+      10,
+      null,
+      10,
+      10,
+      11,
+      12,
+      15,
+      16,
+      25,
+      36,
+      47,
+      51,
+      57,
+      63
+    ],
+    [
+      16,
+      10,
+      10,
+      10,
+      null,
+      10,
+      10,
+      11,
+      14,
+      16,
+      24,
+      36,
+      47,
+      50,
+      57,
+      63
+    ],
+    [
+      23,
+      15,
+      10,
+      10,
+      10,
+      null,
+      10,
+      10,
+      10,
+      10,
+      18,
+      29,
+      40,
+      43,
+      50,
+      56
+    ],
+    [
+      26,
+      18,
+      14,
+      11,
+      10,
+      10,
+      null,
+      10,
+      10,
+      10,
+      14,
+      26,
+      37,
+      40,
+      47,
+      52
+    ],
+    [
+      28,
+      20,
+      15,
+      12,
+      11,
+      10,
+      10,
+      null,
+      10,
+      10,
+      13,
+      25,
+      35,
+      39,
+      45,
+      51
+    ],
+    [
+      31,
+      22,
+      18,
+      15,
+      14,
+      10,
+      10,
+      10,
+      null,
+      10,
+      10,
+      22,
+      33,
+      36,
+      43,
+      48
+    ],
+    [
+      32,
+      24,
+      19,
+      16,
+      16,
+      10,
+      10,
+      10,
+      10,
+      null,
+      10,
+      21,
+      31,
+      35,
+      41,
+      47
+    ],
+    [
+      41,
+      32,
+      28,
+      25,
+      24,
+      18,
+      14,
+      13,
+      10,
+      10,
+      null,
+      12,
+      23,
+      26,
+      33,
+      38
+    ],
+    [
+      52,
+      44,
+      39,
+      36,
+      36,
+      29,
+      26,
+      25,
+      22,
+      21,
+      12,
+      null,
+      11,
+      14,
+      21,
+      26
+    ],
+    [
+      63,
+      55,
+      50,
+      47,
+      47,
+      40,
+      37,
+      35,
+      33,
+      31,
+      23,
+      11,
+      null,
+      10,
+      10,
+      16
+    ],
+    [
+      66,
+      58,
+      53,
+      51,
+      50,
+      43,
+      40,
+      39,
+      36,
+      35,
+      26,
+      14,
+      10,
+      null,
+      10,
+      12
+    ],
+    [
+      73,
+      65,
+      60,
+      57,
+      57,
+      50,
+      47,
+      45,
+      43,
+      41,
+      33,
+      21,
+      10,
+      10,
+      null,
+      10
+    ],
+    [
+      79,
+      71,
+      66,
+      63,
+      63,
+      56,
+      52,
+      51,
+      48,
+      47,
+      38,
+      26,
+      16,
+      12,
+      10,
+      null
+    ]
+  ]
+},
+{
+  "id": "A292",
+  "routeNo": "এ-২৯২",
+  "nameBn": "মোহাম্মদপুর শিয়া মসজিদ → নবীনগর (সাভার)",
+  "nameEn": "Mohammadpur Shia Masjid → Nabinagar (Savar)",
+  "totalKm": 40,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Mohammadpur Shia Masjid",
+      "nameBn": "মোহাম্মদপুর শিয়া মসজিদ",
+      "aliases": [
+        "mohammadpur shia masjid",
+        "মোহাম্মদপুর শিয়া মসজিদ",
+        "shia masjid",
+        "শিয়া মসজিদ"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Shyamoli",
+      "nameBn": "শ্যামলী",
+      "aliases": [
+        "shyamoli",
+        "শ্যামলী"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Shishumela",
+      "nameBn": "শিশুমেলা",
+      "aliases": [
+        "shishumela",
+        "শিশুমেলা"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Agargaon",
+      "nameBn": "আগারগাঁও",
+      "aliases": [
+        "agargaon",
+        "আগারগাঁও"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Mohakhali",
+      "nameBn": "মহাখালী",
+      "aliases": [
+        "mohakhali",
+        "মহাখালী"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Banani",
+      "nameBn": "বনানী",
+      "aliases": [
+        "banani",
+        "বনানী"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Airport",
+      "nameBn": "বিমানবন্দর",
+      "aliases": [
+        "airport",
+        "বিমানবন্দর",
+        "এয়ারপোর্ট"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Uttara",
+      "nameBn": "উত্তরা",
+      "aliases": [
+        "uttara",
+        "উত্তরা"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Abdullahpur",
+      "nameBn": "আব্দুল্লাহপুর",
+      "aliases": [
+        "abdullahpur",
+        "আব্দুল্লাহপুর"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Tongi",
+      "nameBn": "টঙ্গী",
+      "aliases": [
+        "tongi",
+        "টঙ্গী"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Ashulia",
+      "nameBn": "আশুলিয়া",
+      "aliases": [
+        "ashulia",
+        "আশুলিয়া"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Nabinagar Savar",
+      "nameBn": "নবীনগর (সাভার)",
+      "aliases": [
+        "nabinagar savar",
+        "নবীনগর (সাভার)",
+        "nabinagar",
+        "নবীনগর",
+        "savar",
+        "সাভার"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      10,
+      11,
+      22,
+      26,
+      47,
+      53,
+      56,
+      68,
+      77,
+      108
+    ],
+    [
+      10,
+      0,
+      10,
+      10,
+      18,
+      22,
+      43,
+      49,
+      52,
+      64,
+      73,
+      104
+    ],
+    [
+      10,
+      10,
+      0,
+      10,
+      16,
+      21,
+      41,
+      47,
+      51,
+      63,
+      71,
+      103
+    ],
+    [
+      11,
+      10,
+      10,
+      0,
+      11,
+      15,
+      36,
+      42,
+      45,
+      57,
+      66,
+      97
+    ],
+    [
+      22,
+      18,
+      16,
+      11,
+      0,
+      10,
+      25,
+      31,
+      35,
+      46,
+      55,
+      86
+    ],
+    [
+      26,
+      22,
+      21,
+      15,
+      10,
+      0,
+      20,
+      26,
+      30,
+      42,
+      50,
+      82
+    ],
+    [
+      47,
+      43,
+      41,
+      36,
+      25,
+      20,
+      0,
+      10,
+      10,
+      21,
+      30,
+      61
+    ],
+    [
+      53,
+      49,
+      47,
+      42,
+      31,
+      26,
+      10,
+      0,
+      10,
+      15,
+      24,
+      55
+    ],
+    [
+      56,
+      52,
+      51,
+      45,
+      35,
+      30,
+      10,
+      10,
+      0,
+      10,
+      21,
+      52
+    ],
+    [
+      68,
+      64,
+      63,
+      57,
+      46,
+      42,
+      21,
+      15,
+      10,
+      0,
+      10,
+      40
+    ],
+    [
+      77,
+      73,
+      71,
+      66,
+      55,
+      50,
+      30,
+      24,
+      21,
+      10,
+      0,
+      31
+    ],
+    [
+      108,
+      104,
+      103,
+      97,
+      86,
+      82,
+      61,
+      55,
+      52,
+      40,
+      31,
+      0
+    ]
+  ]
+},
+{
+  "id": "A294",
+  "routeNo": "এ-২৯৪",
+  "nameBn": "জাপান গার্ডেন সিটি → টঙ্গী",
+  "nameEn": "Japan Garden City → Tongi",
+  "totalKm": 25.2,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Japan Garden City",
+      "nameBn": "জাপান গার্ডেন সিটি",
+      "aliases": [
+        "japan garden city",
+        "জাপান গার্ডেন সিটি",
+        "japan garden"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Shyamoli",
+      "nameBn": "শ্যামলী",
+      "aliases": [
+        "shyamoli",
+        "শ্যামলী"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Agargaon",
+      "nameBn": "আগারগাঁও",
+      "aliases": [
+        "agargaon",
+        "আগারগাঁও"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Mohakhali",
+      "nameBn": "মহাখালী",
+      "aliases": [
+        "mohakhali",
+        "মহাখালী"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Kakoli",
+      "nameBn": "কাকলী",
+      "aliases": [
+        "kakoli",
+        "কাকলী"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Airport",
+      "nameBn": "এয়ারপোর্ট",
+      "aliases": [
+        "airport",
+        "এয়ারপোর্ট",
+        "বিমানবন্দর"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Uttara",
+      "nameBn": "উত্তরা",
+      "aliases": [
+        "uttara",
+        "উত্তরা"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Tongi",
+      "nameBn": "টঙ্গী",
+      "aliases": [
+        "tongi",
+        "টঙ্গী"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      11,
+      22,
+      26,
+      47,
+      53,
+      68
+    ],
+    [
+      10,
+      0,
+      10,
+      18,
+      22,
+      43,
+      49,
+      64
+    ],
+    [
+      11,
+      10,
+      0,
+      10,
+      15,
+      36,
+      42,
+      57
+    ],
+    [
+      22,
+      18,
+      10,
+      0,
+      10,
+      25,
+      31,
+      46
+    ],
+    [
+      26,
+      22,
+      15,
+      10,
+      0,
+      20,
+      26,
+      42
+    ],
+    [
+      47,
+      43,
+      36,
+      25,
+      20,
+      0,
+      10,
+      21
+    ],
+    [
+      53,
+      49,
+      42,
+      31,
+      26,
+      10,
+      0,
+      15
+    ],
+    [
+      68,
+      64,
+      57,
+      46,
+      42,
+      21,
+      15,
+      0
+    ]
+  ]
+},
+{
+  "id": "A295",
+  "routeNo": "এ-২৯৫",
+  "nameBn": "মিরপুর-১২ → মাওয়া ফেরীঘাট",
+  "nameEn": "Mirpur-12 → Mawa Ferighat",
+  "totalKm": 53,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Mirpur-12",
+      "nameBn": "মিরপুর-১২",
+      "aliases": [
+        "mirpur-12",
+        "মিরপুর-১২"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Mirpur-10",
+      "nameBn": "মিরপুর-১০",
+      "aliases": [
+        "mirpur-10",
+        "মিরপুর-১০"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Bijoy Sarani",
+      "nameBn": "বিজয় সরণী",
+      "aliases": [
+        "bijoy sarani",
+        "বিজয় সরণী",
+        "বিজয় সরনি"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Farmgate",
+      "nameBn": "ফার্মগেট",
+      "aliases": [
+        "farmgate",
+        "ফার্মগেট"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Gulistan",
+      "nameBn": "গুলিস্তান",
+      "aliases": [
+        "gulistan",
+        "গুলিস্তান"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Babu Bazar Bridge",
+      "nameBn": "বাবু বাজার ব্রীজ",
+      "aliases": [
+        "babu bazar bridge",
+        "বাবু বাজার ব্রীজ",
+        "babu bazar",
+        "বাবু বাজার"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Mawa Ferighat",
+      "nameBn": "মাওয়া ফেরীঘাট",
+      "aliases": [
+        "mawa ferighat",
+        "মাওয়া ফেরীঘাট",
+        "mawa",
+        "মাওয়া",
+        "ফেরীঘাট"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      25,
+      27,
+      41,
+      49,
+      143
+    ],
+    [
+      10,
+      0,
+      17,
+      19,
+      32,
+      41,
+      135
+    ],
+    [
+      25,
+      17,
+      0,
+      10,
+      15,
+      23,
+      118
+    ],
+    [
+      27,
+      19,
+      10,
+      0,
+      14,
+      22,
+      116
+    ],
+    [
+      41,
+      32,
+      15,
+      14,
+      0,
+      10,
+      103
+    ],
+    [
+      49,
+      41,
+      23,
+      22,
+      10,
+      0,
+      95
+    ],
+    [
+      143,
+      135,
+      118,
+      116,
+      103,
+      95,
+      0
+    ]
+  ]
+},
+{
+  "id": "A299",
+  "routeNo": "এ-২৯৯",
+  "nameBn": "আটি বাজার → টঙ্গী",
+  "nameEn": "Atibazar → Tongi",
+  "totalKm": 29,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Atibazar",
+      "nameBn": "আটিবাজার",
+      "aliases": [
+        "atibazar",
+        "আটিবাজার",
+        "ati bazar",
+        "আটি বাজার"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Mohammadpur",
+      "nameBn": "মোহাম্মদপুর",
+      "aliases": [
+        "mohammadpur",
+        "মোহাম্মদপুর"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Farmgate",
+      "nameBn": "ফার্মগেট",
+      "aliases": [
+        "farmgate",
+        "ফার্মগেট"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Kakoli",
+      "nameBn": "কাকলী",
+      "aliases": [
+        "kakoli",
+        "কাকলী"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Airport",
+      "nameBn": "এয়ারপোর্ট",
+      "aliases": [
+        "airport",
+        "এয়ারপোর্ট",
+        "বিমানবন্দর"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Uttara",
+      "nameBn": "উত্তরা",
+      "aliases": [
+        "uttara",
+        "উত্তরা"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Tongi",
+      "nameBn": "টঙ্গী",
+      "aliases": [
+        "tongi",
+        "টঙ্গী"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      14,
+      22,
+      35,
+      54,
+      62,
+      78
+    ],
+    [
+      14,
+      0,
+      10,
+      22,
+      41,
+      49,
+      65
+    ],
+    [
+      22,
+      10,
+      0,
+      14,
+      32,
+      41,
+      57
+    ],
+    [
+      35,
+      22,
+      14,
+      0,
+      19,
+      27,
+      43
+    ],
+    [
+      54,
+      41,
+      32,
+      19,
+      0,
+      10,
+      24
+    ],
+    [
+      62,
+      49,
+      41,
+      27,
+      10,
+      0,
+      16
+    ],
+    [
+      78,
+      65,
+      57,
+      43,
+      24,
+      16,
+      0
+    ]
+  ]
+},
+{
+  "id": "A301",
+  "routeNo": "এ-৩০১",
+  "nameBn": "জাপান গার্ডেন সিটি → টঙ্গী",
+  "nameEn": "Japan Garden City → Tongi",
+  "totalKm": 29.5,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Japan Garden City",
+      "nameBn": "জাপান গার্ডেন সিটি",
+      "aliases": [
+        "japan garden city",
+        "জাপান গার্ডেন সিটি",
+        "japan garden"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Shyamoli Ring Road",
+      "nameBn": "শ্যামলী রিং রোড",
+      "aliases": [
+        "shyamoli ring road",
+        "শ্যামলী রিং রোড",
+        "শ্যামলী"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Agargaon",
+      "nameBn": "আগারগাঁও",
+      "aliases": [
+        "agargaon",
+        "আগারগাঁও"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Rokeya Sarani",
+      "nameBn": "রোকেয়া সরণী",
+      "aliases": [
+        "rokeya sarani",
+        "রোকেয়া সরণী",
+        "রোকেয়া সরনি"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Mirpur-10",
+      "nameBn": "মিরপুর-১০",
+      "aliases": [
+        "mirpur-10",
+        "মিরপুর-১০"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Purobi",
+      "nameBn": "পূরবী",
+      "aliases": [
+        "purobi",
+        "পূরবী",
+        "পুরবী"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "ECB Chattar",
+      "nameBn": "ইসিবি চত্বর",
+      "aliases": [
+        "ecb chattar",
+        "ইসিবি চত্বর",
+        "ecb"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Airport",
+      "nameBn": "এয়ারপোর্ট",
+      "aliases": [
+        "airport",
+        "এয়ারপোর্ট",
+        "বিমানবন্দর"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Abdullahpur",
+      "nameBn": "আব্দুল্লাহপুর",
+      "aliases": [
+        "abdullahpur",
+        "আব্দুল্লাহপুর"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Tongi",
+      "nameBn": "টঙ্গী",
+      "aliases": [
+        "tongi",
+        "টঙ্গী"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      10,
+      14,
+      19,
+      32,
+      37,
+      55,
+      65,
+      80
+    ],
+    [
+      10,
+      0,
+      10,
+      10,
+      15,
+      28,
+      33,
+      51,
+      61,
+      76
+    ],
+    [
+      10,
+      10,
+      0,
+      10,
+      10,
+      22,
+      27,
+      45,
+      55,
+      70
+    ],
+    [
+      14,
+      10,
+      10,
+      0,
+      10,
+      18,
+      23,
+      41,
+      51,
+      66
+    ],
+    [
+      19,
+      15,
+      10,
+      10,
+      0,
+      13,
+      18,
+      36,
+      46,
+      60
+    ],
+    [
+      32,
+      28,
+      22,
+      18,
+      13,
+      0,
+      10,
+      23,
+      33,
+      48
+    ],
+    [
+      37,
+      33,
+      27,
+      23,
+      18,
+      10,
+      0,
+      18,
+      28,
+      43
+    ],
+    [
+      55,
+      51,
+      45,
+      41,
+      36,
+      23,
+      18,
+      0,
+      10,
+      25
+    ],
+    [
+      65,
+      61,
+      55,
+      51,
+      46,
+      33,
+      28,
+      10,
+      0,
+      15
+    ],
+    [
+      80,
+      76,
+      70,
+      66,
+      60,
+      48,
+      43,
+      25,
+      15,
+      0
+    ]
+  ]
+},
+{
+  "id": "A302",
+  "routeNo": "এ-৩০২",
+  "nameBn": "বনশ্রী (মেরাদিয়া) → সাভার",
+  "nameEn": "Banashree (Meradia) → Savar",
+  "totalKm": 26.7,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Banashree (Meradia)",
+      "nameBn": "বনশ্রী (মেরাদিয়া)",
+      "aliases": [
+        "banashree meradia",
+        "বনশ্রী (মেরাদিয়া)",
+        "বনশ্রী",
+        "মেরাদিয়া"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Rampura Bridge",
+      "nameBn": "রামপুরা ব্রীজ",
+      "aliases": [
+        "rampura bridge",
+        "রামপুরা ব্রীজ"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Gulshan-1",
+      "nameBn": "গুলশান-১",
+      "aliases": [
+        "gulshan-1",
+        "গুলশান-১"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Mohakhali",
+      "nameBn": "মহাখালী",
+      "aliases": [
+        "mohakhali",
+        "মহাখালী"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Agargaon",
+      "nameBn": "আগারগাঁও",
+      "aliases": [
+        "agargaon",
+        "আগারগাঁও"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Shyamoli",
+      "nameBn": "শ্যামলী",
+      "aliases": [
+        "shyamoli",
+        "শ্যামলী"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Kallyanpur",
+      "nameBn": "কল্যাণপুর",
+      "aliases": [
+        "kallyanpur",
+        "কল্যাণপুর"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Gabtoli",
+      "nameBn": "গাবতলী",
+      "aliases": [
+        "gabtoli",
+        "গাবতলী"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Amin Bazar",
+      "nameBn": "আমিন বাজার",
+      "aliases": [
+        "amin bazar",
+        "আমিন বাজার"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Savar",
+      "nameBn": "সাভার",
+      "aliases": [
+        "savar",
+        "সাভার"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      10,
+      14,
+      25,
+      30,
+      32,
+      36,
+      40,
+      72
+    ],
+    [
+      10,
+      0,
+      10,
+      12,
+      22,
+      28,
+      29,
+      33,
+      37,
+      69
+    ],
+    [
+      10,
+      10,
+      0,
+      10,
+      15,
+      21,
+      22,
+      26,
+      30,
+      63
+    ],
+    [
+      14,
+      12,
+      10,
+      0,
+      11,
+      16,
+      17,
+      21,
+      25,
+      58
+    ],
+    [
+      25,
+      22,
+      15,
+      11,
+      0,
+      10,
+      10,
+      11,
+      15,
+      47
+    ],
+    [
+      30,
+      28,
+      21,
+      16,
+      10,
+      0,
+      10,
+      10,
+      10,
+      42
+    ],
+    [
+      32,
+      29,
+      22,
+      17,
+      10,
+      10,
+      0,
+      10,
+      10,
+      41
+    ],
+    [
+      36,
+      33,
+      26,
+      21,
+      11,
+      10,
+      10,
+      0,
+      10,
+      36
+    ],
+    [
+      40,
+      37,
+      30,
+      25,
+      15,
+      10,
+      10,
+      10,
+      0,
+      32
+    ],
+    [
+      72,
+      69,
+      63,
+      58,
+      47,
+      42,
+      41,
+      36,
+      32,
+      0
+    ]
+  ]
+},
+{
+  "id": "A304",
+  "routeNo": "এ-৩০৪",
+  "nameBn": "বছিলা → ধউর",
+  "nameEn": "Bosila → Dhaur",
+  "totalKm": 32.2,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Bosila",
+      "nameBn": "বসিলা",
+      "aliases": [
+        "bosila",
+        "বছিলা",
+        "basila",
+        "বসিলা"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Asad Avenue",
+      "nameBn": "আসাদ এভিনিউ",
+      "aliases": [
+        "asad avenue",
+        "আসাদ এভিনিউ"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Shyamoli",
+      "nameBn": "শ্যামলী",
+      "aliases": [
+        "shyamoli",
+        "শ্যামলী"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Kallyanpur",
+      "nameBn": "কল্যাণপুর",
+      "aliases": [
+        "kallyanpur",
+        "কল্যাণপুর"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Technical",
+      "nameBn": "টেকনিক্যাল",
+      "aliases": [
+        "technical",
+        "টেকনিক্যাল"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Mirpur-1",
+      "nameBn": "মিরপুর-১",
+      "aliases": [
+        "mirpur-1",
+        "মিরপুর-১"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Mirpur-2",
+      "nameBn": "মিরপুর-২",
+      "aliases": [
+        "mirpur-2",
+        "মিরপুর-২"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Mirpur-10",
+      "nameBn": "মিরপুর-১০",
+      "aliases": [
+        "mirpur-10",
+        "মিরপুর-১০"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Mirpur-11",
+      "nameBn": "মিরপুর-১১",
+      "aliases": [
+        "mirpur-11",
+        "মিরপুর-১১"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Purobi",
+      "nameBn": "পূরবী",
+      "aliases": [
+        "purobi",
+        "পূরবী",
+        "পুরবী"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Kalshi",
+      "nameBn": "কালশী",
+      "aliases": [
+        "kalshi",
+        "কালশী"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Shewra Bazar",
+      "nameBn": "শেওড়া বাজার",
+      "aliases": [
+        "shewra bazar",
+        "শেওড়া বাজার"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Airport",
+      "nameBn": "এয়ারপোর্ট",
+      "aliases": [
+        "airport",
+        "এয়ারপোর্ট",
+        "বিমানবন্দর"
+      ]
+    },
+    {
+      "id": 13,
+      "nameEn": "Jashimuddin",
+      "nameBn": "জসীমউদ্দীন",
+      "aliases": [
+        "jashimuddin",
+        "জসীমউদ্দীন"
+      ]
+    },
+    {
+      "id": 14,
+      "nameEn": "Abdullahpur",
+      "nameBn": "আব্দুল্লাহপুর",
+      "aliases": [
+        "abdullahpur",
+        "আব্দুল্লাহপুর"
+      ]
+    },
+    {
+      "id": 15,
+      "nameEn": "Kamarpara",
+      "nameBn": "কামারপাড়া",
+      "aliases": [
+        "kamarpara",
+        "কামারপাড়া"
+      ]
+    },
+    {
+      "id": 16,
+      "nameEn": "Dhaur",
+      "nameBn": "ধউর",
+      "aliases": [
+        "dhaur",
+        "ধউর"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      13,
+      14,
+      16,
+      23,
+      26,
+      28,
+      31,
+      32,
+      41,
+      52,
+      63,
+      66,
+      73,
+      79,
+      87
+    ],
+    [
+      10,
+      0,
+      10,
+      10,
+      10,
+      15,
+      18,
+      20,
+      22,
+      24,
+      32,
+      44,
+      55,
+      58,
+      65,
+      71,
+      79
+    ],
+    [
+      13,
+      10,
+      0,
+      10,
+      10,
+      10,
+      14,
+      15,
+      18,
+      19,
+      28,
+      39,
+      50,
+      53,
+      60,
+      66,
+      74
+    ],
+    [
+      14,
+      10,
+      10,
+      0,
+      10,
+      10,
+      13,
+      14,
+      17,
+      18,
+      27,
+      39,
+      49,
+      53,
+      59,
+      65,
+      74
+    ],
+    [
+      16,
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      11,
+      14,
+      16,
+      24,
+      36,
+      47,
+      50,
+      57,
+      63,
+      71
+    ],
+    [
+      23,
+      15,
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      10,
+      18,
+      29,
+      40,
+      43,
+      50,
+      56,
+      64
+    ],
+    [
+      26,
+      18,
+      14,
+      13,
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      14,
+      26,
+      37,
+      40,
+      47,
+      52,
+      60
+    ],
+    [
+      28,
+      20,
+      15,
+      14,
+      11,
+      10,
+      10,
+      0,
+      10,
+      10,
+      13,
+      25,
+      35,
+      39,
+      45,
+      51,
+      59
+    ],
+    [
+      31,
+      22,
+      18,
+      17,
+      14,
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      22,
+      33,
+      36,
+      43,
+      48,
+      56
+    ],
+    [
+      32,
+      24,
+      19,
+      18,
+      16,
+      10,
+      10,
+      10,
+      10,
+      0,
+      10,
+      21,
+      31,
+      35,
+      41,
+      47,
+      55
+    ],
+    [
+      41,
+      32,
+      28,
+      27,
+      24,
+      18,
+      14,
+      13,
+      10,
+      10,
+      0,
+      12,
+      23,
+      26,
+      33,
+      38,
+      46
+    ],
+    [
+      52,
+      44,
+      39,
+      39,
+      36,
+      29,
+      26,
+      25,
+      22,
+      21,
+      12,
+      0,
+      11,
+      14,
+      21,
+      26,
+      35
+    ],
+    [
+      63,
+      55,
+      50,
+      49,
+      47,
+      40,
+      37,
+      35,
+      33,
+      31,
+      23,
+      11,
+      0,
+      10,
+      10,
+      16,
+      24
+    ],
+    [
+      66,
+      58,
+      53,
+      53,
+      50,
+      43,
+      40,
+      39,
+      36,
+      35,
+      26,
+      14,
+      10,
+      0,
+      10,
+      12,
+      21
+    ],
+    [
+      73,
+      65,
+      60,
+      59,
+      57,
+      50,
+      47,
+      45,
+      43,
+      41,
+      33,
+      21,
+      10,
+      10,
+      0,
+      10,
+      14
+    ],
+    [
+      79,
+      71,
+      66,
+      65,
+      63,
+      56,
+      52,
+      51,
+      48,
+      47,
+      38,
+      26,
+      16,
+      12,
+      10,
+      0,
+      10
+    ],
+    [
+      87,
+      79,
+      74,
+      74,
+      71,
+      64,
+      60,
+      59,
+      56,
+      55,
+      46,
+      35,
+      24,
+      21,
+      14,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A307",
+  "routeNo": "এ-৩০৭",
+  "nameBn": "মিরপুর-১৪ → ইপিজেড",
+  "nameEn": "Mirpur-14 → EPZ",
+  "totalKm": 32.7,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Mirpur-14",
+      "nameBn": "মিরপুর-১৪",
+      "aliases": [
+        "mirpur-14",
+        "মিরপুর-১৪"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Mirpur-10",
+      "nameBn": "মিরপুর-১০",
+      "aliases": [
+        "mirpur-10",
+        "মিরপুর-১০"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Mirpur-2",
+      "nameBn": "মিরপুর-২",
+      "aliases": [
+        "mirpur-2",
+        "মিরপুর-২"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Mirpur-1",
+      "nameBn": "মিরপুর-১",
+      "aliases": [
+        "mirpur-1",
+        "মিরপুর-১"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Gabtoli",
+      "nameBn": "গাবতলী",
+      "aliases": [
+        "gabtoli",
+        "গাবতলী"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Savar",
+      "nameBn": "সাভার",
+      "aliases": [
+        "savar",
+        "সাভার"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Nabinagar",
+      "nameBn": "নবীনগর",
+      "aliases": [
+        "nabinagar",
+        "নবীনগর"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "EPZ",
+      "nameBn": "ইপিজেড",
+      "aliases": [
+        "epz",
+        "ইপিজেড"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      10,
+      12,
+      18,
+      54,
+      76,
+      88
+    ],
+    [
+      10,
+      0,
+      10,
+      10,
+      12,
+      49,
+      70,
+      83
+    ],
+    [
+      10,
+      10,
+      0,
+      10,
+      10,
+      45,
+      66,
+      79
+    ],
+    [
+      12,
+      10,
+      10,
+      0,
+      10,
+      42,
+      63,
+      76
+    ],
+    [
+      18,
+      12,
+      10,
+      10,
+      0,
+      36,
+      58,
+      70
+    ],
+    [
+      54,
+      49,
+      45,
+      42,
+      36,
+      0,
+      22,
+      34
+    ],
+    [
+      76,
+      70,
+      66,
+      63,
+      58,
+      22,
+      0,
+      12
+    ],
+    [
+      88,
+      83,
+      79,
+      76,
+      70,
+      34,
+      12,
+      0
+    ]
+  ]
+},
+{
+  "id": "A309",
+  "routeNo": "এ-৩০৯",
+  "nameBn": "সদরঘাট → ইপিজেড",
+  "nameEn": "Sadarghat → EPZ",
+  "totalKm": 41.7,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Sadarghat",
+      "nameBn": "সদরঘাট",
+      "aliases": [
+        "sadarghat",
+        "সদরঘাট",
+        "সদর ঘাট",
+        "sadar ghat"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Gulistan",
+      "nameBn": "গুলিস্তান",
+      "aliases": [
+        "gulistan",
+        "গুলিস্তান"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Paltan",
+      "nameBn": "পল্টন",
+      "aliases": [
+        "paltan",
+        "পল্টন"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Shahbagh",
+      "nameBn": "শাহবাগ",
+      "aliases": [
+        "shahbagh",
+        "শাহবাগ"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Science Lab",
+      "nameBn": "সাইন্সল্যাব",
+      "aliases": [
+        "science lab",
+        "সাইন্সল্যাব"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Asad Gate",
+      "nameBn": "আসাদগেট",
+      "aliases": [
+        "asad gate",
+        "আসাদগেট"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Gabtoli",
+      "nameBn": "গাবতলী",
+      "aliases": [
+        "gabtoli",
+        "গাবতলী"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Savar",
+      "nameBn": "সাভার",
+      "aliases": [
+        "savar",
+        "সাভার"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Nabinagar",
+      "nameBn": "নবীনগর",
+      "aliases": [
+        "nabinagar",
+        "নবীনগর"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "EPZ",
+      "nameBn": "ইপিজেড",
+      "aliases": [
+        "epz",
+        "ইপিজেড"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      10,
+      16,
+      19,
+      26,
+      41,
+      77,
+      100,
+      113
+    ],
+    [
+      10,
+      0,
+      10,
+      10,
+      12,
+      19,
+      34,
+      70,
+      93,
+      106
+    ],
+    [
+      10,
+      10,
+      0,
+      10,
+      10,
+      16,
+      31,
+      68,
+      90,
+      103
+    ],
+    [
+      16,
+      10,
+      10,
+      0,
+      10,
+      10,
+      25,
+      61,
+      84,
+      97
+    ],
+    [
+      19,
+      12,
+      10,
+      10,
+      0,
+      10,
+      21,
+      58,
+      81,
+      93
+    ],
+    [
+      26,
+      19,
+      16,
+      10,
+      10,
+      0,
+      15,
+      51,
+      74,
+      87
+    ],
+    [
+      41,
+      34,
+      31,
+      25,
+      21,
+      15,
+      0,
+      36,
+      59,
+      72
+    ],
+    [
+      77,
+      70,
+      68,
+      61,
+      58,
+      51,
+      36,
+      0,
+      23,
+      36
+    ],
+    [
+      100,
+      93,
+      90,
+      84,
+      81,
+      74,
+      59,
+      23,
+      0,
+      13
+    ],
+    [
+      113,
+      106,
+      103,
+      97,
+      93,
+      87,
+      72,
+      36,
+      13,
+      0
+    ]
+  ]
+},
+{
+  "id": "A310",
+  "routeNo": "এ-৩১০",
+  "nameBn": "মিরপুর রূপনগর → সায়েদাবাদ",
+  "nameEn": "Mirpur Rupnagar → Sayedabad",
+  "totalKm": 21.6,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Mirpur Rupnagar",
+      "nameBn": "মিরপুর রূপনগর",
+      "aliases": [
+        "mirpur rupnagar",
+        "মিরপুর রূপনগর",
+        "রূপনগর"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Mirpur-12",
+      "nameBn": "মিরপুর-১২",
+      "aliases": [
+        "mirpur-12",
+        "মিরপুর-১২"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Mirpur-11",
+      "nameBn": "মিরপুর-১১",
+      "aliases": [
+        "mirpur-11",
+        "মিরপুর-১১"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Mirpur-10",
+      "nameBn": "মিরপুর-১০",
+      "aliases": [
+        "mirpur-10",
+        "মিরপুর-১০"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Kazipara",
+      "nameBn": "কাজীপাড়া",
+      "aliases": [
+        "kazipara",
+        "কাজীপাড়া"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Shewrapara",
+      "nameBn": "শেওড়াপাড়া",
+      "aliases": [
+        "shewrapara",
+        "শেওড়াপাড়া"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Farmgate",
+      "nameBn": "ফার্মগেট",
+      "aliases": [
+        "farmgate",
+        "ফার্মগেট"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Paltan",
+      "nameBn": "পল্টন",
+      "aliases": [
+        "paltan",
+        "পল্টন"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Dainik Bangla",
+      "nameBn": "দৈনিক বাংলা",
+      "aliases": [
+        "dainik bangla",
+        "দৈনিক বাংলা"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Shapla Chattar",
+      "nameBn": "শাপলা চত্বর",
+      "aliases": [
+        "shapla chattar",
+        "শাপলা চত্বর"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Arambagh",
+      "nameBn": "আরামবাগ",
+      "aliases": [
+        "arambagh",
+        "আরামবাগ"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Kamalapur",
+      "nameBn": "কমলাপুর",
+      "aliases": [
+        "kamalapur",
+        "কমলাপুর"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Sayedabad",
+      "nameBn": "সায়েদাবাদ",
+      "aliases": [
+        "sayedabad",
+        "সায়েদাবাদ"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      10,
+      10,
+      13,
+      15,
+      28,
+      40,
+      42,
+      44,
+      46,
+      48,
+      58
+    ],
+    [
+      10,
+      0,
+      10,
+      10,
+      10,
+      12,
+      24,
+      36,
+      39,
+      41,
+      43,
+      44,
+      55
+    ],
+    [
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      21,
+      33,
+      35,
+      37,
+      39,
+      41,
+      51
+    ],
+    [
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      18,
+      30,
+      32,
+      35,
+      37,
+      38,
+      49
+    ],
+    [
+      13,
+      10,
+      10,
+      10,
+      0,
+      10,
+      14,
+      26,
+      29,
+      31,
+      33,
+      34,
+      45
+    ],
+    [
+      15,
+      12,
+      10,
+      10,
+      10,
+      0,
+      13,
+      25,
+      27,
+      29,
+      31,
+      33,
+      43
+    ],
+    [
+      28,
+      24,
+      21,
+      18,
+      14,
+      13,
+      0,
+      12,
+      14,
+      17,
+      19,
+      20,
+      31
+    ],
+    [
+      40,
+      36,
+      33,
+      30,
+      26,
+      25,
+      12,
+      0,
+      10,
+      10,
+      10,
+      10,
+      19
+    ],
+    [
+      42,
+      39,
+      35,
+      32,
+      29,
+      27,
+      14,
+      10,
+      0,
+      10,
+      10,
+      10,
+      16
+    ],
+    [
+      44,
+      41,
+      37,
+      35,
+      31,
+      29,
+      17,
+      10,
+      10,
+      0,
+      10,
+      10,
+      14
+    ],
+    [
+      46,
+      43,
+      39,
+      37,
+      33,
+      31,
+      19,
+      10,
+      10,
+      10,
+      0,
+      10,
+      12
+    ],
+    [
+      48,
+      44,
+      41,
+      38,
+      34,
+      33,
+      20,
+      10,
+      10,
+      10,
+      10,
+      0,
+      11
+    ],
+    [
+      58,
+      55,
+      51,
+      49,
+      45,
+      43,
+      31,
+      19,
+      16,
+      14,
+      12,
+      11,
+      0
+    ]
+  ]
+},
+{
+  "id": "A314",
+  "routeNo": "এ-৩১৪",
+  "nameBn": "হেমায়েতপুর → ডেমরা স্টাফ কোয়ার্টার",
+  "nameEn": "Hemayetpur → Demra Staff Quarter",
+  "totalKm": 38.8,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Hemayetpur",
+      "nameBn": "হেমায়েতপুর",
+      "aliases": [
+        "hemayetpur",
+        "হেমায়েতপুর"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Gabtoli",
+      "nameBn": "গাবতলী",
+      "aliases": [
+        "gabtoli",
+        "গাবতলী"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Technical",
+      "nameBn": "টেকনিক্যাল",
+      "aliases": [
+        "technical",
+        "টেকনিক্যাল"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Mirpur-1",
+      "nameBn": "মিরপুর-১",
+      "aliases": [
+        "mirpur-1",
+        "মিরপুর-১"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Mirpur-2",
+      "nameBn": "মিরপুর-২",
+      "aliases": [
+        "mirpur-2",
+        "মিরপুর-২"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Mirpur-6",
+      "nameBn": "মিরপুর-৬",
+      "aliases": [
+        "mirpur-6",
+        "মিরপুর-৬"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Mirpur-11",
+      "nameBn": "মিরপুর-১১",
+      "aliases": [
+        "mirpur-11",
+        "মিরপুর-১১"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Kalshi Mor",
+      "nameBn": "কালশীমোড়",
+      "aliases": [
+        "kalshi mor",
+        "কালশীমোড়",
+        "কালশী মোড়"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "ECB Chattar",
+      "nameBn": "ইসিবি চত্বর",
+      "aliases": [
+        "ecb chattar",
+        "ইসিবি চত্বর"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Kuril Bishwaroad",
+      "nameBn": "কুড়িল বিশ্বরোড",
+      "aliases": [
+        "kuril bishwaroad",
+        "কুড়িল বিশ্বরোড"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Rampura",
+      "nameBn": "রামপুরা",
+      "aliases": [
+        "rampura",
+        "রামপুরা"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Banashree",
+      "nameBn": "বনশ্রী",
+      "aliases": [
+        "banashree",
+        "বনশ্রী"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Meradia Bazar",
+      "nameBn": "মেরাদিয়া বাজার",
+      "aliases": [
+        "meradia bazar",
+        "মেরাদিয়া বাজার"
+      ]
+    },
+    {
+      "id": 13,
+      "nameEn": "Staff Quarter",
+      "nameBn": "স্টাফ কোয়ার্টার",
+      "aliases": [
+        "staff quarter",
+        "স্টাফ কোয়ার্টার",
+        "demra staff quarter",
+        "ডেমরা স্টাফ কোয়ার্টার"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      19,
+      23,
+      28,
+      32,
+      35,
+      39,
+      49,
+      54,
+      62,
+      80,
+      83,
+      89,
+      105
+    ],
+    [
+      19,
+      0,
+      10,
+      10,
+      12,
+      16,
+      20,
+      30,
+      35,
+      42,
+      61,
+      64,
+      69,
+      85
+    ],
+    [
+      23,
+      10,
+      0,
+      10,
+      10,
+      12,
+      16,
+      26,
+      31,
+      38,
+      57,
+      60,
+      65,
+      81
+    ],
+    [
+      28,
+      10,
+      10,
+      0,
+      10,
+      10,
+      11,
+      21,
+      26,
+      33,
+      52,
+      55,
+      60,
+      76
+    ],
+    [
+      32,
+      12,
+      10,
+      10,
+      0,
+      10,
+      10,
+      18,
+      22,
+      30,
+      49,
+      51,
+      57,
+      73
+    ],
+    [
+      35,
+      16,
+      12,
+      10,
+      10,
+      0,
+      10,
+      14,
+      19,
+      26,
+      45,
+      48,
+      53,
+      69
+    ],
+    [
+      39,
+      20,
+      16,
+      11,
+      10,
+      10,
+      0,
+      10,
+      15,
+      22,
+      41,
+      44,
+      49,
+      65
+    ],
+    [
+      49,
+      30,
+      26,
+      21,
+      18,
+      14,
+      10,
+      0,
+      10,
+      12,
+      31,
+      34,
+      39,
+      55
+    ],
+    [
+      54,
+      35,
+      31,
+      26,
+      22,
+      19,
+      15,
+      10,
+      0,
+      10,
+      26,
+      29,
+      34,
+      50
+    ],
+    [
+      62,
+      42,
+      38,
+      33,
+      30,
+      26,
+      22,
+      12,
+      10,
+      0,
+      19,
+      22,
+      27,
+      43
+    ],
+    [
+      80,
+      61,
+      57,
+      52,
+      49,
+      45,
+      41,
+      31,
+      26,
+      19,
+      0,
+      10,
+      10,
+      24
+    ],
+    [
+      83,
+      64,
+      60,
+      55,
+      51,
+      48,
+      44,
+      34,
+      29,
+      22,
+      10,
+      0,
+      10,
+      22
+    ],
+    [
+      89,
+      69,
+      65,
+      60,
+      57,
+      53,
+      49,
+      39,
+      34,
+      27,
+      10,
+      10,
+      0,
+      16
+    ],
+    [
+      105,
+      85,
+      81,
+      76,
+      73,
+      69,
+      65,
+      55,
+      50,
+      43,
+      24,
+      22,
+      16,
+      0
+    ]
+  ]
+},
+{
+  "id": "A317",
+  "routeNo": "এ-৩১৭",
+  "nameBn": "দিয়াবাড়ী → পোস্তগোলা",
+  "nameEn": "Diyabari → Postogola",
+  "totalKm": 27.3,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Diyabari Chowrasta",
+      "nameBn": "দিয়াবাড়ী চৌরাস্তা",
+      "aliases": [
+        "diyabari chowrasta",
+        "দিয়াবাড়ী চৌরাস্তা",
+        "diyabari",
+        "দিয়াবাড়ী"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Mascot Plaza",
+      "nameBn": "মাস্কট প্লাজা",
+      "aliases": [
+        "mascot plaza",
+        "মাস্কট প্লাজা"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Airport",
+      "nameBn": "এয়ারপোর্ট",
+      "aliases": [
+        "airport",
+        "এয়ারপোর্ট",
+        "বিমানবন্দর"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Kuril Flyover",
+      "nameBn": "কুড়িল ফ্লাইওভার",
+      "aliases": [
+        "kuril flyover",
+        "কুড়িল ফ্লাইওভার"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Notun Bazar",
+      "nameBn": "নতুন বাজার",
+      "aliases": [
+        "notun bazar",
+        "নতুন বাজার"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Badda",
+      "nameBn": "বাড্ডা",
+      "aliases": [
+        "badda",
+        "বাড্ডা"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Rampura",
+      "nameBn": "রামপুরা",
+      "aliases": [
+        "rampura",
+        "রামপুরা"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Khilgaon Flyover",
+      "nameBn": "খিলগাঁও ফ্লাইওভার",
+      "aliases": [
+        "khilgaon flyover",
+        "খিলগাঁও ফ্লাইওভার",
+        "খিলগাঁও"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "TT Para",
+      "nameBn": "টিটিপাড়া",
+      "aliases": [
+        "tt para",
+        "টিটিপাড়া"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Sayedabad",
+      "nameBn": "সায়েদাবাদ",
+      "aliases": [
+        "sayedabad",
+        "সায়েদাবাদ"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Jatrabari",
+      "nameBn": "যাত্রাবাড়ী",
+      "aliases": [
+        "jatrabari",
+        "যাত্রাবাড়ী"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Postogola",
+      "nameBn": "পোস্তগোলা",
+      "aliases": [
+        "postogola",
+        "পোস্তগোলা"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      12,
+      23,
+      33,
+      39,
+      45,
+      56,
+      60,
+      63,
+      67,
+      74
+    ],
+    [
+      10,
+      0,
+      10,
+      16,
+      26,
+      33,
+      38,
+      49,
+      54,
+      56,
+      60,
+      67
+    ],
+    [
+      12,
+      10,
+      0,
+      11,
+      21,
+      27,
+      33,
+      44,
+      48,
+      51,
+      55,
+      62
+    ],
+    [
+      23,
+      16,
+      11,
+      0,
+      10,
+      16,
+      22,
+      33,
+      38,
+      40,
+      44,
+      51
+    ],
+    [
+      33,
+      26,
+      21,
+      10,
+      0,
+      10,
+      12,
+      23,
+      28,
+      31,
+      34,
+      41
+    ],
+    [
+      39,
+      33,
+      27,
+      16,
+      10,
+      0,
+      10,
+      16,
+      21,
+      24,
+      28,
+      34
+    ],
+    [
+      45,
+      38,
+      33,
+      22,
+      12,
+      10,
+      0,
+      11,
+      15,
+      18,
+      22,
+      29
+    ],
+    [
+      56,
+      49,
+      44,
+      33,
+      23,
+      16,
+      11,
+      0,
+      10,
+      10,
+      11,
+      18
+    ],
+    [
+      60,
+      54,
+      48,
+      38,
+      28,
+      21,
+      15,
+      10,
+      0,
+      10,
+      10,
+      13
+    ],
+    [
+      63,
+      56,
+      51,
+      40,
+      31,
+      24,
+      18,
+      10,
+      10,
+      0,
+      10,
+      11
+    ],
+    [
+      67,
+      60,
+      55,
+      44,
+      34,
+      28,
+      22,
+      11,
+      10,
+      10,
+      0,
+      10
+    ],
+    [
+      74,
+      67,
+      62,
+      51,
+      41,
+      34,
+      29,
+      18,
+      13,
+      11,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A319",
+  "routeNo": "এ-৩১৯",
+  "nameBn": "মিরপুর-১২ → কাঁচপুর ব্রীজ",
+  "nameEn": "Mirpur-12 → Kanchpur Bridge",
+  "totalKm": 30.7,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Mirpur-12",
+      "nameBn": "মিরপুর-১২",
+      "aliases": [
+        "mirpur-12",
+        "মিরপুর-১২"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Kalapani",
+      "nameBn": "কালাপানি",
+      "aliases": [
+        "kalapani",
+        "কালাপানি"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Bangabandhu College",
+      "nameBn": "বঙ্গবন্ধু কলেজ",
+      "aliases": [
+        "bangabandhu college",
+        "বঙ্গবন্ধু কলেজ",
+        "বঙ্গবন্ধু"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Mirpur-11",
+      "nameBn": "মিরপুর-১১",
+      "aliases": [
+        "mirpur-11",
+        "মিরপুর-১১"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Mirpur-10",
+      "nameBn": "মিরপুর-১০",
+      "aliases": [
+        "mirpur-10",
+        "মিরপুর-১০"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Kazipara",
+      "nameBn": "কাজীপাড়া",
+      "aliases": [
+        "kazipara",
+        "কাজীপাড়া"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Farmgate",
+      "nameBn": "ফার্মগেট",
+      "aliases": [
+        "farmgate",
+        "ফার্মগেট"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Gulistan",
+      "nameBn": "গুলিস্তান",
+      "aliases": [
+        "gulistan",
+        "গুলিস্তান"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Sayedabad",
+      "nameBn": "সায়েদাবাদ",
+      "aliases": [
+        "sayedabad",
+        "সায়েদাবাদ"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Jatrabari",
+      "nameBn": "যাত্রাবাড়ী",
+      "aliases": [
+        "jatrabari",
+        "যাত্রাবাড়ী"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Kanchpur Bridge",
+      "nameBn": "কাঁচপুর ব্রীজ",
+      "aliases": [
+        "kanchpur bridge",
+        "কাঁচপুর ব্রীজ",
+        "কাঁচপুর",
+        "kachpur bridge",
+        "kachpur",
+        "kachpurbridge",
+        "কাঁচপুরব্রীজ",
+        "কাচপুর ব্রিজ",
+        "কাঁচপুর ব্রিজ",
+        "কাচপুর",
+        "kanchpur"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      10,
+      12,
+      15,
+      19,
+      33,
+      47,
+      55,
+      58,
+      83
+    ],
+    [
+      10,
+      0,
+      10,
+      10,
+      12,
+      16,
+      31,
+      44,
+      52,
+      55,
+      80
+    ],
+    [
+      10,
+      10,
+      0,
+      10,
+      11,
+      15,
+      29,
+      43,
+      51,
+      53,
+      79
+    ],
+    [
+      12,
+      10,
+      10,
+      0,
+      10,
+      10,
+      21,
+      35,
+      43,
+      45,
+      70
+    ],
+    [
+      15,
+      12,
+      11,
+      10,
+      0,
+      10,
+      18,
+      32,
+      40,
+      42,
+      68
+    ],
+    [
+      19,
+      16,
+      15,
+      10,
+      10,
+      0,
+      14,
+      28,
+      36,
+      38,
+      64
+    ],
+    [
+      33,
+      31,
+      29,
+      21,
+      18,
+      14,
+      0,
+      14,
+      22,
+      24,
+      49
+    ],
+    [
+      47,
+      44,
+      43,
+      35,
+      32,
+      28,
+      14,
+      0,
+      10,
+      11,
+      36
+    ],
+    [
+      55,
+      52,
+      51,
+      43,
+      40,
+      36,
+      22,
+      10,
+      0,
+      10,
+      28
+    ],
+    [
+      58,
+      55,
+      53,
+      45,
+      42,
+      38,
+      24,
+      11,
+      10,
+      0,
+      25
+    ],
+    [
+      83,
+      80,
+      79,
+      70,
+      68,
+      64,
+      49,
+      36,
+      28,
+      25,
+      0
+    ]
+  ]
+},
+{
+  "id": "A320",
+  "routeNo": "এ-৩২০",
+  "nameBn": "চিড়িয়াখানা → যাত্রাবাড়ী",
+  "nameEn": "Chiriakhana → Jatrabari",
+  "totalKm": 27,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Chiriakhana",
+      "nameBn": "চিড়িয়াখানা",
+      "aliases": [
+        "chiriakhana",
+        "চিড়িয়াখানা"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Sony Cinema Hall",
+      "nameBn": "সনি সিনেমা হল",
+      "aliases": [
+        "sony cinema hall",
+        "সনি সিনেমা হল",
+        "sony cinema"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Mirpur-2",
+      "nameBn": "মিরপুর-২",
+      "aliases": [
+        "mirpur-2",
+        "মিরপুর-২"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Mirpur-10",
+      "nameBn": "মিরপুর-১০",
+      "aliases": [
+        "mirpur-10",
+        "মিরপুর-১০"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Mirpur-11",
+      "nameBn": "মিরপুর-১১",
+      "aliases": [
+        "mirpur-11",
+        "মিরপুর-১১"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Purobi",
+      "nameBn": "পূরবী",
+      "aliases": [
+        "purobi",
+        "পূরবী",
+        "পুরবী"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Matikata",
+      "nameBn": "মাটিকাটা",
+      "aliases": [
+        "matikata",
+        "মাটিকাটা"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Cantt. Station",
+      "nameBn": "ক্যান্ট. স্টেশন",
+      "aliases": [
+        "cantt station",
+        "ক্যান্ট. স্টেশন",
+        "cantonment station",
+        "ক্যান্টনমেন্ট স্টেশন"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Kuril Bishwaroad",
+      "nameBn": "কুড়িল বিশ্বরোড",
+      "aliases": [
+        "kuril bishwaroad",
+        "কুড়িল বিশ্বরোড"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Notun Bazar",
+      "nameBn": "নতুন বাজার",
+      "aliases": [
+        "notun bazar",
+        "নতুন বাজার"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Badda",
+      "nameBn": "বাড্ডা",
+      "aliases": [
+        "badda",
+        "বাড্ডা"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Rampura",
+      "nameBn": "রামপুরা",
+      "aliases": [
+        "rampura",
+        "রামপুরা"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Khilgaon Flyover",
+      "nameBn": "খিলগাঁও ফ্লাইওভার",
+      "aliases": [
+        "khilgaon flyover",
+        "খিলগাঁও ফ্লাইওভার",
+        "খিলগাঁও"
+      ]
+    },
+    {
+      "id": 13,
+      "nameEn": "Mugda",
+      "nameBn": "মুগদা",
+      "aliases": [
+        "mugda",
+        "মুগদা"
+      ]
+    },
+    {
+      "id": 14,
+      "nameEn": "TT Para",
+      "nameBn": "টিটিপাড়া",
+      "aliases": [
+        "tt para",
+        "টিটিপাড়া"
+      ]
+    },
+    {
+      "id": 15,
+      "nameEn": "Jatrabari",
+      "nameBn": "যাত্রাবাড়ী",
+      "aliases": [
+        "jatrabari",
+        "যাত্রাবাড়ী"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      10,
+      10,
+      11,
+      13,
+      24,
+      28,
+      36,
+      44,
+      47,
+      52,
+      57,
+      65,
+      68,
+      73
+    ],
+    [
+      10,
+      0,
+      10,
+      10,
+      10,
+      10,
+      19,
+      24,
+      32,
+      39,
+      42,
+      48,
+      52,
+      60,
+      63,
+      68
+    ],
+    [
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      17,
+      21,
+      29,
+      37,
+      40,
+      45,
+      50,
+      58,
+      60,
+      66
+    ],
+    [
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      15,
+      20,
+      28,
+      35,
+      38,
+      43,
+      48,
+      56,
+      59,
+      64
+    ],
+    [
+      11,
+      10,
+      10,
+      10,
+      0,
+      10,
+      12,
+      17,
+      25,
+      32,
+      35,
+      41,
+      45,
+      53,
+      56,
+      62
+    ],
+    [
+      13,
+      10,
+      10,
+      10,
+      10,
+      0,
+      11,
+      15,
+      23,
+      31,
+      34,
+      39,
+      44,
+      52,
+      55,
+      60
+    ],
+    [
+      24,
+      19,
+      17,
+      15,
+      12,
+      11,
+      0,
+      10,
+      13,
+      20,
+      23,
+      28,
+      33,
+      41,
+      44,
+      49
+    ],
+    [
+      28,
+      24,
+      21,
+      20,
+      17,
+      15,
+      10,
+      0,
+      10,
+      15,
+      18,
+      24,
+      28,
+      36,
+      39,
+      45
+    ],
+    [
+      36,
+      32,
+      29,
+      28,
+      25,
+      23,
+      13,
+      10,
+      0,
+      10,
+      10,
+      16,
+      20,
+      28,
+      31,
+      36
+    ],
+    [
+      44,
+      39,
+      37,
+      35,
+      32,
+      31,
+      20,
+      15,
+      10,
+      0,
+      10,
+      10,
+      13,
+      21,
+      24,
+      29
+    ],
+    [
+      47,
+      42,
+      40,
+      38,
+      35,
+      34,
+      23,
+      18,
+      10,
+      10,
+      0,
+      10,
+      10,
+      18,
+      21,
+      26
+    ],
+    [
+      52,
+      48,
+      45,
+      43,
+      41,
+      39,
+      28,
+      24,
+      16,
+      10,
+      10,
+      0,
+      10,
+      13,
+      15,
+      21
+    ],
+    [
+      57,
+      52,
+      50,
+      48,
+      45,
+      44,
+      33,
+      28,
+      20,
+      13,
+      10,
+      10,
+      0,
+      10,
+      11,
+      16
+    ],
+    [
+      65,
+      60,
+      58,
+      56,
+      53,
+      52,
+      41,
+      36,
+      28,
+      21,
+      18,
+      13,
+      10,
+      0,
+      10,
+      10
+    ],
+    [
+      68,
+      63,
+      60,
+      59,
+      56,
+      55,
+      44,
+      39,
+      31,
+      24,
+      21,
+      15,
+      11,
+      10,
+      0,
+      10
+    ],
+    [
+      73,
+      68,
+      66,
+      64,
+      62,
+      60,
+      49,
+      45,
+      36,
+      29,
+      26,
+      21,
+      16,
+      10,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A324",
+  "routeNo": "এ-৩২৪",
+  "nameBn": "বসিলা → আমুলিয়া স্টাফ কোয়ার্টার",
+  "nameEn": "Bosila → Amulia Staff Quarter",
+  "totalKm": 23.4,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Bosila",
+      "nameBn": "বসিলা",
+      "aliases": [
+        "bosila",
+        "বসিলা",
+        "basila",
+        "বছিলা"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Mohammadpur",
+      "nameBn": "মোহাম্মদপুর",
+      "aliases": [
+        "mohammadpur",
+        "মোহাম্মদপুর"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Asad Gate",
+      "nameBn": "আসাদগেট",
+      "aliases": [
+        "asad gate",
+        "আসাদগেট"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Khejur Bagan",
+      "nameBn": "খেজুর বাগান",
+      "aliases": [
+        "khejur bagan",
+        "খেজুর বাগান"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Bijoy Sarani",
+      "nameBn": "বিজয় সরণী",
+      "aliases": [
+        "bijoy sarani",
+        "বিজয় সরণী"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Mohakhali",
+      "nameBn": "মহাখালী",
+      "aliases": [
+        "mohakhali",
+        "মহাখালী"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Gulshan-1",
+      "nameBn": "গুলশান-১",
+      "aliases": [
+        "gulshan-1",
+        "গুলশান-১"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Badda Link Road",
+      "nameBn": "বাড্ডা লিংক রোড",
+      "aliases": [
+        "badda link road",
+        "বাড্ডা লিংক রোড",
+        "মধ্য বাড্ডা"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Rampura",
+      "nameBn": "রামপুরা",
+      "aliases": [
+        "rampura",
+        "রামপুরা"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Banashree",
+      "nameBn": "বনশ্রী",
+      "aliases": [
+        "banashree",
+        "বনশ্রী"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Trimohoni",
+      "nameBn": "ত্রিমোহনী",
+      "aliases": [
+        "trimohoni",
+        "ত্রিমোহনী"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Nandipara Bridge",
+      "nameBn": "নন্দীপাড়া ব্রীজ",
+      "aliases": [
+        "nandipara bridge",
+        "নন্দীপাড়া ব্রীজ",
+        "নন্দীপাড়া"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Meradia Mor",
+      "nameBn": "মেরাদিয়া মোড়",
+      "aliases": [
+        "meradia mor",
+        "মেরাদিয়া মোড়",
+        "মেরাদিয়া"
+      ]
+    },
+    {
+      "id": 13,
+      "nameEn": "Amulia Staff Quarter",
+      "nameBn": "আমুলিয়া স্টাফ কোয়ার্টার",
+      "aliases": [
+        "amulia staff quarter",
+        "আমুলিয়া স্টাফ কোয়ার্টার",
+        "amulia",
+        "আমুলিয়া"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      10,
+      10,
+      15,
+      22,
+      27,
+      32,
+      38,
+      41,
+      47,
+      54,
+      56,
+      63
+    ],
+    [
+      10,
+      0,
+      10,
+      10,
+      12,
+      19,
+      23,
+      29,
+      34,
+      37,
+      44,
+      50,
+      53,
+      60
+    ],
+    [
+      10,
+      10,
+      0,
+      10,
+      10,
+      14,
+      19,
+      24,
+      30,
+      32,
+      39,
+      46,
+      48,
+      55
+    ],
+    [
+      10,
+      10,
+      10,
+      0,
+      10,
+      13,
+      18,
+      23,
+      28,
+      31,
+      38,
+      45,
+      47,
+      54
+    ],
+    [
+      15,
+      12,
+      10,
+      10,
+      0,
+      10,
+      12,
+      17,
+      22,
+      25,
+      32,
+      39,
+      41,
+      48
+    ],
+    [
+      22,
+      19,
+      14,
+      13,
+      10,
+      0,
+      10,
+      10,
+      16,
+      18,
+      25,
+      32,
+      34,
+      41
+    ],
+    [
+      27,
+      23,
+      19,
+      18,
+      12,
+      10,
+      0,
+      10,
+      11,
+      14,
+      20,
+      27,
+      29,
+      36
+    ],
+    [
+      32,
+      29,
+      24,
+      23,
+      17,
+      10,
+      10,
+      0,
+      10,
+      10,
+      15,
+      22,
+      24,
+      31
+    ],
+    [
+      38,
+      34,
+      30,
+      28,
+      22,
+      16,
+      11,
+      10,
+      0,
+      10,
+      10,
+      16,
+      18,
+      25
+    ],
+    [
+      41,
+      37,
+      32,
+      31,
+      25,
+      18,
+      14,
+      10,
+      10,
+      0,
+      10,
+      14,
+      16,
+      23
+    ],
+    [
+      47,
+      44,
+      39,
+      38,
+      32,
+      25,
+      20,
+      15,
+      10,
+      10,
+      0,
+      10,
+      10,
+      16
+    ],
+    [
+      54,
+      50,
+      46,
+      45,
+      39,
+      32,
+      27,
+      22,
+      16,
+      14,
+      10,
+      0,
+      10,
+      10
+    ],
+    [
+      56,
+      53,
+      48,
+      47,
+      41,
+      34,
+      29,
+      24,
+      18,
+      16,
+      10,
+      10,
+      0,
+      10
+    ],
+    [
+      63,
+      60,
+      55,
+      54,
+      48,
+      41,
+      36,
+      31,
+      25,
+      23,
+      16,
+      10,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A327",
+  "routeNo": "এ-৩২৭",
+  "nameBn": "মিরপুর-১৪ → মতিঝিল",
+  "nameEn": "Mirpur-14 → Motijheel",
+  "totalKm": 13.5,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Mirpur-14",
+      "nameBn": "মিরপুর-১৪",
+      "aliases": [
+        "mirpur-14",
+        "মিরপুর-১৪"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Kachukhet",
+      "nameBn": "কচুক্ষেত",
+      "aliases": [
+        "kachukhet",
+        "কচুক্ষেত"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Farmgate",
+      "nameBn": "ফার্মগেট",
+      "aliases": [
+        "farmgate",
+        "ফার্মগেট"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Kawran Bazar",
+      "nameBn": "কারওয়ান বাজার",
+      "aliases": [
+        "kawran bazar",
+        "কারওয়ান বাজার",
+        "karwan bazar"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Shahbagh",
+      "nameBn": "শাহবাগ",
+      "aliases": [
+        "shahbagh",
+        "শাহবাগ"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Gulistan",
+      "nameBn": "গুলিস্তান",
+      "aliases": [
+        "gulistan",
+        "গুলিস্তান"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Motijheel",
+      "nameBn": "মতিঝিল",
+      "aliases": [
+        "motijheel",
+        "মতিঝিল"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      18,
+      20,
+      23,
+      31,
+      36
+    ],
+    [
+      10,
+      0,
+      15,
+      18,
+      20,
+      28,
+      34
+    ],
+    [
+      18,
+      15,
+      0,
+      10,
+      10,
+      13,
+      19
+    ],
+    [
+      20,
+      18,
+      10,
+      0,
+      10,
+      10,
+      16
+    ],
+    [
+      23,
+      20,
+      10,
+      10,
+      0,
+      10,
+      14
+    ],
+    [
+      31,
+      28,
+      13,
+      10,
+      10,
+      0,
+      10
+    ],
+    [
+      36,
+      34,
+      19,
+      16,
+      14,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A329",
+  "routeNo": "এ-৩২৯",
+  "nameBn": "বসিলা → সাইনবোর্ড",
+  "nameEn": "Bosila → Signboard",
+  "totalKm": 20.8,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Bosila",
+      "nameBn": "বসিলা",
+      "aliases": [
+        "bosila",
+        "বসিলা",
+        "basila",
+        "বছিলা"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Mohammadpur Bus Stand",
+      "nameBn": "মোহাম্মদপুর বাস স্ট্যান্ড",
+      "aliases": [
+        "mohammadpur bus stand",
+        "মোহাম্মদপুর বাস স্ট্যান্ড",
+        "mohammadpur",
+        "মোহাম্মদপুর"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Jigatola",
+      "nameBn": "জিগাতলা",
+      "aliases": [
+        "jigatola",
+        "জিগাতলা"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Science Lab",
+      "nameBn": "সাইন্সল্যাব",
+      "aliases": [
+        "science lab",
+        "সাইন্সল্যাব"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Bata Signal",
+      "nameBn": "বাটা সিগন্যাল",
+      "aliases": [
+        "bata signal",
+        "বাটা সিগন্যাল"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Shahbagh",
+      "nameBn": "শাহবাগ",
+      "aliases": [
+        "shahbagh",
+        "শাহবাগ"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Matsya Bhaban",
+      "nameBn": "মৎস্য ভবন",
+      "aliases": [
+        "matsya bhaban",
+        "মৎস্য ভবন"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Gulistan",
+      "nameBn": "গুলিস্তান",
+      "aliases": [
+        "gulistan",
+        "গুলিস্তান"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Tikatuli",
+      "nameBn": "টিকাটুলি",
+      "aliases": [
+        "tikatuli",
+        "টিকাটুলি"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Shanir Akhra",
+      "nameBn": "শনির আখড়া",
+      "aliases": [
+        "shanir akhra",
+        "শনির আখড়া"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Signboard",
+      "nameBn": "সাইনবোর্ড",
+      "aliases": [
+        "signboard",
+        "সাইনবোর্ড"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      10,
+      10,
+      15,
+      18,
+      23,
+      25,
+      30,
+      46,
+      56
+    ],
+    [
+      10,
+      0,
+      10,
+      10,
+      10,
+      13,
+      18,
+      21,
+      25,
+      41,
+      51
+    ],
+    [
+      10,
+      10,
+      0,
+      10,
+      10,
+      11,
+      16,
+      19,
+      23,
+      39,
+      49
+    ],
+    [
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      13,
+      15,
+      20,
+      36,
+      46
+    ],
+    [
+      15,
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      11,
+      15,
+      31,
+      41
+    ],
+    [
+      18,
+      13,
+      11,
+      10,
+      10,
+      0,
+      10,
+      10,
+      12,
+      29,
+      39
+    ],
+    [
+      23,
+      18,
+      16,
+      13,
+      10,
+      10,
+      0,
+      10,
+      10,
+      23,
+      33
+    ],
+    [
+      25,
+      21,
+      19,
+      15,
+      11,
+      10,
+      10,
+      0,
+      10,
+      21,
+      31
+    ],
+    [
+      30,
+      25,
+      23,
+      20,
+      15,
+      12,
+      10,
+      10,
+      0,
+      16,
+      26
+    ],
+    [
+      46,
+      41,
+      39,
+      36,
+      31,
+      29,
+      23,
+      21,
+      16,
+      0,
+      10
+    ],
+    [
+      56,
+      51,
+      49,
+      46,
+      41,
+      39,
+      33,
+      31,
+      26,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A330",
+  "routeNo": "এ-৩৩০",
+  "nameBn": "নবীনগর → দিয়াবাড়ী",
+  "nameEn": "Nabinagar → Diyabari",
+  "totalKm": 31.8,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Nabinagar",
+      "nameBn": "নবীনগর",
+      "aliases": [
+        "nabinagar",
+        "নবীনগর"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "EPZ",
+      "nameBn": "ইপিজেড",
+      "aliases": [
+        "epz",
+        "ইপিজেড"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Baipail",
+      "nameBn": "বাইপাইল",
+      "aliases": [
+        "baipail",
+        "বাইপাইল"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Jamgora",
+      "nameBn": "জামগড়া",
+      "aliases": [
+        "jamgora",
+        "জামগড়া"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Fantasy Kingdom",
+      "nameBn": "ফ্যান্টাসি",
+      "aliases": [
+        "fantasy kingdom",
+        "ফ্যান্টাসি"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Ashulia",
+      "nameBn": "আশুলিয়া",
+      "aliases": [
+        "ashulia",
+        "আশুলিয়া"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Dhaur",
+      "nameBn": "ধউর",
+      "aliases": [
+        "dhaur",
+        "ধউর"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Prottasha",
+      "nameBn": "প্রত্যাশা",
+      "aliases": [
+        "prottasha",
+        "প্রত্যাশা"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Pallabi",
+      "nameBn": "পল্লবী",
+      "aliases": [
+        "pallabi",
+        "পল্লবী"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Purobi",
+      "nameBn": "পূরবী",
+      "aliases": [
+        "purobi",
+        "পূরবী",
+        "পুরবী"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Mirpur-11",
+      "nameBn": "মিরপুর-১১",
+      "aliases": [
+        "mirpur-11",
+        "মিরপুর-১১"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Mirpur-10",
+      "nameBn": "মিরপুর-১০",
+      "aliases": [
+        "mirpur-10",
+        "মিরপুর-১০"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Mirpur-1",
+      "nameBn": "মিরপুর-১",
+      "aliases": [
+        "mirpur-1",
+        "মিরপুর-১"
+      ]
+    },
+    {
+      "id": 13,
+      "nameEn": "Diyabari",
+      "nameBn": "দিয়াবাড়ী",
+      "aliases": [
+        "diyabari",
+        "দিয়াবাড়ী"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      22,
+      28,
+      30,
+      42,
+      54,
+      58,
+      66,
+      69,
+      72,
+      78,
+      82,
+      86
+    ],
+    [
+      10,
+      0,
+      12,
+      18,
+      21,
+      33,
+      44,
+      49,
+      57,
+      60,
+      62,
+      69,
+      73,
+      77
+    ],
+    [
+      22,
+      12,
+      0,
+      10,
+      10,
+      21,
+      32,
+      37,
+      45,
+      47,
+      50,
+      57,
+      60,
+      64
+    ],
+    [
+      28,
+      18,
+      10,
+      0,
+      10,
+      15,
+      26,
+      31,
+      39,
+      41,
+      44,
+      51,
+      54,
+      58
+    ],
+    [
+      30,
+      21,
+      10,
+      10,
+      0,
+      12,
+      23,
+      28,
+      36,
+      39,
+      41,
+      48,
+      52,
+      56
+    ],
+    [
+      42,
+      33,
+      21,
+      15,
+      12,
+      0,
+      11,
+      16,
+      24,
+      27,
+      29,
+      36,
+      39,
+      43
+    ],
+    [
+      54,
+      44,
+      32,
+      26,
+      23,
+      11,
+      0,
+      10,
+      13,
+      15,
+      18,
+      25,
+      28,
+      32
+    ],
+    [
+      58,
+      49,
+      37,
+      31,
+      28,
+      16,
+      10,
+      0,
+      10,
+      11,
+      14,
+      20,
+      24,
+      28
+    ],
+    [
+      66,
+      57,
+      45,
+      39,
+      36,
+      24,
+      13,
+      10,
+      0,
+      10,
+      10,
+      12,
+      16,
+      20
+    ],
+    [
+      69,
+      60,
+      47,
+      41,
+      39,
+      27,
+      15,
+      11,
+      10,
+      0,
+      10,
+      10,
+      13,
+      17
+    ],
+    [
+      72,
+      62,
+      50,
+      44,
+      41,
+      29,
+      18,
+      14,
+      10,
+      10,
+      0,
+      10,
+      10,
+      14
+    ],
+    [
+      78,
+      69,
+      57,
+      51,
+      48,
+      36,
+      25,
+      20,
+      12,
+      10,
+      10,
+      0,
+      10,
+      10
+    ],
+    [
+      82,
+      73,
+      60,
+      54,
+      52,
+      39,
+      28,
+      24,
+      16,
+      13,
+      10,
+      10,
+      0,
+      10
+    ],
+    [
+      86,
+      77,
+      64,
+      58,
+      56,
+      43,
+      32,
+      28,
+      20,
+      17,
+      14,
+      10,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A331",
+  "routeNo": "এ-৩৩১",
+  "nameBn": "নন্দন পার্ক → সাইনবোর্ড",
+  "nameEn": "Nandan Park → Signboard",
+  "totalKm": 58.6,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Nandan Park",
+      "nameBn": "নন্দন পার্ক",
+      "aliases": [
+        "nandan park",
+        "নন্দন পার্ক",
+        "নন্দন"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "EPZ",
+      "nameBn": "ইপিজেড",
+      "aliases": [
+        "epz",
+        "ইপিজেড"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Nabinagar",
+      "nameBn": "নবীনগর",
+      "aliases": [
+        "nabinagar",
+        "নবীনগর"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Savar",
+      "nameBn": "সাভার",
+      "aliases": [
+        "savar",
+        "সাভার"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Hemayetpur",
+      "nameBn": "হেমায়েতপুর",
+      "aliases": [
+        "hemayetpur",
+        "হেমায়েতপুর"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Gabtoli",
+      "nameBn": "গাবতলী",
+      "aliases": [
+        "gabtoli",
+        "গাবতলী"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Shyamoli",
+      "nameBn": "শ্যামলী",
+      "aliases": [
+        "shyamoli",
+        "শ্যামলী"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Asad Gate",
+      "nameBn": "আসাদগেট",
+      "aliases": [
+        "asad gate",
+        "আসাদগেট"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Farmgate",
+      "nameBn": "ফার্মগেট",
+      "aliases": [
+        "farmgate",
+        "ফার্মগেট"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Banglamotor",
+      "nameBn": "বাংলামটর",
+      "aliases": [
+        "banglamotor",
+        "বাংলামটর"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Shahbagh",
+      "nameBn": "শাহবাগ",
+      "aliases": [
+        "shahbagh",
+        "শাহবাগ"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Press Club",
+      "nameBn": "প্রেসক্লাব",
+      "aliases": [
+        "press club",
+        "প্রেসক্লাব"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Paltan",
+      "nameBn": "পল্টন",
+      "aliases": [
+        "paltan",
+        "পল্টন"
+      ]
+    },
+    {
+      "id": 13,
+      "nameEn": "Motijheel",
+      "nameBn": "মতিঝিল",
+      "aliases": [
+        "motijheel",
+        "মতিঝিল"
+      ]
+    },
+    {
+      "id": 14,
+      "nameEn": "Tikatuli",
+      "nameBn": "টিকাটুলি",
+      "aliases": [
+        "tikatuli",
+        "টিকাটুলি"
+      ]
+    },
+    {
+      "id": 15,
+      "nameEn": "Sayedabad",
+      "nameBn": "সায়েদাবাদ",
+      "aliases": [
+        "sayedabad",
+        "সায়েদাবাদ"
+      ]
+    },
+    {
+      "id": 16,
+      "nameEn": "Jatrabari",
+      "nameBn": "যাত্রাবাড়ী",
+      "aliases": [
+        "jatrabari",
+        "যাত্রাবাড়ী"
+      ]
+    },
+    {
+      "id": 17,
+      "nameEn": "Shanir Akhra",
+      "nameBn": "শনির আখড়া",
+      "aliases": [
+        "shanir akhra",
+        "শনির আখড়া"
+      ]
+    },
+    {
+      "id": 18,
+      "nameEn": "Signboard",
+      "nameBn": "সাইনবোর্ড",
+      "aliases": [
+        "signboard",
+        "সাইনবোর্ড"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      26,
+      38,
+      60,
+      76,
+      97,
+      106,
+      110,
+      115,
+      121,
+      123,
+      128,
+      130,
+      136,
+      139,
+      142,
+      145,
+      149,
+      158
+    ],
+    [
+      26,
+      0,
+      12,
+      34,
+      50,
+      71,
+      80,
+      84,
+      89,
+      95,
+      97,
+      102,
+      104,
+      110,
+      113,
+      116,
+      119,
+      123,
+      132
+    ],
+    [
+      38,
+      12,
+      0,
+      22,
+      38,
+      59,
+      68,
+      72,
+      77,
+      83,
+      85,
+      90,
+      92,
+      98,
+      101,
+      104,
+      107,
+      111,
+      120
+    ],
+    [
+      60,
+      34,
+      22,
+      0,
+      16,
+      37,
+      46,
+      50,
+      55,
+      61,
+      63,
+      68,
+      70,
+      76,
+      79,
+      82,
+      85,
+      89,
+      98
+    ],
+    [
+      76,
+      50,
+      38,
+      16,
+      0,
+      21,
+      29,
+      33,
+      39,
+      44,
+      47,
+      52,
+      53,
+      59,
+      62,
+      66,
+      68,
+      73,
+      82
+    ],
+    [
+      97,
+      71,
+      59,
+      37,
+      21,
+      0,
+      10,
+      13,
+      18,
+      24,
+      26,
+      31,
+      33,
+      39,
+      42,
+      45,
+      48,
+      52,
+      61
+    ],
+    [
+      106,
+      80,
+      68,
+      46,
+      29,
+      10,
+      0,
+      10,
+      10,
+      15,
+      18,
+      23,
+      24,
+      30,
+      33,
+      36,
+      39,
+      43,
+      53
+    ],
+    [
+      110,
+      84,
+      72,
+      50,
+      33,
+      13,
+      10,
+      0,
+      10,
+      11,
+      14,
+      18,
+      20,
+      26,
+      29,
+      32,
+      35,
+      39,
+      48
+    ],
+    [
+      115,
+      89,
+      77,
+      55,
+      39,
+      18,
+      10,
+      10,
+      0,
+      10,
+      10,
+      13,
+      14,
+      21,
+      23,
+      27,
+      29,
+      34,
+      43
+    ],
+    [
+      121,
+      95,
+      83,
+      61,
+      44,
+      24,
+      15,
+      11,
+      10,
+      0,
+      10,
+      10,
+      10,
+      15,
+      18,
+      21,
+      24,
+      28,
+      38
+    ],
+    [
+      123,
+      97,
+      85,
+      63,
+      47,
+      26,
+      18,
+      14,
+      10,
+      10,
+      0,
+      10,
+      10,
+      12,
+      15,
+      19,
+      21,
+      26,
+      35
+    ],
+    [
+      128,
+      102,
+      90,
+      68,
+      52,
+      31,
+      23,
+      18,
+      13,
+      10,
+      10,
+      0,
+      10,
+      10,
+      11,
+      14,
+      16,
+      21,
+      30
+    ],
+    [
+      130,
+      104,
+      92,
+      70,
+      53,
+      33,
+      24,
+      20,
+      14,
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      12,
+      15,
+      19,
+      29
+    ],
+    [
+      136,
+      110,
+      98,
+      76,
+      59,
+      39,
+      30,
+      26,
+      21,
+      15,
+      12,
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      13,
+      22
+    ],
+    [
+      139,
+      113,
+      101,
+      79,
+      62,
+      42,
+      33,
+      29,
+      23,
+      18,
+      15,
+      11,
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      19
+    ],
+    [
+      142,
+      116,
+      104,
+      82,
+      66,
+      45,
+      36,
+      32,
+      27,
+      21,
+      19,
+      14,
+      12,
+      10,
+      10,
+      0,
+      10,
+      10,
+      16
+    ],
+    [
+      145,
+      119,
+      107,
+      85,
+      68,
+      48,
+      39,
+      35,
+      29,
+      24,
+      21,
+      16,
+      15,
+      10,
+      10,
+      10,
+      0,
+      10,
+      14
+    ],
+    [
+      149,
+      123,
+      111,
+      89,
+      73,
+      52,
+      43,
+      39,
+      34,
+      28,
+      26,
+      21,
+      19,
+      13,
+      10,
+      10,
+      10,
+      0,
+      10
+    ],
+    [
+      158,
+      132,
+      120,
+      98,
+      82,
+      61,
+      53,
+      48,
+      43,
+      38,
+      35,
+      30,
+      29,
+      22,
+      19,
+      16,
+      14,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A333",
+  "routeNo": "এ-৩৩৩",
+  "nameBn": "মিরপুর-১৪ → নন্দন পার্ক",
+  "nameEn": "Mirpur-14 → Nandan Park",
+  "totalKm": 39.8,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Mirpur-14",
+      "nameBn": "মিরপুর-১৪",
+      "aliases": [
+        "mirpur-14",
+        "মিরপুর-১৪"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Mirpur-10",
+      "nameBn": "মিরপুর-১০",
+      "aliases": [
+        "mirpur-10",
+        "মিরপুর-১০"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Mirpur-1",
+      "nameBn": "মিরপুর-১",
+      "aliases": [
+        "mirpur-1",
+        "মিরপুর-১"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Dhaur",
+      "nameBn": "ধউর",
+      "aliases": [
+        "dhaur",
+        "ধউর"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Ashulia",
+      "nameBn": "আশুলিয়া",
+      "aliases": [
+        "ashulia",
+        "আশুলিয়া"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Fantasy Kingdom",
+      "nameBn": "ফ্যান্টাসি",
+      "aliases": [
+        "fantasy kingdom",
+        "ফ্যান্টাসি"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "EPZ",
+      "nameBn": "ইপিজেড",
+      "aliases": [
+        "epz",
+        "ইপিজেড"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Nandan Park",
+      "nameBn": "নন্দন পার্ক",
+      "aliases": [
+        "nandan park",
+        "নন্দন পার্ক",
+        "নন্দন"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      11,
+      47,
+      69,
+      78,
+      99,
+      107
+    ],
+    [
+      10,
+      0,
+      10,
+      41,
+      63,
+      73,
+      94,
+      102
+    ],
+    [
+      11,
+      10,
+      0,
+      36,
+      58,
+      68,
+      89,
+      97
+    ],
+    [
+      47,
+      41,
+      36,
+      0,
+      22,
+      32,
+      53,
+      61
+    ],
+    [
+      69,
+      63,
+      58,
+      22,
+      0,
+      10,
+      31,
+      39
+    ],
+    [
+      78,
+      73,
+      68,
+      32,
+      10,
+      0,
+      21,
+      29
+    ],
+    [
+      99,
+      94,
+      89,
+      53,
+      31,
+      21,
+      0,
+      10
+    ],
+    [
+      107,
+      102,
+      97,
+      61,
+      39,
+      29,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A341",
+  "routeNo": "এ-৩৪১",
+  "nameBn": "সাইনবোর্ড → বাইপাইল",
+  "nameEn": "Signboard → Baipail",
+  "totalKm": 48.7,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Signboard",
+      "nameBn": "সাইনবোর্ড",
+      "aliases": [
+        "signboard",
+        "সাইনবোর্ড"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Shanir Akhra",
+      "nameBn": "শনির আখড়া",
+      "aliases": [
+        "shanir akhra",
+        "শনির আখড়া"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Jatrabari",
+      "nameBn": "যাত্রাবাড়ী",
+      "aliases": [
+        "jatrabari",
+        "যাত্রাবাড়ী"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Gulistan",
+      "nameBn": "গুলিস্তান",
+      "aliases": [
+        "gulistan",
+        "গুলিস্তান",
+        "ফুলবাড়িয়া"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Kakrail",
+      "nameBn": "কাকরাইল",
+      "aliases": [
+        "kakrail",
+        "কাকরাইল"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Malibagh",
+      "nameBn": "মালিবাগ",
+      "aliases": [
+        "malibagh",
+        "মালিবাগ"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Moghbazar",
+      "nameBn": "মগবাজার",
+      "aliases": [
+        "moghbazar",
+        "মগবাজার"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Mohakhali",
+      "nameBn": "মহাখালী",
+      "aliases": [
+        "mohakhali",
+        "মহাখালী"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Chairman Bari",
+      "nameBn": "চেয়ারম্যান বাড়ি",
+      "aliases": [
+        "chairman bari",
+        "চেয়ারম্যান বাড়ি"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Kakoli",
+      "nameBn": "কাকলী",
+      "aliases": [
+        "kakoli",
+        "কাকলী"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Khilkhet",
+      "nameBn": "খিলক্ষেত",
+      "aliases": [
+        "khilkhet",
+        "খিলক্ষেত"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Airport",
+      "nameBn": "এয়ারপোর্ট",
+      "aliases": [
+        "airport",
+        "এয়ারপোর্ট",
+        "বিমানবন্দর"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Uttara",
+      "nameBn": "উত্তরা",
+      "aliases": [
+        "uttara",
+        "উত্তরা"
+      ]
+    },
+    {
+      "id": 13,
+      "nameEn": "Abdullahpur",
+      "nameBn": "আব্দুল্লাহপুর",
+      "aliases": [
+        "abdullahpur",
+        "আব্দুল্লাহপুর"
+      ]
+    },
+    {
+      "id": 14,
+      "nameEn": "Dhaur",
+      "nameBn": "ধউর",
+      "aliases": [
+        "dhaur",
+        "ধউর"
+      ]
+    },
+    {
+      "id": 15,
+      "nameEn": "Fantasy Kingdom",
+      "nameBn": "ফ্যান্টাসি কিংডম",
+      "aliases": [
+        "fantasy kingdom",
+        "ফ্যান্টাসি কিংডম",
+        "ফ্যান্টাসি"
+      ]
+    },
+    {
+      "id": 16,
+      "nameEn": "Baipail",
+      "nameBn": "বাইপাইল",
+      "aliases": [
+        "baipail",
+        "বাইপাইল"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      19,
+      26,
+      28,
+      32,
+      36,
+      42,
+      45,
+      51,
+      69,
+      76,
+      82,
+      85,
+      100,
+      125,
+      131
+    ],
+    [
+      10,
+      0,
+      10,
+      15,
+      17,
+      23,
+      27,
+      32,
+      36,
+      42,
+      60,
+      67,
+      73,
+      76,
+      91,
+      116,
+      122
+    ],
+    [
+      19,
+      10,
+      0,
+      10,
+      10,
+      13,
+      17,
+      23,
+      26,
+      32,
+      50,
+      57,
+      63,
+      67,
+      82,
+      107,
+      113
+    ],
+    [
+      26,
+      15,
+      10,
+      0,
+      10,
+      10,
+      10,
+      17,
+      21,
+      27,
+      45,
+      52,
+      58,
+      61,
+      76,
+      101,
+      107
+    ],
+    [
+      28,
+      17,
+      10,
+      10,
+      0,
+      10,
+      10,
+      15,
+      19,
+      25,
+      43,
+      50,
+      56,
+      59,
+      74,
+      99,
+      105
+    ],
+    [
+      32,
+      23,
+      13,
+      10,
+      10,
+      0,
+      10,
+      10,
+      14,
+      21,
+      38,
+      45,
+      51,
+      54,
+      68,
+      93,
+      99
+    ],
+    [
+      36,
+      27,
+      17,
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      15,
+      33,
+      40,
+      46,
+      49,
+      64,
+      89,
+      95
+    ],
+    [
+      42,
+      32,
+      23,
+      17,
+      15,
+      10,
+      10,
+      0,
+      10,
+      10,
+      27,
+      34,
+      40,
+      43,
+      58,
+      83,
+      89
+    ],
+    [
+      45,
+      36,
+      26,
+      21,
+      19,
+      14,
+      10,
+      10,
+      0,
+      10,
+      24,
+      31,
+      36,
+      40,
+      55,
+      80,
+      86
+    ],
+    [
+      51,
+      42,
+      32,
+      27,
+      25,
+      21,
+      15,
+      10,
+      10,
+      0,
+      19,
+      26,
+      32,
+      35,
+      50,
+      75,
+      81
+    ],
+    [
+      69,
+      60,
+      50,
+      45,
+      43,
+      38,
+      33,
+      27,
+      24,
+      19,
+      0,
+      10,
+      13,
+      16,
+      31,
+      56,
+      62
+    ],
+    [
+      76,
+      67,
+      57,
+      52,
+      50,
+      45,
+      40,
+      34,
+      31,
+      26,
+      10,
+      0,
+      10,
+      10,
+      24,
+      49,
+      56
+    ],
+    [
+      82,
+      73,
+      63,
+      58,
+      56,
+      51,
+      46,
+      40,
+      36,
+      32,
+      13,
+      10,
+      0,
+      10,
+      18,
+      43,
+      50
+    ],
+    [
+      85,
+      76,
+      67,
+      61,
+      59,
+      54,
+      49,
+      43,
+      40,
+      35,
+      16,
+      10,
+      10,
+      0,
+      15,
+      40,
+      46
+    ],
+    [
+      100,
+      91,
+      82,
+      76,
+      74,
+      68,
+      64,
+      58,
+      55,
+      50,
+      31,
+      24,
+      18,
+      15,
+      0,
+      25,
+      31
+    ],
+    [
+      125,
+      116,
+      107,
+      101,
+      99,
+      93,
+      89,
+      83,
+      80,
+      75,
+      56,
+      49,
+      43,
+      40,
+      25,
+      0,
+      10
+    ],
+    [
+      131,
+      122,
+      113,
+      107,
+      105,
+      99,
+      95,
+      89,
+      86,
+      81,
+      62,
+      56,
+      50,
+      46,
+      31,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A344",
+  "routeNo": "এ-৩৪৪",
+  "nameBn": "চিড়িয়াখানা → ইকুরিয়া",
+  "nameEn": "Chiriakhana → Ikuriya",
+  "totalKm": 23.7,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Chiriakhana",
+      "nameBn": "চিড়িয়াখানা",
+      "aliases": [
+        "chiriakhana",
+        "চিড়িয়াখানা"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Mirpur-2",
+      "nameBn": "মিরপুর-২",
+      "aliases": [
+        "mirpur-2",
+        "মিরপুর-২",
+        "মিরপুর ২"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Mirpur-10",
+      "nameBn": "মিরপুর-১০",
+      "aliases": [
+        "mirpur-10",
+        "মিরপুর-১০",
+        "মিরপুর ১০"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Kazipara",
+      "nameBn": "কাজীপাড়া",
+      "aliases": [
+        "kazipara",
+        "কাজীপাড়া"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Shewrapara",
+      "nameBn": "শেওড়াপাড়া",
+      "aliases": [
+        "shewrapara",
+        "শেওড়াপাড়া"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Agargaon",
+      "nameBn": "আগারগাঁও",
+      "aliases": [
+        "agargaon",
+        "আগারগাঁও"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Farmgate",
+      "nameBn": "ফার্মগেট",
+      "aliases": [
+        "farmgate",
+        "ফার্মগেট"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Kawran Bazar",
+      "nameBn": "কারওয়ান বাজার",
+      "aliases": [
+        "kawran bazar",
+        "কারওয়ান বাজার",
+        "কাওরান বাজার"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Moghbazar",
+      "nameBn": "মগবাজার",
+      "aliases": [
+        "moghbazar",
+        "মগবাজার"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Mouchak",
+      "nameBn": "মৌচাক",
+      "aliases": [
+        "mouchak",
+        "মৌচাক"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Fakirapool",
+      "nameBn": "ফকিরাপুল",
+      "aliases": [
+        "fakirapool",
+        "ফকিরাপুল"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Motijheel",
+      "nameBn": "মতিঝিল",
+      "aliases": [
+        "motijheel",
+        "মতিঝিল"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Sayedabad",
+      "nameBn": "সায়েদাবাদ",
+      "aliases": [
+        "sayedabad",
+        "সায়েদাবাদ"
+      ]
+    },
+    {
+      "id": 13,
+      "nameEn": "Jatrabari",
+      "nameBn": "যাত্রাবাড়ী",
+      "aliases": [
+        "jatrabari",
+        "যাত্রাবাড়ী"
+      ]
+    },
+    {
+      "id": 14,
+      "nameEn": "Postogola Bridge",
+      "nameBn": "পোস্তগোলা ব্রীজ",
+      "aliases": [
+        "postogola bridge",
+        "পোস্তগোলা ব্রীজ",
+        "পোস্তগোলা"
+      ]
+    },
+    {
+      "id": 15,
+      "nameEn": "Ikuriya",
+      "nameBn": "ইকুরিয়া",
+      "aliases": [
+        "ikuriya",
+        "ইকুরিয়া",
+        "ekuria"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      10,
+      13,
+      15,
+      19,
+      27,
+      32,
+      34,
+      37,
+      45,
+      47,
+      52,
+      55,
+      60,
+      64
+    ],
+    [
+      10,
+      0,
+      10,
+      10,
+      10,
+      12,
+      20,
+      24,
+      27,
+      30,
+      37,
+      40,
+      44,
+      47,
+      52,
+      56
+    ],
+    [
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      18,
+      22,
+      25,
+      28,
+      35,
+      38,
+      43,
+      45,
+      51,
+      55
+    ],
+    [
+      13,
+      10,
+      10,
+      0,
+      10,
+      10,
+      14,
+      19,
+      21,
+      24,
+      32,
+      34,
+      39,
+      42,
+      47,
+      51
+    ],
+    [
+      15,
+      10,
+      10,
+      10,
+      0,
+      10,
+      12,
+      17,
+      19,
+      22,
+      30,
+      32,
+      37,
+      40,
+      45,
+      49
+    ],
+    [
+      19,
+      12,
+      10,
+      10,
+      10,
+      0,
+      10,
+      12,
+      15,
+      18,
+      25,
+      28,
+      32,
+      35,
+      41,
+      45
+    ],
+    [
+      27,
+      20,
+      18,
+      14,
+      12,
+      10,
+      0,
+      10,
+      10,
+      10,
+      17,
+      20,
+      25,
+      27,
+      33,
+      37
+    ],
+    [
+      32,
+      24,
+      22,
+      19,
+      17,
+      12,
+      10,
+      0,
+      10,
+      10,
+      13,
+      16,
+      20,
+      23,
+      28,
+      32
+    ],
+    [
+      34,
+      27,
+      25,
+      21,
+      19,
+      15,
+      10,
+      10,
+      0,
+      10,
+      10,
+      13,
+      18,
+      20,
+      26,
+      30
+    ],
+    [
+      37,
+      30,
+      28,
+      24,
+      22,
+      18,
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      15,
+      17,
+      23,
+      27
+    ],
+    [
+      45,
+      37,
+      35,
+      32,
+      30,
+      25,
+      17,
+      13,
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      15,
+      19
+    ],
+    [
+      47,
+      40,
+      38,
+      34,
+      32,
+      28,
+      20,
+      16,
+      13,
+      10,
+      10,
+      0,
+      10,
+      10,
+      13,
+      17
+    ],
+    [
+      52,
+      44,
+      43,
+      39,
+      37,
+      32,
+      25,
+      20,
+      18,
+      15,
+      10,
+      10,
+      0,
+      10,
+      10,
+      12
+    ],
+    [
+      55,
+      47,
+      45,
+      42,
+      40,
+      35,
+      27,
+      23,
+      20,
+      17,
+      10,
+      10,
+      10,
+      0,
+      10,
+      10
+    ],
+    [
+      60,
+      52,
+      51,
+      47,
+      45,
+      41,
+      33,
+      28,
+      26,
+      23,
+      15,
+      13,
+      10,
+      10,
+      0,
+      10
+    ],
+    [
+      64,
+      56,
+      55,
+      51,
+      49,
+      45,
+      37,
+      32,
+      30,
+      27,
+      19,
+      17,
+      12,
+      10,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A345",
+  "routeNo": "এ-৩৪৫",
+  "nameBn": "দয়াগঞ্জ → আব্দুল্লাহপুর",
+  "nameEn": "Dayaganj → Abdullahpur",
+  "totalKm": 25,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Dayaganj",
+      "nameBn": "দয়াগঞ্জ",
+      "aliases": [
+        "dayaganj",
+        "দয়াগঞ্জ"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Jatrabari",
+      "nameBn": "যাত্রাবাড়ী",
+      "aliases": [
+        "jatrabari",
+        "যাত্রাবাড়ী"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Gulistan",
+      "nameBn": "গুলিস্তান",
+      "aliases": [
+        "gulistan",
+        "গুলিস্তান"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Mohakhali",
+      "nameBn": "মহাখালী",
+      "aliases": [
+        "mohakhali",
+        "মহাখালী"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Banani",
+      "nameBn": "বনানী",
+      "aliases": [
+        "banani",
+        "বনানী"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Khilkhet",
+      "nameBn": "খিলক্ষেত",
+      "aliases": [
+        "khilkhet",
+        "খিলক্ষেত"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Airport",
+      "nameBn": "এয়ারপোর্ট",
+      "aliases": [
+        "airport",
+        "এয়ারপোর্ট"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Uttara",
+      "nameBn": "উত্তরা",
+      "aliases": [
+        "uttara",
+        "উত্তরা"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Abdullahpur",
+      "nameBn": "আব্দুল্লাহপুর",
+      "aliases": [
+        "abdullahpur",
+        "আব্দুল্লাহপুর"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      15,
+      33,
+      37,
+      51,
+      57,
+      61,
+      68
+    ],
+    [
+      10,
+      0,
+      10,
+      27,
+      31,
+      45,
+      51,
+      55,
+      62
+    ],
+    [
+      15,
+      10,
+      0,
+      18,
+      22,
+      36,
+      42,
+      46,
+      52
+    ],
+    [
+      33,
+      27,
+      18,
+      0,
+      10,
+      18,
+      24,
+      28,
+      35
+    ],
+    [
+      37,
+      31,
+      22,
+      10,
+      0,
+      14,
+      20,
+      24,
+      31
+    ],
+    [
+      51,
+      45,
+      36,
+      18,
+      14,
+      0,
+      10,
+      10,
+      16
+    ],
+    [
+      57,
+      51,
+      42,
+      24,
+      20,
+      10,
+      0,
+      10,
+      11
+    ],
+    [
+      61,
+      55,
+      46,
+      28,
+      24,
+      10,
+      10,
+      0,
+      10
+    ],
+    [
+      68,
+      62,
+      52,
+      35,
+      31,
+      16,
+      11,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A348",
+  "routeNo": "এ-৩৪৮",
+  "nameBn": "চিড়িয়াখানা → মতিঝিল",
+  "nameEn": "Chiriakhana → Motijheel",
+  "totalKm": 17.5,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Chiriakhana",
+      "nameBn": "চিড়িয়াখানা",
+      "aliases": [
+        "chiriakhana",
+        "চিড়িয়াখানা"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Milk Vita",
+      "nameBn": "মিল্কভিটা",
+      "aliases": [
+        "milk vita",
+        "মিল্কভিটা"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Mirpur-1",
+      "nameBn": "মিরপুর-১",
+      "aliases": [
+        "mirpur-1",
+        "মিরপুর-১"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Kalyanpur",
+      "nameBn": "কল্যাণপুর",
+      "aliases": [
+        "kalyanpur",
+        "কল্যাণপুর"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Shyamoli",
+      "nameBn": "শ্যামলী",
+      "aliases": [
+        "shyamoli",
+        "শ্যামলী"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Asad Gate",
+      "nameBn": "আসাদ গেট",
+      "aliases": [
+        "asad gate",
+        "আসাদ গেট"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Science Lab",
+      "nameBn": "সায়েন্সল্যাব",
+      "aliases": [
+        "science lab",
+        "সায়েন্সল্যাব"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Shahbag",
+      "nameBn": "শাহবাগ",
+      "aliases": [
+        "shahbag",
+        "শাহবাগ"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Press Club",
+      "nameBn": "প্রেসক্লাব",
+      "aliases": [
+        "press club",
+        "প্রেসক্লাব"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Motijheel",
+      "nameBn": "মতিঝিল",
+      "aliases": [
+        "motijheel",
+        "মতিঝিল"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      10,
+      14,
+      18,
+      23,
+      31,
+      37,
+      41,
+      50
+    ],
+    [
+      10,
+      0,
+      10,
+      11,
+      15,
+      21,
+      28,
+      35,
+      39,
+      45
+    ],
+    [
+      10,
+      10,
+      0,
+      10,
+      10,
+      15,
+      23,
+      30,
+      34,
+      40
+    ],
+    [
+      14,
+      11,
+      10,
+      0,
+      10,
+      10,
+      17,
+      23,
+      28,
+      33
+    ],
+    [
+      18,
+      15,
+      10,
+      10,
+      0,
+      10,
+      13,
+      20,
+      24,
+      30
+    ],
+    [
+      23,
+      21,
+      15,
+      10,
+      10,
+      0,
+      10,
+      14,
+      18,
+      24
+    ],
+    [
+      31,
+      28,
+      23,
+      17,
+      13,
+      10,
+      0,
+      10,
+      11,
+      16
+    ],
+    [
+      37,
+      35,
+      30,
+      23,
+      20,
+      14,
+      10,
+      0,
+      10,
+      10
+    ],
+    [
+      41,
+      39,
+      34,
+      28,
+      24,
+      18,
+      11,
+      10,
+      0,
+      10
+    ],
+    [
+      50,
+      45,
+      40,
+      33,
+      30,
+      24,
+      16,
+      10,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A355",
+  "routeNo": "এ-৩৫৫",
+  "nameBn": "কুড়িল বিশ্বরোড → আজিমপুর",
+  "nameEn": "Kuril Bishwaroad → Azimpur",
+  "totalKm": 17.5,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Kuril Bishwaroad",
+      "nameBn": "কুড়িল বিশ্বরোড",
+      "aliases": [
+        "kuril bishwaroad",
+        "কুড়িল বিশ্বরোড"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Notun Bazar",
+      "nameBn": "নতুন বাজার",
+      "aliases": [
+        "notun bazar",
+        "নতুন বাজার"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Badda Link Road",
+      "nameBn": "বাড্ডা লিংক রোড",
+      "aliases": [
+        "badda link road",
+        "বাড্ডা লিংক রোড"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Gulshan-1",
+      "nameBn": "গুলশান-১",
+      "aliases": [
+        "gulshan-1",
+        "গুলশান-১"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Mohakhali",
+      "nameBn": "মহাখালী",
+      "aliases": [
+        "mohakhali",
+        "মহাখালী"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Farmgate",
+      "nameBn": "ফার্মগেট",
+      "aliases": [
+        "farmgate",
+        "ফার্মগেট"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Shahbag",
+      "nameBn": "শাহবাগ",
+      "aliases": [
+        "shahbag",
+        "শাহবাগ"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "New Market",
+      "nameBn": "নিউমার্কেট",
+      "aliases": [
+        "new market",
+        "নিউমার্কেট"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Azimpur",
+      "nameBn": "আজিমপুর",
+      "aliases": [
+        "azimpur",
+        "আজিমপুর"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      15,
+      18,
+      23,
+      31,
+      37,
+      42,
+      47
+    ],
+    [
+      10,
+      0,
+      10,
+      10,
+      14,
+      22,
+      28,
+      33,
+      38
+    ],
+    [
+      15,
+      10,
+      0,
+      10,
+      10,
+      16,
+      22,
+      27,
+      32
+    ],
+    [
+      18,
+      10,
+      10,
+      0,
+      10,
+      13,
+      20,
+      25,
+      30
+    ],
+    [
+      23,
+      14,
+      10,
+      10,
+      0,
+      10,
+      14,
+      19,
+      24
+    ],
+    [
+      31,
+      22,
+      16,
+      13,
+      10,
+      0,
+      10,
+      11,
+      16
+    ],
+    [
+      37,
+      28,
+      22,
+      20,
+      14,
+      10,
+      0,
+      10,
+      10
+    ],
+    [
+      42,
+      33,
+      27,
+      25,
+      19,
+      11,
+      10,
+      0,
+      10
+    ],
+    [
+      47,
+      38,
+      32,
+      30,
+      24,
+      16,
+      10,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A354",
+  "routeNo": "এ-৩৫৪",
+  "nameBn": "আজিমপুর → নন্দন পার্ক",
+  "nameEn": "Azimpur → Nandan Park",
+  "totalKm": 35.5,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Azimpur",
+      "nameBn": "আজিমপুর",
+      "aliases": [
+        "azimpur",
+        "আজিমপুর"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Science Lab",
+      "nameBn": "সায়েন্সল্যাব",
+      "aliases": [
+        "science lab",
+        "সায়েন্সল্যাব"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Kalabagan",
+      "nameBn": "কলাবাগান",
+      "aliases": [
+        "kalabagan",
+        "কলাবাগান"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Asad Gate",
+      "nameBn": "আসাদ গেট",
+      "aliases": [
+        "asad gate",
+        "আসাদ গেট"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Shishu Mela",
+      "nameBn": "শিশুমোলা",
+      "aliases": [
+        "shishu mela",
+        "শিশুমোলা"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Kalyanpur",
+      "nameBn": "কল্যাণপুর",
+      "aliases": [
+        "kalyanpur",
+        "কল্যাণপুর"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Gabtoli",
+      "nameBn": "গাবতলী",
+      "aliases": [
+        "gabtoli",
+        "গাবতলী"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Amin Bazar",
+      "nameBn": "আমিনবাজার",
+      "aliases": [
+        "amin bazar",
+        "আমিনবাজার"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Hemayetpur",
+      "nameBn": "হেমায়েতপুর",
+      "aliases": [
+        "hemayetpur",
+        "হেমায়েতপুর"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Savar",
+      "nameBn": "সাভার",
+      "aliases": [
+        "savar",
+        "সাভার"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Nabinagar",
+      "nameBn": "নবীনগর",
+      "aliases": [
+        "nabinagar",
+        "নবীনগর"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Nandan Park",
+      "nameBn": "নন্দন পার্ক",
+      "aliases": [
+        "nandan park",
+        "নন্দন পার্ক",
+        "নন্দন"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      10,
+      10,
+      14,
+      16,
+      28,
+      38,
+      49,
+      58,
+      83,
+      96
+    ],
+    [
+      10,
+      0,
+      10,
+      10,
+      11,
+      13,
+      25,
+      35,
+      47,
+      56,
+      80,
+      93
+    ],
+    [
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      20,
+      30,
+      42,
+      51,
+      75,
+      88
+    ],
+    [
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      18,
+      28,
+      40,
+      49,
+      73,
+      86
+    ],
+    [
+      14,
+      11,
+      10,
+      10,
+      0,
+      10,
+      14,
+      24,
+      35,
+      45,
+      69,
+      82
+    ],
+    [
+      16,
+      13,
+      10,
+      10,
+      10,
+      0,
+      12,
+      22,
+      33,
+      43,
+      67,
+      80
+    ],
+    [
+      28,
+      25,
+      20,
+      18,
+      14,
+      12,
+      0,
+      10,
+      21,
+      31,
+      55,
+      68
+    ],
+    [
+      38,
+      35,
+      30,
+      28,
+      24,
+      22,
+      10,
+      0,
+      12,
+      21,
+      45,
+      58
+    ],
+    [
+      49,
+      47,
+      42,
+      40,
+      35,
+      33,
+      21,
+      12,
+      0,
+      10,
+      33,
+      47
+    ],
+    [
+      58,
+      56,
+      51,
+      49,
+      45,
+      43,
+      31,
+      21,
+      10,
+      0,
+      24,
+      38
+    ],
+    [
+      83,
+      80,
+      75,
+      73,
+      69,
+      67,
+      55,
+      45,
+      33,
+      24,
+      0,
+      13
+    ],
+    [
+      96,
+      93,
+      88,
+      86,
+      82,
+      80,
+      68,
+      58,
+      47,
+      38,
+      13,
+      0
+    ]
+  ]
+},
+{
+  "id": "A346",
+  "routeNo": "এ-৩৪৬",
+  "nameBn": "কামারপাড়া → নটরডেম কলেজ",
+  "nameEn": "Kamarpara → Notre Dame College",
+  "totalKm": 25,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Kamarpara",
+      "nameBn": "কামারপাড়া",
+      "aliases": [
+        "kamarpara",
+        "কামারপাড়া"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Abdullahpur",
+      "nameBn": "আব্দুল্লাহপুর",
+      "aliases": [
+        "abdullahpur",
+        "আব্দুল্লাহপুর"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Airport",
+      "nameBn": "এয়ারপোর্ট",
+      "aliases": [
+        "airport",
+        "এয়ারপোর্ট"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Kakoli",
+      "nameBn": "কাকলী",
+      "aliases": [
+        "kakoli",
+        "কাকলী"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Mohakhali",
+      "nameBn": "মহাখালী",
+      "aliases": [
+        "mohakhali",
+        "মহাখালী"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Moghbazar",
+      "nameBn": "মগবাজার",
+      "aliases": [
+        "moghbazar",
+        "মগবাজার"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Kakrail",
+      "nameBn": "কাকরাইল",
+      "aliases": [
+        "kakrail",
+        "কাকরাইল"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Paltan",
+      "nameBn": "পল্টন",
+      "aliases": [
+        "paltan",
+        "পল্টন"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Notre Dame College",
+      "nameBn": "নটরডেম কলেজ",
+      "aliases": [
+        "notre dame college",
+        "নটরডেম কলেজ",
+        "নটরডেম"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      15,
+      33,
+      37,
+      51,
+      57,
+      61,
+      68
+    ],
+    [
+      10,
+      0,
+      10,
+      27,
+      31,
+      45,
+      51,
+      55,
+      62
+    ],
+    [
+      15,
+      10,
+      0,
+      18,
+      22,
+      36,
+      42,
+      46,
+      52
+    ],
+    [
+      33,
+      27,
+      18,
+      0,
+      10,
+      18,
+      24,
+      28,
+      35
+    ],
+    [
+      37,
+      31,
+      22,
+      10,
+      0,
+      14,
+      20,
+      24,
+      31
+    ],
+    [
+      51,
+      45,
+      36,
+      18,
+      14,
+      0,
+      10,
+      10,
+      16
+    ],
+    [
+      57,
+      51,
+      42,
+      24,
+      20,
+      10,
+      0,
+      10,
+      11
+    ],
+    [
+      61,
+      55,
+      46,
+      28,
+      24,
+      10,
+      10,
+      0,
+      10
+    ],
+    [
+      68,
+      62,
+      52,
+      35,
+      31,
+      16,
+      11,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A356",
+  "routeNo": "এ-৩৫৬",
+  "nameBn": "আজিমপুর → ধউর",
+  "nameEn": "Azimpur → Dhaur",
+  "totalKm": 29.9,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Azimpur",
+      "nameBn": "আজিমপুর",
+      "aliases": [
+        "azimpur",
+        "আজিমপুর"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "New Market",
+      "nameBn": "নিউ মার্কেট",
+      "aliases": [
+        "new market",
+        "নিউ মার্কেট"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Kalabagan",
+      "nameBn": "কলাবাগান",
+      "aliases": [
+        "kalabagan",
+        "কলাবাগান"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Asad Gate",
+      "nameBn": "আসাদগেট",
+      "aliases": [
+        "asad gate",
+        "আসাদগেট"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Shyamoli",
+      "nameBn": "শ্যামলী",
+      "aliases": [
+        "shyamoli",
+        "শ্যামলী"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Technical",
+      "nameBn": "টেকনিক্যাল",
+      "aliases": [
+        "technical",
+        "টেকনিক্যাল"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Mirpur-1",
+      "nameBn": "মিরপুর-১",
+      "aliases": [
+        "mirpur-1",
+        "মিরপুর-১"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Original 10",
+      "nameBn": "অরিজিনাল দশ",
+      "aliases": [
+        "original 10",
+        "অরিজিনাল দশ",
+        "original-10"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Mirpur-12",
+      "nameBn": "মিরপুর-১২",
+      "aliases": [
+        "mirpur-12",
+        "মিরপুর-১২"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Kalshi",
+      "nameBn": "কালশি",
+      "aliases": [
+        "kalshi",
+        "কালশি"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Kurmitola General Hospital",
+      "nameBn": "কুর্মিটোলা জেনারেল হাসপাতাল",
+      "aliases": [
+        "kurmitola general hospital",
+        "কুর্মিটোলা জেনারেল হাসপাতাল",
+        "kurmitola hospital",
+        "কুর্মিটোলা"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Airport",
+      "nameBn": "এয়ারপোর্ট",
+      "aliases": [
+        "airport",
+        "এয়ারপোর্ট"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Abdullahpur",
+      "nameBn": "আব্দুল্লাহপুর",
+      "aliases": [
+        "abdullahpur",
+        "আব্দুল্লাহপুর"
+      ]
+    },
+    {
+      "id": 13,
+      "nameEn": "Kamarpara",
+      "nameBn": "কামারপাড়া",
+      "aliases": [
+        "kamarpara",
+        "কামারপাড়া"
+      ]
+    },
+    {
+      "id": 14,
+      "nameEn": "Dhaur",
+      "nameBn": "ধউর",
+      "aliases": [
+        "dhaur",
+        "ধউর"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      10,
+      11,
+      15,
+      20,
+      25,
+      32,
+      38,
+      43,
+      48,
+      62,
+      67,
+      73,
+      81
+    ],
+    [
+      10,
+      0,
+      10,
+      10,
+      13,
+      18,
+      23,
+      30,
+      35,
+      41,
+      46,
+      59,
+      65,
+      70,
+      79
+    ],
+    [
+      10,
+      10,
+      0,
+      10,
+      10,
+      12,
+      18,
+      24,
+      30,
+      35,
+      41,
+      54,
+      59,
+      65,
+      73
+    ],
+    [
+      11,
+      10,
+      10,
+      0,
+      10,
+      10,
+      14,
+      21,
+      26,
+      32,
+      37,
+      50,
+      56,
+      62,
+      70
+    ],
+    [
+      15,
+      13,
+      10,
+      10,
+      0,
+      10,
+      10,
+      17,
+      22,
+      28,
+      33,
+      46,
+      52,
+      58,
+      66
+    ],
+    [
+      20,
+      18,
+      12,
+      10,
+      10,
+      0,
+      10,
+      12,
+      18,
+      23,
+      28,
+      42,
+      47,
+      53,
+      61
+    ],
+    [
+      25,
+      23,
+      18,
+      14,
+      10,
+      10,
+      0,
+      10,
+      12,
+      18,
+      23,
+      36,
+      42,
+      47,
+      55
+    ],
+    [
+      32,
+      30,
+      24,
+      21,
+      17,
+      12,
+      10,
+      0,
+      10,
+      11,
+      16,
+      29,
+      35,
+      41,
+      49
+    ],
+    [
+      38,
+      35,
+      30,
+      26,
+      22,
+      18,
+      12,
+      10,
+      0,
+      10,
+      11,
+      24,
+      29,
+      35,
+      43
+    ],
+    [
+      43,
+      41,
+      35,
+      32,
+      28,
+      23,
+      18,
+      11,
+      10,
+      0,
+      10,
+      19,
+      24,
+      30,
+      38
+    ],
+    [
+      48,
+      46,
+      41,
+      37,
+      33,
+      28,
+      23,
+      16,
+      11,
+      10,
+      0,
+      13,
+      19,
+      24,
+      32
+    ],
+    [
+      62,
+      59,
+      54,
+      50,
+      46,
+      42,
+      36,
+      29,
+      24,
+      19,
+      13,
+      0,
+      10,
+      11,
+      19
+    ],
+    [
+      67,
+      65,
+      59,
+      56,
+      52,
+      47,
+      42,
+      35,
+      29,
+      24,
+      19,
+      10,
+      0,
+      10,
+      14
+    ],
+    [
+      73,
+      70,
+      65,
+      62,
+      58,
+      53,
+      47,
+      41,
+      35,
+      30,
+      24,
+      11,
+      10,
+      0,
+      10
+    ],
+    [
+      81,
+      79,
+      73,
+      70,
+      66,
+      61,
+      55,
+      49,
+      43,
+      38,
+      32,
+      19,
+      14,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A362",
+  "routeNo": "এ-৩৬২",
+  "nameBn": "ধউর → মদনপুর",
+  "nameEn": "Dhaur → Madanpur",
+  "totalKm": 38.5,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Dhaur",
+      "nameBn": "ধউর",
+      "aliases": [
+        "dhaur",
+        "ধউর"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Abdullahpur",
+      "nameBn": "আব্দুল্লাহপুর",
+      "aliases": [
+        "abdullahpur",
+        "আব্দুল্লাহপুর"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Airport",
+      "nameBn": "এয়ারপোর্ট",
+      "aliases": [
+        "airport",
+        "এয়ারপোর্ট"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Kuril",
+      "nameBn": "কুড়িল",
+      "aliases": [
+        "kuril",
+        "কুড়িল"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Badda",
+      "nameBn": "বাড্ডা",
+      "aliases": [
+        "badda",
+        "বাড্ডা"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Rampura Bridge",
+      "nameBn": "রামপুরা ব্রীজ",
+      "aliases": [
+        "rampura bridge",
+        "রামপুরা ব্রীজ"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Meradia Bazar",
+      "nameBn": "মেরাদিয়া বাজার",
+      "aliases": [
+        "meradia bazar",
+        "মেরাদিয়া বাজার"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Staff Quarter",
+      "nameBn": "স্টাফ কোয়ার্টার",
+      "aliases": [
+        "staff quarter",
+        "স্টাফ কোয়ার্টার"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Sultana Kamal Bridge",
+      "nameBn": "সুলতানা কামাল ব্রীজ",
+      "aliases": [
+        "sultana kamal bridge",
+        "সুলতানা কামাল ব্রীজ"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Tarabo Bishwaroad",
+      "nameBn": "তারাবো বিশ্বরোড",
+      "aliases": [
+        "tarabo bishwaroad",
+        "তারাবো বিশ্বরোড",
+        "tarabo"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Kanchpur",
+      "nameBn": "কাঁচপুর",
+      "aliases": [
+        "kanchpur",
+        "কাঁচপুর"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Madanpur",
+      "nameBn": "মদনপুর",
+      "aliases": [
+        "madanpur",
+        "মদনপুর"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      14,
+      23,
+      33,
+      46,
+      51,
+      59,
+      77,
+      82,
+      88,
+      95,
+      104
+    ],
+    [
+      14,
+      0,
+      10,
+      20,
+      32,
+      38,
+      46,
+      63,
+      69,
+      74,
+      81,
+      90
+    ],
+    [
+      23,
+      10,
+      0,
+      10,
+      23,
+      28,
+      36,
+      54,
+      59,
+      65,
+      71,
+      81
+    ],
+    [
+      33,
+      20,
+      10,
+      0,
+      12,
+      18,
+      26,
+      43,
+      49,
+      54,
+      61,
+      70
+    ],
+    [
+      46,
+      32,
+      23,
+      12,
+      0,
+      10,
+      14,
+      31,
+      36,
+      42,
+      49,
+      58
+    ],
+    [
+      51,
+      38,
+      28,
+      18,
+      10,
+      0,
+      10,
+      26,
+      31,
+      36,
+      43,
+      53
+    ],
+    [
+      59,
+      46,
+      36,
+      26,
+      14,
+      10,
+      0,
+      18,
+      23,
+      28,
+      35,
+      45
+    ],
+    [
+      77,
+      63,
+      54,
+      43,
+      31,
+      26,
+      18,
+      0,
+      10,
+      11,
+      18,
+      27
+    ],
+    [
+      82,
+      69,
+      59,
+      49,
+      36,
+      31,
+      23,
+      10,
+      0,
+      10,
+      12,
+      22
+    ],
+    [
+      88,
+      74,
+      65,
+      54,
+      42,
+      36,
+      28,
+      11,
+      10,
+      0,
+      10,
+      16
+    ],
+    [
+      95,
+      81,
+      71,
+      61,
+      49,
+      43,
+      35,
+      18,
+      12,
+      10,
+      0,
+      10
+    ],
+    [
+      104,
+      90,
+      81,
+      70,
+      58,
+      53,
+      45,
+      27,
+      22,
+      16,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A365",
+  "routeNo": "এ-৩৬৫",
+  "nameBn": "নবীনগর → ধউর",
+  "nameEn": "Nabinagar → Dhaur",
+  "totalKm": 45.2,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Nabinagar",
+      "nameBn": "নবীনগর",
+      "aliases": [
+        "nabinagar",
+        "নবীনগর"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Savar",
+      "nameBn": "সাভার",
+      "aliases": [
+        "savar",
+        "সাভার"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Gabtoli",
+      "nameBn": "গাবতলী",
+      "aliases": [
+        "gabtoli",
+        "গাবতলী"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Mirpur-1",
+      "nameBn": "মিরপুর-১",
+      "aliases": [
+        "mirpur-1",
+        "মিরপুর-১"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Sony Mor",
+      "nameBn": "সনি মোড়",
+      "aliases": [
+        "sony mor",
+        "সনি মোড়"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Original-10",
+      "nameBn": "অরিজিনাল-১০",
+      "aliases": [
+        "original-10",
+        "অরিজিনাল-১০",
+        "original 10"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Kalshi",
+      "nameBn": "কালশি",
+      "aliases": [
+        "kalshi",
+        "কালশি"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "ECB Chattar Flyover",
+      "nameBn": "ইসিবি চত্বর ফ্লাইওভার",
+      "aliases": [
+        "ecb chattar flyover",
+        "ইসিবি চত্বর ফ্লাইওভার",
+        "ecb chattar"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Matikata",
+      "nameBn": "মাটিকাটা",
+      "aliases": [
+        "matikata",
+        "মাটিকাটা"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Airport",
+      "nameBn": "এয়ারপোর্ট",
+      "aliases": [
+        "airport",
+        "এয়ারপোর্ট"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Abdullahpur",
+      "nameBn": "আব্দুল্লাহপুর",
+      "aliases": [
+        "abdullahpur",
+        "আব্দুল্লাহপুর"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Kamarpara",
+      "nameBn": "কামারপাড়া",
+      "aliases": [
+        "kamarpara",
+        "কামারপাড়া"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Dhaur",
+      "nameBn": "ধউর",
+      "aliases": [
+        "dhaur",
+        "ধউর"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      22,
+      58,
+      63,
+      67,
+      70,
+      80,
+      81,
+      88,
+      99,
+      108,
+      114,
+      122
+    ],
+    [
+      22,
+      0,
+      36,
+      42,
+      45,
+      48,
+      59,
+      60,
+      67,
+      77,
+      87,
+      92,
+      100
+    ],
+    [
+      58,
+      36,
+      0,
+      10,
+      10,
+      12,
+      22,
+      23,
+      30,
+      41,
+      50,
+      56,
+      64
+    ],
+    [
+      63,
+      42,
+      10,
+      0,
+      10,
+      10,
+      17,
+      18,
+      25,
+      35,
+      45,
+      50,
+      59
+    ],
+    [
+      67,
+      45,
+      10,
+      10,
+      0,
+      10,
+      13,
+      14,
+      21,
+      32,
+      41,
+      47,
+      55
+    ],
+    [
+      70,
+      48,
+      12,
+      10,
+      10,
+      0,
+      10,
+      12,
+      19,
+      29,
+      39,
+      44,
+      52
+    ],
+    [
+      80,
+      59,
+      22,
+      17,
+      13,
+      10,
+      0,
+      10,
+      10,
+      19,
+      28,
+      34,
+      42
+    ],
+    [
+      81,
+      60,
+      23,
+      18,
+      14,
+      12,
+      10,
+      0,
+      10,
+      18,
+      27,
+      33,
+      41
+    ],
+    [
+      88,
+      67,
+      30,
+      25,
+      21,
+      19,
+      10,
+      10,
+      0,
+      10,
+      20,
+      26,
+      34
+    ],
+    [
+      99,
+      77,
+      41,
+      35,
+      32,
+      29,
+      19,
+      18,
+      10,
+      0,
+      10,
+      15,
+      23
+    ],
+    [
+      108,
+      87,
+      50,
+      45,
+      41,
+      39,
+      28,
+      27,
+      20,
+      10,
+      0,
+      10,
+      14
+    ],
+    [
+      114,
+      92,
+      56,
+      50,
+      47,
+      44,
+      34,
+      33,
+      26,
+      15,
+      10,
+      0,
+      10
+    ],
+    [
+      122,
+      100,
+      64,
+      59,
+      55,
+      52,
+      42,
+      41,
+      34,
+      23,
+      14,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A366",
+  "routeNo": "এ-৩৬৬",
+  "nameBn": "বসিলা → ধউর",
+  "nameEn": "Bosila → Dhaur",
+  "totalKm": 32.4,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Bosila",
+      "nameBn": "বসিলা",
+      "aliases": [
+        "bosila",
+        "বসিলা",
+        "bosila bridge",
+        "basila",
+        "বছিলা"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Asad Avenue",
+      "nameBn": "আসাদ এভিনিউ",
+      "aliases": [
+        "asad avenue",
+        "আসাদ এভিনিউ"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Shyamoli",
+      "nameBn": "শ্যামলী",
+      "aliases": [
+        "shyamoli",
+        "শ্যামলী"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Kalyanpur",
+      "nameBn": "কল্যাণপুর",
+      "aliases": [
+        "kalyanpur",
+        "কল্যাণপুর"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Technical",
+      "nameBn": "টেকনিক্যাল",
+      "aliases": [
+        "technical",
+        "টেকনিক্যাল"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Mirpur-1",
+      "nameBn": "মিরপুর-১",
+      "aliases": [
+        "mirpur-1",
+        "মিরপুর-১"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Mirpur-2",
+      "nameBn": "মিরপুর-২",
+      "aliases": [
+        "mirpur-2",
+        "মিরপুর-২"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Mirpur-10",
+      "nameBn": "মিরপুর-১০",
+      "aliases": [
+        "mirpur-10",
+        "মিরপুর-১০"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Mirpur-11",
+      "nameBn": "মিরপুর-১১",
+      "aliases": [
+        "mirpur-11",
+        "মিরপুর-১১"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Purobi",
+      "nameBn": "পূরবী",
+      "aliases": [
+        "purobi",
+        "পূরবী"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Kalshi",
+      "nameBn": "কালশী",
+      "aliases": [
+        "kalshi",
+        "কালশী"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Shewra Bazar",
+      "nameBn": "শেওড়া বাজার",
+      "aliases": [
+        "shewra bazar",
+        "শেওড়া বাজার"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Airport",
+      "nameBn": "এয়ারপোর্ট",
+      "aliases": [
+        "airport",
+        "এয়ারপোর্ট"
+      ]
+    },
+    {
+      "id": 13,
+      "nameEn": "Uttara",
+      "nameBn": "উত্তরা",
+      "aliases": [
+        "uttara",
+        "উত্তরা"
+      ]
+    },
+    {
+      "id": 14,
+      "nameEn": "Abdullahpur",
+      "nameBn": "আব্দুল্লাহপুর",
+      "aliases": [
+        "abdullahpur",
+        "আব্দুল্লাহপুর"
+      ]
+    },
+    {
+      "id": 15,
+      "nameEn": "Dhaur",
+      "nameBn": "ধউর",
+      "aliases": [
+        "dhaur",
+        "ধউর"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      13,
+      14,
+      16,
+      23,
+      26,
+      28,
+      31,
+      32,
+      41,
+      52,
+      63,
+      67,
+      74,
+      87
+    ],
+    [
+      10,
+      0,
+      10,
+      10,
+      10,
+      15,
+      18,
+      20,
+      22,
+      24,
+      32,
+      44,
+      55,
+      59,
+      66,
+      79
+    ],
+    [
+      13,
+      10,
+      0,
+      10,
+      10,
+      10,
+      14,
+      15,
+      18,
+      19,
+      28,
+      39,
+      50,
+      54,
+      61,
+      75
+    ],
+    [
+      14,
+      10,
+      10,
+      0,
+      10,
+      10,
+      13,
+      14,
+      17,
+      18,
+      27,
+      39,
+      49,
+      53,
+      60,
+      74
+    ],
+    [
+      16,
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      11,
+      14,
+      16,
+      24,
+      36,
+      47,
+      50,
+      57,
+      71
+    ],
+    [
+      23,
+      15,
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      10,
+      18,
+      29,
+      40,
+      44,
+      51,
+      65
+    ],
+    [
+      26,
+      18,
+      14,
+      13,
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      14,
+      26,
+      37,
+      40,
+      47,
+      61
+    ],
+    [
+      28,
+      20,
+      15,
+      14,
+      11,
+      10,
+      10,
+      0,
+      10,
+      10,
+      13,
+      25,
+      35,
+      39,
+      46,
+      60
+    ],
+    [
+      31,
+      22,
+      18,
+      17,
+      14,
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      22,
+      33,
+      36,
+      43,
+      57
+    ],
+    [
+      32,
+      24,
+      19,
+      18,
+      16,
+      10,
+      10,
+      10,
+      10,
+      0,
+      10,
+      21,
+      31,
+      35,
+      42,
+      56
+    ],
+    [
+      41,
+      32,
+      28,
+      27,
+      24,
+      18,
+      14,
+      13,
+      10,
+      10,
+      0,
+      12,
+      23,
+      26,
+      33,
+      47
+    ],
+    [
+      52,
+      44,
+      39,
+      39,
+      36,
+      29,
+      26,
+      25,
+      22,
+      21,
+      12,
+      0,
+      11,
+      14,
+      21,
+      35
+    ],
+    [
+      63,
+      55,
+      50,
+      49,
+      47,
+      40,
+      37,
+      35,
+      33,
+      31,
+      23,
+      11,
+      0,
+      10,
+      11,
+      24
+    ],
+    [
+      67,
+      59,
+      54,
+      53,
+      50,
+      44,
+      40,
+      39,
+      36,
+      35,
+      26,
+      14,
+      10,
+      0,
+      10,
+      21
+    ],
+    [
+      74,
+      66,
+      61,
+      60,
+      57,
+      51,
+      47,
+      46,
+      43,
+      42,
+      33,
+      21,
+      11,
+      10,
+      0,
+      14
+    ],
+    [
+      87,
+      79,
+      75,
+      74,
+      71,
+      65,
+      61,
+      60,
+      57,
+      56,
+      47,
+      35,
+      24,
+      21,
+      14,
+      0
+    ]
+  ]
+},
+{
+  "id": "A367",
+  "routeNo": "এ-৩৬৭",
+  "nameBn": "ভাষানটেক → নন্দনপার্ক",
+  "nameEn": "Bhashantek → Nandan Park",
+  "totalKm": 44.8,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Bhashantek",
+      "nameBn": "ভাষানটেক",
+      "aliases": [
+        "bhashantek",
+        "ভাষানটেক"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Mirpur-14",
+      "nameBn": "মিরপুর-১৪",
+      "aliases": [
+        "mirpur-14",
+        "মিরপুর-১৪"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Mirpur-10",
+      "nameBn": "মিরপুর-১০",
+      "aliases": [
+        "mirpur-10",
+        "মিরপুর-১০"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Mirpur-1",
+      "nameBn": "মিরপুর-১",
+      "aliases": [
+        "mirpur-1",
+        "মিরপুর-১"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Technical",
+      "nameBn": "টেকনিক্যাল",
+      "aliases": [
+        "technical",
+        "টেকনিক্যাল"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Gabtoli",
+      "nameBn": "গাবতলী",
+      "aliases": [
+        "gabtoli",
+        "গাবতলী"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Hemayetpur",
+      "nameBn": "হেমায়েতপুর",
+      "aliases": [
+        "hemayetpur",
+        "হেমায়েতপুর"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Savar",
+      "nameBn": "সাভার",
+      "aliases": [
+        "savar",
+        "সাভার"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Nabinagar",
+      "nameBn": "নবীনগর",
+      "aliases": [
+        "nabinagar",
+        "নবীনগর"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "EPZ",
+      "nameBn": "ইপিজেড",
+      "aliases": [
+        "epz",
+        "ইপিজেড"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Nandan Park",
+      "nameBn": "নন্দনপার্ক",
+      "aliases": [
+        "nandan park",
+        "নন্দনপার্ক",
+        "nandan"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      10,
+      16,
+      21,
+      24,
+      43,
+      61,
+      83,
+      96,
+      121
+    ],
+    [
+      10,
+      0,
+      10,
+      11,
+      16,
+      19,
+      39,
+      56,
+      78,
+      91,
+      116
+    ],
+    [
+      10,
+      10,
+      0,
+      10,
+      10,
+      13,
+      33,
+      50,
+      72,
+      85,
+      110
+    ],
+    [
+      16,
+      11,
+      10,
+      0,
+      10,
+      10,
+      28,
+      46,
+      67,
+      80,
+      105
+    ],
+    [
+      21,
+      16,
+      10,
+      10,
+      0,
+      10,
+      23,
+      41,
+      62,
+      75,
+      100
+    ],
+    [
+      24,
+      19,
+      13,
+      10,
+      10,
+      0,
+      19,
+      37,
+      59,
+      72,
+      97
+    ],
+    [
+      43,
+      39,
+      33,
+      28,
+      23,
+      19,
+      0,
+      18,
+      39,
+      52,
+      77
+    ],
+    [
+      61,
+      56,
+      50,
+      46,
+      41,
+      37,
+      18,
+      0,
+      22,
+      34,
+      60
+    ],
+    [
+      83,
+      78,
+      72,
+      67,
+      62,
+      59,
+      39,
+      22,
+      0,
+      13,
+      38
+    ],
+    [
+      96,
+      91,
+      85,
+      80,
+      75,
+      72,
+      52,
+      34,
+      13,
+      0,
+      25
+    ],
+    [
+      121,
+      116,
+      110,
+      105,
+      100,
+      97,
+      77,
+      60,
+      38,
+      25,
+      0
+    ]
+  ]
+},
+{
+  "id": "A368",
+  "routeNo": "এ-৩৬৮",
+  "nameBn": "সাইনবোর্ড → ফ্যান্টাসী কিংডম",
+  "nameEn": "Signboard → Fantasy Kingdom",
+  "totalKm": 46.3,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Signboard",
+      "nameBn": "সাইনবোর্ড",
+      "aliases": [
+        "signboard",
+        "সাইনবোর্ড"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Jatrabari",
+      "nameBn": "যাত্রাবাড়ী",
+      "aliases": [
+        "jatrabari",
+        "যাত্রাবাড়ী"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Gulistan",
+      "nameBn": "গুলিস্তান",
+      "aliases": [
+        "gulistan",
+        "গুলিস্তান",
+        "বঙ্গবন্ধু স্কোয়ার",
+        "bangabandhu square"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Paltan",
+      "nameBn": "পল্টন",
+      "aliases": [
+        "paltan",
+        "পল্টন"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Bijoy Nagar",
+      "nameBn": "বিজয় নগর",
+      "aliases": [
+        "bijoy nagar",
+        "বিজয় নগর"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Kakrail",
+      "nameBn": "কাকরাইল",
+      "aliases": [
+        "kakrail",
+        "কাকরাইল"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Mouchak",
+      "nameBn": "মৌচাক",
+      "aliases": [
+        "mouchak",
+        "মৌচাক"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Moghbazar",
+      "nameBn": "মগবাজার",
+      "aliases": [
+        "moghbazar",
+        "মগবাজার"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Satrasta",
+      "nameBn": "সাতরাস্তা",
+      "aliases": [
+        "satrasta",
+        "সাতরাস্তা"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Mohakhali",
+      "nameBn": "মহাখালী",
+      "aliases": [
+        "mohakhali",
+        "মহাখালী"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Banani",
+      "nameBn": "বনানী",
+      "aliases": [
+        "banani",
+        "বনানী"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Shewra",
+      "nameBn": "শেওড়া",
+      "aliases": [
+        "shewra",
+        "শেওড়া"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Khilkhet",
+      "nameBn": "খিলক্ষেত",
+      "aliases": [
+        "khilkhet",
+        "খিলক্ষেত"
+      ]
+    },
+    {
+      "id": 13,
+      "nameEn": "Airport",
+      "nameBn": "এয়ারপোর্ট",
+      "aliases": [
+        "airport",
+        "এয়ারপোর্ট"
+      ]
+    },
+    {
+      "id": 14,
+      "nameEn": "House Building",
+      "nameBn": "হাউজ বিল্ডিং",
+      "aliases": [
+        "house building",
+        "হাউজ বিল্ডিং"
+      ]
+    },
+    {
+      "id": 15,
+      "nameEn": "Abdullahpur",
+      "nameBn": "আব্দুল্লাহপুর",
+      "aliases": [
+        "abdullahpur",
+        "আব্দুল্লাহপুর"
+      ]
+    },
+    {
+      "id": 16,
+      "nameEn": "Kamarpara",
+      "nameBn": "কামারপাড়া",
+      "aliases": [
+        "kamarpara",
+        "কামারপাড়া"
+      ]
+    },
+    {
+      "id": 17,
+      "nameEn": "Fantasy Kingdom",
+      "nameBn": "ফ্যান্টাসী কিংডম",
+      "aliases": [
+        "fantasy kingdom",
+        "ফ্যান্টাসী কিংডম"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      14,
+      21,
+      24,
+      26,
+      28,
+      31,
+      34,
+      37,
+      45,
+      51,
+      60,
+      64,
+      71,
+      82,
+      85,
+      91,
+      125
+    ],
+    [
+      14,
+      0,
+      10,
+      10,
+      12,
+      14,
+      17,
+      21,
+      23,
+      32,
+      37,
+      46,
+      50,
+      58,
+      69,
+      72,
+      78,
+      112
+    ],
+    [
+      21,
+      10,
+      0,
+      10,
+      10,
+      10,
+      10,
+      14,
+      16,
+      25,
+      30,
+      39,
+      43,
+      50,
+      62,
+      65,
+      70,
+      104
+    ],
+    [
+      24,
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      10,
+      13,
+      21,
+      27,
+      36,
+      40,
+      47,
+      58,
+      61,
+      67,
+      101
+    ],
+    [
+      26,
+      12,
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      11,
+      20,
+      25,
+      34,
+      38,
+      46,
+      57,
+      60,
+      66,
+      99
+    ],
+    [
+      28,
+      14,
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      18,
+      23,
+      32,
+      36,
+      43,
+      55,
+      58,
+      63,
+      97
+    ],
+    [
+      31,
+      17,
+      10,
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      15,
+      20,
+      29,
+      33,
+      41,
+      52,
+      55,
+      61,
+      94
+    ],
+    [
+      34,
+      21,
+      14,
+      10,
+      10,
+      10,
+      10,
+      0,
+      10,
+      11,
+      16,
+      25,
+      30,
+      37,
+      48,
+      51,
+      56,
+      91
+    ],
+    [
+      37,
+      23,
+      16,
+      13,
+      11,
+      10,
+      10,
+      10,
+      0,
+      10,
+      14,
+      23,
+      27,
+      34,
+      45,
+      48,
+      54,
+      88
+    ],
+    [
+      45,
+      32,
+      25,
+      21,
+      20,
+      18,
+      15,
+      11,
+      10,
+      0,
+      10,
+      14,
+      19,
+      26,
+      37,
+      40,
+      46,
+      80
+    ],
+    [
+      51,
+      37,
+      30,
+      27,
+      25,
+      23,
+      20,
+      16,
+      14,
+      10,
+      0,
+      10,
+      13,
+      21,
+      32,
+      35,
+      41,
+      74
+    ],
+    [
+      60,
+      46,
+      39,
+      36,
+      34,
+      32,
+      29,
+      25,
+      23,
+      14,
+      10,
+      0,
+      10,
+      12,
+      23,
+      26,
+      31,
+      65
+    ],
+    [
+      64,
+      50,
+      43,
+      40,
+      38,
+      36,
+      33,
+      30,
+      27,
+      19,
+      13,
+      10,
+      0,
+      10,
+      18,
+      21,
+      27,
+      61
+    ],
+    [
+      71,
+      58,
+      50,
+      47,
+      46,
+      43,
+      41,
+      37,
+      34,
+      26,
+      21,
+      12,
+      10,
+      0,
+      11,
+      14,
+      20,
+      54
+    ],
+    [
+      82,
+      69,
+      62,
+      58,
+      57,
+      55,
+      52,
+      48,
+      45,
+      37,
+      32,
+      23,
+      18,
+      11,
+      0,
+      10,
+      10,
+      43
+    ],
+    [
+      85,
+      72,
+      65,
+      61,
+      60,
+      58,
+      55,
+      51,
+      48,
+      40,
+      35,
+      26,
+      21,
+      14,
+      10,
+      0,
+      10,
+      40
+    ],
+    [
+      91,
+      78,
+      70,
+      67,
+      66,
+      63,
+      61,
+      56,
+      54,
+      46,
+      41,
+      31,
+      27,
+      20,
+      10,
+      10,
+      0,
+      34
+    ],
+    [
+      125,
+      112,
+      104,
+      101,
+      99,
+      97,
+      94,
+      91,
+      88,
+      80,
+      74,
+      65,
+      61,
+      54,
+      43,
+      40,
+      34,
+      0
+    ]
+  ]
+},
+{
+  "id": "A377",
+  "routeNo": "এ-৩৭৭",
+  "nameBn": "ডেমরা ব্রীজ → নবীনগর",
+  "nameEn": "Demra Bridge → Nabinagar",
+  "totalKm": 46.9,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Demra Bridge",
+      "nameBn": "ডেমরা ব্রীজ",
+      "aliases": [
+        "demra bridge",
+        "ডেমরা ব্রীজ"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Demra Staff Quarter",
+      "nameBn": "ডেমরা স্টাফ কোয়ার্টার",
+      "aliases": [
+        "demra staff quarter",
+        "ডেমরা স্টাফ কোয়ার্টার",
+        "স্টাফ কোয়ার্টার"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Meradia",
+      "nameBn": "মেরাদিয়া (নতুন রাস্তা)",
+      "aliases": [
+        "meradia",
+        "মেরাদিয়া",
+        "মেরাদিয়া (নতুন রাস্তা)"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Rampura Banasree",
+      "nameBn": "রামপুরা (বনশ্রী)",
+      "aliases": [
+        "rampura banasree",
+        "রামপুরা (বনশ্রী)",
+        "বনশ্রী"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Badda",
+      "nameBn": "বাড্ডা",
+      "aliases": [
+        "badda",
+        "বাড্ডা"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Kuril",
+      "nameBn": "কুড়িল",
+      "aliases": [
+        "kuril",
+        "কুড়িল"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Khilkhet",
+      "nameBn": "খিলক্ষেত",
+      "aliases": [
+        "khilkhet",
+        "খিলক্ষেত"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Airport",
+      "nameBn": "এয়ারপোর্ট",
+      "aliases": [
+        "airport",
+        "এয়ারপোর্ট"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "House Building",
+      "nameBn": "হাউজ বিল্ডিং",
+      "aliases": [
+        "house building",
+        "হাউজ বিল্ডিং"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Abdullahpur",
+      "nameBn": "আব্দুল্লাহপুর",
+      "aliases": [
+        "abdullahpur",
+        "আব্দুল্লাহপুর"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Tongi",
+      "nameBn": "টঙ্গী",
+      "aliases": [
+        "tongi",
+        "টঙ্গী"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Savar",
+      "nameBn": "সাভার",
+      "aliases": [
+        "savar",
+        "সাভার"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Nabinagar",
+      "nameBn": "নবীনগর",
+      "aliases": [
+        "nabinagar",
+        "নবীনগর"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      23,
+      31,
+      38,
+      40,
+      46,
+      49,
+      60,
+      66,
+      69,
+      105,
+      127
+    ],
+    [
+      10,
+      0,
+      18,
+      26,
+      32,
+      35,
+      41,
+      44,
+      55,
+      61,
+      63,
+      100,
+      121
+    ],
+    [
+      23,
+      18,
+      0,
+      10,
+      15,
+      17,
+      23,
+      26,
+      37,
+      43,
+      46,
+      82,
+      104
+    ],
+    [
+      31,
+      26,
+      10,
+      0,
+      10,
+      10,
+      15,
+      18,
+      29,
+      35,
+      38,
+      74,
+      96
+    ],
+    [
+      38,
+      32,
+      15,
+      10,
+      0,
+      10,
+      10,
+      11,
+      22,
+      28,
+      31,
+      67,
+      89
+    ],
+    [
+      40,
+      35,
+      17,
+      10,
+      10,
+      0,
+      10,
+      10,
+      20,
+      26,
+      28,
+      65,
+      86
+    ],
+    [
+      46,
+      41,
+      23,
+      15,
+      10,
+      10,
+      0,
+      10,
+      14,
+      20,
+      23,
+      59,
+      81
+    ],
+    [
+      49,
+      44,
+      26,
+      18,
+      11,
+      10,
+      10,
+      0,
+      11,
+      17,
+      19,
+      56,
+      77
+    ],
+    [
+      60,
+      55,
+      37,
+      29,
+      22,
+      20,
+      14,
+      11,
+      0,
+      10,
+      10,
+      45,
+      67
+    ],
+    [
+      66,
+      61,
+      43,
+      35,
+      28,
+      26,
+      20,
+      17,
+      10,
+      0,
+      10,
+      39,
+      60
+    ],
+    [
+      69,
+      63,
+      46,
+      38,
+      31,
+      28,
+      23,
+      19,
+      10,
+      10,
+      0,
+      36,
+      58
+    ],
+    [
+      105,
+      100,
+      82,
+      74,
+      67,
+      65,
+      59,
+      56,
+      45,
+      39,
+      36,
+      0,
+      22
+    ],
+    [
+      127,
+      121,
+      104,
+      96,
+      89,
+      86,
+      81,
+      77,
+      67,
+      60,
+      58,
+      22,
+      0
+    ]
+  ]
+},
+{
+  "id": "A378",
+  "routeNo": "এ-৩৭৮",
+  "nameBn": "ডেমরা স্টাফ কোয়ার্টার → বসিলা",
+  "nameEn": "Demra Staff Quarter → Bosila",
+  "totalKm": 23.5,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Demra Staff Quarter",
+      "nameBn": "ডেমরা স্টাফ কোয়ার্টার",
+      "aliases": [
+        "demra staff quarter",
+        "ডেমরা স্টাফ কোয়ার্টার"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Meradia Bazar",
+      "nameBn": "মেরাদিয়া বাজার",
+      "aliases": [
+        "meradia bazar",
+        "মেরাদিয়া বাজার"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Rampura",
+      "nameBn": "রামপুরা",
+      "aliases": [
+        "rampura",
+        "রামপুরা"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Malibagh",
+      "nameBn": "মালিবাগ",
+      "aliases": [
+        "malibagh",
+        "মালিবাগ"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Shantinagar",
+      "nameBn": "শান্তিনগর",
+      "aliases": [
+        "shantinagar",
+        "শান্তিনগর"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Kakrail",
+      "nameBn": "কাকরাইল",
+      "aliases": [
+        "kakrail",
+        "কাকরাইল"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Matsya Bhaban",
+      "nameBn": "মৎস্য ভবন",
+      "aliases": [
+        "matsya bhaban",
+        "মৎস্য ভবন"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Shahbagh",
+      "nameBn": "শাহবাগ",
+      "aliases": [
+        "shahbagh",
+        "শাহবাগ"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Science Lab",
+      "nameBn": "সায়েন্সল্যাব",
+      "aliases": [
+        "science lab",
+        "সায়েন্সল্যাব"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Bosila",
+      "nameBn": "বসিলা",
+      "aliases": [
+        "bosila",
+        "বসিলা",
+        "basila"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      22,
+      29,
+      36,
+      39,
+      42,
+      47,
+      52,
+      55,
+      63
+    ],
+    [
+      22,
+      0,
+      10,
+      14,
+      17,
+      20,
+      26,
+      30,
+      34,
+      42
+    ],
+    [
+      29,
+      10,
+      0,
+      10,
+      10,
+      13,
+      18,
+      23,
+      26,
+      34
+    ],
+    [
+      36,
+      14,
+      10,
+      0,
+      10,
+      10,
+      11,
+      16,
+      19,
+      28
+    ],
+    [
+      39,
+      17,
+      10,
+      10,
+      0,
+      10,
+      10,
+      13,
+      17,
+      25
+    ],
+    [
+      42,
+      20,
+      13,
+      10,
+      10,
+      0,
+      10,
+      10,
+      14,
+      22
+    ],
+    [
+      47,
+      26,
+      18,
+      11,
+      10,
+      10,
+      0,
+      10,
+      10,
+      16
+    ],
+    [
+      52,
+      30,
+      23,
+      16,
+      13,
+      10,
+      10,
+      0,
+      10,
+      12
+    ],
+    [
+      55,
+      34,
+      26,
+      19,
+      17,
+      14,
+      10,
+      10,
+      0,
+      10
+    ],
+    [
+      63,
+      42,
+      34,
+      28,
+      25,
+      22,
+      16,
+      12,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A380",
+  "routeNo": "এ-৩৮০",
+  "nameBn": "খিলগাঁও → পল্লবী (মিরপুর ১২)",
+  "nameEn": "Khilgaon → Pallabi (Mirpur-12)",
+  "totalKm": 21,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Khilgaon",
+      "nameBn": "খিলগাঁও",
+      "aliases": [
+        "khilgaon",
+        "খিলগাঁও"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Khilgaon Railgate",
+      "nameBn": "খিলগাঁও রেলগেট",
+      "aliases": [
+        "khilgaon railgate",
+        "খিলগাঁও রেলগেট"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Malibagh Chowdhury Para",
+      "nameBn": "মালিবাগ চৌধুরী পাড়া",
+      "aliases": [
+        "malibagh chowdhury para",
+        "মালিবাগ চৌধুরী পাড়া"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Malibagh",
+      "nameBn": "মালিবাগ",
+      "aliases": [
+        "malibagh",
+        "মালিবাগ"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Kakrail",
+      "nameBn": "কাকরাইল",
+      "aliases": [
+        "kakrail",
+        "কাকরাইল"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Matsya Bhaban",
+      "nameBn": "মৎস্য ভবন",
+      "aliases": [
+        "matsya bhaban",
+        "মৎস্য ভবন"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Shahbagh",
+      "nameBn": "শাহবাগ",
+      "aliases": [
+        "shahbagh",
+        "শাহবাগ"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Science Lab",
+      "nameBn": "সায়েন্সল্যাব",
+      "aliases": [
+        "science lab",
+        "সায়েন্সল্যাব"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Sukrabad",
+      "nameBn": "শুক্রাবাদ",
+      "aliases": [
+        "sukrabad",
+        "শুক্রাবাদ"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Shyamoli",
+      "nameBn": "শ্যামলী",
+      "aliases": [
+        "shyamoli",
+        "শ্যামলী"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Kalyanpur",
+      "nameBn": "কল্যাণপুর",
+      "aliases": [
+        "kalyanpur",
+        "কল্যাণপুর"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Technical",
+      "nameBn": "টেকনিক্যাল",
+      "aliases": [
+        "technical",
+        "টেকনিক্যাল"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Mirpur-1",
+      "nameBn": "মিরপুর-১",
+      "aliases": [
+        "mirpur-1",
+        "মিরপুর-১"
+      ]
+    },
+    {
+      "id": 13,
+      "nameEn": "Sony Cinema Hall",
+      "nameBn": "সনি সিনেমা হল",
+      "aliases": [
+        "sony cinema hall",
+        "সনি সিনেমা হল"
+      ]
+    },
+    {
+      "id": 14,
+      "nameEn": "Pallabi",
+      "nameBn": "পল্লবী (মিরপুর ১২)",
+      "aliases": [
+        "pallabi",
+        "পল্লবী (মিরপুর ১২)",
+        "পল্লবী",
+        "mirpur-12"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      10,
+      11,
+      17,
+      20,
+      26,
+      32,
+      37,
+      43,
+      46,
+      49,
+      52,
+      55,
+      57
+    ],
+    [
+      10,
+      0,
+      10,
+      10,
+      12,
+      15,
+      21,
+      26,
+      31,
+      37,
+      41,
+      44,
+      47,
+      49,
+      51
+    ],
+    [
+      10,
+      10,
+      0,
+      10,
+      10,
+      12,
+      18,
+      24,
+      29,
+      35,
+      38,
+      41,
+      44,
+      46,
+      49
+    ],
+    [
+      11,
+      10,
+      10,
+      0,
+      10,
+      10,
+      16,
+      21,
+      26,
+      32,
+      35,
+      39,
+      41,
+      44,
+      46
+    ],
+    [
+      17,
+      12,
+      10,
+      10,
+      0,
+      10,
+      10,
+      15,
+      20,
+      26,
+      29,
+      32,
+      35,
+      38,
+      40
+    ],
+    [
+      20,
+      15,
+      12,
+      10,
+      10,
+      0,
+      10,
+      12,
+      16,
+      22,
+      26,
+      29,
+      32,
+      35,
+      36
+    ],
+    [
+      26,
+      21,
+      18,
+      16,
+      10,
+      10,
+      0,
+      10,
+      10,
+      16,
+      19,
+      23,
+      26,
+      28,
+      30
+    ],
+    [
+      32,
+      26,
+      24,
+      21,
+      15,
+      12,
+      10,
+      0,
+      10,
+      11,
+      14,
+      18,
+      20,
+      23,
+      25
+    ],
+    [
+      37,
+      31,
+      29,
+      26,
+      20,
+      16,
+      10,
+      10,
+      0,
+      10,
+      10,
+      13,
+      15,
+      18,
+      20
+    ],
+    [
+      43,
+      37,
+      35,
+      32,
+      26,
+      22,
+      16,
+      11,
+      10,
+      0,
+      10,
+      10,
+      10,
+      12,
+      14
+    ],
+    [
+      46,
+      41,
+      38,
+      35,
+      29,
+      26,
+      19,
+      14,
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      11
+    ],
+    [
+      49,
+      44,
+      41,
+      39,
+      32,
+      29,
+      23,
+      18,
+      13,
+      10,
+      10,
+      0,
+      10,
+      10,
+      10
+    ],
+    [
+      52,
+      47,
+      44,
+      41,
+      35,
+      32,
+      26,
+      20,
+      15,
+      10,
+      10,
+      10,
+      0,
+      10,
+      10
+    ],
+    [
+      55,
+      49,
+      46,
+      44,
+      38,
+      35,
+      28,
+      23,
+      18,
+      12,
+      10,
+      10,
+      10,
+      0,
+      10
+    ],
+    [
+      57,
+      51,
+      49,
+      46,
+      40,
+      36,
+      30,
+      25,
+      20,
+      14,
+      11,
+      10,
+      10,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A381",
+  "routeNo": "এ-৩৮১",
+  "nameBn": "গুলিস্তান → গোদানাইল (সিদ্ধিরগঞ্জ)",
+  "nameEn": "Gulistan → Godanail (Siddhirganj)",
+  "totalKm": 20.6,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Gulistan",
+      "nameBn": "গুলিস্তান",
+      "aliases": [
+        "gulistan",
+        "গুলিস্তান"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Postogola",
+      "nameBn": "পোস্তগোলা",
+      "aliases": [
+        "postogola",
+        "পোস্তগোলা"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Pagla",
+      "nameBn": "পাগলা",
+      "aliases": [
+        "pagla",
+        "পাগলা"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Fatullah",
+      "nameBn": "ফতুল্লা",
+      "aliases": [
+        "fatullah",
+        "ফতুল্লা"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Godanail",
+      "nameBn": "গোদানাইল (সিদ্ধিরগঞ্জ)",
+      "aliases": [
+        "godanail",
+        "গোদানাইল",
+        "গোদানাইল (সিদ্ধিরগঞ্জ)",
+        "siddhirganj"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      26,
+      37,
+      41,
+      56
+    ],
+    [
+      26,
+      0,
+      11,
+      15,
+      30
+    ],
+    [
+      37,
+      11,
+      0,
+      10,
+      19
+    ],
+    [
+      41,
+      15,
+      10,
+      0,
+      15
+    ],
+    [
+      56,
+      30,
+      19,
+      15,
+      0
+    ]
+  ]
+},
+{
+  "id": "A382",
+  "routeNo": "এ-৩৮২",
+  "nameBn": "শিয়ালবাড়ী → কমলাপুর (শহীদ তাজউদ্দীন সরণি)",
+  "nameEn": "Shialbari → Kamalapur",
+  "totalKm": 21,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Shialbari",
+      "nameBn": "শিয়ালবাড়ী",
+      "aliases": [
+        "shialbari",
+        "শিয়ালবাড়ী",
+        "শিয়ালবাড়ি"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Original Dosh",
+      "nameBn": "অরিজিনাল দশ",
+      "aliases": [
+        "original dosh",
+        "অরিজিনাল দশ",
+        "mirpur 10"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Purobi",
+      "nameBn": "পূরবী",
+      "aliases": [
+        "purobi",
+        "পূরবী"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Kalshi Mor",
+      "nameBn": "কালশী মোড়",
+      "aliases": [
+        "kalshi mor",
+        "কালশী মোড়",
+        "kalshi"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Md. Jillur Rahman Flyover",
+      "nameBn": "মোঃ জিল্লুর রহমান ফ্লাইওভার",
+      "aliases": [
+        "md jillur rahman flyover",
+        "মোঃ জিল্লুর রহমান ফ্লাইওভার"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Banani",
+      "nameBn": "বনানী",
+      "aliases": [
+        "banani",
+        "বনানী"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Mohakhali",
+      "nameBn": "মহাখালী",
+      "aliases": [
+        "mohakhali",
+        "মহাখালী"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Satrasta",
+      "nameBn": "সাতরাস্তা",
+      "aliases": [
+        "satrasta",
+        "সাতরাস্তা"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Moghbazar",
+      "nameBn": "মগবাজার",
+      "aliases": [
+        "moghbazar",
+        "মগবাজার"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Malibagh",
+      "nameBn": "মালিবাগ",
+      "aliases": [
+        "malibagh",
+        "মালিবাগ"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Kakrail",
+      "nameBn": "কাকরাইল",
+      "aliases": [
+        "kakrail",
+        "কাকরাইল"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Fakirapool",
+      "nameBn": "ফকিরাপুল",
+      "aliases": [
+        "fakirapool",
+        "ফকিরাপুল"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Kamalapur",
+      "nameBn": "কমলাপুর (বিআরটিসি টার্মিনাল)",
+      "aliases": [
+        "kamalapur",
+        "কমলাপুর"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      10,
+      17,
+      26,
+      32,
+      37,
+      43,
+      46,
+      49,
+      52,
+      55,
+      57
+    ],
+    [
+      10,
+      0,
+      10,
+      12,
+      21,
+      26,
+      31,
+      37,
+      41,
+      44,
+      47,
+      49,
+      51
+    ],
+    [
+      10,
+      10,
+      0,
+      10,
+      18,
+      24,
+      29,
+      35,
+      38,
+      41,
+      44,
+      46,
+      49
+    ],
+    [
+      17,
+      12,
+      10,
+      0,
+      10,
+      15,
+      20,
+      26,
+      29,
+      32,
+      35,
+      38,
+      40
+    ],
+    [
+      26,
+      21,
+      18,
+      10,
+      0,
+      10,
+      10,
+      16,
+      19,
+      23,
+      26,
+      28,
+      30
+    ],
+    [
+      32,
+      26,
+      24,
+      15,
+      10,
+      0,
+      10,
+      11,
+      14,
+      18,
+      20,
+      23,
+      25
+    ],
+    [
+      37,
+      31,
+      29,
+      20,
+      10,
+      10,
+      0,
+      10,
+      10,
+      13,
+      15,
+      18,
+      20
+    ],
+    [
+      43,
+      37,
+      35,
+      26,
+      16,
+      11,
+      10,
+      0,
+      10,
+      10,
+      10,
+      12,
+      14
+    ],
+    [
+      46,
+      41,
+      38,
+      29,
+      19,
+      14,
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      11
+    ],
+    [
+      49,
+      44,
+      41,
+      32,
+      23,
+      18,
+      13,
+      10,
+      10,
+      0,
+      10,
+      10,
+      10
+    ],
+    [
+      52,
+      47,
+      44,
+      35,
+      26,
+      20,
+      15,
+      10,
+      10,
+      10,
+      0,
+      10,
+      10
+    ],
+    [
+      55,
+      49,
+      46,
+      38,
+      28,
+      23,
+      18,
+      12,
+      10,
+      10,
+      10,
+      0,
+      10
+    ],
+    [
+      57,
+      51,
+      49,
+      40,
+      30,
+      25,
+      20,
+      14,
+      11,
+      10,
+      10,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A385",
+  "routeNo": "এ-৩৮৫",
+  "nameBn": "সাইনবোর্ড → নন্দনপার্ক",
+  "nameEn": "Signboard → Nandan Park",
+  "totalKm": 56.5,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Signboard",
+      "nameBn": "সাইনবোর্ড",
+      "aliases": [
+        "signboard",
+        "সাইনবোর্ড"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Mayor Mohammad Flyover",
+      "nameBn": "মেয়র মোহাম্মদ ফ্লাইওভার",
+      "aliases": [
+        "mayor mohammad flyover",
+        "মেয়র মোহাম্মদ ফ্লাইওভার"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Chankharpul",
+      "nameBn": "চানখারপুল",
+      "aliases": [
+        "chankharpul",
+        "চানখারপুল"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Shahbagh",
+      "nameBn": "শাহবাগ",
+      "aliases": [
+        "shahbagh",
+        "শাহবাগ"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Farmgate",
+      "nameBn": "ফার্মগেট",
+      "aliases": [
+        "farmgate",
+        "ফার্মগেট"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Gabtoli",
+      "nameBn": "গাবতলী",
+      "aliases": [
+        "gabtoli",
+        "গাবতলী"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Savar",
+      "nameBn": "সাভার",
+      "aliases": [
+        "savar",
+        "সাভার"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Nabinagar",
+      "nameBn": "নবীনগর",
+      "aliases": [
+        "nabinagar",
+        "নবীনগর"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "EPZ",
+      "nameBn": "ইপিজেড",
+      "aliases": [
+        "epz",
+        "ইপিজেড"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Jirani",
+      "nameBn": "জিরানী",
+      "aliases": [
+        "jirani",
+        "জিরানী"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Nandan Park",
+      "nameBn": "নন্দনপার্ক",
+      "aliases": [
+        "nandan park",
+        "নন্দনপার্ক"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      11,
+      25,
+      30,
+      32,
+      53,
+      92,
+      115,
+      127,
+      140,
+      153
+    ],
+    [
+      11,
+      0,
+      14,
+      20,
+      22,
+      42,
+      81,
+      104,
+      116,
+      130,
+      142
+    ],
+    [
+      25,
+      14,
+      0,
+      10,
+      10,
+      28,
+      67,
+      90,
+      102,
+      115,
+      127
+    ],
+    [
+      30,
+      20,
+      10,
+      0,
+      10,
+      23,
+      62,
+      84,
+      96,
+      110,
+      122
+    ],
+    [
+      32,
+      22,
+      10,
+      10,
+      0,
+      21,
+      59,
+      82,
+      94,
+      108,
+      120
+    ],
+    [
+      53,
+      42,
+      28,
+      23,
+      21,
+      0,
+      39,
+      62,
+      74,
+      87,
+      99
+    ],
+    [
+      92,
+      81,
+      67,
+      62,
+      59,
+      39,
+      0,
+      23,
+      35,
+      48,
+      60
+    ],
+    [
+      115,
+      104,
+      90,
+      84,
+      82,
+      62,
+      23,
+      0,
+      12,
+      26,
+      38
+    ],
+    [
+      127,
+      116,
+      102,
+      96,
+      94,
+      74,
+      35,
+      12,
+      0,
+      14,
+      26
+    ],
+    [
+      140,
+      130,
+      115,
+      110,
+      108,
+      87,
+      48,
+      26,
+      14,
+      0,
+      12
+    ],
+    [
+      153,
+      142,
+      127,
+      122,
+      120,
+      99,
+      60,
+      38,
+      26,
+      12,
+      0
+    ]
+  ]
+},
+{
+  "id": "A386",
+  "routeNo": "এ-৩৮৬",
+  "nameBn": "মদনপুর → নন্দন পার্ক",
+  "nameEn": "Madanpur → Nandan Park",
+  "totalKm": 78.6,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Madanpur",
+      "nameBn": "মদনপুর",
+      "aliases": [
+        "madanpur",
+        "মদনপুর"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Kanchpur",
+      "nameBn": "কাঁচপুর",
+      "aliases": [
+        "kanchpur",
+        "কাঁচপুর"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Demra",
+      "nameBn": "ডেমরা",
+      "aliases": [
+        "demra",
+        "ডেমরা"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Meradia Bazar",
+      "nameBn": "মেরাদিয়া বাজার",
+      "aliases": [
+        "meradia bazar",
+        "মেরাদিয়া বাজার"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Banasree",
+      "nameBn": "বনশ্রী",
+      "aliases": [
+        "banasree",
+        "বনশ্রী"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Rampura Bridge",
+      "nameBn": "রামপুরা ব্রীজ",
+      "aliases": [
+        "rampura bridge",
+        "রামপুরা ব্রীজ"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Jamuna Future Park",
+      "nameBn": "যমুনা ফিউচার পার্ক",
+      "aliases": [
+        "jamuna future park",
+        "যমুনা ফিউচার পার্ক"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Kuril",
+      "nameBn": "কুড়িল",
+      "aliases": [
+        "kuril",
+        "কুড়িল"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "ECB Chattar",
+      "nameBn": "ইসিবি চত্বর",
+      "aliases": [
+        "ecb chattar",
+        "ইসিবি চত্বর"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Kalshi",
+      "nameBn": "কালশী",
+      "aliases": [
+        "kalshi",
+        "কালশী"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Mirpur-10",
+      "nameBn": "মিরপুর-১০",
+      "aliases": [
+        "mirpur-10",
+        "মিরপুর-১০",
+        "original 10",
+        "অরিজিনাল দশ"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Mirpur-1",
+      "nameBn": "মিরপুর-১",
+      "aliases": [
+        "mirpur-1",
+        "মিরপুর-১"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Gabtoli",
+      "nameBn": "গাবতলী",
+      "aliases": [
+        "gabtoli",
+        "গাবতলী"
+      ]
+    },
+    {
+      "id": 13,
+      "nameEn": "Hemayetpur",
+      "nameBn": "হেমায়েতপুর",
+      "aliases": [
+        "hemayetpur",
+        "হেমায়েতপুর"
+      ]
+    },
+    {
+      "id": 14,
+      "nameEn": "Savar",
+      "nameBn": "সাভার",
+      "aliases": [
+        "savar",
+        "সাভার"
+      ]
+    },
+    {
+      "id": 15,
+      "nameEn": "EPZ",
+      "nameBn": "ইপিজেড",
+      "aliases": [
+        "epz",
+        "ইপিজেড"
+      ]
+    },
+    {
+      "id": 16,
+      "nameEn": "Nandan Park",
+      "nameBn": "নন্দন পার্ক",
+      "aliases": [
+        "nandan park",
+        "নন্দন পার্ক"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      11,
+      24,
+      42,
+      48,
+      50,
+      64,
+      67,
+      77,
+      82,
+      95,
+      100,
+      108,
+      130,
+      148,
+      184,
+      212
+    ],
+    [
+      11,
+      0,
+      14,
+      31,
+      37,
+      39,
+      53,
+      56,
+      66,
+      71,
+      84,
+      89,
+      97,
+      119,
+      137,
+      173,
+      201
+    ],
+    [
+      24,
+      14,
+      0,
+      18,
+      23,
+      26,
+      40,
+      43,
+      52,
+      58,
+      71,
+      76,
+      84,
+      106,
+      124,
+      159,
+      188
+    ],
+    [
+      42,
+      31,
+      18,
+      0,
+      10,
+      10,
+      22,
+      25,
+      35,
+      40,
+      53,
+      58,
+      66,
+      88,
+      106,
+      141,
+      170
+    ],
+    [
+      48,
+      37,
+      23,
+      10,
+      0,
+      10,
+      17,
+      19,
+      29,
+      34,
+      48,
+      52,
+      61,
+      82,
+      100,
+      136,
+      165
+    ],
+    [
+      50,
+      39,
+      26,
+      10,
+      10,
+      0,
+      14,
+      17,
+      26,
+      32,
+      45,
+      50,
+      58,
+      80,
+      98,
+      133,
+      162
+    ],
+    [
+      64,
+      53,
+      40,
+      22,
+      17,
+      14,
+      0,
+      10,
+      12,
+      18,
+      31,
+      36,
+      44,
+      66,
+      84,
+      119,
+      148
+    ],
+    [
+      67,
+      56,
+      43,
+      25,
+      19,
+      17,
+      10,
+      0,
+      10,
+      15,
+      28,
+      33,
+      41,
+      63,
+      81,
+      117,
+      145
+    ],
+    [
+      77,
+      66,
+      52,
+      35,
+      29,
+      26,
+      12,
+      10,
+      0,
+      10,
+      18,
+      23,
+      32,
+      53,
+      71,
+      107,
+      136
+    ],
+    [
+      82,
+      71,
+      58,
+      40,
+      34,
+      32,
+      18,
+      15,
+      10,
+      0,
+      13,
+      18,
+      26,
+      48,
+      66,
+      102,
+      130
+    ],
+    [
+      95,
+      84,
+      71,
+      53,
+      48,
+      45,
+      31,
+      28,
+      18,
+      13,
+      0,
+      10,
+      13,
+      35,
+      53,
+      89,
+      117
+    ],
+    [
+      100,
+      89,
+      76,
+      58,
+      52,
+      50,
+      36,
+      33,
+      23,
+      18,
+      10,
+      0,
+      10,
+      30,
+      48,
+      84,
+      112
+    ],
+    [
+      108,
+      97,
+      84,
+      66,
+      61,
+      58,
+      44,
+      41,
+      32,
+      26,
+      13,
+      10,
+      0,
+      22,
+      40,
+      75,
+      104
+    ],
+    [
+      130,
+      119,
+      106,
+      88,
+      82,
+      80,
+      66,
+      63,
+      53,
+      48,
+      35,
+      30,
+      22,
+      0,
+      18,
+      54,
+      82
+    ],
+    [
+      148,
+      137,
+      124,
+      106,
+      100,
+      98,
+      84,
+      81,
+      71,
+      66,
+      53,
+      48,
+      40,
+      18,
+      0,
+      36,
+      64
+    ],
+    [
+      184,
+      173,
+      159,
+      141,
+      136,
+      133,
+      119,
+      117,
+      107,
+      102,
+      89,
+      84,
+      75,
+      54,
+      36,
+      0,
+      29
+    ],
+    [
+      212,
+      201,
+      188,
+      170,
+      165,
+      162,
+      148,
+      145,
+      136,
+      130,
+      117,
+      112,
+      104,
+      82,
+      64,
+      29,
+      0
+    ]
+  ]
+},
+{
+  "id": "A390",
+  "routeNo": "এ-৩৯০",
+  "nameBn": "সাভার → ভিক্টোরিয়া পার্ক",
+  "nameEn": "Savar → Victoria Park",
+  "totalKm": 32.4,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Savar",
+      "nameBn": "সাভার",
+      "aliases": [
+        "savar",
+        "সাভার"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Hemayetpur",
+      "nameBn": "হেমায়েতপুর",
+      "aliases": [
+        "hemayetpur",
+        "হেমায়েতপুর"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Gabtoli",
+      "nameBn": "গাবতলী",
+      "aliases": [
+        "gabtoli",
+        "গাবতলী"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Technical",
+      "nameBn": "টেকনিক্যাল",
+      "aliases": [
+        "technical",
+        "টেকনিক্যাল"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Mirpur-2",
+      "nameBn": "মিরপুর-২",
+      "aliases": [
+        "mirpur-2",
+        "মিরপুর-২"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Mirpur-11",
+      "nameBn": "মিরপুর-১১",
+      "aliases": [
+        "mirpur-11",
+        "মিরপুর-১১"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Kalshi",
+      "nameBn": "কালশী",
+      "aliases": [
+        "kalshi",
+        "কালশী"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Md. Jillur Rahman Flyover",
+      "nameBn": "মোঃ জিল্লুর রহমান ফ্লাইওভার",
+      "aliases": [
+        "md jillur rahman flyover",
+        "মোঃ জিল্লুর রহমান ফ্লাইওভার"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Moghbazar",
+      "nameBn": "মগবাজার",
+      "aliases": [
+        "moghbazar",
+        "মগবাজার"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Kakrail",
+      "nameBn": "কাকরাইল",
+      "aliases": [
+        "kakrail",
+        "কাকরাইল"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Gulistan",
+      "nameBn": "গুলিস্তান",
+      "aliases": [
+        "gulistan",
+        "গুলিস্তান"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Victoria Park",
+      "nameBn": "ভিক্টোরিয়া পার্ক",
+      "aliases": [
+        "victoria park",
+        "ভিক্টোরিয়া পার্ক"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      18,
+      38,
+      41,
+      49,
+      53,
+      64,
+      70,
+      75,
+      78,
+      81,
+      87
+    ],
+    [
+      18,
+      0,
+      21,
+      23,
+      31,
+      36,
+      46,
+      52,
+      57,
+      60,
+      63,
+      70
+    ],
+    [
+      38,
+      21,
+      0,
+      10,
+      11,
+      15,
+      25,
+      31,
+      37,
+      39,
+      43,
+      49
+    ],
+    [
+      41,
+      23,
+      10,
+      0,
+      10,
+      13,
+      23,
+      29,
+      35,
+      37,
+      41,
+      47
+    ],
+    [
+      49,
+      31,
+      11,
+      10,
+      0,
+      10,
+      15,
+      21,
+      26,
+      29,
+      32,
+      38
+    ],
+    [
+      53,
+      36,
+      15,
+      13,
+      10,
+      0,
+      10,
+      16,
+      22,
+      24,
+      28,
+      34
+    ],
+    [
+      64,
+      46,
+      25,
+      23,
+      15,
+      10,
+      0,
+      10,
+      11,
+      14,
+      18,
+      24
+    ],
+    [
+      70,
+      52,
+      31,
+      29,
+      21,
+      16,
+      10,
+      0,
+      10,
+      10,
+      12,
+      18
+    ],
+    [
+      75,
+      57,
+      37,
+      35,
+      26,
+      22,
+      11,
+      10,
+      0,
+      10,
+      10,
+      12
+    ],
+    [
+      78,
+      60,
+      39,
+      37,
+      29,
+      24,
+      14,
+      10,
+      10,
+      0,
+      10,
+      10
+    ],
+    [
+      81,
+      63,
+      43,
+      41,
+      32,
+      28,
+      18,
+      12,
+      10,
+      10,
+      0,
+      10
+    ],
+    [
+      87,
+      70,
+      49,
+      47,
+      38,
+      34,
+      24,
+      18,
+      12,
+      10,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A406",
+  "routeNo": "এ-৪০৬",
+  "nameBn": "ঘাটারচর → সোনারগাঁও",
+  "nameEn": "Ghatarchar → Sonargaon",
+  "totalKm": 39.4,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Ghatarchar",
+      "nameBn": "ঘাটারচর",
+      "aliases": [
+        "ghatarchar",
+        "ঘাটারচর"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Bosila",
+      "nameBn": "বসিলা",
+      "aliases": [
+        "bosila",
+        "বসিলা"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Mohammadpur",
+      "nameBn": "মোহাম্মদপুর",
+      "aliases": [
+        "mohammadpur",
+        "মোহাম্মদপুর"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Shankar",
+      "nameBn": "শংকর",
+      "aliases": [
+        "shankar",
+        "শংকর"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Dhanmondi",
+      "nameBn": "ধানমন্ডি",
+      "aliases": [
+        "dhanmondi",
+        "ধানমন্ডি"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Jigatola",
+      "nameBn": "জিগাতলা",
+      "aliases": [
+        "jigatola",
+        "জিগাতলা"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Science Lab",
+      "nameBn": "সায়েন্সল্যাব",
+      "aliases": [
+        "science lab",
+        "সায়েন্সল্যাব"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Shahbagh",
+      "nameBn": "শাহবাগ",
+      "aliases": [
+        "shahbagh",
+        "শাহবাগ"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Press Club",
+      "nameBn": "প্রেস ক্লাব",
+      "aliases": [
+        "press club",
+        "প্রেস ক্লাব"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Gulistan",
+      "nameBn": "গুলিস্তান",
+      "aliases": [
+        "gulistan",
+        "গুলিস্তান"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Ittefaq",
+      "nameBn": "ইত্তেফাক",
+      "aliases": [
+        "ittefaq",
+        "ইত্তেফাক"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Sayedabad",
+      "nameBn": "সায়েদাবাদ",
+      "aliases": [
+        "sayedabad",
+        "সায়েদাবাদ"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Sonir Akhra",
+      "nameBn": "শনির আখড়া",
+      "aliases": [
+        "sonir akhra",
+        "শনির আখড়া"
+      ]
+    },
+    {
+      "id": 13,
+      "nameEn": "Rayerbagh",
+      "nameBn": "রায়েরবাগ",
+      "aliases": [
+        "rayerbagh",
+        "রায়েরবাগ"
+      ]
+    },
+    {
+      "id": 14,
+      "nameEn": "Kanchpur",
+      "nameBn": "কাঁচপুর",
+      "aliases": [
+        "kanchpur",
+        "কাঁচপুর"
+      ]
+    },
+    {
+      "id": 15,
+      "nameEn": "Madanpur",
+      "nameBn": "মদনপুর",
+      "aliases": [
+        "madanpur",
+        "মদনপুর"
+      ]
+    },
+    {
+      "id": 16,
+      "nameEn": "Sonargaon",
+      "nameBn": "সোনারগাঁও",
+      "aliases": [
+        "sonargaon",
+        "সোনারগাঁও"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      12,
+      17,
+      18,
+      20,
+      22,
+      28,
+      31,
+      33,
+      39,
+      40,
+      52,
+      55,
+      74,
+      82,
+      106
+    ],
+    [
+      10,
+      0,
+      10,
+      10,
+      11,
+      12,
+      15,
+      20,
+      23,
+      26,
+      31,
+      32,
+      45,
+      47,
+      66,
+      74,
+      99
+    ],
+    [
+      12,
+      10,
+      0,
+      10,
+      10,
+      10,
+      11,
+      16,
+      19,
+      22,
+      27,
+      28,
+      41,
+      43,
+      62,
+      70,
+      95
+    ],
+    [
+      17,
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      11,
+      14,
+      16,
+      22,
+      23,
+      35,
+      38,
+      57,
+      65,
+      89
+    ],
+    [
+      18,
+      11,
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      12,
+      15,
+      20,
+      22,
+      34,
+      36,
+      55,
+      63,
+      88
+    ],
+    [
+      20,
+      12,
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      11,
+      14,
+      19,
+      20,
+      32,
+      35,
+      54,
+      62,
+      87
+    ],
+    [
+      22,
+      15,
+      11,
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      11,
+      16,
+      18,
+      30,
+      32,
+      51,
+      59,
+      84
+    ],
+    [
+      28,
+      20,
+      16,
+      11,
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      11,
+      12,
+      24,
+      27,
+      46,
+      54,
+      79
+    ],
+    [
+      31,
+      23,
+      19,
+      14,
+      12,
+      11,
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      22,
+      24,
+      43,
+      51,
+      76
+    ],
+    [
+      33,
+      26,
+      22,
+      16,
+      15,
+      14,
+      11,
+      10,
+      10,
+      0,
+      10,
+      10,
+      19,
+      22,
+      41,
+      49,
+      73
+    ],
+    [
+      39,
+      31,
+      27,
+      22,
+      20,
+      19,
+      16,
+      11,
+      10,
+      10,
+      0,
+      10,
+      14,
+      16,
+      35,
+      43,
+      68
+    ],
+    [
+      40,
+      32,
+      28,
+      23,
+      22,
+      20,
+      18,
+      12,
+      10,
+      10,
+      10,
+      0,
+      12,
+      15,
+      34,
+      42,
+      66
+    ],
+    [
+      52,
+      45,
+      41,
+      35,
+      34,
+      32,
+      30,
+      24,
+      22,
+      19,
+      14,
+      12,
+      0,
+      10,
+      22,
+      30,
+      54
+    ],
+    [
+      55,
+      47,
+      43,
+      38,
+      36,
+      35,
+      32,
+      27,
+      24,
+      22,
+      16,
+      15,
+      10,
+      0,
+      19,
+      27,
+      52
+    ],
+    [
+      74,
+      66,
+      62,
+      57,
+      55,
+      54,
+      51,
+      46,
+      43,
+      41,
+      35,
+      34,
+      22,
+      19,
+      0,
+      10,
+      33
+    ],
+    [
+      82,
+      74,
+      70,
+      65,
+      63,
+      62,
+      59,
+      54,
+      51,
+      49,
+      43,
+      42,
+      30,
+      27,
+      10,
+      0,
+      25
+    ],
+    [
+      106,
+      99,
+      95,
+      89,
+      88,
+      87,
+      84,
+      79,
+      76,
+      73,
+      68,
+      66,
+      54,
+      52,
+      33,
+      25,
+      0
+    ]
+  ]
+},
+{
+  "id": "A393",
+  "routeNo": "এ-৩৯৩",
+  "nameBn": "সাভার → বেরাইদ",
+  "nameEn": "Savar → Beraid",
+  "totalKm": 37.4,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Savar",
+      "nameBn": "সাভার",
+      "aliases": [
+        "savar",
+        "সাভার"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Hemayetpur",
+      "nameBn": "হেমায়েতপুর",
+      "aliases": [
+        "hemayetpur",
+        "হেমায়েতপুর"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Gabtoli",
+      "nameBn": "গাবতলী",
+      "aliases": [
+        "gabtoli",
+        "গাবতলী"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Technical",
+      "nameBn": "টেকনিক্যাল",
+      "aliases": [
+        "technical",
+        "টেকনিক্যাল"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Mirpur-2",
+      "nameBn": "মিরপুর-২",
+      "aliases": [
+        "mirpur-2",
+        "মিরপুর-২"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Mirpur-11",
+      "nameBn": "মিরপুর-১১",
+      "aliases": [
+        "mirpur-11",
+        "মিরপুর-১১"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Kalshi",
+      "nameBn": "কালশী",
+      "aliases": [
+        "kalshi",
+        "কালশী"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Md. Jillur Rahman Flyover",
+      "nameBn": "মোঃ জিল্লুর রহমান ফ্লাইওভার",
+      "aliases": [
+        "md jillur rahman flyover",
+        "মোঃ জিল্লুর রহমান ফ্লাইওভার"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Chowrasta",
+      "nameBn": "চৌরাস্তা",
+      "aliases": [
+        "chowrasta",
+        "চৌরাস্তা"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Kuril Bishwaroad",
+      "nameBn": "কুড়িল বিশ্বরোড",
+      "aliases": [
+        "কুড়িল বিশ্বরোড",
+        "kuril bishwaroad"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Nadda",
+      "nameBn": "নদ্দা",
+      "aliases": [
+        "nadda",
+        "নদ্দা"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Beraid",
+      "nameBn": "বেরাইদ",
+      "aliases": [
+        "beraid",
+        "বেরাইদ"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      18,
+      38,
+      41,
+      49,
+      53,
+      64,
+      70,
+      75,
+      78,
+      81,
+      101
+    ],
+    [
+      18,
+      0,
+      21,
+      23,
+      31,
+      36,
+      46,
+      52,
+      57,
+      60,
+      63,
+      83
+    ],
+    [
+      38,
+      21,
+      0,
+      10,
+      11,
+      15,
+      25,
+      31,
+      37,
+      39,
+      43,
+      63
+    ],
+    [
+      41,
+      23,
+      10,
+      0,
+      10,
+      13,
+      23,
+      29,
+      35,
+      37,
+      41,
+      60
+    ],
+    [
+      49,
+      31,
+      11,
+      10,
+      0,
+      10,
+      15,
+      21,
+      26,
+      29,
+      32,
+      52
+    ],
+    [
+      53,
+      36,
+      15,
+      13,
+      10,
+      0,
+      10,
+      16,
+      22,
+      24,
+      28,
+      48
+    ],
+    [
+      64,
+      46,
+      25,
+      23,
+      15,
+      10,
+      0,
+      10,
+      11,
+      14,
+      18,
+      37
+    ],
+    [
+      70,
+      52,
+      31,
+      29,
+      21,
+      16,
+      10,
+      0,
+      10,
+      10,
+      12,
+      31
+    ],
+    [
+      75,
+      57,
+      37,
+      35,
+      26,
+      22,
+      11,
+      10,
+      0,
+      10,
+      10,
+      26
+    ],
+    [
+      78,
+      60,
+      39,
+      37,
+      29,
+      24,
+      14,
+      10,
+      10,
+      0,
+      10,
+      23
+    ],
+    [
+      81,
+      63,
+      43,
+      41,
+      32,
+      28,
+      18,
+      12,
+      10,
+      10,
+      0,
+      20
+    ],
+    [
+      101,
+      83,
+      63,
+      60,
+      52,
+      48,
+      37,
+      31,
+      26,
+      23,
+      20,
+      0
+    ]
+  ]
+},
+{
+  "id": "A397",
+  "routeNo": "এ-৩৯৭",
+  "nameBn": "কালামপুর → ভিক্টোরিয়া পার্ক",
+  "nameEn": "Kalampur → Victoria Park",
+  "totalKm": 49.5,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Kalampur",
+      "nameBn": "কালামপুর",
+      "aliases": [
+        "kalampur",
+        "কালামপুর"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Dhamrai",
+      "nameBn": "ধামরাই",
+      "aliases": [
+        "dhamrai",
+        "ধামরাই"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Nabinagar",
+      "nameBn": "নবীনগর",
+      "aliases": [
+        "nabinagar",
+        "নবীনগর"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Savar",
+      "nameBn": "সাভার",
+      "aliases": [
+        "savar",
+        "সাভার"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Hemayetpur",
+      "nameBn": "হেমায়েতপুর",
+      "aliases": [
+        "hemayetpur",
+        "হেমায়েতপুর"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Gabtoli",
+      "nameBn": "গাবতলী",
+      "aliases": [
+        "gabtoli",
+        "গাবতলী"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Asad Gate",
+      "nameBn": "আসাদগেট",
+      "aliases": [
+        "asad gate",
+        "আসাদগেট"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Farmgate",
+      "nameBn": "ফার্মগেট",
+      "aliases": [
+        "farmgate",
+        "ফার্মগেট"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Shahbagh",
+      "nameBn": "শাহবাগ",
+      "aliases": [
+        "shahbagh",
+        "শাহবাগ"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Press Club",
+      "nameBn": "প্রেসক্লাব",
+      "aliases": [
+        "press club",
+        "প্রেসক্লাব"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Gulistan",
+      "nameBn": "গুলিস্তান",
+      "aliases": [
+        "gulistan",
+        "গুলিস্তান"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Victoria Park",
+      "nameBn": "ভিক্টোরিয়া পার্ক",
+      "aliases": [
+        "victoria park",
+        "ভিক্টোরিয়া পার্ক"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      31,
+      53,
+      74,
+      89,
+      103,
+      108,
+      116,
+      120,
+      123,
+      134
+    ],
+    [
+      10,
+      0,
+      22,
+      44,
+      65,
+      80,
+      94,
+      99,
+      107,
+      111,
+      114,
+      125
+    ],
+    [
+      31,
+      22,
+      0,
+      22,
+      43,
+      58,
+      72,
+      77,
+      85,
+      89,
+      92,
+      103
+    ],
+    [
+      53,
+      44,
+      22,
+      0,
+      22,
+      36,
+      50,
+      55,
+      63,
+      68,
+      70,
+      81
+    ],
+    [
+      74,
+      65,
+      43,
+      22,
+      0,
+      15,
+      28,
+      34,
+      42,
+      46,
+      49,
+      59
+    ],
+    [
+      89,
+      80,
+      58,
+      36,
+      15,
+      0,
+      14,
+      19,
+      27,
+      31,
+      34,
+      45
+    ],
+    [
+      103,
+      94,
+      72,
+      50,
+      28,
+      14,
+      0,
+      10,
+      14,
+      18,
+      20,
+      31
+    ],
+    [
+      108,
+      99,
+      77,
+      55,
+      34,
+      19,
+      10,
+      0,
+      10,
+      12,
+      15,
+      26
+    ],
+    [
+      116,
+      107,
+      85,
+      63,
+      42,
+      27,
+      14,
+      10,
+      0,
+      10,
+      10,
+      18
+    ],
+    [
+      120,
+      111,
+      89,
+      68,
+      46,
+      31,
+      18,
+      12,
+      10,
+      0,
+      10,
+      14
+    ],
+    [
+      123,
+      114,
+      92,
+      70,
+      49,
+      34,
+      20,
+      15,
+      10,
+      10,
+      0,
+      11
+    ],
+    [
+      134,
+      125,
+      103,
+      81,
+      59,
+      45,
+      31,
+      26,
+      18,
+      14,
+      11,
+      0
+    ]
+  ]
+},
+{
+  "id": "A408",
+  "routeNo": "এ-৪০৮",
+  "nameBn": "নন্দনপার্ক → চট্টগ্রাম রোড",
+  "nameEn": "Nandan Park → Chittagong Road",
+  "totalKm": 61.2,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Nandan Park",
+      "nameBn": "নন্দনপার্ক",
+      "aliases": [
+        "nandan park",
+        "নন্দনপার্ক"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "EPZ",
+      "nameBn": "ইপিজেড",
+      "aliases": [
+        "epz",
+        "ইপিজেড"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Nabinagar",
+      "nameBn": "নবীনগর",
+      "aliases": [
+        "nabinagar",
+        "নবীনগর"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Savar",
+      "nameBn": "সাভার",
+      "aliases": [
+        "savar",
+        "সাভার"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Hemayetpur",
+      "nameBn": "হেমায়েতপুর",
+      "aliases": [
+        "hemayetpur",
+        "হেমায়েতপুর"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Gabtoli",
+      "nameBn": "গাবতলী",
+      "aliases": [
+        "gabtoli",
+        "গাবতলী"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Shishu Mela",
+      "nameBn": "শিশু মেলা",
+      "aliases": [
+        "shishu mela",
+        "শিশু মেলা"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Agargaon",
+      "nameBn": "আগারগাঁও",
+      "aliases": [
+        "agargaon",
+        "আগারগাঁও"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Mohakhali",
+      "nameBn": "মহাখালী",
+      "aliases": [
+        "mohakhali",
+        "মহাখালী"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Gulshan Link Road",
+      "nameBn": "গুলশান লিংক রোড",
+      "aliases": [
+        "gulshan link road",
+        "গুলশান লিংক রোড"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Rampura Bridge",
+      "nameBn": "রামপুরা ব্রিজ",
+      "aliases": [
+        "rampura bridge",
+        "রামপুরা ব্রিজ"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Khilgaon",
+      "nameBn": "খিলগাঁও",
+      "aliases": [
+        "khilgaon",
+        "খিলগাঁও"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Sayedabad",
+      "nameBn": "সায়েদাবাদ",
+      "aliases": [
+        "sayedabad",
+        "সায়েদাবাদ"
+      ]
+    },
+    {
+      "id": 13,
+      "nameEn": "Sonir Akhra",
+      "nameBn": "শনির আখড়া",
+      "aliases": [
+        "sonir akhra",
+        "শনির আখড়া"
+      ]
+    },
+    {
+      "id": 14,
+      "nameEn": "Chittagong Road",
+      "nameBn": "চট্টগ্রাম রোড",
+      "aliases": [
+        "chittagong road",
+        "চট্টগ্রাম রোড"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      26,
+      38,
+      60,
+      82,
+      97,
+      113,
+      116,
+      125,
+      132,
+      136,
+      144,
+      153,
+      160,
+      165
+    ],
+    [
+      26,
+      0,
+      12,
+      35,
+      56,
+      71,
+      87,
+      91,
+      99,
+      106,
+      110,
+      118,
+      127,
+      135,
+      140
+    ],
+    [
+      38,
+      12,
+      0,
+      23,
+      45,
+      59,
+      76,
+      79,
+      87,
+      95,
+      98,
+      106,
+      115,
+      123,
+      128
+    ],
+    [
+      60,
+      35,
+      23,
+      0,
+      22,
+      36,
+      53,
+      56,
+      64,
+      72,
+      75,
+      83,
+      92,
+      100,
+      105
+    ],
+    [
+      82,
+      56,
+      45,
+      22,
+      0,
+      15,
+      31,
+      34,
+      43,
+      50,
+      53,
+      62,
+      71,
+      78,
+      83
+    ],
+    [
+      97,
+      71,
+      59,
+      36,
+      15,
+      0,
+      16,
+      19,
+      28,
+      35,
+      39,
+      47,
+      56,
+      63,
+      68
+    ],
+    [
+      113,
+      87,
+      76,
+      53,
+      31,
+      16,
+      0,
+      10,
+      12,
+      19,
+      22,
+      31,
+      40,
+      47,
+      52
+    ],
+    [
+      116,
+      91,
+      79,
+      56,
+      34,
+      19,
+      10,
+      0,
+      10,
+      16,
+      19,
+      27,
+      36,
+      44,
+      49
+    ],
+    [
+      125,
+      99,
+      87,
+      64,
+      43,
+      28,
+      12,
+      10,
+      0,
+      10,
+      11,
+      19,
+      28,
+      36,
+      41
+    ],
+    [
+      132,
+      106,
+      95,
+      72,
+      50,
+      35,
+      19,
+      16,
+      10,
+      0,
+      10,
+      12,
+      21,
+      28,
+      33
+    ],
+    [
+      136,
+      110,
+      98,
+      75,
+      53,
+      39,
+      22,
+      19,
+      11,
+      10,
+      0,
+      10,
+      17,
+      25,
+      30
+    ],
+    [
+      144,
+      118,
+      106,
+      83,
+      62,
+      47,
+      31,
+      27,
+      19,
+      12,
+      10,
+      0,
+      10,
+      17,
+      22
+    ],
+    [
+      153,
+      127,
+      115,
+      92,
+      71,
+      56,
+      40,
+      36,
+      28,
+      21,
+      17,
+      10,
+      0,
+      10,
+      13
+    ],
+    [
+      160,
+      135,
+      123,
+      100,
+      78,
+      63,
+      47,
+      44,
+      36,
+      28,
+      25,
+      17,
+      10,
+      0,
+      10
+    ],
+    [
+      165,
+      140,
+      128,
+      105,
+      83,
+      68,
+      52,
+      49,
+      41,
+      33,
+      30,
+      22,
+      13,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A414",
+  "routeNo": "এ-৪১৪",
+  "nameBn": "উত্তরা দিয়াবাড়ী → ঘাটার চর",
+  "nameEn": "Uttara Diyabari → Ghatarchar",
+  "totalKm": 32.1,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Uttara Diyabari",
+      "nameBn": "উত্তরা দিয়াবাড়ী",
+      "aliases": [
+        "uttara diyabari",
+        "উত্তরা দিয়াবাড়ী"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "House Building",
+      "nameBn": "হাউজ বিল্ডিং",
+      "aliases": [
+        "house building",
+        "হাউজ বিল্ডিং"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Abdullahpur",
+      "nameBn": "আব্দুল্লাহপুর",
+      "aliases": [
+        "abdullahpur",
+        "আব্দুল্লাহপুর"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Kamarpara",
+      "nameBn": "কামারপাড়া",
+      "aliases": [
+        "kamarpara",
+        "কামারপাড়া"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Dhaur",
+      "nameBn": "ধউর",
+      "aliases": [
+        "dhaur",
+        "ধউর"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Diyabari Mor",
+      "nameBn": "দিয়াবাড়ী মোড়",
+      "aliases": [
+        "diyabari mor",
+        "দিয়াবাড়ী মোড়"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Mazar Road",
+      "nameBn": "মাজার রোড",
+      "aliases": [
+        "mazar road",
+        "মাজার রোড"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Mirpur-1",
+      "nameBn": "মিরপুর-১",
+      "aliases": [
+        "mirpur-1",
+        "মিরপুর-১"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Technical",
+      "nameBn": "টেকনিক্যাল",
+      "aliases": [
+        "technical",
+        "টেকনিক্যাল"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Shyamoli",
+      "nameBn": "শ্যামলী",
+      "aliases": [
+        "shyamoli",
+        "শ্যামলী"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Asad Gate",
+      "nameBn": "আসাদগেট",
+      "aliases": [
+        "asad gate",
+        "আসাদগেট"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Mohammadpur Bus Stand",
+      "nameBn": "মো:বাসস্ট্যান্ড",
+      "aliases": [
+        "mohammadpur bus stand",
+        "মো:বাসস্ট্যান্ড",
+        "mohammadpur",
+        "মোহাম্মদপুর"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Bosila Bridge",
+      "nameBn": "বসিলা ব্রীজ",
+      "aliases": [
+        "bosila bridge",
+        "বসিলা ব্রীজ",
+        "bosila",
+        "বসিলা"
+      ]
+    },
+    {
+      "id": 13,
+      "nameEn": "Ghatarchar",
+      "nameBn": "ঘাটার চর",
+      "aliases": [
+        "ghatarchar",
+        "ঘাটার চর",
+        "ঘাটারচর"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      11,
+      16,
+      24,
+      55,
+      58,
+      61,
+      66,
+      70,
+      76,
+      80,
+      85,
+      87
+    ],
+    [
+      10,
+      0,
+      10,
+      10,
+      16,
+      47,
+      49,
+      53,
+      58,
+      62,
+      68,
+      72,
+      76,
+      79
+    ],
+    [
+      11,
+      10,
+      0,
+      10,
+      14,
+      45,
+      47,
+      50,
+      55,
+      60,
+      66,
+      70,
+      74,
+      76
+    ],
+    [
+      16,
+      10,
+      10,
+      0,
+      10,
+      39,
+      41,
+      45,
+      50,
+      54,
+      60,
+      64,
+      68,
+      70
+    ],
+    [
+      24,
+      16,
+      14,
+      10,
+      0,
+      31,
+      33,
+      36,
+      42,
+      46,
+      52,
+      56,
+      60,
+      62
+    ],
+    [
+      55,
+      47,
+      45,
+      39,
+      31,
+      0,
+      10,
+      10,
+      11,
+      15,
+      21,
+      25,
+      29,
+      31
+    ],
+    [
+      58,
+      49,
+      47,
+      41,
+      33,
+      10,
+      0,
+      10,
+      10,
+      13,
+      19,
+      23,
+      27,
+      29
+    ],
+    [
+      61,
+      53,
+      50,
+      45,
+      36,
+      10,
+      10,
+      0,
+      10,
+      10,
+      16,
+      20,
+      24,
+      26
+    ],
+    [
+      66,
+      58,
+      55,
+      50,
+      42,
+      11,
+      10,
+      10,
+      0,
+      10,
+      10,
+      14,
+      18,
+      21
+    ],
+    [
+      70,
+      62,
+      60,
+      54,
+      46,
+      15,
+      13,
+      10,
+      10,
+      0,
+      10,
+      10,
+      14,
+      16
+    ],
+    [
+      76,
+      68,
+      66,
+      60,
+      52,
+      21,
+      19,
+      16,
+      10,
+      10,
+      0,
+      10,
+      10,
+      10
+    ],
+    [
+      80,
+      72,
+      70,
+      64,
+      56,
+      25,
+      23,
+      20,
+      14,
+      10,
+      10,
+      0,
+      10,
+      10
+    ],
+    [
+      85,
+      76,
+      74,
+      68,
+      60,
+      29,
+      27,
+      24,
+      18,
+      14,
+      10,
+      10,
+      0,
+      10
+    ],
+    [
+      87,
+      79,
+      76,
+      70,
+      62,
+      31,
+      29,
+      26,
+      21,
+      16,
+      10,
+      10,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A421",
+  "routeNo": "এ-৪২১",
+  "nameBn": "সাইনবোর্ড → নবীনগর",
+  "nameEn": "Signboard → Nabinagar",
+  "totalKm": 45.5,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Signboard",
+      "nameBn": "সাইনবোর্ড",
+      "aliases": [
+        "signboard",
+        "সাইনবোর্ড"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Jatrabari",
+      "nameBn": "যাত্রাবাড়ী",
+      "aliases": [
+        "jatrabari",
+        "যাত্রাবাড়ী"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Sayedabad",
+      "nameBn": "সায়েদাবাদ",
+      "aliases": [
+        "sayedabad",
+        "সায়েদাবাদ"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Mugda",
+      "nameBn": "মুগদা",
+      "aliases": [
+        "mugda",
+        "মুগদা"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Khilgaon Flyover",
+      "nameBn": "খিলগাঁও ফ্লাইওভার",
+      "aliases": [
+        "khilgaon flyover",
+        "খিলগাঁও ফ্লাইওভার",
+        "khilgaon",
+        "খিলগাঁও"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Rajarbagh",
+      "nameBn": "রাজারবাগ",
+      "aliases": [
+        "rajarbagh",
+        "রাজারবাগ"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Moghbazar",
+      "nameBn": "মগবাজার",
+      "aliases": [
+        "moghbazar",
+        "মগবাজার"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Banglamotor",
+      "nameBn": "বাংলামটর",
+      "aliases": [
+        "banglamotor",
+        "বাংলামটর"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Farmgate",
+      "nameBn": "ফার্মগেট",
+      "aliases": [
+        "farmgate",
+        "ফার্মগেট"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Asad Gate",
+      "nameBn": "আসাদগেট",
+      "aliases": [
+        "asad gate",
+        "আসাদগেট"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Kalyanpur",
+      "nameBn": "কল্যাণপুর",
+      "aliases": [
+        "kalyanpur",
+        "কল্যাণপুর"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Gabtoli",
+      "nameBn": "গাবতলী",
+      "aliases": [
+        "gabtoli",
+        "গাবতলী"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Savar",
+      "nameBn": "সাভার",
+      "aliases": [
+        "savar",
+        "সাভার"
+      ]
+    },
+    {
+      "id": 13,
+      "nameEn": "Nabinagar",
+      "nameBn": "নবীনগর",
+      "aliases": [
+        "nabinagar",
+        "নবীনগর"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      15,
+      18,
+      22,
+      25,
+      31,
+      36,
+      39,
+      43,
+      49,
+      56,
+      60,
+      99,
+      123
+    ],
+    [
+      15,
+      0,
+      10,
+      10,
+      10,
+      16,
+      21,
+      24,
+      28,
+      34,
+      41,
+      45,
+      85,
+      108
+    ],
+    [
+      18,
+      10,
+      0,
+      10,
+      10,
+      13,
+      18,
+      21,
+      25,
+      31,
+      38,
+      42,
+      82,
+      105
+    ],
+    [
+      22,
+      10,
+      10,
+      0,
+      10,
+      10,
+      14,
+      16,
+      20,
+      26,
+      34,
+      38,
+      77,
+      100
+    ],
+    [
+      25,
+      10,
+      10,
+      10,
+      0,
+      10,
+      11,
+      14,
+      18,
+      24,
+      31,
+      35,
+      74,
+      98
+    ],
+    [
+      31,
+      16,
+      13,
+      10,
+      10,
+      0,
+      10,
+      10,
+      12,
+      18,
+      26,
+      29,
+      69,
+      92
+    ],
+    [
+      36,
+      21,
+      18,
+      14,
+      11,
+      10,
+      0,
+      10,
+      10,
+      13,
+      20,
+      24,
+      63,
+      87
+    ],
+    [
+      39,
+      24,
+      21,
+      16,
+      14,
+      10,
+      10,
+      0,
+      10,
+      10,
+      17,
+      21,
+      60,
+      84
+    ],
+    [
+      43,
+      28,
+      25,
+      20,
+      18,
+      12,
+      10,
+      10,
+      0,
+      10,
+      14,
+      17,
+      57,
+      80
+    ],
+    [
+      49,
+      34,
+      31,
+      26,
+      24,
+      18,
+      13,
+      10,
+      10,
+      0,
+      10,
+      11,
+      51,
+      74
+    ],
+    [
+      56,
+      41,
+      38,
+      34,
+      31,
+      26,
+      20,
+      17,
+      14,
+      10,
+      0,
+      10,
+      43,
+      67
+    ],
+    [
+      60,
+      45,
+      42,
+      38,
+      35,
+      29,
+      24,
+      21,
+      17,
+      11,
+      10,
+      0,
+      39,
+      63
+    ],
+    [
+      99,
+      85,
+      82,
+      77,
+      74,
+      69,
+      63,
+      60,
+      57,
+      51,
+      43,
+      39,
+      0,
+      23
+    ],
+    [
+      123,
+      108,
+      105,
+      100,
+      98,
+      92,
+      87,
+      84,
+      80,
+      74,
+      67,
+      63,
+      23,
+      0
+    ]
+  ]
+},
+{
+  "id": "A422",
+  "routeNo": "এ-৪২২",
+  "nameBn": "কামরাঙ্গীরচর (বেড়িবাঁধ) → কোনাবাড়ী",
+  "nameEn": "Kamrangirchar (Beribadh) → Konabari",
+  "totalKm": 52,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Kamrangirchar (Beribadh)",
+      "nameBn": "কামরাঙ্গীরচর (বেড়িবাঁধ)",
+      "aliases": [
+        "kamrangirchar",
+        "কামরাঙ্গীরচর",
+        "kamrangirchar beribadh"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Mohammadpur",
+      "nameBn": "মোহাম্মদপুর",
+      "aliases": [
+        "mohammadpur",
+        "মোহাম্মদপুর"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Asad Gate",
+      "nameBn": "আসাদগেট",
+      "aliases": [
+        "asad gate",
+        "আসাদগেট"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Technical",
+      "nameBn": "টেকনিক্যাল",
+      "aliases": [
+        "technical",
+        "টেকনিক্যাল"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Mirpur-1",
+      "nameBn": "মিরপুর-১",
+      "aliases": [
+        "mirpur-1",
+        "মিরপুর-১"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Shialbari Mor",
+      "nameBn": "শিয়ালবাড়ী মোড়",
+      "aliases": [
+        "shialbari mor",
+        "শিয়ালবাড়ী মোড়"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Diyabari (Beribadh)",
+      "nameBn": "দিয়াবাড়ী (বেড়িবাঁধ)",
+      "aliases": [
+        "diyabari",
+        "দিয়াবাড়ী",
+        "diyabari beribadh"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Dhaur Mor",
+      "nameBn": "ধউর মোড়",
+      "aliases": [
+        "dhaur mor",
+        "ধউর মোড়",
+        "dhaur",
+        "ধউর"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Jirabo",
+      "nameBn": "জিরাবো",
+      "aliases": [
+        "jirabo",
+        "জিরাবো"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Narsinghapur",
+      "nameBn": "নরসিংহপুর",
+      "aliases": [
+        "narsinghapur",
+        "নরসিংহপুর"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Kashimpur",
+      "nameBn": "কাশেমপুর",
+      "aliases": [
+        "kashimpur",
+        "কাশেমপুর"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Konabari",
+      "nameBn": "কোনাবাড়ী",
+      "aliases": [
+        "konabari",
+        "কোনাবাড়ী"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      25,
+      29,
+      39,
+      43,
+      45,
+      50,
+      86,
+      101,
+      119,
+      130,
+      140
+    ],
+    [
+      25,
+      0,
+      10,
+      14,
+      18,
+      20,
+      25,
+      61,
+      76,
+      94,
+      105,
+      116
+    ],
+    [
+      29,
+      10,
+      0,
+      10,
+      15,
+      16,
+      21,
+      57,
+      72,
+      90,
+      101,
+      112
+    ],
+    [
+      39,
+      14,
+      10,
+      0,
+      10,
+      10,
+      11,
+      47,
+      62,
+      80,
+      91,
+      102
+    ],
+    [
+      43,
+      18,
+      15,
+      10,
+      0,
+      10,
+      10,
+      42,
+      58,
+      76,
+      86,
+      97
+    ],
+    [
+      45,
+      20,
+      16,
+      10,
+      10,
+      0,
+      10,
+      41,
+      56,
+      74,
+      85,
+      95
+    ],
+    [
+      50,
+      25,
+      21,
+      11,
+      10,
+      10,
+      0,
+      36,
+      51,
+      69,
+      80,
+      91
+    ],
+    [
+      86,
+      61,
+      57,
+      47,
+      42,
+      41,
+      36,
+      0,
+      15,
+      33,
+      44,
+      55
+    ],
+    [
+      101,
+      76,
+      72,
+      62,
+      58,
+      56,
+      51,
+      15,
+      0,
+      18,
+      29,
+      39
+    ],
+    [
+      119,
+      94,
+      90,
+      80,
+      76,
+      74,
+      69,
+      33,
+      18,
+      0,
+      11,
+      22
+    ],
+    [
+      130,
+      105,
+      101,
+      91,
+      86,
+      85,
+      80,
+      44,
+      29,
+      11,
+      0,
+      11
+    ],
+    [
+      140,
+      116,
+      112,
+      102,
+      97,
+      95,
+      91,
+      55,
+      39,
+      22,
+      11,
+      0
+    ]
+  ]
+},
+{
+  "id": "A424",
+  "routeNo": "এ-৪২৪",
+  "nameBn": "সাইনবোর্ড → ধউর",
+  "nameEn": "Signboard → Dhaur",
+  "totalKm": 33,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Signboard",
+      "nameBn": "সাইনবোর্ড",
+      "aliases": [
+        "signboard",
+        "সাইনবোর্ড"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Jatrabari",
+      "nameBn": "যাত্রাবাড়ী",
+      "aliases": [
+        "jatrabari",
+        "যাত্রাবাড়ী"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Sayedabad",
+      "nameBn": "সায়েদাবাদ",
+      "aliases": [
+        "sayedabad",
+        "সায়েদাবাদ"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Maniknagar",
+      "nameBn": "মানিকনগর",
+      "aliases": [
+        "maniknagar",
+        "মানিকনগর"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Basabo",
+      "nameBn": "বাসাবো",
+      "aliases": [
+        "basabo",
+        "বাসাবো"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Malibagh",
+      "nameBn": "মালিবাগ",
+      "aliases": [
+        "malibagh",
+        "মালিবাগ"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Rampura",
+      "nameBn": "রামপুরা",
+      "aliases": [
+        "rampura",
+        "রামপুরা",
+        "rampura tv center",
+        "রামপুরা টিভি সেন্টার"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Badda",
+      "nameBn": "বাড্ডা",
+      "aliases": [
+        "badda",
+        "বাড্ডা"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Natun Bazar",
+      "nameBn": "নতুন বাজার",
+      "aliases": [
+        "natun bazar",
+        "নতুন বাজার"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Kuril Bishwaroad",
+      "nameBn": "কুড়িল বিশ্বরোড",
+      "aliases": [
+        "কুড়িল বিশ্বরোড",
+        "kuril bishwaroad"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Khilkhet",
+      "nameBn": "খিলক্ষেত",
+      "aliases": [
+        "khilkhet",
+        "খিলক্ষেত"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Airport",
+      "nameBn": "এয়ারপোর্ট",
+      "aliases": [
+        "airport",
+        "এয়ারপোর্ট",
+        "biman bandar",
+        "বিমানবন্দর"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Abdullahpur",
+      "nameBn": "আব্দুল্লাহপুর",
+      "aliases": [
+        "abdullahpur",
+        "আব্দুল্লাহপুর"
+      ]
+    },
+    {
+      "id": 13,
+      "nameEn": "Kamarpara",
+      "nameBn": "কামারপাড়া",
+      "aliases": [
+        "kamarpara",
+        "কামারপাড়া"
+      ]
+    },
+    {
+      "id": 14,
+      "nameEn": "Dhaur",
+      "nameBn": "ধউর",
+      "aliases": [
+        "dhaur",
+        "ধউর"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      14,
+      16,
+      20,
+      25,
+      30,
+      36,
+      41,
+      47,
+      54,
+      57,
+      64,
+      74,
+      77,
+      89
+    ],
+    [
+      14,
+      0,
+      10,
+      10,
+      12,
+      16,
+      23,
+      28,
+      33,
+      41,
+      43,
+      51,
+      61,
+      64,
+      76
+    ],
+    [
+      16,
+      10,
+      0,
+      10,
+      10,
+      14,
+      20,
+      25,
+      31,
+      38,
+      41,
+      48,
+      58,
+      61,
+      73
+    ],
+    [
+      20,
+      10,
+      10,
+      0,
+      10,
+      10,
+      16,
+      21,
+      27,
+      34,
+      37,
+      44,
+      54,
+      58,
+      69
+    ],
+    [
+      25,
+      12,
+      10,
+      10,
+      0,
+      10,
+      11,
+      16,
+      22,
+      29,
+      31,
+      39,
+      49,
+      52,
+      64
+    ],
+    [
+      30,
+      16,
+      14,
+      10,
+      10,
+      0,
+      10,
+      11,
+      17,
+      24,
+      27,
+      34,
+      44,
+      48,
+      59
+    ],
+    [
+      36,
+      23,
+      20,
+      16,
+      11,
+      10,
+      0,
+      10,
+      11,
+      18,
+      20,
+      28,
+      38,
+      41,
+      53
+    ],
+    [
+      41,
+      28,
+      25,
+      21,
+      16,
+      11,
+      10,
+      0,
+      10,
+      13,
+      15,
+      23,
+      33,
+      36,
+      48
+    ],
+    [
+      47,
+      33,
+      31,
+      27,
+      22,
+      17,
+      11,
+      10,
+      0,
+      10,
+      10,
+      17,
+      27,
+      31,
+      42
+    ],
+    [
+      54,
+      41,
+      38,
+      34,
+      29,
+      24,
+      18,
+      13,
+      10,
+      0,
+      10,
+      10,
+      20,
+      23,
+      35
+    ],
+    [
+      57,
+      43,
+      41,
+      37,
+      31,
+      27,
+      20,
+      15,
+      10,
+      10,
+      0,
+      10,
+      18,
+      21,
+      32
+    ],
+    [
+      64,
+      51,
+      48,
+      44,
+      39,
+      34,
+      28,
+      23,
+      17,
+      10,
+      10,
+      0,
+      10,
+      13,
+      25
+    ],
+    [
+      74,
+      61,
+      58,
+      54,
+      49,
+      44,
+      38,
+      33,
+      27,
+      20,
+      18,
+      10,
+      0,
+      10,
+      15
+    ],
+    [
+      77,
+      64,
+      61,
+      58,
+      52,
+      48,
+      41,
+      36,
+      31,
+      23,
+      21,
+      13,
+      10,
+      0,
+      12
+    ],
+    [
+      89,
+      76,
+      73,
+      69,
+      64,
+      59,
+      53,
+      48,
+      42,
+      35,
+      32,
+      25,
+      15,
+      12,
+      0
+    ]
+  ]
+},
+{
+  "id": "A426",
+  "routeNo": "এ-৪২৬",
+  "nameBn": "কাঁচপুর → পাটুরিয়া",
+  "nameEn": "Kanchpur → Paturia",
+  "totalKm": 104.5,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Kanchpur",
+      "nameBn": "কাঁচপুর",
+      "aliases": [
+        "kanchpur",
+        "কাঁচপুর"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Hanif Flyover",
+      "nameBn": "হানিফ ফ্লাইওভার",
+      "aliases": [
+        "hanif flyover",
+        "হানিফ ফ্লাইওভার",
+        "mayor hanif flyover",
+        "মেয়র হানিফ ফ্লাইওভার"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Paltan",
+      "nameBn": "পল্টন",
+      "aliases": [
+        "paltan",
+        "পল্টন"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Azimpur (Dhakeshwari)",
+      "nameBn": "আজিমপুর (ঢাকেশ্বরী)",
+      "aliases": [
+        "azimpur",
+        "আজিমপুর",
+        "dhakeshwari",
+        "ঢাকেশ্বরী"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Kalabagan",
+      "nameBn": "কলাবাগান",
+      "aliases": [
+        "kalabagan",
+        "কলাবাগান"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Shyamoli",
+      "nameBn": "শ্যামলী",
+      "aliases": [
+        "shyamoli",
+        "শ্যামলী"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Gabtoli",
+      "nameBn": "গাবতলী",
+      "aliases": [
+        "gabtoli",
+        "গাবতলী"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Savar",
+      "nameBn": "সাভার",
+      "aliases": [
+        "savar",
+        "সাভার"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Nabinagar",
+      "nameBn": "নবীনগর",
+      "aliases": [
+        "nabinagar",
+        "নবীনগর"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Islampur",
+      "nameBn": "ইসলামপুর",
+      "aliases": [
+        "islampur",
+        "ইসলামপুর"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Kalampur",
+      "nameBn": "কালামপুর",
+      "aliases": [
+        "kalampur",
+        "কালামপুর"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Manikganj",
+      "nameBn": "মানিকগঞ্জ",
+      "aliases": [
+        "manikganj",
+        "মানিকগঞ্জ"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Baniyajuri",
+      "nameBn": "বানিয়াজুড়ি",
+      "aliases": [
+        "baniyajuri",
+        "বানিয়াজুড়ি"
+      ]
+    },
+    {
+      "id": 13,
+      "nameEn": "Barangail",
+      "nameBn": "বরংগাইল",
+      "aliases": [
+        "barangail",
+        "বরংগাইল",
+        "borongail"
+      ]
+    },
+    {
+      "id": 14,
+      "nameEn": "Utholi",
+      "nameBn": "উথলী",
+      "aliases": [
+        "utholi",
+        "উথলী"
+      ]
+    },
+    {
+      "id": 15,
+      "nameEn": "Paturia",
+      "nameBn": "পাটুরিয়া",
+      "aliases": [
+        "paturia",
+        "পাটুরিয়া"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      38,
+      46,
+      47,
+      55,
+      63,
+      71,
+      109,
+      131,
+      140,
+      160,
+      208,
+      228,
+      244,
+      262,
+      282
+    ],
+    [
+      38,
+      0,
+      10,
+      10,
+      18,
+      26,
+      33,
+      71,
+      94,
+      102,
+      122,
+      171,
+      190,
+      206,
+      224,
+      244
+    ],
+    [
+      46,
+      10,
+      0,
+      10,
+      10,
+      18,
+      25,
+      63,
+      86,
+      94,
+      114,
+      163,
+      182,
+      198,
+      216,
+      236
+    ],
+    [
+      47,
+      10,
+      10,
+      0,
+      10,
+      16,
+      24,
+      61,
+      84,
+      93,
+      113,
+      161,
+      180,
+      197,
+      214,
+      235
+    ],
+    [
+      55,
+      18,
+      10,
+      10,
+      0,
+      10,
+      15,
+      53,
+      76,
+      85,
+      105,
+      153,
+      172,
+      188,
+      206,
+      227
+    ],
+    [
+      63,
+      26,
+      18,
+      16,
+      10,
+      0,
+      10,
+      45,
+      68,
+      76,
+      97,
+      145,
+      164,
+      180,
+      198,
+      219
+    ],
+    [
+      71,
+      33,
+      25,
+      24,
+      15,
+      10,
+      0,
+      38,
+      61,
+      69,
+      89,
+      138,
+      157,
+      173,
+      191,
+      211
+    ],
+    [
+      109,
+      71,
+      63,
+      61,
+      53,
+      45,
+      38,
+      0,
+      23,
+      31,
+      52,
+      100,
+      119,
+      135,
+      153,
+      174
+    ],
+    [
+      131,
+      94,
+      86,
+      84,
+      76,
+      68,
+      61,
+      23,
+      0,
+      10,
+      29,
+      77,
+      96,
+      112,
+      130,
+      151
+    ],
+    [
+      140,
+      102,
+      94,
+      93,
+      85,
+      76,
+      69,
+      31,
+      10,
+      0,
+      20,
+      69,
+      88,
+      104,
+      122,
+      142
+    ],
+    [
+      160,
+      122,
+      114,
+      113,
+      105,
+      97,
+      89,
+      52,
+      29,
+      20,
+      0,
+      48,
+      68,
+      84,
+      102,
+      122
+    ],
+    [
+      208,
+      171,
+      163,
+      161,
+      153,
+      145,
+      138,
+      100,
+      77,
+      69,
+      48,
+      0,
+      19,
+      35,
+      53,
+      74
+    ],
+    [
+      228,
+      190,
+      182,
+      180,
+      172,
+      164,
+      157,
+      119,
+      96,
+      88,
+      68,
+      19,
+      0,
+      16,
+      34,
+      55
+    ],
+    [
+      244,
+      206,
+      198,
+      197,
+      188,
+      180,
+      173,
+      135,
+      112,
+      104,
+      84,
+      35,
+      16,
+      0,
+      18,
+      38
+    ],
+    [
+      262,
+      224,
+      216,
+      214,
+      206,
+      198,
+      191,
+      153,
+      130,
+      122,
+      102,
+      53,
+      34,
+      18,
+      0,
+      21
+    ],
+    [
+      282,
+      244,
+      236,
+      235,
+      227,
+      219,
+      211,
+      174,
+      151,
+      142,
+      122,
+      74,
+      55,
+      38,
+      21,
+      0
+    ]
+  ]
+},
+{
+  "id": "A429",
+  "routeNo": "এ-৪২৯",
+  "nameBn": "সাভার → সাইনবোর্ড",
+  "nameEn": "Savar → Signboard",
+  "totalKm": 34,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Savar",
+      "nameBn": "সাভার",
+      "aliases": [
+        "savar",
+        "সাভার"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Hemayetpur",
+      "nameBn": "হেমায়েতপুর",
+      "aliases": [
+        "hemayetpur",
+        "হেমায়েতপুর"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Gabtoli",
+      "nameBn": "গাবতলী",
+      "aliases": [
+        "gabtoli",
+        "গাবতলী"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Shyamoli",
+      "nameBn": "শ্যামলী",
+      "aliases": [
+        "shyamoli",
+        "শ্যামলী"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Asad Gate",
+      "nameBn": "আসাদগেট",
+      "aliases": [
+        "asad gate",
+        "আসাদগেট"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Farmgate",
+      "nameBn": "ফার্মগেট",
+      "aliases": [
+        "farmgate",
+        "ফার্মগেট"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Banglamotor",
+      "nameBn": "বাংলামটর",
+      "aliases": [
+        "banglamotor",
+        "বাংলামটর"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Moghbazar",
+      "nameBn": "মগবাজার",
+      "aliases": [
+        "moghbazar",
+        "মগবাজার"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Malibagh",
+      "nameBn": "মালিবাগ",
+      "aliases": [
+        "malibagh",
+        "মালিবাগ"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Khilgaon",
+      "nameBn": "খিলগাঁও",
+      "aliases": [
+        "khilgaon",
+        "খিলগাঁও"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Mugda",
+      "nameBn": "মুগদা",
+      "aliases": [
+        "mugda",
+        "মুগদা"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Sayedabad",
+      "nameBn": "সায়েদাবাদ",
+      "aliases": [
+        "sayedabad",
+        "সায়েদাবাদ"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Sonir Akhra",
+      "nameBn": "শনির আখড়া",
+      "aliases": [
+        "sonir akhra",
+        "শনির আখড়া"
+      ]
+    },
+    {
+      "id": 13,
+      "nameEn": "Signboard",
+      "nameBn": "সাইনবোর্ড",
+      "aliases": [
+        "signboard",
+        "সাইনবোর্ড"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      19,
+      38,
+      45,
+      50,
+      56,
+      59,
+      61,
+      64,
+      66,
+      69,
+      73,
+      82,
+      92
+    ],
+    [
+      19,
+      0,
+      19,
+      26,
+      31,
+      37,
+      40,
+      42,
+      45,
+      47,
+      50,
+      54,
+      63,
+      73
+    ],
+    [
+      38,
+      19,
+      0,
+      10,
+      12,
+      17,
+      21,
+      23,
+      26,
+      27,
+      30,
+      35,
+      44,
+      53
+    ],
+    [
+      45,
+      26,
+      10,
+      0,
+      10,
+      11,
+      14,
+      16,
+      19,
+      21,
+      23,
+      28,
+      37,
+      47
+    ],
+    [
+      50,
+      31,
+      12,
+      10,
+      0,
+      10,
+      10,
+      11,
+      14,
+      15,
+      18,
+      23,
+      32,
+      42
+    ],
+    [
+      56,
+      37,
+      17,
+      11,
+      10,
+      0,
+      10,
+      10,
+      10,
+      10,
+      13,
+      18,
+      26,
+      36
+    ],
+    [
+      59,
+      40,
+      21,
+      14,
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      10,
+      14,
+      23,
+      33
+    ],
+    [
+      61,
+      42,
+      23,
+      16,
+      11,
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      12,
+      21,
+      31
+    ],
+    [
+      64,
+      45,
+      26,
+      19,
+      14,
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      18,
+      28
+    ],
+    [
+      66,
+      47,
+      27,
+      21,
+      15,
+      10,
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      16,
+      26
+    ],
+    [
+      69,
+      50,
+      30,
+      23,
+      18,
+      13,
+      10,
+      10,
+      10,
+      10,
+      0,
+      10,
+      14,
+      23
+    ],
+    [
+      73,
+      54,
+      35,
+      28,
+      23,
+      18,
+      14,
+      12,
+      10,
+      10,
+      10,
+      0,
+      10,
+      19
+    ],
+    [
+      82,
+      63,
+      44,
+      37,
+      32,
+      26,
+      23,
+      21,
+      18,
+      16,
+      14,
+      10,
+      0,
+      10
+    ],
+    [
+      92,
+      73,
+      53,
+      47,
+      42,
+      36,
+      33,
+      31,
+      28,
+      26,
+      23,
+      19,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A430",
+  "routeNo": "এ-৪৩০",
+  "nameBn": "ভাওয়ার ভিটি (দক্ষিণ কেরানীগঞ্জ) → দিয়াবাড়ী",
+  "nameEn": "Bhawar Viti (South Keraniganj) → Diyabari",
+  "totalKm": 35.1,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Bhawar Viti (South Keraniganj)",
+      "nameBn": "ভাওয়ার ভিটি (দক্ষিণ কেরানীগঞ্জ)",
+      "aliases": [
+        "bhawar viti",
+        "ভাওয়ার ভিটি"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Abdullahpur (Keraniganj)",
+      "nameBn": "আব্দুল্লাহপুর (কেরানীগঞ্জ)",
+      "aliases": [
+        "abdullahpur (keraniganj)",
+        "আব্দুল্লাহপুর (কেরানীগঞ্জ)"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Rajendrapur Bazar",
+      "nameBn": "রাজেন্দ্রপুর বাজার",
+      "aliases": [
+        "rajendrapur bazar",
+        "রাজেন্দ্রপুর বাজার"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Chunkutia Bazar",
+      "nameBn": "চুনকুটিয়া বাজার",
+      "aliases": [
+        "chunkutia bazar",
+        "চুনকুটিয়া বাজার"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Kadamtali",
+      "nameBn": "কদমতলী",
+      "aliases": [
+        "kadamtali",
+        "কদমতলী"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Babu Bazar",
+      "nameBn": "বাবু বাজার",
+      "aliases": [
+        "babu bazar",
+        "বাবু বাজার"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Gulistan (Fulbaria)",
+      "nameBn": "গুলিস্তান (ফুলবাড়িয়া)",
+      "aliases": [
+        "gulistan",
+        "গুলিস্তান",
+        "fulbaria",
+        "ফুলবাড়িয়া"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Paltan",
+      "nameBn": "পল্টন",
+      "aliases": [
+        "paltan",
+        "পল্টন"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Kakrail",
+      "nameBn": "কাকরাইল",
+      "aliases": [
+        "kakrail",
+        "কাকরাইল"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Malibagh",
+      "nameBn": "মালিবাগ",
+      "aliases": [
+        "malibagh",
+        "মালিবাগ"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Mouchak (Flyover)",
+      "nameBn": "মৌচাক (ফ্লাইওভার)",
+      "aliases": [
+        "mouchak",
+        "মৌচাক"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Rampura",
+      "nameBn": "রামপুরা",
+      "aliases": [
+        "rampura",
+        "রামপুরা"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Badda",
+      "nameBn": "বাড্ডা",
+      "aliases": [
+        "badda",
+        "বাড্ডা"
+      ]
+    },
+    {
+      "id": 13,
+      "nameEn": "Natun Bazar",
+      "nameBn": "নতুন বাজার",
+      "aliases": [
+        "natun bazar",
+        "নতুন বাজার"
+      ]
+    },
+    {
+      "id": 14,
+      "nameEn": "Kuril Bishwaroad",
+      "nameBn": "কুড়িল বিশ্বরোড",
+      "aliases": [
+        "কুড়িল বিশ্বরোড",
+        "kuril bishwaroad"
+      ]
+    },
+    {
+      "id": 15,
+      "nameEn": "Khilkhet",
+      "nameBn": "খিলক্ষেত",
+      "aliases": [
+        "khilkhet",
+        "খিলক্ষেত"
+      ]
+    },
+    {
+      "id": 16,
+      "nameEn": "Airport",
+      "nameBn": "এয়ারপোর্ট",
+      "aliases": [
+        "airport",
+        "এয়ারপোর্ট",
+        "biman bandar",
+        "বিমানবন্দর"
+      ]
+    },
+    {
+      "id": 17,
+      "nameEn": "House Building",
+      "nameBn": "হাউজবিল্ডিং",
+      "aliases": [
+        "house building",
+        "হাউজবিল্ডিং"
+      ]
+    },
+    {
+      "id": 18,
+      "nameEn": "Diyabari",
+      "nameBn": "দিয়াবাড়ী",
+      "aliases": [
+        "diyabari",
+        "দিয়াবাড়ী"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      11,
+      12,
+      24,
+      26,
+      30,
+      34,
+      36,
+      38,
+      41,
+      41,
+      46,
+      54,
+      58,
+      65,
+      70,
+      77,
+      85,
+      95
+    ],
+    [
+      11,
+      0,
+      10,
+      13,
+      15,
+      20,
+      23,
+      25,
+      28,
+      30,
+      31,
+      35,
+      43,
+      47,
+      55,
+      59,
+      67,
+      74,
+      84
+    ],
+    [
+      12,
+      10,
+      0,
+      11,
+      13,
+      18,
+      22,
+      24,
+      26,
+      28,
+      29,
+      34,
+      42,
+      46,
+      53,
+      58,
+      65,
+      72,
+      82
+    ],
+    [
+      24,
+      13,
+      11,
+      0,
+      10,
+      10,
+      10,
+      12,
+      14,
+      17,
+      18,
+      22,
+      30,
+      34,
+      41,
+      46,
+      53,
+      61,
+      71
+    ],
+    [
+      26,
+      15,
+      13,
+      10,
+      0,
+      10,
+      10,
+      10,
+      12,
+      15,
+      16,
+      20,
+      28,
+      32,
+      39,
+      44,
+      52,
+      59,
+      69
+    ],
+    [
+      30,
+      20,
+      18,
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      10,
+      11,
+      15,
+      24,
+      28,
+      35,
+      40,
+      47,
+      55,
+      65
+    ],
+    [
+      34,
+      23,
+      22,
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      10,
+      12,
+      20,
+      24,
+      31,
+      36,
+      43,
+      51,
+      61
+    ],
+    [
+      36,
+      25,
+      24,
+      12,
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      10,
+      18,
+      22,
+      29,
+      34,
+      41,
+      49,
+      59
+    ],
+    [
+      38,
+      28,
+      26,
+      14,
+      12,
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      16,
+      20,
+      27,
+      32,
+      39,
+      47,
+      57
+    ],
+    [
+      41,
+      30,
+      28,
+      17,
+      15,
+      10,
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      14,
+      17,
+      25,
+      29,
+      37,
+      44,
+      54
+    ],
+    [
+      41,
+      31,
+      29,
+      18,
+      16,
+      11,
+      10,
+      10,
+      10,
+      10,
+      0,
+      10,
+      13,
+      16,
+      24,
+      29,
+      36,
+      43,
+      53
+    ],
+    [
+      46,
+      35,
+      34,
+      22,
+      20,
+      15,
+      12,
+      10,
+      10,
+      10,
+      10,
+      0,
+      10,
+      12,
+      19,
+      24,
+      32,
+      39,
+      49
+    ],
+    [
+      54,
+      43,
+      42,
+      30,
+      28,
+      24,
+      20,
+      18,
+      16,
+      14,
+      13,
+      10,
+      0,
+      10,
+      11,
+      16,
+      23,
+      31,
+      41
+    ],
+    [
+      58,
+      47,
+      46,
+      34,
+      32,
+      28,
+      24,
+      22,
+      20,
+      17,
+      16,
+      12,
+      10,
+      0,
+      10,
+      12,
+      19,
+      27,
+      37
+    ],
+    [
+      65,
+      55,
+      53,
+      41,
+      39,
+      35,
+      31,
+      29,
+      27,
+      25,
+      24,
+      19,
+      11,
+      10,
+      0,
+      10,
+      12,
+      20,
+      30
+    ],
+    [
+      70,
+      59,
+      58,
+      46,
+      44,
+      40,
+      36,
+      34,
+      32,
+      29,
+      29,
+      24,
+      16,
+      12,
+      10,
+      0,
+      10,
+      15,
+      25
+    ],
+    [
+      77,
+      67,
+      65,
+      53,
+      52,
+      47,
+      43,
+      41,
+      39,
+      37,
+      36,
+      32,
+      23,
+      19,
+      12,
+      10,
+      0,
+      10,
+      18
+    ],
+    [
+      85,
+      74,
+      72,
+      61,
+      59,
+      55,
+      51,
+      49,
+      47,
+      44,
+      43,
+      39,
+      31,
+      27,
+      20,
+      15,
+      10,
+      0,
+      10
+    ],
+    [
+      95,
+      84,
+      82,
+      71,
+      69,
+      65,
+      61,
+      59,
+      57,
+      54,
+      53,
+      49,
+      41,
+      37,
+      30,
+      25,
+      18,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A431",
+  "routeNo": "এ-৪৩১",
+  "nameBn": "চিড়িয়াখানা → মাইসাখালী বেড়িবাঁধ",
+  "nameEn": "Chiriakhana → Maisakhali Beribadh",
+  "totalKm": 53.8,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Chiriakhana",
+      "nameBn": "চিড়িয়াখানা",
+      "aliases": [
+        "chiriakhana",
+        "চিড়িয়াখানা"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Mirpur-1",
+      "nameBn": "মিরপুর-১",
+      "aliases": [
+        "mirpur-1",
+        "মিরপুর-১"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Technical",
+      "nameBn": "টেকনিক্যাল",
+      "aliases": [
+        "technical",
+        "টেকনিক্যাল"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Asad Gate",
+      "nameBn": "আসাদগেট",
+      "aliases": [
+        "asad gate",
+        "আসাদগেট"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Science Lab",
+      "nameBn": "সাইন্সল্যাব",
+      "aliases": [
+        "science lab",
+        "সাইন্সল্যাব"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Azimpur",
+      "nameBn": "আজিমপুর",
+      "aliases": [
+        "azimpur",
+        "আজিমপুর"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Chankharpul",
+      "nameBn": "চানখারপুল",
+      "aliases": [
+        "chankharpul",
+        "চানখারপুল"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Fulbaria",
+      "nameBn": "ফুলবাড়িয়া",
+      "aliases": [
+        "fulbaria",
+        "ফুলবাড়িয়া"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Nababazar",
+      "nameBn": "নয়াবাজার",
+      "aliases": [
+        "nababazar",
+        "নয়াবাজার"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Babu Bazar Bridge",
+      "nameBn": "বাবু বাজার ব্রীজ",
+      "aliases": [
+        "babu bazar bridge",
+        "বাবু বাজার ব্রীজ"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Kadamtali",
+      "nameBn": "কদমতলী",
+      "aliases": [
+        "kadamtali",
+        "কদমতলী"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Chunkutia",
+      "nameBn": "চুনকুটিয়া",
+      "aliases": [
+        "chunkutia",
+        "চুনকুটিয়া"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Ruitpur",
+      "nameBn": "রুইতপুর",
+      "aliases": [
+        "ruitpur",
+        "রুইতপুর"
+      ]
+    },
+    {
+      "id": 13,
+      "nameEn": "Tulshikhali",
+      "nameBn": "তুলশীখালী",
+      "aliases": [
+        "tulshikhali",
+        "তুলশীখালী"
+      ]
+    },
+    {
+      "id": 14,
+      "nameEn": "Komarganj",
+      "nameBn": "কোমরগঞ্জ",
+      "aliases": [
+        "komarganj",
+        "কোমরগঞ্জ"
+      ]
+    },
+    {
+      "id": 15,
+      "nameEn": "Bandura",
+      "nameBn": "বান্দুরা",
+      "aliases": [
+        "bandura",
+        "বান্দুরা"
+      ]
+    },
+    {
+      "id": 16,
+      "nameEn": "Maisakhali Beribadh",
+      "nameBn": "মাইসাখালী বেড়িবাঁধ",
+      "aliases": [
+        "maisakhali beribadh",
+        "মাইসাখালী বেড়িবাঁধ"
+      ]
+    },
+    {
+      "id": 17,
+      "nameEn": "Beribadh",
+      "nameBn": "বেড়িবাঁধ",
+      "aliases": [
+        "beribadh",
+        "বেড়িবাঁধ"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      10,
+      20,
+      27,
+      34,
+      43,
+      48,
+      51,
+      55,
+      58,
+      71,
+      82,
+      104,
+      138,
+      141,
+      144,
+      145
+    ],
+    [
+      10,
+      0,
+      10,
+      15,
+      22,
+      29,
+      39,
+      43,
+      46,
+      50,
+      53,
+      66,
+      77,
+      99,
+      133,
+      136,
+      139,
+      140
+    ],
+    [
+      10,
+      10,
+      0,
+      10,
+      16,
+      24,
+      33,
+      38,
+      41,
+      44,
+      48,
+      61,
+      72,
+      94,
+      128,
+      131,
+      133,
+      135
+    ],
+    [
+      20,
+      15,
+      10,
+      0,
+      10,
+      14,
+      23,
+      28,
+      31,
+      35,
+      38,
+      51,
+      62,
+      84,
+      118,
+      121,
+      124,
+      125
+    ],
+    [
+      27,
+      22,
+      16,
+      10,
+      0,
+      10,
+      17,
+      21,
+      24,
+      28,
+      31,
+      44,
+      56,
+      77,
+      112,
+      114,
+      117,
+      119
+    ],
+    [
+      34,
+      29,
+      24,
+      14,
+      10,
+      0,
+      10,
+      14,
+      17,
+      21,
+      24,
+      37,
+      49,
+      70,
+      104,
+      107,
+      110,
+      112
+    ],
+    [
+      43,
+      39,
+      33,
+      23,
+      17,
+      10,
+      0,
+      10,
+      10,
+      11,
+      15,
+      28,
+      39,
+      61,
+      95,
+      97,
+      100,
+      102
+    ],
+    [
+      48,
+      43,
+      38,
+      28,
+      21,
+      14,
+      10,
+      0,
+      10,
+      10,
+      10,
+      23,
+      35,
+      56,
+      90,
+      93,
+      96,
+      97
+    ],
+    [
+      51,
+      46,
+      41,
+      31,
+      24,
+      17,
+      10,
+      10,
+      0,
+      10,
+      10,
+      20,
+      31,
+      53,
+      87,
+      90,
+      93,
+      94
+    ],
+    [
+      55,
+      50,
+      44,
+      35,
+      28,
+      21,
+      11,
+      10,
+      10,
+      0,
+      10,
+      16,
+      28,
+      50,
+      84,
+      86,
+      89,
+      91
+    ],
+    [
+      58,
+      53,
+      48,
+      38,
+      31,
+      24,
+      15,
+      10,
+      10,
+      10,
+      0,
+      13,
+      24,
+      46,
+      80,
+      83,
+      86,
+      87
+    ],
+    [
+      71,
+      66,
+      61,
+      51,
+      44,
+      37,
+      28,
+      23,
+      20,
+      16,
+      13,
+      0,
+      11,
+      33,
+      67,
+      70,
+      73,
+      74
+    ],
+    [
+      82,
+      77,
+      72,
+      62,
+      56,
+      49,
+      39,
+      35,
+      31,
+      28,
+      24,
+      11,
+      0,
+      22,
+      56,
+      59,
+      61,
+      63
+    ],
+    [
+      104,
+      99,
+      94,
+      84,
+      77,
+      70,
+      61,
+      56,
+      53,
+      50,
+      46,
+      33,
+      22,
+      0,
+      34,
+      37,
+      39,
+      41
+    ],
+    [
+      138,
+      133,
+      128,
+      118,
+      112,
+      104,
+      95,
+      90,
+      87,
+      84,
+      80,
+      67,
+      56,
+      34,
+      0,
+      10,
+      10,
+      10
+    ],
+    [
+      141,
+      136,
+      131,
+      121,
+      114,
+      107,
+      97,
+      93,
+      90,
+      86,
+      83,
+      70,
+      59,
+      37,
+      10,
+      0,
+      10,
+      10
+    ],
+    [
+      144,
+      139,
+      133,
+      124,
+      117,
+      110,
+      100,
+      96,
+      93,
+      89,
+      86,
+      73,
+      61,
+      39,
+      10,
+      10,
+      0,
+      10
+    ],
+    [
+      145,
+      140,
+      135,
+      125,
+      119,
+      112,
+      102,
+      97,
+      94,
+      91,
+      87,
+      74,
+      63,
+      41,
+      10,
+      10,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A432",
+  "routeNo": "এ-৪৩২",
+  "nameBn": "কুড়িল বিশ্বরোড → পলাশী",
+  "nameEn": "Kuril Biswa Road → Palashi",
+  "totalKm": 20,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Kuril Bishwaroad",
+      "nameBn": "কুড়িল বিশ্বরোড",
+      "aliases": [
+        "কুড়িল বিশ্বরোড",
+        "kuril bishwaroad"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Natun Bazar",
+      "nameBn": "নতুন বাজার",
+      "aliases": [
+        "natun bazar",
+        "নতুন বাজার"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Badda Link Road",
+      "nameBn": "বাড্ডা লিংক রোড",
+      "aliases": [
+        "badda link road",
+        "বাড্ডা লিংক রোড"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Gulshan-1",
+      "nameBn": "গুলশান-১",
+      "aliases": [
+        "gulshan-1",
+        "গুলশান-১"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Mohakhali",
+      "nameBn": "মহাখালী",
+      "aliases": [
+        "mohakhali",
+        "মহাখালী"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Rainbow",
+      "nameBn": "রেইনবো",
+      "aliases": [
+        "rainbow",
+        "রেইনবো"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Sonargaon",
+      "nameBn": "সোনারগাঁও",
+      "aliases": [
+        "sonargaon",
+        "সোনারগাঁও"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Russel Square",
+      "nameBn": "রাসেল স্কয়ার",
+      "aliases": [
+        "russel square",
+        "রাসেল স্কয়ার"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Kalabagan",
+      "nameBn": "কলাবাগান",
+      "aliases": [
+        "kalabagan",
+        "কলাবাগান"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "New Market",
+      "nameBn": "নিউমার্কেট",
+      "aliases": [
+        "new market",
+        "নিউমার্কেট"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Palashi",
+      "nameBn": "পলাশী",
+      "aliases": [
+        "palashi",
+        "পলাশী"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      15,
+      18,
+      23,
+      31,
+      33,
+      38,
+      41,
+      45,
+      54
+    ],
+    [
+      10,
+      0,
+      10,
+      10,
+      14,
+      21,
+      24,
+      29,
+      32,
+      35,
+      45
+    ],
+    [
+      15,
+      10,
+      0,
+      10,
+      10,
+      16,
+      18,
+      23,
+      26,
+      30,
+      39
+    ],
+    [
+      18,
+      10,
+      10,
+      0,
+      10,
+      13,
+      16,
+      20,
+      23,
+      27,
+      36
+    ],
+    [
+      23,
+      14,
+      10,
+      10,
+      0,
+      10,
+      10,
+      15,
+      18,
+      22,
+      31
+    ],
+    [
+      31,
+      21,
+      16,
+      13,
+      10,
+      0,
+      10,
+      10,
+      10,
+      14,
+      23
+    ],
+    [
+      33,
+      24,
+      18,
+      16,
+      10,
+      10,
+      0,
+      10,
+      10,
+      11,
+      21
+    ],
+    [
+      38,
+      29,
+      23,
+      20,
+      15,
+      10,
+      10,
+      0,
+      10,
+      10,
+      16
+    ],
+    [
+      41,
+      32,
+      26,
+      23,
+      18,
+      10,
+      10,
+      10,
+      0,
+      10,
+      13
+    ],
+    [
+      45,
+      35,
+      30,
+      27,
+      22,
+      14,
+      11,
+      10,
+      10,
+      0,
+      10
+    ],
+    [
+      54,
+      45,
+      39,
+      36,
+      31,
+      23,
+      21,
+      16,
+      13,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A438",
+  "routeNo": "এ-৪৩৮",
+  "nameBn": "সদরঘাট ভিক্টোরিয়া পার্ক → শ্রীপুর",
+  "nameEn": "Sadarghat Victoria Park → Sreepur",
+  "totalKm": 59.8,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Sadarghat Victoria Park",
+      "nameBn": "সদরঘাট ভিক্টোরিয়া পার্ক",
+      "aliases": [
+        "sadarghat victoria park",
+        "সদরঘাট ভিক্টোরিয়া পার্ক",
+        "sadarghat",
+        "সদরঘাট",
+        "সদর ঘাট ভিক্টোরিয়া পার্ক",
+        "সদর ঘাট ভিক্টোরিয়া",
+        "সদর ঘাট",
+        "ভিক্টোরিয়া পার্ক",
+        "ভিক্টোরিয়া পার্ক",
+        "victoria park",
+        "sadar ghat",
+        "sadar ghat victoria park"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Golap Shah Mazar",
+      "nameBn": "গোলাপ শাহ্ মাজার",
+      "aliases": [
+        "golap shah mazar",
+        "গোলাপ শাহ্ মাজার",
+        "golap shah"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Kakrail",
+      "nameBn": "কাকরাইল",
+      "aliases": [
+        "kakrail",
+        "কাকরাইল"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Malibagh",
+      "nameBn": "মালিবাগ",
+      "aliases": [
+        "malibagh",
+        "মালিবাগ"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Mouchak",
+      "nameBn": "মৌচাক",
+      "aliases": [
+        "mouchak",
+        "মৌচাক"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Rampura",
+      "nameBn": "রামপুরা",
+      "aliases": [
+        "rampura",
+        "রামপুরা"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Kuril Bishwaroad",
+      "nameBn": "কুড়িল বিশ্বরোড",
+      "aliases": [
+        "kuril bishwaroad",
+        "কুড়িল বিশ্বরোড"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Airport",
+      "nameBn": "এয়ারপোর্ট",
+      "aliases": [
+        "airport",
+        "এয়ারপোর্ট",
+        "biman bandar",
+        "বিমানবন্দর"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Abdullahpur",
+      "nameBn": "আব্দুল্লাহপুর",
+      "aliases": [
+        "abdullahpur",
+        "আব্দুল্লাহপুর"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Tongi",
+      "nameBn": "টঙ্গী",
+      "aliases": [
+        "tongi",
+        "টঙ্গী"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Board Bazar",
+      "nameBn": "বোর্ড বাজার",
+      "aliases": [
+        "board bazar",
+        "বোর্ড বাজার"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Chowrasta (Gazipur Chowrasta)",
+      "nameBn": "চৌরাস্তা (গাজীপুর চৌরাস্তা)",
+      "aliases": [
+        "gazipur chowrasta",
+        "গাজীপুর চৌরাস্তা",
+        "chowrasta",
+        "চৌরাস্তা"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Bhawal (Jatiyo Uddan)",
+      "nameBn": "ভাওয়াল (জাতীয় উদ্যান)",
+      "aliases": [
+        "bhawal",
+        "ভাওয়াল",
+        "jatiyo uddan",
+        "জাতীয় উদ্যান"
+      ]
+    },
+    {
+      "id": 13,
+      "nameEn": "Masterbari",
+      "nameBn": "মাস্টারবাড়ী",
+      "aliases": [
+        "masterbari",
+        "মাস্টারবাড়ী"
+      ]
+    },
+    {
+      "id": 14,
+      "nameEn": "Sreepur",
+      "nameBn": "শ্রীপুর",
+      "aliases": [
+        "sreepur",
+        "শ্রীপুর"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      11,
+      13,
+      14,
+      21,
+      38,
+      50,
+      60,
+      75,
+      89,
+      101,
+      107,
+      134,
+      161
+    ],
+    [
+      10,
+      0,
+      10,
+      10,
+      10,
+      14,
+      31,
+      43,
+      53,
+      68,
+      82,
+      94,
+      100,
+      127,
+      154
+    ],
+    [
+      11,
+      10,
+      0,
+      10,
+      10,
+      11,
+      27,
+      39,
+      49,
+      64,
+      78,
+      90,
+      97,
+      124,
+      151
+    ],
+    [
+      13,
+      10,
+      10,
+      0,
+      10,
+      10,
+      25,
+      38,
+      47,
+      62,
+      76,
+      88,
+      95,
+      122,
+      149
+    ],
+    [
+      14,
+      10,
+      10,
+      10,
+      0,
+      10,
+      24,
+      36,
+      46,
+      61,
+      75,
+      87,
+      94,
+      121,
+      148
+    ],
+    [
+      21,
+      14,
+      11,
+      10,
+      10,
+      0,
+      16,
+      29,
+      38,
+      53,
+      68,
+      79,
+      86,
+      113,
+      140
+    ],
+    [
+      38,
+      31,
+      27,
+      25,
+      24,
+      16,
+      0,
+      12,
+      22,
+      37,
+      51,
+      63,
+      70,
+      97,
+      124
+    ],
+    [
+      50,
+      43,
+      39,
+      38,
+      36,
+      29,
+      12,
+      0,
+      10,
+      25,
+      39,
+      51,
+      57,
+      84,
+      111
+    ],
+    [
+      60,
+      53,
+      49,
+      47,
+      46,
+      38,
+      22,
+      10,
+      0,
+      15,
+      29,
+      41,
+      48,
+      75,
+      102
+    ],
+    [
+      75,
+      68,
+      64,
+      62,
+      61,
+      53,
+      37,
+      25,
+      15,
+      0,
+      14,
+      26,
+      33,
+      60,
+      87
+    ],
+    [
+      89,
+      82,
+      78,
+      76,
+      75,
+      68,
+      51,
+      39,
+      29,
+      14,
+      0,
+      12,
+      18,
+      45,
+      72
+    ],
+    [
+      101,
+      94,
+      90,
+      88,
+      87,
+      79,
+      63,
+      51,
+      41,
+      26,
+      12,
+      0,
+      10,
+      34,
+      61
+    ],
+    [
+      107,
+      100,
+      97,
+      95,
+      94,
+      86,
+      70,
+      57,
+      48,
+      33,
+      18,
+      10,
+      0,
+      27,
+      54
+    ],
+    [
+      134,
+      127,
+      124,
+      122,
+      121,
+      113,
+      97,
+      84,
+      75,
+      60,
+      45,
+      34,
+      27,
+      0,
+      27
+    ],
+    [
+      161,
+      154,
+      151,
+      149,
+      148,
+      140,
+      124,
+      111,
+      102,
+      87,
+      72,
+      61,
+      54,
+      27,
+      0
+    ]
+  ]
+},
+{
+  "id": "A439",
+  "routeNo": "এ-৪৩৯",
+  "nameBn": "খিলগাঁও খিদমাহ হাসপাতাল → ঘাটারচর",
+  "nameEn": "Khilgaon Khidmah Hospital → Ghatarchar",
+  "totalKm": 20,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Khilgaon Khidmah Hospital",
+      "nameBn": "খিলগাঁও খিদমাহ হাসপাতাল",
+      "aliases": [
+        "khilgaon khidmah hospital",
+        "খিলগাঁও খিদমাহ হাসপাতাল",
+        "khidmah hospital",
+        "খিদমাহ হাসপাতাল"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Khilgaon Railgate",
+      "nameBn": "খিলগাঁও রেলগেট",
+      "aliases": [
+        "khilgaon railgate",
+        "খিলগাঁও রেলগেট"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Malibagh",
+      "nameBn": "মালিবাগ",
+      "aliases": [
+        "malibagh",
+        "মালিবাগ"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Mouchak",
+      "nameBn": "মৌচাক",
+      "aliases": [
+        "mouchak",
+        "মৌচাক"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Moghbazar",
+      "nameBn": "মগবাজার",
+      "aliases": [
+        "moghbazar",
+        "মগবাজার"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Kakrail",
+      "nameBn": "কাকরাইল",
+      "aliases": [
+        "kakrail",
+        "কাকরাইল"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Shahbag",
+      "nameBn": "শাহবাগ",
+      "aliases": [
+        "shahbag",
+        "শাহবাগ"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Science Lab",
+      "nameBn": "সায়েন্সল্যাব",
+      "aliases": [
+        "science lab",
+        "সায়েন্সল্যাব"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Jhigatola",
+      "nameBn": "ঝিগাতলা",
+      "aliases": [
+        "jhigatola",
+        "ঝিগাতলা"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Shankar",
+      "nameBn": "শংকর",
+      "aliases": [
+        "shankar",
+        "শংকর"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Dhanmondi 15",
+      "nameBn": "ধানমন্ডি-১৫",
+      "aliases": [
+        "dhanmondi 15",
+        "ধানমন্ডি-১৫",
+        "dhanmondi-15"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Mohammadpur",
+      "nameBn": "মোহাম্মদপুর",
+      "aliases": [
+        "mohammadpur",
+        "মোহাম্মদপুর"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Bosila",
+      "nameBn": "বসিলা",
+      "aliases": [
+        "bosila",
+        "বসিলা"
+      ]
+    },
+    {
+      "id": 13,
+      "nameEn": "Ghatarchar",
+      "nameBn": "ঘাটারচর",
+      "aliases": [
+        "ghatarchar",
+        "ঘাটারচর"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      11,
+      12,
+      15,
+      18,
+      21,
+      28,
+      32,
+      35,
+      37,
+      42,
+      46,
+      54
+    ],
+    [
+      10,
+      0,
+      10,
+      10,
+      10,
+      11,
+      14,
+      21,
+      25,
+      29,
+      30,
+      36,
+      40,
+      47
+    ],
+    [
+      11,
+      10,
+      0,
+      10,
+      10,
+      10,
+      10,
+      17,
+      21,
+      25,
+      26,
+      32,
+      36,
+      43
+    ],
+    [
+      12,
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      16,
+      20,
+      23,
+      25,
+      30,
+      34,
+      42
+    ],
+    [
+      15,
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      13,
+      17,
+      21,
+      22,
+      28,
+      32,
+      39
+    ],
+    [
+      18,
+      11,
+      10,
+      10,
+      10,
+      0,
+      10,
+      11,
+      15,
+      18,
+      19,
+      25,
+      29,
+      36
+    ],
+    [
+      21,
+      14,
+      10,
+      10,
+      10,
+      10,
+      0,
+      10,
+      11,
+      14,
+      16,
+      21,
+      25,
+      33
+    ],
+    [
+      28,
+      21,
+      17,
+      16,
+      13,
+      11,
+      10,
+      0,
+      10,
+      10,
+      10,
+      14,
+      18,
+      26
+    ],
+    [
+      32,
+      25,
+      21,
+      20,
+      17,
+      15,
+      11,
+      10,
+      0,
+      10,
+      10,
+      10,
+      14,
+      22
+    ],
+    [
+      35,
+      29,
+      25,
+      23,
+      21,
+      18,
+      14,
+      10,
+      10,
+      0,
+      10,
+      10,
+      11,
+      19
+    ],
+    [
+      37,
+      30,
+      26,
+      25,
+      22,
+      19,
+      16,
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      17
+    ],
+    [
+      42,
+      36,
+      32,
+      30,
+      28,
+      25,
+      21,
+      14,
+      10,
+      10,
+      10,
+      0,
+      10,
+      12
+    ],
+    [
+      46,
+      40,
+      36,
+      34,
+      32,
+      29,
+      25,
+      18,
+      14,
+      11,
+      10,
+      10,
+      0,
+      10
+    ],
+    [
+      54,
+      47,
+      43,
+      42,
+      39,
+      36,
+      33,
+      26,
+      22,
+      19,
+      17,
+      12,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A441",
+  "routeNo": "এ-৪৪১",
+  "nameBn": "নন্দনপার্ক → নারায়ণগঞ্জ চাষারাহাট",
+  "nameEn": "Nandanpark → Narayanganj Chasarahat",
+  "totalKm": 65.4,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Nandanpark",
+      "nameBn": "নন্দনপার্ক",
+      "aliases": [
+        "nandanpark",
+        "নন্দনপার্ক",
+        "nandan park"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Jirani Bazar",
+      "nameBn": "জিরানী বাজার",
+      "aliases": [
+        "jirani bazar",
+        "জিরানী বাজার",
+        "jirani",
+        "জিরানী"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Nabinagar",
+      "nameBn": "নবীনগর",
+      "aliases": [
+        "nabinagar",
+        "নবীনগর"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Savar",
+      "nameBn": "সাভার",
+      "aliases": [
+        "savar",
+        "সাভার"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Gabtoli",
+      "nameBn": "গাবতলী",
+      "aliases": [
+        "gabtoli",
+        "গাবতলী",
+        "gabtali",
+        "গাবতলি"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Newmarket",
+      "nameBn": "নিউমার্কেট",
+      "aliases": [
+        "newmarket",
+        "নিউমার্কেট",
+        "new market"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Azimpur",
+      "nameBn": "আজিমপুর",
+      "aliases": [
+        "azimpur",
+        "আজিমপুর"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Bakshi Bazar",
+      "nameBn": "বকশিবাজার",
+      "aliases": [
+        "bakshi bazar",
+        "বকশিবাজার",
+        "bakshi",
+        "বকশি"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Chankharpul",
+      "nameBn": "চানখারপুল",
+      "aliases": [
+        "chankharpul",
+        "চানখারপুল",
+        "chankar pool"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Signboard",
+      "nameBn": "সাইনবোর্ড",
+      "aliases": [
+        "signboard",
+        "সাইনবোর্ড"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Narayanganj Chasarahat",
+      "nameBn": "নারায়ণগঞ্জ চাষারাহাট",
+      "aliases": [
+        "narayanganj chasarahat",
+        "নারায়ণগঞ্জ চাষারাহাট",
+        "chasara",
+        "চাষারা",
+        "narayanganj",
+        "নারায়ণগঞ্জ"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      12,
+      38,
+      61,
+      100,
+      120,
+      122,
+      126,
+      128,
+      153,
+      177
+    ],
+    [
+      12,
+      0,
+      26,
+      49,
+      88,
+      108,
+      110,
+      114,
+      116,
+      141,
+      164
+    ],
+    [
+      38,
+      26,
+      0,
+      23,
+      62,
+      82,
+      84,
+      88,
+      90,
+      115,
+      139
+    ],
+    [
+      61,
+      49,
+      23,
+      0,
+      39,
+      59,
+      62,
+      65,
+      67,
+      92,
+      116
+    ],
+    [
+      100,
+      88,
+      62,
+      39,
+      0,
+      21,
+      23,
+      26,
+      28,
+      53,
+      77
+    ],
+    [
+      120,
+      108,
+      82,
+      59,
+      21,
+      0,
+      10,
+      10,
+      10,
+      33,
+      56
+    ],
+    [
+      122,
+      110,
+      84,
+      62,
+      23,
+      10,
+      0,
+      10,
+      10,
+      31,
+      54
+    ],
+    [
+      126,
+      114,
+      88,
+      65,
+      26,
+      10,
+      10,
+      0,
+      10,
+      27,
+      50
+    ],
+    [
+      128,
+      116,
+      90,
+      67,
+      28,
+      10,
+      10,
+      10,
+      0,
+      25,
+      48
+    ],
+    [
+      153,
+      141,
+      115,
+      92,
+      53,
+      33,
+      31,
+      27,
+      25,
+      0,
+      23
+    ],
+    [
+      177,
+      164,
+      139,
+      116,
+      77,
+      56,
+      54,
+      50,
+      48,
+      23,
+      0
+    ]
+  ]
+},
+{
+  "id": "A436",
+  "routeNo": "এ-৪৩৬",
+  "nameBn": "সদরঘাট ভিক্টোরিয়া পার্ক → বাইপাইল",
+  "nameEn": "Sadarghat Victoria Park → Baipail",
+  "totalKm": 39.8,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Sadarghat Victoria Park",
+      "nameBn": "সদরঘাট ভিক্টোরিয়া পার্ক",
+      "aliases": [
+        "sadarghat victoria park",
+        "সদরঘাট ভিক্টোরিয়া পার্ক",
+        "সদরঘাট ভিক্টোরিয়া",
+        "sadarghat",
+        "সদর ঘাট ভিক্টোরিয়া পার্ক",
+        "সদর ঘাট ভিক্টোরিয়া",
+        "সদর ঘাট",
+        "ভিক্টোরিয়া পার্ক",
+        "ভিক্টোরিয়া পার্ক",
+        "victoria park",
+        "sadar ghat",
+        "sadar ghat victoria park"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Bangabandhu Avenue",
+      "nameBn": "বঙ্গবন্ধু এভিনিউ",
+      "aliases": [
+        "bangabandhu avenue",
+        "বঙ্গবন্ধু এভিনিউ"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Kakrail",
+      "nameBn": "কাকরাইল",
+      "aliases": [
+        "kakrail",
+        "কাকরাইল"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Malibagh",
+      "nameBn": "মালিবাগ",
+      "aliases": [
+        "malibagh",
+        "মালিবাগ"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Mouchak",
+      "nameBn": "মৌচাক",
+      "aliases": [
+        "mouchak",
+        "মৌচাক"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Rampura",
+      "nameBn": "রামপুরা",
+      "aliases": [
+        "rampura",
+        "রামপুরা"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Kuril Bishwaroad",
+      "nameBn": "কুড়িল বিশ্বরোড",
+      "aliases": [
+        "kuril bishwaroad",
+        "কুড়িল বিশ্বরোড"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Airport",
+      "nameBn": "এয়ারপোর্ট",
+      "aliases": [
+        "airport",
+        "এয়ারপোর্ট",
+        "biman bandar",
+        "বিমানবন্দর"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Abdullahpur",
+      "nameBn": "আব্দুল্লাহপুর",
+      "aliases": [
+        "abdullahpur",
+        "আব্দুল্লাহপুর"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Dhaur",
+      "nameBn": "ধউর",
+      "aliases": [
+        "dhaur",
+        "ধউর"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Jirabo",
+      "nameBn": "জিরাবো",
+      "aliases": [
+        "jirabo",
+        "জিরাবো"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Ashulia (Fantasy Kingdom)",
+      "nameBn": "আশুলিয়া (ফ্যান্টাসি কিংডম)",
+      "aliases": [
+        "ashulia",
+        "আশুলিয়া",
+        "fantasy kingdom",
+        "ফ্যান্টাসি কিংডম"
+      ]
+    },
+    {
+      "id": 12,
+      "nameEn": "Baipail",
+      "nameBn": "বাইপাইল",
+      "aliases": [
+        "baipail",
+        "বাইপাইল"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      11,
+      13,
+      14,
+      21,
+      38,
+      50,
+      60,
+      75,
+      89,
+      101,
+      107
+    ],
+    [
+      10,
+      0,
+      10,
+      10,
+      10,
+      14,
+      31,
+      43,
+      53,
+      68,
+      82,
+      94,
+      100
+    ],
+    [
+      11,
+      10,
+      0,
+      10,
+      10,
+      11,
+      27,
+      39,
+      49,
+      64,
+      78,
+      90,
+      97
+    ],
+    [
+      13,
+      10,
+      10,
+      0,
+      10,
+      10,
+      25,
+      38,
+      47,
+      62,
+      76,
+      88,
+      95
+    ],
+    [
+      14,
+      10,
+      10,
+      10,
+      0,
+      10,
+      24,
+      36,
+      46,
+      61,
+      75,
+      87,
+      94
+    ],
+    [
+      21,
+      14,
+      11,
+      10,
+      10,
+      0,
+      16,
+      29,
+      38,
+      53,
+      68,
+      79,
+      86
+    ],
+    [
+      38,
+      31,
+      27,
+      25,
+      24,
+      16,
+      0,
+      12,
+      22,
+      37,
+      51,
+      63,
+      70
+    ],
+    [
+      50,
+      43,
+      39,
+      38,
+      36,
+      29,
+      12,
+      0,
+      10,
+      25,
+      39,
+      51,
+      57
+    ],
+    [
+      60,
+      53,
+      49,
+      47,
+      46,
+      38,
+      22,
+      10,
+      0,
+      15,
+      29,
+      41,
+      48
+    ],
+    [
+      75,
+      68,
+      64,
+      62,
+      61,
+      53,
+      37,
+      25,
+      15,
+      0,
+      14,
+      26,
+      33
+    ],
+    [
+      89,
+      82,
+      78,
+      76,
+      75,
+      68,
+      51,
+      39,
+      29,
+      14,
+      0,
+      12,
+      18
+    ],
+    [
+      101,
+      94,
+      90,
+      88,
+      87,
+      79,
+      63,
+      51,
+      41,
+      26,
+      12,
+      0,
+      10
+    ],
+    [
+      107,
+      100,
+      97,
+      95,
+      94,
+      86,
+      70,
+      57,
+      48,
+      33,
+      18,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A450",
+  "routeNo": "এ-৪৫০",
+  "nameBn": "নবীনগর → মাওয়াঘাট",
+  "nameEn": "Nabinagar → Mawaghat",
+  "totalKm": 72.5,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Nabinagar",
+      "nameBn": "নবীনগর",
+      "aliases": [
+        "nabinagar",
+        "নবীনগর"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Savar",
+      "nameBn": "সাভার",
+      "aliases": [
+        "savar",
+        "সাভার"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Hemayetpur",
+      "nameBn": "হেমায়েতপুর",
+      "aliases": [
+        "hemayetpur",
+        "হেমায়েতপুর"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Gabtoli",
+      "nameBn": "গাবতলী",
+      "aliases": [
+        "gabtoli",
+        "গাবতলী",
+        "gabtali",
+        "গাবতলি"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Asad Gate",
+      "nameBn": "আসাদগেট",
+      "aliases": [
+        "asad gate",
+        "আসাদগেট",
+        "asadgate"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Farmgate",
+      "nameBn": "ফার্মগেট",
+      "aliases": [
+        "farmgate",
+        "ফার্মগেট"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Shahbag",
+      "nameBn": "শাহবাগ",
+      "aliases": [
+        "shahbag",
+        "শাহবাগ"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Golap Shah Mazar",
+      "nameBn": "গোলাপ শাহ মাজার",
+      "aliases": [
+        "golap shah mazar",
+        "গোলাপ শাহ মাজার"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Babubazar Bridge",
+      "nameBn": "বাবুবাজার ব্রীজ",
+      "aliases": [
+        "babubazar bridge",
+        "বাবুবাজার ব্রীজ",
+        "babubazar",
+        "বাবুবাজার"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Sreenagar Chowrasta",
+      "nameBn": "শ্রীনগর চৌরাস্তা",
+      "aliases": [
+        "sreenagar chowrasta",
+        "শ্রীনগর চৌরাস্তা",
+        "sreenagar",
+        "শ্রীনগর"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Mawa Ferighat",
+      "nameBn": "মাওয়াঘাট",
+      "aliases": [
+        "mawaghat",
+        "মাওয়াঘাট",
+        "mawa ghat",
+        "mawa ferighat",
+        "মাওয়া ফেরীঘাট",
+        "মাওয়া"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      22,
+      40,
+      60,
+      74,
+      78,
+      85,
+      91,
+      96,
+      166,
+      196
+    ],
+    [
+      22,
+      0,
+      18,
+      38,
+      52,
+      56,
+      62,
+      69,
+      74,
+      144,
+      174
+    ],
+    [
+      40,
+      18,
+      0,
+      20,
+      34,
+      38,
+      45,
+      51,
+      56,
+      126,
+      156
+    ],
+    [
+      60,
+      38,
+      20,
+      0,
+      14,
+      18,
+      24,
+      31,
+      36,
+      106,
+      136
+    ],
+    [
+      74,
+      52,
+      34,
+      14,
+      0,
+      10,
+      11,
+      17,
+      23,
+      93,
+      122
+    ],
+    [
+      78,
+      56,
+      38,
+      18,
+      10,
+      0,
+      10,
+      13,
+      19,
+      89,
+      118
+    ],
+    [
+      85,
+      62,
+      45,
+      24,
+      11,
+      10,
+      0,
+      10,
+      12,
+      82,
+      111
+    ],
+    [
+      91,
+      69,
+      51,
+      31,
+      17,
+      13,
+      10,
+      0,
+      10,
+      75,
+      105
+    ],
+    [
+      96,
+      74,
+      56,
+      36,
+      23,
+      19,
+      12,
+      10,
+      0,
+      70,
+      99
+    ],
+    [
+      166,
+      144,
+      126,
+      106,
+      93,
+      89,
+      82,
+      75,
+      70,
+      0,
+      29
+    ],
+    [
+      196,
+      174,
+      156,
+      136,
+      122,
+      118,
+      111,
+      105,
+      99,
+      29,
+      0
+    ]
+  ]
+},
+{
+  "id": "A458",
+  "routeNo": "এ-৪৫৮",
+  "nameBn": "মিরপুর-১২ → মতিঝিল",
+  "nameEn": "Mirpur-12 → Motijheel",
+  "totalKm": 15.3,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Mirpur-12",
+      "nameBn": "মিরপুর-১২",
+      "aliases": [
+        "mirpur-12",
+        "মিরপুর-১২",
+        "mirpur 12",
+        "মিরপুর ১২"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Mirpur-11",
+      "nameBn": "মিরপুর-১১",
+      "aliases": [
+        "mirpur-11",
+        "মিরপুর-১১",
+        "mirpur 11",
+        "মিরপুর ১১"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Mirpur-10",
+      "nameBn": "মিরপুর-১০",
+      "aliases": [
+        "mirpur-10",
+        "মিরপুর-১০",
+        "mirpur 10",
+        "মিরপুর ১০"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Kazipara",
+      "nameBn": "কাজীপাড়া",
+      "aliases": [
+        "kazipara",
+        "কাজীপাড়া",
+        "kajipara"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Shewrapara",
+      "nameBn": "শেওড়াপাড়া",
+      "aliases": [
+        "shewrapara",
+        "শেওড়াপাড়া"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Bijoy Sarani",
+      "nameBn": "বিজয় সরণী",
+      "aliases": [
+        "bijoy sarani",
+        "বিজয় সরণী",
+        "bijoy shoroni"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Farmgate",
+      "nameBn": "ফার্মগেট",
+      "aliases": [
+        "farmgate",
+        "ফার্মগেট"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Shahbag",
+      "nameBn": "শাহবাগ",
+      "aliases": [
+        "shahbag",
+        "শাহবাগ"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "Press Club",
+      "nameBn": "প্রেসক্লাব",
+      "aliases": [
+        "press club",
+        "প্রেসক্লাব"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Gulistan",
+      "nameBn": "গুলিস্তান",
+      "aliases": [
+        "gulistan",
+        "গুলিস্তান"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Motijheel",
+      "nameBn": "মতিঝিল",
+      "aliases": [
+        "motijheel",
+        "মতিঝিল"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      10,
+      10,
+      12,
+      22,
+      23,
+      29,
+      35,
+      37,
+      41
+    ],
+    [
+      10,
+      0,
+      10,
+      10,
+      10,
+      19,
+      21,
+      26,
+      32,
+      34,
+      38
+    ],
+    [
+      10,
+      10,
+      0,
+      10,
+      10,
+      15,
+      17,
+      22,
+      28,
+      30,
+      35
+    ],
+    [
+      10,
+      10,
+      10,
+      0,
+      10,
+      12,
+      14,
+      19,
+      25,
+      27,
+      31
+    ],
+    [
+      12,
+      10,
+      10,
+      10,
+      0,
+      10,
+      11,
+      17,
+      22,
+      25,
+      29
+    ],
+    [
+      22,
+      19,
+      15,
+      12,
+      10,
+      0,
+      10,
+      10,
+      13,
+      15,
+      20
+    ],
+    [
+      23,
+      21,
+      17,
+      14,
+      11,
+      10,
+      0,
+      10,
+      11,
+      13,
+      18
+    ],
+    [
+      29,
+      26,
+      22,
+      19,
+      17,
+      10,
+      10,
+      0,
+      10,
+      10,
+      12
+    ],
+    [
+      35,
+      32,
+      28,
+      25,
+      22,
+      13,
+      11,
+      10,
+      0,
+      10,
+      10
+    ],
+    [
+      37,
+      34,
+      30,
+      27,
+      25,
+      15,
+      13,
+      10,
+      10,
+      0,
+      10
+    ],
+    [
+      41,
+      38,
+      35,
+      31,
+      29,
+      20,
+      18,
+      12,
+      10,
+      10,
+      0
+    ]
+  ]
+},
+{
+  "id": "A459",
+  "routeNo": "এ-৪৫৯",
+  "nameBn": "মানিকদি (ইসিবি মোড়) → আজিমপুর",
+  "nameEn": "Manikdi (ECB Mor) → Azimpur",
+  "totalKm": 15.3,
+  "stops": [
+    {
+      "id": 0,
+      "nameEn": "Manikdi (ECB Mor)",
+      "nameBn": "মানিকদি (ইসিবি মোড়)",
+      "aliases": [
+        "manikdi (ecb mor)",
+        "মানিকদি (ইসিবি মোড়)",
+        "manikdi",
+        "মানিকদি",
+        "ecb mor",
+        "ইসিবি মোড়"
+      ]
+    },
+    {
+      "id": 1,
+      "nameEn": "Kalshi",
+      "nameBn": "কালশী",
+      "aliases": [
+        "kalshi",
+        "কালশী"
+      ]
+    },
+    {
+      "id": 2,
+      "nameEn": "Mirpur-11",
+      "nameBn": "মিরপুর-১১",
+      "aliases": [
+        "mirpur-11",
+        "মিরপুর-১১",
+        "mirpur 11",
+        "মিরপুর ১১"
+      ]
+    },
+    {
+      "id": 3,
+      "nameEn": "Mirpur-10",
+      "nameBn": "মিরপুর-১০",
+      "aliases": [
+        "mirpur-10",
+        "মিরপুর-১০",
+        "mirpur 10",
+        "মিরপুর ১০"
+      ]
+    },
+    {
+      "id": 4,
+      "nameEn": "Kazipara",
+      "nameBn": "কাজীপাড়া",
+      "aliases": [
+        "kazipara",
+        "কাজীপাড়া",
+        "kajipara"
+      ]
+    },
+    {
+      "id": 5,
+      "nameEn": "Shewrapara",
+      "nameBn": "শেওড়াপাড়া",
+      "aliases": [
+        "shewrapara",
+        "শেওড়াপাড়া"
+      ]
+    },
+    {
+      "id": 6,
+      "nameEn": "Agargaon",
+      "nameBn": "আগারগাঁও",
+      "aliases": [
+        "agargaon",
+        "আগারগাঁও"
+      ]
+    },
+    {
+      "id": 7,
+      "nameEn": "Shishumela",
+      "nameBn": "শিশুমেলা",
+      "aliases": [
+        "shishumela",
+        "শিশুমেলা",
+        "shishu mela"
+      ]
+    },
+    {
+      "id": 8,
+      "nameEn": "College Gate",
+      "nameBn": "কলেজ গেট",
+      "aliases": [
+        "college gate",
+        "কলেজ গেট"
+      ]
+    },
+    {
+      "id": 9,
+      "nameEn": "Sukrabad",
+      "nameBn": "শুকরাবাদ",
+      "aliases": [
+        "sukrabad",
+        "শুকরাবাদ",
+        "shukrabad"
+      ]
+    },
+    {
+      "id": 10,
+      "nameEn": "Newmarket",
+      "nameBn": "নিউমার্কেট",
+      "aliases": [
+        "newmarket",
+        "নিউমার্কেট",
+        "new market"
+      ]
+    },
+    {
+      "id": 11,
+      "nameEn": "Azimpur",
+      "nameBn": "আজিমপুর",
+      "aliases": [
+        "azimpur",
+        "আজিমপুর"
+      ]
+    }
+  ],
+  "fareMatrix": [
+    [
+      0,
+      10,
+      10,
+      11,
+      14,
+      17,
+      21,
+      25,
+      26,
+      32,
+      38,
+      41
+    ],
+    [
+      10,
+      0,
+      10,
+      10,
+      11,
+      14,
+      18,
+      22,
+      23,
+      29,
+      35,
+      38
+    ],
+    [
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      13,
+      17,
+      18,
+      24,
+      30,
+      33
+    ],
+    [
+      11,
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      14,
+      15,
+      21,
+      27,
+      30
+    ],
+    [
+      14,
+      11,
+      10,
+      10,
+      0,
+      10,
+      10,
+      11,
+      12,
+      18,
+      24,
+      27
+    ],
+    [
+      17,
+      14,
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      10,
+      15,
+      21,
+      25
+    ],
+    [
+      21,
+      18,
+      13,
+      10,
+      10,
+      10,
+      0,
+      10,
+      10,
+      11,
+      17,
+      20
+    ],
+    [
+      25,
+      22,
+      17,
+      14,
+      11,
+      10,
+      10,
+      0,
+      10,
+      10,
+      13,
+      16
+    ],
+    [
+      26,
+      23,
+      18,
+      15,
+      12,
+      10,
+      10,
+      10,
+      0,
+      10,
+      12,
+      15
+    ],
+    [
+      32,
+      29,
+      24,
+      21,
+      18,
+      15,
+      11,
+      10,
+      10,
+      0,
+      10,
+      10
+    ],
+    [
+      38,
+      35,
+      30,
+      27,
+      24,
+      21,
+      17,
+      13,
+      12,
+      10,
+      0,
+      10
+    ],
+    [
+      41,
+      38,
+      33,
+      30,
+      27,
+      25,
+      20,
+      16,
+      15,
+      10,
       10,
       0
     ]
