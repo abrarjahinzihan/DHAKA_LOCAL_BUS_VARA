@@ -78,7 +78,35 @@ const ALL_STOPS = [
   { nameEn: 'Kamalapur',            nameBn: 'কমলাপুর' },
   { nameEn: 'Basabo',               nameBn: 'বাসাবো' },
   { nameEn: 'Khilgaon Railgate',    nameBn: 'খিলগাও রেলগেট' },
-  { nameEn: 'Khilgaon Taltola',     nameBn: 'খিলগাও তালতলা' }
+  { nameEn: 'Khilgaon Taltola',     nameBn: 'খিলগাও তালতলা' },
+  // Baipail, Sayedabad, Uttara, Banasree unique stops
+  { nameEn: 'Baipail',              nameBn: 'বাইপাইল' },
+  { nameEn: 'Kamarpara',            nameBn: 'কামারপাড়া' },
+  { nameEn: 'Abdullahpur',          nameBn: 'আব্দুল্লাহপুর' },
+  { nameEn: 'Azampur',              nameBn: 'আজমপুর' },
+  { nameEn: 'Airport',              nameBn: 'এয়ারপোর্ট' },
+  { nameEn: 'Khilkhet',             nameBn: 'খিলক্ষেত' },
+  { nameEn: 'Bishwa Road',          nameBn: 'বিশ্বরোড' },
+  { nameEn: 'Staff Road',           nameBn: 'স্টাফরোড' },
+  { nameEn: 'Kakoli',               nameBn: 'কাকলি' },
+  { nameEn: 'Mohakhali',            nameBn: 'মহাখালী' },
+  { nameEn: 'Fulbaria',             nameBn: 'ফুলবাড়িয়া' },
+  { nameEn: 'Babu Bazar Bridge',    nameBn: 'বাবু বাজার ব্রীজ' },
+  { nameEn: 'Keraniganj',           nameBn: 'কেরানীগঞ্জ (নতুন জেলখানা)' },
+  { nameEn: 'Sayedabad',            nameBn: 'সায়দাবাদ' },
+  { nameEn: 'UBL',                  nameBn: 'ইউবিএল' },
+  { nameEn: 'Balughat',             nameBn: 'বালুঘাট' },
+  { nameEn: 'Uttara (Raniganj)',    nameBn: 'উত্তরা (রাণীগঞ্জ)' },
+  { nameEn: 'Notun Bazar',          nameBn: 'নতুন বাজার' },
+  { nameEn: 'Rampura TV Center',    nameBn: 'রামপুরা টিভি সেন্টার' },
+  { nameEn: 'Malibagh',             nameBn: 'মালিবাগ' },
+  { nameEn: 'Kakrail',              nameBn: 'কাকরাইল' },
+  { nameEn: 'Bangabandhu Avenue',   nameBn: 'বঙ্গবন্ধু এভিনিউ' },
+  { nameEn: 'Banasree',             nameBn: 'বনশ্রী' },
+  { nameEn: 'Rampura',              nameBn: 'রামপুরা' },
+  { nameEn: 'Gulshan-1',            nameBn: 'গুলশান-১' },
+  { nameEn: 'Shyamoli Ring Road',   nameBn: 'শ্যামলী রিং রোড' },
+  { nameEn: 'Mohammadpur Shia Masjid', nameBn: 'মোহাম্মদপুর শিয়া মসজিদ' }
 ];
 
 // ── StopInput ────────────────────────────────────────────────────────
@@ -379,7 +407,7 @@ export default function App() {
             <span className="info-value">৳১০</span>
             <span className="info-sep">•</span>
             <span className="info-label">মোট রুট:</span>
-            <span className="info-value">১২টি</span>
+            <span className="info-value">১৬টি</span>
           </div>
         </div>
       </header>

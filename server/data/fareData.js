@@ -485,6 +485,144 @@ const routes = [
       [37,32,27,22,18,13,10,0,10],
       [43,38,33,29,24,19,10,10,0]
     ]
+  },
+
+  // ══════════════════════════════════════════════
+  // ROUTE BAIPAIL_KERANIGANJ: Baipail → Keraniganj (Notun Jailkhana)
+  // Total: 47.5 km | 16 stops
+  // ══════════════════════════════════════════════
+  {
+    id: 'BAIPAIL_KERANIGANJ',
+    routeNo: 'বাইপাইল-কেরানীগঞ্জ',
+    nameBn: 'বাইপাইল → কেরানীগঞ্জ (নতুন জেলখানা)',
+    nameEn: 'Baipail → Keraniganj (Notun Jailkhana)',
+    totalKm: 47.5,
+    stops: [
+      { id: 0,  nameEn: 'Baipail',            nameBn: 'বাইপাইল',              aliases: ['baipail','বাইপাইল'] },
+      { id: 1,  nameEn: 'Kamarpara',          nameBn: 'কামারপাড়া',            aliases: ['kamarpara','কামারপাড়া'] },
+      { id: 2,  nameEn: 'Abdullahpur',        nameBn: 'আব্দুল্লাহপুর',            aliases: ['abdullahpur','আব্দুল্লাহপুর'] },
+      { id: 3,  nameEn: 'Azampur',            nameBn: 'আজমপুর',               aliases: ['azampur','আজমপুর'] },
+      { id: 4,  nameEn: 'Airport',            nameBn: 'এয়ারপোর্ট',             aliases: ['airport','এয়ারপোর্ট'] },
+      { id: 5,  nameEn: 'Khilkhet',           nameBn: 'খিলক্ষেত',              aliases: ['khilkhet','খিলক্ষেত'] },
+      { id: 6,  nameEn: 'Bishwa Road',        nameBn: 'বিশ্বরোড',              aliases: ['bishwa road','বিশ্বরোড'] },
+      { id: 7,  nameEn: 'Staff Road',         nameBn: 'স্টাফরোড',             aliases: ['staff road','স্টাফরোড'] },
+      { id: 8,  nameEn: 'Kakoli',             nameBn: 'কাকলি',                aliases: ['kakoli','কাকলি'] },
+      { id: 9,  nameEn: 'Mohakhali',          nameBn: 'মহাখালী',              aliases: ['mohakhali','মহাখালী'] },
+      { id: 10, nameEn: 'Farmgate',           nameBn: 'ফার্মগেট',             aliases: ['farmgate','ফার্মগেট'] },
+      { id: 11, nameEn: 'Shahbag',            nameBn: 'শাহবাগ',               aliases: ['shahbag','শাহবাগ'] },
+      { id: 12, nameEn: 'Pressclub',          nameBn: 'প্রেসক্লাব',            aliases: ['pressclub','প্রেসক্লাব'] },
+      { id: 13, nameEn: 'Fulbaria',           nameBn: 'ফুলবাড়িয়া',            aliases: ['fulbaria','ফুলবাড়িয়া'] },
+      { id: 14, nameEn: 'Babu Bazar Bridge',  nameBn: 'বাবু বাজার ব্রীজ',        aliases: ['babu bazar bridge','বাবু বাজার ব্রীজ'] },
+      { id: 15, nameEn: 'Keraniganj',         nameBn: 'কেরানীগঞ্জ (নতুন জেলখানা)', aliases: ['keraniganj','কেরানীগঞ্জ','কেরানীগঞ্জ (নতুন জেলখানা)'] }
+    ],
+    fareMatrix: [
+      [0,42,48,50,56,63,66,71,77,82,89,96,101,105,109,128],
+      [42,0,10,10,14,22,24,29,35,40,48,54,59,63,67,86],
+      [48,10,0,10,10,16,18,23,29,34,42,48,53,57,61,80],
+      [50,10,10,0,10,14,16,22,27,32,40,46,51,55,59,79],
+      [56,14,10,10,0,10,10,15,21,26,33,40,45,49,53,72],
+      [63,22,16,14,10,0,10,10,13,18,26,32,37,41,45,65],
+      [66,24,18,16,10,10,0,10,11,16,23,30,35,39,43,62],
+      [71,29,23,22,15,10,10,0,10,10,18,25,29,33,37,57],
+      [77,35,29,27,21,13,11,10,0,10,13,19,24,28,32,52],
+      [82,40,34,32,26,18,16,10,10,0,10,14,19,23,27,47],
+      [89,48,42,40,33,26,23,18,13,10,0,10,11,15,19,39],
+      [96,54,48,46,40,32,30,25,19,14,10,0,10,10,13,32],
+      [101,59,53,51,45,37,35,29,24,19,11,10,0,10,10,28],
+      [105,63,57,55,49,41,39,33,28,23,15,10,10,0,10,23],
+      [109,67,61,59,53,45,43,37,32,27,19,13,10,10,0,20],
+      [128,86,80,79,72,65,62,57,52,47,39,32,28,23,20,0]
+    ]
+  },
+
+  // ══════════════════════════════════════════════
+  // ROUTE SAYEDABAD_BALUGHAT: Sayedabad → Balughat
+  // Total: 14.6 km | 7 stops
+  // ══════════════════════════════════════════════
+  {
+    id: 'SAYEDABAD_BALUGHAT',
+    routeNo: 'সায়দাবাদ-বালুঘাট',
+    nameBn: 'সায়দাবাদ → বালুঘাট',
+    nameEn: 'Sayedabad → Balughat',
+    totalKm: 14.6,
+    stops: [
+      { id: 0, nameEn: 'Sayedabad',          nameBn: 'সায়দাবাদ',              aliases: ['sayedabad','সায়দাবাদ'] },
+      { id: 1, nameEn: 'Bangladesh Bank',    nameBn: 'বাংলাদেশ ব্যাংক',        aliases: ['bangladesh bank','বাংলাদেশ ব্যাংক'] },
+      { id: 2, nameEn: 'UBL',                nameBn: 'ইউবিএল',               aliases: ['ubl','ইউবিএল'] },
+      { id: 3, nameEn: 'Pressclub',          nameBn: 'প্রেসক্লাব',            aliases: ['pressclub','প্রেসক্লাব'] },
+      { id: 4, nameEn: 'Shahbag',            nameBn: 'শাহবাগ',               aliases: ['shahbag','শাহবাগ'] },
+      { id: 5, nameEn: 'Farmgate',           nameBn: 'ফার্মগেট',             aliases: ['farmgate','ফার্মগেট'] },
+      { id: 6, nameEn: 'Balughat',           nameBn: 'বালুঘাট',              aliases: ['balughat','বালুঘাট'] }
+    ],
+    fareMatrix: [
+      [0,10,10,10,14,20,39],
+      [10,0,10,10,10,14,33],
+      [10,10,0,10,10,11,30],
+      [10,10,10,0,10,10,29],
+      [14,10,10,10,0,10,25],
+      [20,14,11,10,10,0,19],
+      [39,33,30,29,25,19,0]
+    ]
+  },
+
+  // ══════════════════════════════════════════════
+  // ROUTE UTTARA_VICTORIA: Uttara (Raniganj) → Victoria Park
+  // Total: 23.3 km | 7 stops
+  // ══════════════════════════════════════════════
+  {
+    id: 'UTTARA_VICTORIA',
+    routeNo: 'উত্তরা-ভিক্টোরিয়া',
+    nameBn: 'উত্তরা (রাণীগঞ্জ) → ভিক্টোরিয়া পার্ক',
+    nameEn: 'Uttara (Raniganj) → Victoria Park',
+    totalKm: 23.3,
+    stops: [
+      { id: 0, nameEn: 'Uttara (Raniganj)',  nameBn: 'উত্তরা (রাণীগঞ্জ)',      aliases: ['uttara (raniganj)','uttara','উত্তরা (রাণীগঞ্জ)','উত্তরা'] },
+      { id: 1, nameEn: 'Notun Bazar',        nameBn: 'নতুন বাজার',            aliases: ['notun bazar','নতুন বাজার'] },
+      { id: 2, nameEn: 'Rampura TV Center',  nameBn: 'রামপুরা টিভি সেন্টার',      aliases: ['rampura tv center','রামপুরা টিভি সেন্টার'] },
+      { id: 3, nameEn: 'Malibagh',           nameBn: 'মালিবাগ',              aliases: ['malibagh','মালিবাগ'] },
+      { id: 4, nameEn: 'Kakrail',            nameBn: 'কাকরাইল',              aliases: ['kakrail','কাকরাইল'] },
+      { id: 5, nameEn: 'Bangabandhu Avenue', nameBn: 'বঙ্গবন্ধু এভিনিউ',         aliases: ['bangabandhu avenue','বঙ্গবন্ধু এভিনিউ'] },
+      { id: 6, nameEn: 'Victoria Park',      nameBn: 'ভিক্টোরিয়া পার্ক',        aliases: ['victoria park','ভিক্টোরিয়া পার্ক'] }
+    ],
+    fareMatrix: [
+      [0,32,41,50,52,57,63],
+      [32,0,10,18,20,25,31],
+      [41,10,0,10,11,16,22],
+      [50,18,10,0,10,10,13],
+      [52,20,11,10,0,10,10],
+      [57,25,16,10,10,0,10],
+      [63,31,22,13,10,10,0]
+    ]
+  },
+
+  // ══════════════════════════════════════════════
+  // ROUTE BANASREE_SHIA: Banasree → Mohammadpur Shia Masjid
+  // Total: 18.2 km | 7 stops
+  // ══════════════════════════════════════════════
+  {
+    id: 'BANASREE_SHIA',
+    routeNo: 'বনশ্রী-শিয়া মসজিদ',
+    nameBn: 'বনশ্রী → মোহাম্মদপুর শিয়া মসজিদ',
+    nameEn: 'Banasree → Mohammadpur Shia Masjid',
+    totalKm: 18.2,
+    stops: [
+      { id: 0, nameEn: 'Banasree',                  nameBn: 'বনশ্রী',                     aliases: ['banasree','বনশ্রী'] },
+      { id: 1, nameEn: 'Rampura',                   nameBn: 'রামপুরা',                    aliases: ['rampura','রামপুরা'] },
+      { id: 2, nameEn: 'Gulshan-1',                 nameBn: 'গুলশান-১',                   aliases: ['gulshan-1','গুলশান-১','gulshan 1','গুলশান ১'] },
+      { id: 3, nameEn: 'Mohakhali',                 nameBn: 'মহাখালী',                    aliases: ['mohakhali','মহাখালী'] },
+      { id: 4, nameEn: 'Agargaon',                  nameBn: 'আগারগাঁও',                   aliases: ['agargaon','আগারগাঁও'] },
+      { id: 5, nameEn: 'Shyamoli Ring Road',        nameBn: 'শ্যামলী রিং রোড',               aliases: ['shyamoli ring road','শ্যামলী রিং রোড'] },
+      { id: 6, nameEn: 'Mohammadpur Shia Masjid',   nameBn: 'মোহাম্মদপুর শিয়া মসজিদ',         aliases: ['mohammadpur shia masjid','mohammadpur','মোহাম্মদপুর শিয়া মসজিদ','মোহাম্মদপুর'] }
+    ],
+    fareMatrix: [
+      [0,10,21,28,38,45,49],
+      [10,0,14,21,31,38,42],
+      [21,14,0,10,17,24,28],
+      [28,21,10,0,11,18,22],
+      [38,31,17,11,0,10,11],
+      [45,38,24,18,10,0,10],
+      [49,42,28,22,11,10,0]
+    ]
   }
 
 ];
