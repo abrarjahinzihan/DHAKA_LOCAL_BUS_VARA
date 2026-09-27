@@ -821,6 +821,83 @@ const routes = [
     ],
     fareMatrix: [[0,10,10,10,16,44],[10,null,10,10,14,42],[10,10,null,10,10,37],[10,10,10,null,10,34],[16,14,10,10,null,28],[44,42,37,34,28,null]]
   },
+  {
+    id: 'A240',
+    routeNo: 'এ-২৪০',
+    nameBn: 'কাঁচপুর → টঙ্গী বাস্তহারা',
+    nameEn: 'Kachpur → Tongi Bastuhara',
+    totalKm: 36,
+    stops: [
+      { id: 0, nameEn: 'Kachpur', nameBn: 'কাঁচপুর', aliases: ["kachpur","কাঁচপুর"] },
+      { id: 1, nameEn: 'Sayedabad', nameBn: 'সায়েদাবাদ', aliases: ["sayedabad","সায়েদাবাদ"] },
+      { id: 2, nameEn: 'Malibagh', nameBn: 'মালিবাগ', aliases: ["malibagh","মালিবাগ"] },
+      { id: 3, nameEn: 'Notun Bazar', nameBn: 'নতুন বাজার', aliases: ["notun bazar","নতুন বাজার"] },
+      { id: 4, nameEn: 'Airport', nameBn: 'এয়ারপোর্ট', aliases: ["airport","এয়ারপোর্ট"] },
+      { id: 5, nameEn: 'Tongi', nameBn: 'টঙ্গী', aliases: ["tongi","টঙ্গী"] },
+      { id: 6, nameEn: 'Tongi Bastuhara', nameBn: 'টঙ্গী বাস্তহারা', aliases: ["tongi bastuhara","টঙ্গী বাস্তহারা"] }
+    ],
+    fareMatrix: [[0,24,40,56,74,85,97],[24,null,16,32,49,60,73],[40,16,null,16,33,45,57],[56,32,16,null,18,29,41],[74,49,33,18,null,11,23],[85,60,45,29,11,null,12],[97,73,57,41,23,12,null]]
+  },
+  {
+    id: 'A243',
+    routeNo: 'এ-২৪৩',
+    nameBn: 'ধলেশ্বর → টঙ্গী (বাস্তহারা)',
+    nameEn: 'Dhaleshwar → Tongi Bastuhara',
+    totalKm: 31.7,
+    stops: [
+      { id: 0, nameEn: 'Dhaleshwar', nameBn: 'ধলেশ্বর', aliases: ["dhaleshwar","ধলেশ্বর"] },
+      { id: 1, nameEn: 'Jatrabari', nameBn: 'যাত্রাবাড়ী', aliases: ["jatrabari","যাত্রাবাড়ী"] },
+      { id: 2, nameEn: 'Malibagh', nameBn: 'মালিবাগ', aliases: ["malibagh","মালিবাগ"] },
+      { id: 3, nameEn: 'Pragati Sarani', nameBn: 'প্রগতি সরণী', aliases: ["pragati sarani","প্রগতি সরণী"] },
+      { id: 4, nameEn: 'Abdullahpur', nameBn: 'আব্দুল্লাহপুর', aliases: ["abdullahpur","আব্দুল্লাহপুর"] },
+      { id: 5, nameEn: 'Tongi Bastuhara', nameBn: 'টঙ্গী (বাস্তহারা)', aliases: ["tongi bastuhara","টঙ্গী (বাস্তহারা)"] }
+    ],
+    fareMatrix: [[0,12,29,43,72,86],[12,null,16,31,60,73],[29,16,null,14,43,57],[43,31,14,null,29,43],[72,60,43,29,null,14],[86,73,57,43,14,null]]
+  },
+  {
+    id: 'A245',
+    routeNo: 'এ-২৪৫',
+    nameBn: 'মদনপুর → আব্দুল্লাহপুর',
+    nameEn: 'Madanpur → Abdullahpur',
+    totalKm: 36.5,
+    stops: [
+      { id: 0, nameEn: 'Madanpur', nameBn: 'মদনপুর', aliases: ["madanpur","মদনপুর"] },
+      { id: 1, nameEn: 'Motijheel', nameBn: 'মতিঝিল', aliases: ["motijheel","মতিঝিল"] },
+      { id: 2, nameEn: 'Malibagh', nameBn: 'মালিবাগ', aliases: ["malibagh","মালিবাগ"] },
+      { id: 3, nameEn: 'Moghbazar', nameBn: 'মগবাজার', aliases: ["moghbazar","মগবাজার"] },
+      { id: 4, nameEn: 'Mohakhali', nameBn: 'মহাখালী', aliases: ["mohakhali","মহাখালী"] },
+      { id: 5, nameEn: 'Kakoli', nameBn: 'কাকলী', aliases: ["kakoli","কাকলী","কাকলি"] },
+      { id: 6, nameEn: 'Abdullahpur', nameBn: 'আব্দুল্লাহপুর', aliases: ["abdullahpur","আব্দুল্লাহপুর"] }
+    ],
+    fareMatrix: [[0,43,50,54,63,68,99],[43,null,10,10,20,25,55],[50,10,null,10,13,18,48],[54,10,10,null,10,14,45],[63,20,13,10,null,10,35],[68,25,18,14,10,null,31],[99,55,48,45,35,31,null]]
+  },
+  {
+    id: 'A249',
+    routeNo: 'এ-২৪৯',
+    nameBn: 'ফুলবাড়ীয়া → খাসিয়াখালী বেড়ীবাঁধ',
+    nameEn: 'Fulbaria → Khasiakhali Beribadh',
+    totalKm: 52.5,
+    stops: [
+      { id: 0, nameEn: 'Fulbaria', nameBn: 'ফুলবাড়ীয়া', aliases: ["fulbaria","ফুলবাড়ীয়া"] },
+      { id: 1, nameEn: 'Naya Bazar', nameBn: 'নয়াবাজার', aliases: ["naya bazar","নয়াবাজার"] },
+      { id: 2, nameEn: 'Jinjira', nameBn: 'জিঞ্জিরা', aliases: ["jinjira","জিঞ্জিরা"] },
+      { id: 3, nameEn: 'Konakhola Bazar', nameBn: 'কোণাখোলা বাজার', aliases: ["konakhola bazar","কোণাখোলা বাজার"] },
+      { id: 4, nameEn: 'Ramer Kanda', nameBn: 'রামের কান্দা', aliases: ["ramer kanda","রামের কান্দা"] },
+      { id: 5, nameEn: 'Syedpur', nameBn: 'সৈয়দপুর', aliases: ["syedpur","সৈয়দপুর"] },
+      { id: 6, nameEn: 'Kharshur', nameBn: 'খারশুর', aliases: ["kharshur","খারশুর"] },
+      { id: 7, nameEn: 'Tikorpur', nameBn: 'টিকরপুর', aliases: ["tikorpur","টিকরপুর"] },
+      { id: 8, nameEn: 'Agla Bazar', nameBn: 'আগলা বাজার', aliases: ["agla bazar","আগলা বাজার"] },
+      { id: 9, nameEn: 'Box Nagar', nameBn: 'বক্সনগর', aliases: ["box nagar","বক্সনগর"] },
+      { id: 10, nameEn: 'Gurganj', nameBn: 'গুরগঞ্জ', aliases: ["gurganj","গুরগঞ্জ","শূরগঞ্জ","শুরগঞ্জ"] },
+      { id: 11, nameEn: 'Baghmara', nameBn: 'বাঘমারা', aliases: ["baghmara","বাঘমারা"] },
+      { id: 12, nameEn: 'Nawabganj', nameBn: 'নবাবগঞ্জ', aliases: ["nawabganj","নবাবগঞ্জ"] },
+      { id: 13, nameEn: 'Majhir Kanda', nameBn: 'মাঝির কান্দা', aliases: ["majhir kanda","মাঝির কান্দা"] },
+      { id: 14, nameEn: 'Bandura', nameBn: 'বান্দুরা', aliases: ["bandura","বান্দুরা"] },
+      { id: 15, nameEn: 'Baruakhali', nameBn: 'বারুয়াখালী', aliases: ["baruakhali","বারুয়াখালী"] },
+      { id: 16, nameEn: 'Khasiakhali Beribadh', nameBn: 'খাসিয়াখালী বেড়ীবাঁধ', aliases: ["khasiakhali beribadh","খাসিয়াখালী বেড়ীবাঁধ"] }
+    ],
+    fareMatrix: [[0,10,11,23,34,43,63,76,79,89,94,95,97,106,113,129,142],[10,null,10,19,30,39,60,72,75,85,90,91,94,103,110,125,138],[11,10,null,12,23,32,53,65,68,78,83,84,87,96,103,118,131],[23,19,12,null,11,20,40,52,56,66,71,72,74,83,90,106,119],[34,30,23,11,null,10,30,42,45,55,60,61,64,73,80,95,108],[43,39,32,20,10,null,20,32,36,46,51,52,54,63,70,86,99],[63,60,53,40,30,20,null,12,15,26,31,32,34,43,50,66,78],[76,72,65,52,42,32,12,null,10,14,18,19,22,31,38,53,66],[79,75,68,56,45,36,15,10,null,10,15,16,19,28,35,50,63],[89,85,78,66,55,46,26,14,10,null,10,10,10,17,24,40,53],[94,90,83,71,60,51,31,18,15,10,null,10,10,12,19,34,47],[95,91,84,72,61,52,32,19,16,10,10,null,10,11,18,34,47],[97,94,87,74,64,54,34,22,19,10,10,10,null,10,16,32,44],[106,103,96,83,73,63,43,31,28,17,12,11,10,null,10,23,35],[113,110,103,90,80,70,50,38,35,24,19,18,16,10,null,16,28],[129,125,118,106,95,86,66,53,50,40,34,34,32,23,16,null,13],[142,138,131,119,108,99,78,66,63,53,47,47,44,35,28,13,null]]
+  },
 ];
 
 module.exports = { routes };
