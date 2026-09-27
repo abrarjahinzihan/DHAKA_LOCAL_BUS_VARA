@@ -623,6 +623,94 @@ const routes = [
       [45,38,24,18,10,0,10],
       [49,42,28,22,11,10,0]
     ]
+  },
+
+  // ══════════════════════════════════════════════
+  // ROUTE PEERJONGI_NOTUN_1: Peerjongi Mazar → Notun Bazar (via Farmgate)
+  // Total: 16.7 km | 14 stops
+  // ══════════════════════════════════════════════
+  {
+    id: 'PEERJONGI_NOTUN_1',
+    routeNo: 'পীরজঙ্গী-নতুনবাজার (ফার্মগেট)',
+    nameBn: 'পীরজঙ্গী মাজার → নতুন বাজার (ফার্মগেট হয়ে)',
+    nameEn: 'Peerjongi Mazar → Notun Bazar (via Farmgate)',
+    totalKm: 16.7,
+    stops: [
+      { id: 0,  nameEn: 'Peerjongi Mazar',   nameBn: 'পীরজঙ্গী মাজার',       aliases: ['peerjongi mazar','পীরজঙ্গী মাজার'] },
+      { id: 1,  nameEn: 'Kamalapur Station', nameBn: 'কমলাপুর স্টেশন',       aliases: ['kamalapur station','কমলাপুর স্টেশন'] },
+      { id: 2,  nameEn: 'Bangladesh Bank',   nameBn: 'বাংলাদেশ ব্যাংক',        aliases: ['bangladesh bank','বাংলাদেশ ব্যাংক'] },
+      { id: 3,  nameEn: 'Stadium',           nameBn: 'স্টেডিয়াম',             aliases: ['stadium','স্টেডিয়াম'] },
+      { id: 4,  nameEn: 'Paltan',            nameBn: 'পল্টন',               aliases: ['paltan','পল্টন'] },
+      { id: 5,  nameEn: 'Kakrail',           nameBn: 'কাকরাইল',              aliases: ['kakrail','কাকরাইল'] },
+      { id: 6,  nameEn: 'Malibagh',          nameBn: 'মালিবাগ',              aliases: ['malibagh','মালিবাগ'] },
+      { id: 7,  nameEn: 'Moghbazar',         nameBn: 'মগবাজার',              aliases: ['moghbazar','মগবাজার'] },
+      { id: 8,  nameEn: 'Bangla Motor',      nameBn: 'বাংলামটর',             aliases: ['bangla motor','বাংলামটর','banglamotor'] },
+      { id: 9,  nameEn: 'Farmgate',          nameBn: 'ফার্মগেট',             aliases: ['farmgate','ফার্মগেট'] },
+      { id: 10, nameEn: 'Mohakhali',         nameBn: 'মহাখালী',              aliases: ['mohakhali','মহাখালী'] },
+      { id: 11, nameEn: 'Gulshan-1',         nameBn: 'গুলশান-১',             aliases: ['gulshan-1','গুলশান-১','gulshan 1'] },
+      { id: 12, nameEn: 'Gulshan-2',         nameBn: 'গুলশান-২',             aliases: ['gulshan-2','গুলশান-২','gulshan 2'] },
+      { id: 13, nameEn: 'Notun Bazar',       nameBn: 'নতুন বাজার',            aliases: ['notun bazar','নতুন বাজার'] }
+    ],
+    fareMatrix: [
+      [0,10,10,10,10,14,16,19,22,26,34,39,43,45],
+      [10,0,10,10,10,12,15,18,21,25,33,38,42,44],
+      [10,10,0,10,10,10,12,15,18,22,30,35,39,41],
+      [10,10,10,0,10,10,10,12,15,19,26,32,36,38],
+      [10,10,10,10,0,10,10,10,13,17,25,30,34,36],
+      [14,12,10,10,10,0,10,10,10,13,21,26,30,32],
+      [16,15,12,10,10,10,0,10,10,10,18,23,28,29],
+      [19,18,15,12,10,10,10,0,10,10,15,20,24,26],
+      [22,21,18,15,13,10,10,10,0,10,12,17,21,23],
+      [26,25,22,19,17,13,10,10,10,0,10,13,17,19],
+      [34,33,30,26,25,21,18,15,12,10,0,10,10,11],
+      [39,38,35,32,30,26,23,20,17,13,10,0,10,10],
+      [43,42,39,36,34,30,28,24,21,17,10,10,0,10],
+      [45,44,41,38,36,32,29,26,23,19,11,10,10,0]
+    ]
+  },
+
+  // ══════════════════════════════════════════════
+  // ROUTE PEERJONGI_NOTUN_2: Peerjongi Mazar → Notun Bazar (via Satrasta)
+  // Total: 15.0 km | 14 stops
+  // ══════════════════════════════════════════════
+  {
+    id: 'PEERJONGI_NOTUN_2',
+    routeNo: 'পীরজঙ্গী-নতুনবাজার (সাতরাস্তা)',
+    nameBn: 'পীরজঙ্গী মাজার → নতুন বাজার (সাতরাস্তা হয়ে)',
+    nameEn: 'Peerjongi Mazar → Notun Bazar (via Satrasta)',
+    totalKm: 15.0,
+    stops: [
+      { id: 0,  nameEn: 'Peerjongi Mazar',   nameBn: 'পীরজঙ্গী মাজার',       aliases: ['peerjongi mazar','পীরজঙ্গী মাজার'] },
+      { id: 1,  nameEn: 'Kamalapur Station', nameBn: 'কমলাপুর স্টেশন',       aliases: ['kamalapur station','কমলাপুর স্টেশন'] },
+      { id: 2,  nameEn: 'Bangladesh Bank',   nameBn: 'বাংলাদেশ ব্যাংক',        aliases: ['bangladesh bank','বাংলাদেশ ব্যাংক'] },
+      { id: 3,  nameEn: 'Stadium',           nameBn: 'স্টেডিয়াম',             aliases: ['stadium','স্টেডিয়াম'] },
+      { id: 4,  nameEn: 'Paltan',            nameBn: 'পল্টন',               aliases: ['paltan','পল্টন'] },
+      { id: 5,  nameEn: 'Kakrail',           nameBn: 'কাকরাইল',              aliases: ['kakrail','কাকরাইল'] },
+      { id: 6,  nameEn: 'Malibagh',          nameBn: 'মালিবাগ',              aliases: ['malibagh','মালিবাগ'] },
+      { id: 7,  nameEn: 'Moghbazar',         nameBn: 'মগবাজার',              aliases: ['moghbazar','মগবাজার'] },
+      { id: 8,  nameEn: 'Satrasta',          nameBn: 'সাতরাস্তা',             aliases: ['satrasta','সাতরাস্তা'] },
+      { id: 9,  nameEn: 'Nabisco',           nameBn: 'নাবিস্কো',              aliases: ['nabisco','নাবিস্কো'] },
+      { id: 10, nameEn: 'Mohakhali',         nameBn: 'মহাখালী',              aliases: ['mohakhali','মহাখালী'] },
+      { id: 11, nameEn: 'Titumir College',   nameBn: 'তিতুমীর কলেজ',         aliases: ['titumir college','তিতুমীর কলেজ'] },
+      { id: 12, nameEn: 'Gulshan-1',         nameBn: 'গুলশান-১',             aliases: ['gulshan-1','গুলশান-১','gulshan 1'] },
+      { id: 13, nameEn: 'Notun Bazar',       nameBn: 'নতুন বাজার',            aliases: ['notun bazar','নতুন বাজার'] }
+    ],
+    fareMatrix: [
+      [0,10,10,10,10,14,16,19,22,26,28,30,33,41],
+      [10,0,10,10,10,12,15,18,21,24,26,29,32,39],
+      [10,10,0,10,10,10,12,15,18,22,24,26,29,36],
+      [10,10,10,0,10,10,10,12,15,18,20,22,25,33],
+      [10,10,10,10,0,10,10,10,13,16,18,21,23,31],
+      [14,12,10,10,10,0,10,10,10,12,14,16,19,27],
+      [16,15,12,10,10,10,0,10,10,10,12,14,17,25],
+      [19,18,15,12,10,10,10,0,10,10,10,11,14,21],
+      [22,21,18,15,13,10,10,10,0,10,10,10,11,18],
+      [26,24,22,18,16,12,10,10,10,0,10,10,10,15],
+      [28,26,24,20,18,14,12,10,10,10,0,10,10,13],
+      [30,29,26,22,21,16,14,11,10,10,10,0,10,10],
+      [33,32,29,25,23,19,17,14,11,10,10,10,0,10],
+      [41,39,36,33,31,27,25,21,18,15,13,10,10,0]
+    ]
   }
 
 ];

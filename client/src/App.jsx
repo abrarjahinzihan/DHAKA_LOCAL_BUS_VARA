@@ -106,7 +106,18 @@ const ALL_STOPS = [
   { nameEn: 'Rampura',              nameBn: 'রামপুরা' },
   { nameEn: 'Gulshan-1',            nameBn: 'গুলশান-১' },
   { nameEn: 'Shyamoli Ring Road',   nameBn: 'শ্যামলী রিং রোড' },
-  { nameEn: 'Mohammadpur Shia Masjid', nameBn: 'মোহাম্মদপুর শিয়া মসজিদ' }
+  { nameEn: 'Mohammadpur Shia Masjid', nameBn: 'মোহাম্মদপুর শিয়া মসজিদ' },
+  // Peerjongi Mazar to Notun Bazar unique stops
+  { nameEn: 'Peerjongi Mazar',      nameBn: 'পীরজঙ্গী মাজার' },
+  { nameEn: 'Kamalapur Station',    nameBn: 'কমলাপুর স্টেশন' },
+  { nameEn: 'Stadium',              nameBn: 'স্টেডিয়াম' },
+  { nameEn: 'Paltan',               nameBn: 'পল্টন' },
+  { nameEn: 'Moghbazar',            nameBn: 'মগবাজার' },
+  { nameEn: 'Bangla Motor',         nameBn: 'বাংলামটর' },
+  { nameEn: 'Gulshan-2',            nameBn: 'গুলশান-২' },
+  { nameEn: 'Satrasta',             nameBn: 'সাতরাস্তা' },
+  { nameEn: 'Nabisco',              nameBn: 'নাবিস্কো' },
+  { nameEn: 'Titumir College',      nameBn: 'তিতুমীর কলেজ' }
 ];
 
 // ── StopInput ────────────────────────────────────────────────────────
@@ -407,7 +418,7 @@ export default function App() {
             <span className="info-value">৳১০</span>
             <span className="info-sep">•</span>
             <span className="info-label">মোট রুট:</span>
-            <span className="info-value">১৬টি</span>
+            <span className="info-value">১৮টি</span>
           </div>
         </div>
       </header>
