@@ -981,6 +981,589 @@ const routes = [
     ],
     fareMatrix: [[0,10,10,16,25,30,90],[10,null,10,14,23,27,88],[10,10,null,10,16,21,81],[16,14,10,null,10,13,74],[25,23,16,10,null,10,65],[30,27,21,13,10,null,60],[90,88,81,74,65,60,null]]
   },
+  {
+    id: 'A260',
+    routeNo: 'এ-২৬০',
+    nameBn: 'ফুলবাড়ীয়া পশু হাসপাতাল → ধামরাই',
+    nameEn: 'Fulbaria Poshu Hospital → Dhamrai',
+    totalKm: 42,
+    stops: [
+      {
+            "id": 0,
+            "nameEn": "Fulbaria",
+            "nameBn": "ফুলবাড়ীয়া",
+            "aliases": [
+                  "fulbaria",
+                  "ফুলবাড়ীয়া",
+                  "ফুলবাড়ীয়া",
+                  "fulbaria poshu hospital"
+            ]
+      },
+      {
+            "id": 1,
+            "nameEn": "Chankharpul",
+            "nameBn": "চাঁনখারপুল",
+            "aliases": [
+                  "chankharpul",
+                  "চাঁনখারপুল",
+                  "চানখারপুল"
+            ]
+      },
+      {
+            "id": 2,
+            "nameEn": "Azimpur",
+            "nameBn": "আজিমপুর",
+            "aliases": [
+                  "azimpur",
+                  "আজিমপুর"
+            ]
+      },
+      {
+            "id": 3,
+            "nameEn": "Asad Gate",
+            "nameBn": "আসাদগেট",
+            "aliases": [
+                  "asad gate",
+                  "asadgate",
+                  "আসাদগেট",
+                  "আসাদ গেট"
+            ]
+      },
+      {
+            "id": 4,
+            "nameEn": "Technical",
+            "nameBn": "টেকনিক্যাল",
+            "aliases": [
+                  "technical",
+                  "টেকনিক্যাল",
+                  "টেকনিকাল"
+            ]
+      },
+      {
+            "id": 5,
+            "nameEn": "Gabtoli",
+            "nameBn": "গাবতলী",
+            "aliases": [
+                  "gabtoli",
+                  "গাবতলী",
+                  "গাবতলি"
+            ]
+      },
+      {
+            "id": 6,
+            "nameEn": "Dhamrai",
+            "nameBn": "ধামরাই",
+            "aliases": [
+                  "dhamrai",
+                  "ধামরাই"
+            ]
+      }
+],
+    fareMatrix: [[0,10,14,22,30,32,113],[10,null,10,18,26,28,109],[14,10,null,10,16,19,100],[22,18,10,null,10,11,92],[30,26,16,10,null,10,84],[32,28,19,11,10,null,81],[113,109,100,92,84,81,null]]
+  },
+  {
+    id: 'A264',
+    routeNo: 'এ-২৬৪',
+    nameBn: 'মিরপুর (চিড়িয়াখানা) → পোস্তগোলা',
+    nameEn: 'Mirpur (Chiriakhana) → Postogola',
+    totalKm: 17.2,
+    stops: [
+      {
+            "id": 0,
+            "nameEn": "Mirpur Chiriakhana",
+            "nameBn": "মিরপুর (চিড়িয়াখানা)",
+            "aliases": [
+                  "mirpur chiriakhana",
+                  "মিরপুর (চিড়িয়াখানা)",
+                  "মিরপুর চিড়িয়াখানা",
+                  "চিড়িয়াখানা",
+                  "চিড়িয়াখানা"
+            ]
+      },
+      {
+            "id": 1,
+            "nameEn": "Mirpur-1",
+            "nameBn": "মিরপুর-১",
+            "aliases": [
+                  "mirpur-1",
+                  "মিরপুর-১",
+                  "মিরপুর ১"
+            ]
+      },
+      {
+            "id": 2,
+            "nameEn": "Ansar Camp",
+            "nameBn": "আনসারক্যাম্প",
+            "aliases": [
+                  "ansar camp",
+                  "ansarcamp",
+                  "আনসারক্যাম্প",
+                  "আনসার ক্যাম্প"
+            ]
+      },
+      {
+            "id": 3,
+            "nameEn": "Farmgate",
+            "nameBn": "ফার্মগেট",
+            "aliases": [
+                  "farmgate",
+                  "ফার্মগেট"
+            ]
+      },
+      {
+            "id": 4,
+            "nameEn": "Golapshah Mazar Fulbaria",
+            "nameBn": "গোলাপশাহ মাজার (ফুলবাড়ীয়া)",
+            "aliases": [
+                  "golapshah mazar fulbaria",
+                  "গোলাপশাহ মাজার (ফুলবাড়ীয়া)",
+                  "গোলাপশাহ মাজার",
+                  "golapshah mazar"
+            ]
+      },
+      {
+            "id": 5,
+            "nameEn": "Naya Bazar 2 No Bridge",
+            "nameBn": "নয়াবাজার (২নং ব্রীজের গোড়া)",
+            "aliases": [
+                  "naya bazar 2 no bridge",
+                  "নয়াবাজার (২নং ব্রীজের গোড়া)",
+                  "নয়াবাজার",
+                  "নয়াবাজার",
+                  "naya bazar"
+            ]
+      },
+      {
+            "id": 6,
+            "nameEn": "Postogola",
+            "nameBn": "পোস্তগোলা",
+            "aliases": [
+                  "postogola",
+                  "পোস্তগোলা"
+            ]
+      }
+],
+    fareMatrix: [[0,10,10,24,38,42,46],[10,null,10,19,33,38,42],[10,10,null,17,31,35,39],[24,19,17,null,14,18,22],[38,33,31,14,null,10,10],[42,38,35,18,10,null,10],[46,42,39,22,10,10,null]]
+  },
+  {
+    id: 'A265',
+    routeNo: 'এ-২৬৫',
+    nameBn: 'জগন্নাথ বিশ্ববিদ্যালয় → চন্দ্রা',
+    nameEn: 'Jagannath University → Chandra',
+    totalKm: 55.3,
+    stops: [
+      {
+            "id": 0,
+            "nameEn": "Jagannath University",
+            "nameBn": "জগন্নাথ বিশ্ববিদ্যালয়",
+            "aliases": [
+                  "jagannath university",
+                  "জগন্নাথ বিশ্ববিদ্যালয়",
+                  "জগন্নাথ বিশ্ববিদ্যালয়",
+                  "জবি"
+            ]
+      },
+      {
+            "id": 1,
+            "nameEn": "Fulbaria",
+            "nameBn": "ফুলবাড়ীয়া",
+            "aliases": [
+                  "fulbaria",
+                  "ফুলবাড়ীয়া",
+                  "ফুলবাড়ীয়া"
+            ]
+      },
+      {
+            "id": 2,
+            "nameEn": "Paltan",
+            "nameBn": "পল্টন",
+            "aliases": [
+                  "paltan",
+                  "palton",
+                  "পল্টন"
+            ]
+      },
+      {
+            "id": 3,
+            "nameEn": "Kakrail",
+            "nameBn": "কাকরাইল",
+            "aliases": [
+                  "kakrail",
+                  "কাকরাইল"
+            ]
+      },
+      {
+            "id": 4,
+            "nameEn": "Moghbazar",
+            "nameBn": "মগবাজার",
+            "aliases": [
+                  "moghbazar",
+                  "মগবাজার"
+            ]
+      },
+      {
+            "id": 5,
+            "nameEn": "Mohakhali",
+            "nameBn": "মহাখালী",
+            "aliases": [
+                  "mohakhali",
+                  "মহাখালী"
+            ]
+      },
+      {
+            "id": 6,
+            "nameEn": "Airport",
+            "nameBn": "এয়ারপোর্ট",
+            "aliases": [
+                  "airport",
+                  "এয়ারপোর্ট",
+                  "বিমানবন্দর",
+                  "এয়ারপোর্ট"
+            ]
+      },
+      {
+            "id": 7,
+            "nameEn": "Tongi",
+            "nameBn": "টঙ্গী",
+            "aliases": [
+                  "tongi",
+                  "টঙ্গী"
+            ]
+      },
+      {
+            "id": 8,
+            "nameEn": "Gazipur",
+            "nameBn": "গাজীপুর",
+            "aliases": [
+                  "gazipur",
+                  "গাজীপুর"
+            ]
+      },
+      {
+            "id": 9,
+            "nameEn": "Konabari",
+            "nameBn": "কোনাবাড়ী",
+            "aliases": [
+                  "konabari",
+                  "কোনাবাড়ী",
+                  "কোনাবাড়ী"
+            ]
+      },
+      {
+            "id": 10,
+            "nameEn": "Shafipur",
+            "nameBn": "সফিপুর",
+            "aliases": [
+                  "shafipur",
+                  "সফিপুর"
+            ]
+      },
+      {
+            "id": 11,
+            "nameEn": "Chandra",
+            "nameBn": "চন্দ্রা",
+            "aliases": [
+                  "chandra",
+                  "চন্দ্রা"
+            ]
+      }
+],
+    fareMatrix: [[0,10,10,12,19,30,54,73,103,122,138,149],[10,null,10,10,14,24,49,68,97,116,132,144],[10,10,null,10,10,21,45,64,94,113,129,141],[12,10,10,null,10,18,42,61,90,109,126,137],[19,14,10,10,null,11,35,54,84,103,119,130],[30,24,21,18,11,null,24,43,73,92,108,120],[54,49,45,42,35,24,null,19,49,68,84,95],[73,68,64,61,54,43,19,null,30,49,65,76],[103,97,94,90,84,73,49,30,null,19,35,47],[122,116,113,109,103,92,68,49,19,null,16,28],[138,132,129,126,119,108,84,65,35,16,null,12],[149,144,141,137,130,120,95,76,47,28,12,null]]
+  },
+  {
+    id: 'A266',
+    routeNo: 'এ-২৬৬',
+    nameBn: 'জগন্নাথ বিশ্ববিদ্যালয় → চন্দ্রা',
+    nameEn: 'Jagannath University → Chandra',
+    totalKm: 55.3,
+    stops: [
+      {
+            "id": 0,
+            "nameEn": "Jagannath University",
+            "nameBn": "জগন্নাথ বিশ্ববিদ্যালয়",
+            "aliases": [
+                  "jagannath university",
+                  "জগন্নাথ বিশ্ববিদ্যালয়",
+                  "জগন্নাথ বিশ্ববিদ্যালয়",
+                  "জবি"
+            ]
+      },
+      {
+            "id": 1,
+            "nameEn": "Fulbaria",
+            "nameBn": "ফুলবাড়ীয়া",
+            "aliases": [
+                  "fulbaria",
+                  "ফুলবাড়ীয়া",
+                  "ফুলবাড়ীয়া"
+            ]
+      },
+      {
+            "id": 2,
+            "nameEn": "Paltan",
+            "nameBn": "পল্টন",
+            "aliases": [
+                  "paltan",
+                  "palton",
+                  "পল্টন"
+            ]
+      },
+      {
+            "id": 3,
+            "nameEn": "Kakrail",
+            "nameBn": "কাকরাইল",
+            "aliases": [
+                  "kakrail",
+                  "কাকরাইল"
+            ]
+      },
+      {
+            "id": 4,
+            "nameEn": "Moghbazar",
+            "nameBn": "মগবাজার",
+            "aliases": [
+                  "moghbazar",
+                  "মগবাজার"
+            ]
+      },
+      {
+            "id": 5,
+            "nameEn": "Mohakhali",
+            "nameBn": "মহাখালী",
+            "aliases": [
+                  "mohakhali",
+                  "মহাখালী"
+            ]
+      },
+      {
+            "id": 6,
+            "nameEn": "Airport",
+            "nameBn": "এয়ারপোর্ট",
+            "aliases": [
+                  "airport",
+                  "এয়ারপোর্ট",
+                  "বিমানবন্দর",
+                  "এয়ারপোর্ট"
+            ]
+      },
+      {
+            "id": 7,
+            "nameEn": "Tongi",
+            "nameBn": "টঙ্গী",
+            "aliases": [
+                  "tongi",
+                  "টঙ্গী"
+            ]
+      },
+      {
+            "id": 8,
+            "nameEn": "Gazipur",
+            "nameBn": "গাজীপুর",
+            "aliases": [
+                  "gazipur",
+                  "গাজীপুর"
+            ]
+      },
+      {
+            "id": 9,
+            "nameEn": "Konabari",
+            "nameBn": "কোনাবাড়ী",
+            "aliases": [
+                  "konabari",
+                  "কোনাবাড়ী",
+                  "কোনাবাড়ী"
+            ]
+      },
+      {
+            "id": 10,
+            "nameEn": "Shafipur",
+            "nameBn": "সফিপুর",
+            "aliases": [
+                  "shafipur",
+                  "সফিপুর"
+            ]
+      },
+      {
+            "id": 11,
+            "nameEn": "Chandra",
+            "nameBn": "চন্দ্রা",
+            "aliases": [
+                  "chandra",
+                  "চন্দ্রা"
+            ]
+      }
+],
+    fareMatrix: [[0,10,10,12,19,30,54,73,103,122,138,149],[10,null,10,10,14,24,49,68,97,116,132,144],[10,10,null,10,10,21,45,64,94,113,129,141],[12,10,10,null,10,18,42,61,90,109,126,137],[19,14,10,10,null,11,35,54,84,103,119,130],[30,24,21,18,11,null,24,43,73,92,108,120],[54,49,45,42,35,24,null,19,49,68,84,95],[73,68,64,61,54,43,19,null,30,49,65,76],[103,97,94,90,84,73,49,30,null,19,35,47],[122,116,113,109,103,92,68,49,19,null,16,28],[138,132,129,126,119,108,84,65,35,16,null,12],[149,144,141,137,130,120,95,76,47,28,12,null]]
+  },
+  {
+    id: 'A270',
+    routeNo: 'এ-২৭০',
+    nameBn: 'বসিলা → কামারপাড়া',
+    nameEn: 'Basila → Kamarpara',
+    totalKm: 29.2,
+    stops: [
+      {
+            "id": 0,
+            "nameEn": "Basila",
+            "nameBn": "বসিলা",
+            "aliases": [
+                  "basila",
+                  "বসিলা"
+            ]
+      },
+      {
+            "id": 1,
+            "nameEn": "Asad Avenue",
+            "nameBn": "আসাদ এভিনিউ",
+            "aliases": [
+                  "asad avenue",
+                  "আসাদ এভিনিউ",
+                  "আসাদ এভেনিউ"
+            ]
+      },
+      {
+            "id": 2,
+            "nameEn": "Shyamoli",
+            "nameBn": "শ্যামলী",
+            "aliases": [
+                  "shyamoli",
+                  "শ্যামলী"
+            ]
+      },
+      {
+            "id": 3,
+            "nameEn": "Kalyanpur",
+            "nameBn": "কল্যাণপুর",
+            "aliases": [
+                  "kalyanpur",
+                  "কল্যাণপুর"
+            ]
+      },
+      {
+            "id": 4,
+            "nameEn": "Technical",
+            "nameBn": "টেকনিক্যাল",
+            "aliases": [
+                  "technical",
+                  "টেকনিক্যাল",
+                  "টেকনিকাল"
+            ]
+      },
+      {
+            "id": 5,
+            "nameEn": "Mirpur-1",
+            "nameBn": "মিরপুর-১",
+            "aliases": [
+                  "mirpur-1",
+                  "মিরপুর-১",
+                  "মিরপুর ১"
+            ]
+      },
+      {
+            "id": 6,
+            "nameEn": "Mirpur-2",
+            "nameBn": "মিরপুর-২",
+            "aliases": [
+                  "mirpur-2",
+                  "মিরপুর-২",
+                  "মিরপুর ২"
+            ]
+      },
+      {
+            "id": 7,
+            "nameEn": "Mirpur-10",
+            "nameBn": "মিরপুর-১০",
+            "aliases": [
+                  "mirpur-10",
+                  "মিরপুর-১০",
+                  "মিরপুর ১০"
+            ]
+      },
+      {
+            "id": 8,
+            "nameEn": "Mirpur-11",
+            "nameBn": "মিরপুর-১১",
+            "aliases": [
+                  "mirpur-11",
+                  "মিরপুর-১১",
+                  "মিরপুর ১১"
+            ]
+      },
+      {
+            "id": 9,
+            "nameEn": "Purobi",
+            "nameBn": "পুরবী",
+            "aliases": [
+                  "purobi",
+                  "পুরবী",
+                  "পূরবী"
+            ]
+      },
+      {
+            "id": 10,
+            "nameEn": "Kalshi",
+            "nameBn": "কালশী",
+            "aliases": [
+                  "kalshi",
+                  "কালশী"
+            ]
+      },
+      {
+            "id": 11,
+            "nameEn": "Shewra Bazar",
+            "nameBn": "শেওড়া বাজার",
+            "aliases": [
+                  "shewra bazar",
+                  "shewra",
+                  "শেওড়া বাজার",
+                  "শেওড়া বাজার",
+                  "শেওড়া",
+                  "শেওড়া"
+            ]
+      },
+      {
+            "id": 12,
+            "nameEn": "Airport",
+            "nameBn": "এয়ারপোর্ট",
+            "aliases": [
+                  "airport",
+                  "এয়ারপোর্ট",
+                  "বিমানবন্দর",
+                  "এয়ারপোর্ট"
+            ]
+      },
+      {
+            "id": 13,
+            "nameEn": "Jashimuddin",
+            "nameBn": "জসীমউদ্দিন",
+            "aliases": [
+                  "jashimuddin",
+                  "জসিমউদ্দিন",
+                  "জসীমউদ্দিন"
+            ]
+      },
+      {
+            "id": 14,
+            "nameEn": "Abdullahpur",
+            "nameBn": "আব্দুল্লাহপুর",
+            "aliases": [
+                  "abdullahpur",
+                  "আব্দুল্লাহপুর"
+            ]
+      },
+      {
+            "id": 15,
+            "nameEn": "Kamarpara",
+            "nameBn": "কামারপাড়া",
+            "aliases": [
+                  "kamarpara",
+                  "কামারপাড়া",
+                  "কামারপাড়া"
+            ]
+      }
+],
+    fareMatrix: [[0,10,13,14,16,23,26,28,31,32,41,52,63,66,73,79],[10,null,10,10,10,15,18,20,22,24,32,44,55,58,65,71],[13,10,null,10,10,10,14,15,18,19,28,39,50,53,60,66],[14,10,10,null,10,10,13,14,17,18,27,39,49,53,59,65],[16,10,10,10,null,10,10,10,14,16,24,36,47,50,57,63],[23,15,10,10,10,null,10,10,10,10,18,29,40,43,50,56],[26,18,14,13,10,10,null,10,10,10,14,26,37,40,47,52],[28,20,15,14,10,10,10,null,10,10,13,25,35,38,45,51],[31,22,18,17,14,10,10,10,null,10,10,22,33,36,43,48],[32,24,19,18,16,10,10,10,10,null,10,21,31,35,41,47],[41,32,28,27,24,18,14,13,10,10,null,12,23,26,33,38],[52,44,39,39,36,29,26,25,22,21,12,null,11,14,21,26],[63,55,50,49,47,40,37,35,33,31,23,11,null,10,10,16],[66,58,53,53,50,43,40,38,36,35,26,14,10,null,10,12],[73,65,60,59,57,50,47,45,43,41,33,21,10,10,null,10],[79,71,66,65,63,56,52,51,48,47,38,26,16,12,10,null]]
+  }
 ];
 
 module.exports = { routes };
