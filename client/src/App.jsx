@@ -165,7 +165,12 @@ const ALL_STOPS = [
   { nameEn: 'Rajendrapur',          nameBn: 'রাজেন্দ্রপুর' },
   { nameEn: 'Rajabari',             nameBn: 'রাজাবাড়ী' },
   { nameEn: 'Pabur',                nameBn: 'পাবুর' },
-  { nameEn: 'Kapasia',              nameBn: 'কাপাসিয়া' }
+  { nameEn: 'Kapasia',              nameBn: 'কাপাসিয়া' },
+  { nameEn: 'Gabtoli',              nameBn: 'গাবতলি' },
+  { nameEn: 'Tongi',                nameBn: 'টঙ্গী' },
+  { nameEn: 'Banani',               nameBn: 'বনানী' },
+  { nameEn: 'Mohammadpur',          nameBn: 'মোহাম্মদপুর' },
+  { nameEn: 'Mazar Gate',           nameBn: 'মাজার গেট' }
 ];
 
 // ── StopInput ────────────────────────────────────────────────────────
