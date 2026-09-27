@@ -675,9 +675,9 @@ const routes = [
   // ══════════════════════════════════════════════
   {
     id: 'PEERJONGI_NOTUN_2',
-    routeNo: 'পীরজঙ্গী-নতুনবাজার (সাতরাস্তা)',
-    nameBn: 'পীরজঙ্গী মাজার → নতুন বাজার (সাতরাস্তা হয়ে)',
-    nameEn: 'Peerjongi Mazar → Notun Bazar (via Satrasta)',
+    routeNo: 'পীরজঙ্গী-নতুনবাজার (সাতরাস্তা) (বিকল্প)',
+    nameBn: 'পীরজঙ্গী মাজার → নতুন বাজার (সাতরাস্তা হয়ে) (বিকল্প)',
+    nameEn: 'Peerjongi Mazar → Notun Bazar (via Satrasta) (Alternative)',
     totalKm: 15.0,
     stops: [
       { id: 0,  nameEn: 'Peerjongi Mazar',   nameBn: 'পীরজঙ্গী মাজার',       aliases: ['peerjongi mazar','পীরজঙ্গী মাজার'] },
