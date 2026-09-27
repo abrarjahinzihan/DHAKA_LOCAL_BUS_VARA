@@ -801,6 +801,72 @@ const routes = [
       [45,38,24,18,10,0,10],
       [49,42,28,22,11,10,0]
     ]
+  },
+
+  // ══════════════════════════════════════════════
+  // ROUTE BANASREE_MOHAMMADPUR_ASAD: Banasree → Mohammadpur (Asad Avenue)
+  // Total: 14.0 km | 7 stops
+  // ══════════════════════════════════════════════
+  {
+    id: 'BANASREE_MOHAMMADPUR_ASAD',
+    routeNo: 'বনশ্রী-মোহাম্মদপুর',
+    nameBn: 'বনশ্রী → মোহাম্মদপুর (আসাদ এভিনিউ)',
+    nameEn: 'Banasree → Mohammadpur (Asad Avenue)',
+    totalKm: 14.0,
+    stops: [
+      { id: 0, nameEn: 'Banasree',                  nameBn: 'বনশ্রী',                     aliases: ['banasree','বনশ্রী'] },
+      { id: 1, nameEn: 'Mouchak',                   nameBn: 'মৌচাক',                      aliases: ['mouchak','মৌচাক'] },
+      { id: 2, nameEn: 'Kakrail',                   nameBn: 'কাকরাইল',                    aliases: ['kakrail','কাকরাইল'] },
+      { id: 3, nameEn: 'Shahbag',                   nameBn: 'শাহবাগ',                     aliases: ['shahbag','শাহবাগ'] },
+      { id: 4, nameEn: 'Science Lab',               nameBn: 'সাইন্সল্যাব',                  aliases: ['science lab','সাইন্সল্যাব'] },
+      { id: 5, nameEn: 'Jigatola',                  nameBn: 'জিগাতলা',                    aliases: ['jigatola','জিগাতলা'] },
+      { id: 6, nameEn: 'Mohammadpur (Asad Avenue)', nameBn: 'মোহাম্মদপুর (আসাদ এভিনিউ)',         aliases: ['mohammadpur asad avenue','mohammadpur','মোহাম্মদপুর (আসাদ এভিনিউ)','মোহাম্মদপুর'] }
+    ],
+    fareMatrix: [
+      [0,16,18,24,27,30,38],
+      [16,0,10,10,11,14,22],
+      [18,10,0,10,10,12,20],
+      [24,10,10,0,10,10,14],
+      [27,11,10,10,0,10,10],
+      [30,14,12,10,10,0,10],
+      [38,22,20,14,10,10,0]
+    ]
+  },
+
+  // ══════════════════════════════════════════════
+  // ROUTE MOHAMMADPUR_POSTOGOLA: Mohammadpur (Japan Garden City) → Postogola
+  // Total: 16.2 km | 10 stops
+  // ══════════════════════════════════════════════
+  {
+    id: 'MOHAMMADPUR_POSTOGOLA',
+    routeNo: 'মোহাম্মদপুর-পোস্তগোলা',
+    nameBn: 'মোহাম্মদপুর (জাপান গার্ডেন সিটি) → পোস্তগোলা',
+    nameEn: 'Mohammadpur (Japan Garden City) → Postogola',
+    totalKm: 16.2,
+    stops: [
+      { id: 0, nameEn: 'Mohammadpur (Japan Garden City)', nameBn: 'মোংপুর (জাপান গার্ডেন সিটি)',    aliases: ['mohammadpur japan garden city','mohammadpur','মোংপুর (জাপান গার্ডেন সিটি)','মোহাম্মদপুর'] },
+      { id: 1, nameEn: 'Shyamoli',                        nameBn: 'শ্যামলী',                     aliases: ['shyamoli','শ্যামলী'] },
+      { id: 2, nameEn: 'Asad Gate',                       nameBn: 'আসাদগেট',                    aliases: ['asad gate','আসাদগেট'] },
+      { id: 3, nameEn: 'Science Lab',                     nameBn: 'সাইন্সল্যাবঃ',                 aliases: ['science lab','সাইন্সল্যাব','সাইন্সল্যাবঃ'] },
+      { id: 4, nameEn: 'Shahbag',                         nameBn: 'শাহবাগ',                     aliases: ['shahbag','শাহবাগ'] },
+      { id: 5, nameEn: 'Kakrail',                         nameBn: 'কাকরাইল',                    aliases: ['kakrail','কাকরাইল'] },
+      { id: 6, nameEn: 'Fakirapool',                      nameBn: 'ফকিরাপুল',                    aliases: ['fakirapool','ফকিরাপুল'] },
+      { id: 7, nameEn: 'Bangladesh Bank',                 nameBn: 'বাংলাদেশ ব্যাংক',              aliases: ['bangladesh bank','বাংলাদেশ ব্যাংক'] },
+      { id: 8, nameEn: 'Doyaganj Road',                   nameBn: 'দয়াগঞ্জ রোড',                 aliases: ['doyaganj road','দয়াগঞ্জ রোড'] },
+      { id: 9, nameEn: 'Postogola',                       nameBn: 'পোস্তগোলা',                   aliases: ['postogola','পোস্তগোলা'] }
+    ],
+    fareMatrix: [
+      [0,10,12,19,23,27,31,33,38,44],
+      [10,0,10,12,16,20,23,26,30,36],
+      [12,10,0,10,11,15,19,22,26,32],
+      [19,12,10,0,10,10,11,14,18,25],
+      [23,16,11,10,0,10,10,10,14,21],
+      [27,20,15,10,10,0,10,10,10,16],
+      [31,23,19,11,10,10,0,10,10,13],
+      [33,26,22,14,10,10,10,0,10,10],
+      [38,30,26,18,14,10,10,10,0,10],
+      [44,36,32,25,21,16,13,10,10,0]
+    ]
   }
 
 ];

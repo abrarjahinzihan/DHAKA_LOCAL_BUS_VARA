@@ -117,7 +117,17 @@ const ALL_STOPS = [
   { nameEn: 'Gulshan-2',            nameBn: 'গুলশান-২' },
   { nameEn: 'Satrasta',             nameBn: 'সাতরাস্তা' },
   { nameEn: 'Nabisco',              nameBn: 'নাবিস্কো' },
-  { nameEn: 'Titumir College',      nameBn: 'তিতুমীর কলেজ' }
+  { nameEn: 'Titumir College',      nameBn: 'তিতুমীর কলেজ' },
+  // Banasree to Asad Avenue & Mohammadpur to Postogola unique stops
+  { nameEn: 'Mouchak',              nameBn: 'মৌচাক' },
+  { nameEn: 'Science Lab',          nameBn: 'সাইন্সল্যাব' },
+  { nameEn: 'Jigatola',             nameBn: 'জিগাতলা' },
+  { nameEn: 'Mohammadpur (Asad Avenue)', nameBn: 'মোহাম্মদপুর (আসাদ এভিনিউ)' },
+  { nameEn: 'Mohammadpur (Japan Garden City)', nameBn: 'মোংপুর (জাপান গার্ডেন সিটি)' },
+  { nameEn: 'Asad Gate',            nameBn: 'আসাদগেট' },
+  { nameEn: 'Fakirapool',           nameBn: 'ফকিরাপুল' },
+  { nameEn: 'Doyaganj Road',        nameBn: 'দয়াগঞ্জ রোড' },
+  { nameEn: 'Postogola',            nameBn: 'পোস্তগোলা' }
 ];
 
 // ── StopInput ────────────────────────────────────────────────────────
@@ -418,7 +428,7 @@ export default function App() {
             <span className="info-value">৳১০</span>
             <span className="info-sep">•</span>
             <span className="info-label">মোট রুট:</span>
-            <span className="info-value">২১টি</span>
+            <span className="info-value">২৩টি</span>
           </div>
         </div>
       </header>
