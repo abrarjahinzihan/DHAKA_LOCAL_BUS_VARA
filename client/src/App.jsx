@@ -127,7 +127,33 @@ const ALL_STOPS = [
   { nameEn: 'Asad Gate',            nameBn: 'আসাদগেট' },
   { nameEn: 'Fakirapool',           nameBn: 'ফকিরাপুল' },
   { nameEn: 'Doyaganj Road',        nameBn: 'দয়াগঞ্জ রোড' },
-  { nameEn: 'Postogola',            nameBn: 'পোস্তগোলা' }
+  { nameEn: 'Postogola',            nameBn: 'পোস্তগোলা' },
+  // A-161 unique stops
+  { nameEn: 'Ghatarchar',           nameBn: 'ঘাটারচর' },
+  { nameEn: 'Shankar',              nameBn: 'শংকর' },
+  { nameEn: 'Dhanmondi-15',         nameBn: 'ধানমন্ডি-১৫' },
+  { nameEn: 'Dhaka City College',   nameBn: 'ঢাকা সিটি কলেজ' },
+  { nameEn: 'Dhaka College',        nameBn: 'ঢাকা কলেজ' },
+  { nameEn: 'Dhupkhola',            nameBn: 'ধুপখোলা' },
+  // A-166 unique stops
+  { nameEn: 'Town Hall',            nameBn: 'টাউন হল' },
+  { nameEn: 'Madhya Badda',         nameBn: 'মধ্য বাড্ডা' },
+  { nameEn: 'Uttar Badda',          nameBn: 'উত্তর বাড্ডা' },
+  { nameEn: 'Basundhara',           nameBn: 'বসুন্ধরা' },
+  { nameEn: 'Nadda',                nameBn: 'নর্দ্দা' },
+  { nameEn: 'Kuril Bishwaroad',     nameBn: 'কুড়িল বিশ্বরোড' },
+  { nameEn: 'New Airport',          nameBn: 'নিউ এয়ারপোর্ট' },
+  { nameEn: 'Rajlakshmi',           nameBn: 'রাজলক্ষ্মী' },
+  { nameEn: 'House Building',       nameBn: 'হাউজ বিল্ডিং' },
+  // A-182 unique stops
+  { nameEn: 'Hemayetpur',           nameBn: 'হেমায়েতপুর' },
+  { nameEn: 'Savar',                nameBn: 'সাভার' },
+  { nameEn: 'Nabinagar',            nameBn: 'নবীনগর' },
+  { nameEn: 'EPZ',                  nameBn: 'ইপিজেড' },
+  { nameEn: 'Sreepur',              nameBn: 'শ্রীপুর' },
+  { nameEn: 'Shafipur',             nameBn: 'সফিপুর' },
+  { nameEn: 'Palli Bidyut',         nameBn: 'পল্লীবিদ্যুৎ' },
+  { nameEn: 'Chandra',              nameBn: 'চন্দ্রা' }
 ];
 
 // ── StopInput ────────────────────────────────────────────────────────
@@ -428,7 +454,7 @@ export default function App() {
             <span className="info-value">৳১০</span>
             <span className="info-sep">•</span>
             <span className="info-label">মোট রুট:</span>
-            <span className="info-value">২৩টি</span>
+            <span className="info-value">২৬টি</span>
           </div>
         </div>
       </header>
